@@ -12,6 +12,8 @@ from grail_hunter.brands import BrandClassifier, TIER_1_GRAILS, ALL_BRANDS
 from grail_hunter.database import get_session
 from grail_hunter.models import Item, ScrapeRun
 from grail_hunter.scrapers import SellpyScraper
+from grail_hunter.scrapers.sellpy import SellpyItem
+from grail_hunter.services.arbitrage import ArbitrageService
 
 router = APIRouter()
 
@@ -80,6 +82,28 @@ class BrandInfo(BaseModel):
     category: str
     tier: str
     items_count: int
+
+
+class PriceDataResponse(BaseModel):
+    """Price data from a platform."""
+
+    min: float | None
+    avg: float | None
+    max: float | None
+    count: int
+
+
+class ArbitrageResponse(BaseModel):
+    """Arbitrage analysis response."""
+
+    sellpy_price_eur: float
+    grailed_data: PriceDataResponse | None
+    ebay_data: PriceDataResponse | None
+    estimated_market_value: float | None
+    potential_profit: float | None
+    profit_margin_pct: float | None
+    deal_rating: str
+    confidence_score: float
 
 
 # Dependency
@@ -409,3 +433,114 @@ async def get_stats(session: SessionDep) -> StatsResponse:
         newest_item_date=newest,
         last_scrape=last_scrape,
     )
+
+
+@router.get("/arbitrage/{object_id}", response_model=ArbitrageResponse)
+async def analyze_arbitrage(object_id: str, session: SessionDep) -> ArbitrageResponse:
+    """
+    Analyze arbitrage opportunity for a specific item.
+
+    Compares Sellpy price against Grailed and eBay market prices.
+    """
+    # Get item from database
+    result = await session.execute(
+        select(Item).where(Item.object_id == object_id)
+    )
+    db_item = result.scalar_one_or_none()
+
+    if not db_item:
+        raise HTTPException(status_code=404, detail="Item not found")
+
+    # Convert to SellpyItem for arbitrage service
+    sellpy_item = SellpyItem(
+        object_id=db_item.object_id,
+        title=db_item.title,
+        brand=db_item.brand,
+        price=db_item.price,
+        original_price=db_item.original_price,
+        discount_pct=db_item.discount_pct,
+        condition=db_item.condition,
+        description=db_item.description,
+        size=db_item.size,
+        color=db_item.color,
+        category=db_item.category,
+        image_url=db_item.image_url,
+        item_url=db_item.item_url,
+        sale_started_at=db_item.sale_started_at,
+    )
+
+    # Run arbitrage analysis
+    async with ArbitrageService() as service:
+        analysis = await service.analyze_item(sellpy_item)
+
+    return ArbitrageResponse(
+        sellpy_price_eur=analysis.sellpy_price_eur,
+        grailed_data=PriceDataResponse(
+            min=analysis.grailed_data.min_price,
+            avg=analysis.grailed_data.avg_price,
+            max=analysis.grailed_data.max_price,
+            count=analysis.grailed_data.sample_count,
+        ) if analysis.grailed_data else None,
+        ebay_data=PriceDataResponse(
+            min=analysis.ebay_data.min_price,
+            avg=analysis.ebay_data.avg_price,
+            max=analysis.ebay_data.max_price,
+            count=analysis.ebay_data.sample_count,
+        ) if analysis.ebay_data else None,
+        estimated_market_value=analysis.estimated_market_value,
+        potential_profit=analysis.potential_profit,
+        profit_margin_pct=analysis.profit_margin_pct,
+        deal_rating=analysis.deal_rating.value,
+        confidence_score=analysis.confidence_score,
+    )
+
+
+@router.post("/arbitrage/batch")
+async def analyze_arbitrage_batch(
+    session: SessionDep,
+    limit: int = Query(10, ge=1, le=50, description="Max items to analyze"),
+    tier: str = Query("TIER_1", description="Filter by tier"),
+) -> list[dict]:
+    """
+    Analyze arbitrage for multiple items at once.
+
+    Returns top deals sorted by profit margin.
+    """
+    # Get items from database
+    query = (
+        select(Item)
+        .where(Item.brand_tier == tier)
+        .where(Item.filter_status == "valid")
+        .order_by(Item.item_score.desc())
+        .limit(limit)
+    )
+
+    result = await session.execute(query)
+    db_items = result.scalars().all()
+
+    # Convert to SellpyItems
+    sellpy_items = [
+        SellpyItem(
+            object_id=item.object_id,
+            title=item.title,
+            brand=item.brand,
+            price=item.price,
+            original_price=item.original_price,
+            discount_pct=item.discount_pct,
+            condition=item.condition,
+            description=item.description,
+            size=item.size,
+            color=item.color,
+            category=item.category,
+            image_url=item.image_url,
+            item_url=item.item_url,
+            sale_started_at=item.sale_started_at,
+        )
+        for item in db_items
+    ]
+
+    # Run arbitrage analysis
+    async with ArbitrageService() as service:
+        deals = await service.find_deals(sellpy_items)
+
+    return [deal.to_dict() for deal in deals]

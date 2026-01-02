@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: "Inter", system-ui, -apple-system, sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: #0f172a;
+  color: #f1f5f9;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1e293b;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #475569;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #64748b;
+}
+
+/* Custom utilities */
+@layer utilities {
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-red-500 to-orange-500;
+  }
+
+  .card-hover {
+    @apply transition-all duration-200 hover:scale-[1.02] hover:shadow-xl;
+  }
+
+  .deal-insane {
+    @apply bg-gradient-to-r from-red-600 to-pink-600 text-white;
+  }
+
+  .deal-great {
+    @apply bg-gradient-to-r from-orange-500 to-amber-500 text-white;
+  }
+
+  .deal-good {
+    @apply bg-gradient-to-r from-green-500 to-emerald-500 text-white;
+  }
+
+  .deal-fair {
+    @apply bg-slate-600 text-white;
+  }
+}
