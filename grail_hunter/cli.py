@@ -16,7 +16,6 @@ from grail_hunter import __version__
 from grail_hunter.brands import BrandClassifier, TIER_1_GRAILS, ALL_BRANDS
 from grail_hunter.database import init_db
 from grail_hunter.scrapers import SellpyScraper
-from grail_hunter.services.scheduler import get_scheduler
 
 app = typer.Typer(
     name="grail-hunter",
@@ -229,6 +228,7 @@ def scheduler_start(
 ) -> None:
     """Start the automated grail scanner."""
     from grail_hunter.config import get_settings
+    from grail_hunter.services.scheduler import get_scheduler
 
     settings = get_settings()
     scheduler = get_scheduler()
@@ -271,6 +271,7 @@ def scheduler_start(
 @scheduler_app.command("stop")
 def scheduler_stop() -> None:
     """Stop the automated grail scanner."""
+    from grail_hunter.services.scheduler import get_scheduler
     scheduler = get_scheduler()
 
     if not scheduler._running:
@@ -284,6 +285,7 @@ def scheduler_stop() -> None:
 @scheduler_app.command("status")
 def scheduler_status() -> None:
     """Show scheduler status."""
+    from grail_hunter.services.scheduler import get_scheduler
     scheduler = get_scheduler()
     status = scheduler.get_status()
 
@@ -308,6 +310,7 @@ def scheduler_status() -> None:
 @scheduler_app.command("run")
 def scheduler_run() -> None:
     """Run a single scan immediately."""
+    from grail_hunter.services.scheduler import get_scheduler
     scheduler = get_scheduler()
 
     console.print("[bold]Running single scan...[/bold]\n")

@@ -3,6 +3,7 @@
 from grail_hunter.filters.quality import (
     QualityFilter,
     FilterResult,
+    ItemStatus,
     TRASH_REGEX,
     HIGH_VALUE_MATERIALS,
 )
@@ -10,6 +11,7 @@ from grail_hunter.filters.quality import (
 __all__ = [
     "QualityFilter",
     "FilterResult",
+    "ItemStatus",
     "TRASH_REGEX",
     "HIGH_VALUE_MATERIALS",
 ]
