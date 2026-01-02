@@ -1,15 +1,16 @@
 """eBay scraper for price arbitrage comparison.
 
-Uses eBay's browse API via web scraping approach.
+Uses eBay's web interface for scraping with retry and rate limiting.
+Refactored to use BaseScraper for reliability.
 """
 
-import asyncio
 import re
 from dataclasses import dataclass
 from typing import Any
-from urllib.parse import quote_plus
+from urllib.parse import urlencode
 
-import httpx
+from grail_hunter.config import get_settings
+from grail_hunter.scrapers.base import BaseScraper, ScraperConfig
 
 
 @dataclass
@@ -72,13 +73,9 @@ class EbayListing:
         )
 
 
-class EbayScraper:
-    """Async eBay scraper using their API."""
+class EbayScraper(BaseScraper):
+    """Async eBay scraper with retry and rate limiting."""
 
-    # eBay API endpoint (Browse API)
-    BASE_URL = "https://api.ebay.com/buy/browse/v1"
-
-    # For web scraping fallback
     SEARCH_URL = "https://www.ebay.com/sch/i.html"
 
     def __init__(self, marketplace: str = "EBAY_US") -> None:
@@ -88,30 +85,31 @@ class EbayScraper:
         Args:
             marketplace: EBAY_US, EBAY_GB, EBAY_DE, EBAY_FR, etc.
         """
-        self.marketplace = marketplace
-        self._client: httpx.AsyncClient | None = None
-
-    async def __aenter__(self) -> "EbayScraper":
-        self._client = httpx.AsyncClient(
-            headers={
-                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
-                "Accept": "application/json",
-            },
+        settings = get_settings()
+        config = ScraperConfig(
+            name="ebay",
+            base_url=self.SEARCH_URL,
+            max_concurrent=settings.max_concurrent_requests,
+            max_retries=3,
             timeout=30.0,
-            follow_redirects=True,
+            rate_limit_delay=settings.request_delay_seconds,
         )
-        return self
+        super().__init__(config)
+        self.marketplace = marketplace
 
-    async def __aexit__(self, *args: Any) -> None:
-        if self._client:
-            await self._client.aclose()
+    def _get_headers(self) -> dict[str, str]:
+        """Get headers for eBay requests."""
+        return {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.9",
+        }
 
     def _parse_web_results(self, html: str) -> list[dict[str, Any]]:
-        """Parse eBay search results from HTML (fallback method)."""
+        """Parse eBay search results from HTML."""
         results = []
 
-        # Simple regex parsing for eBay listings
-        # Looking for s-item containers
+        # Pattern for s-item containers
         item_pattern = re.compile(
             r'class="s-item__link"[^>]*href="([^"]+)".*?'
             r'class="s-item__title"[^>]*>([^<]+)<.*?'
@@ -146,11 +144,12 @@ class EbayScraper:
         max_results: int = 20,
         min_price: float | None = None,
         max_price: float | None = None,
-        condition: str | None = None,  # NEW, USED, etc.
+        condition: str | None = None,
         buy_it_now_only: bool = True,
+        **kwargs: Any,
     ) -> list[EbayListing]:
         """
-        Search eBay for listings.
+        Search eBay for listings with retry logic.
 
         Args:
             query: Search query
@@ -163,11 +162,8 @@ class EbayScraper:
         Returns:
             List of EbayListing objects
         """
-        if not self._client:
-            raise RuntimeError("Scraper not initialized. Use async with statement.")
-
-        # Build search URL for web scraping
-        params = {
+        # Build search params
+        params: dict[str, Any] = {
             "_nkw": query,
             "_ipg": min(max_results, 100),
             "_sop": 12,  # Sort by Best Match
@@ -187,16 +183,16 @@ class EbayScraper:
                 params["LH_ItemCondition"] = condition_map[condition.upper()]
 
         try:
-            response = await self._client.get(self.SEARCH_URL, params=params)
-            response.raise_for_status()
+            url = f"{self.SEARCH_URL}?{urlencode(params)}"
+            response = await self._fetch(url)
 
             # Parse HTML results
             items = self._parse_web_results(response.text)
 
             return [EbayListing.from_search_result(item) for item in items[:max_results]]
 
-        except httpx.HTTPError as e:
-            print(f"eBay search error: {e}")
+        except Exception:
+            # Error already logged by BaseScraper
             return []
 
     async def search_brand(
@@ -225,7 +221,7 @@ class EbayScraper:
         if not listings:
             return {"min": None, "max": None, "avg": None, "median": None, "count": 0}
 
-        prices = sorted([l.total_price for l in listings if l.total_price > 0])
+        prices = sorted([listing.total_price for listing in listings if listing.total_price > 0])
 
         if not prices:
             return {"min": None, "max": None, "avg": None, "median": None, "count": 0}
@@ -248,11 +244,8 @@ class EbayScraper:
 
         This is crucial for accurate market value assessment.
         """
-        if not self._client:
-            raise RuntimeError("Scraper not initialized.")
-
         # Sold listings search
-        params = {
+        params: dict[str, Any] = {
             "_nkw": query,
             "_ipg": min(max_results, 100),
             "LH_Complete": 1,  # Completed listings
@@ -261,12 +254,11 @@ class EbayScraper:
         }
 
         try:
-            response = await self._client.get(self.SEARCH_URL, params=params)
-            response.raise_for_status()
+            url = f"{self.SEARCH_URL}?{urlencode(params)}"
+            response = await self._fetch(url)
 
             items = self._parse_web_results(response.text)
             return [EbayListing.from_search_result(item) for item in items[:max_results]]
 
-        except httpx.HTTPError as e:
-            print(f"eBay sold search error: {e}")
+        except Exception:
             return []

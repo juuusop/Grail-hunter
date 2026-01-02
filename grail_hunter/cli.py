@@ -1,6 +1,8 @@
 """Command-line interface for Grail Hunter."""
 
 import asyncio
+import signal
+import sys
 from typing import Optional
 
 import typer
@@ -8,11 +10,13 @@ from rich.console import Console
 from rich.table import Table
 from rich.panel import Panel
 from rich.progress import Progress, SpinnerColumn, TextColumn
+from rich.live import Live
 
 from grail_hunter import __version__
 from grail_hunter.brands import BrandClassifier, TIER_1_GRAILS, ALL_BRANDS
 from grail_hunter.database import init_db
 from grail_hunter.scrapers import SellpyScraper
+from grail_hunter.services.scheduler import get_scheduler
 
 app = typer.Typer(
     name="grail-hunter",
@@ -209,6 +213,111 @@ def serve(
         port=port,
         reload=reload,
     )
+
+
+# =============================================================================
+# Scheduler Commands
+# =============================================================================
+
+scheduler_app = typer.Typer(help="Scheduler commands for automated scanning")
+app.add_typer(scheduler_app, name="scheduler")
+
+
+@scheduler_app.command("start")
+def scheduler_start(
+    foreground: bool = typer.Option(False, "--foreground", "-f", help="Run in foreground"),
+) -> None:
+    """Start the automated grail scanner."""
+    from grail_hunter.config import get_settings
+
+    settings = get_settings()
+    scheduler = get_scheduler()
+
+    console.print(
+        Panel(
+            f"[bold green]Starting Grail Hunter Scheduler[/bold green]\n\n"
+            f"Scan interval: [cyan]{settings.scrape_interval_minutes}[/cyan] minutes\n"
+            f"Min price: [cyan]€{settings.min_price}[/cyan]\n"
+            f"Max price: [cyan]€{settings.max_price}[/cyan]\n"
+            f"Notifications: [cyan]{'Enabled' if settings.telegram_bot_token else 'Disabled'}[/cyan]",
+            title="🦅 Scheduler",
+        )
+    )
+
+    scheduler.start()
+
+    if foreground:
+        console.print("\n[dim]Press Ctrl+C to stop...[/dim]\n")
+
+        # Handle graceful shutdown
+        def shutdown(sig, frame):
+            console.print("\n[yellow]Shutting down scheduler...[/yellow]")
+            scheduler.stop()
+            sys.exit(0)
+
+        signal.signal(signal.SIGINT, shutdown)
+        signal.signal(signal.SIGTERM, shutdown)
+
+        # Keep running
+        try:
+            asyncio.get_event_loop().run_forever()
+        except KeyboardInterrupt:
+            scheduler.stop()
+    else:
+        console.print("[green]Scheduler started in background.[/green]")
+        console.print("[dim]Use 'grail-hunter scheduler status' to check status.[/dim]")
+
+
+@scheduler_app.command("stop")
+def scheduler_stop() -> None:
+    """Stop the automated grail scanner."""
+    scheduler = get_scheduler()
+
+    if not scheduler._running:
+        console.print("[yellow]Scheduler is not running.[/yellow]")
+        return
+
+    scheduler.stop()
+    console.print("[green]Scheduler stopped.[/green]")
+
+
+@scheduler_app.command("status")
+def scheduler_status() -> None:
+    """Show scheduler status."""
+    scheduler = get_scheduler()
+    status = scheduler.get_status()
+
+    if status["running"]:
+        status_text = "[bold green]RUNNING[/bold green]"
+    else:
+        status_text = "[bold red]STOPPED[/bold red]"
+
+    table = Table(title="Scheduler Status", show_header=False)
+    table.add_column("Key", style="cyan")
+    table.add_column("Value")
+
+    table.add_row("Status", status_text)
+    table.add_row("Scans completed", str(status["scan_count"]))
+    table.add_row("Deals found", str(status["deals_found"]))
+    table.add_row("Last scan", status["last_scan"] or "Never")
+    table.add_row("Next scan", status["next_scan"] or "N/A")
+
+    console.print(table)
+
+
+@scheduler_app.command("run")
+def scheduler_run() -> None:
+    """Run a single scan immediately."""
+    scheduler = get_scheduler()
+
+    console.print("[bold]Running single scan...[/bold]\n")
+
+    async def _run_once():
+        await scheduler._run_scan()
+
+    asyncio.run(_run_once())
+
+    console.print("\n[green]Scan complete.[/green]")
 
 
 if __name__ == "__main__":

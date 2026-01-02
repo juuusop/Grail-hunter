@@ -1,14 +1,15 @@
 """Grailed scraper for price arbitrage comparison.
 
 Grailed uses Algolia for search, similar to Sellpy.
+Refactored to use BaseScraper for reliability.
 """
 
-import asyncio
 import re
 from dataclasses import dataclass
 from typing import Any
 
-import httpx
+from grail_hunter.config import get_settings
+from grail_hunter.scrapers.base import BaseScraper, ScraperConfig
 
 
 @dataclass
@@ -62,32 +63,32 @@ class GrailedListing:
         )
 
 
-class GrailedScraper:
-    """Async Grailed scraper using their search API."""
+class GrailedScraper(BaseScraper):
+    """Async Grailed scraper using Algolia API with retry and rate limiting."""
 
-    # Grailed's Algolia credentials (public, from their website)
-    ALGOLIA_APP_ID = "MNRWEFSS2Q"
-    ALGOLIA_API_KEY = "a3a4de2e05d9e9b463911705fb6323ad"
-    ALGOLIA_URL = "https://MNRWEFSS2Q-dsn.algolia.net/1/indexes/*/queries"
     INDEX_NAME = "Listing_production"
 
     def __init__(self) -> None:
-        self._client: httpx.AsyncClient | None = None
-
-    async def __aenter__(self) -> "GrailedScraper":
-        self._client = httpx.AsyncClient(
-            headers={
-                "x-algolia-application-id": self.ALGOLIA_APP_ID,
-                "x-algolia-api-key": self.ALGOLIA_API_KEY,
-                "Content-Type": "application/json",
-            },
+        """Initialize with configuration from settings."""
+        settings = get_settings()
+        config = ScraperConfig(
+            name="grailed",
+            base_url="https://MNRWEFSS2Q-dsn.algolia.net/1/indexes/*/queries",
+            max_concurrent=settings.max_concurrent_requests,
+            max_retries=3,
             timeout=30.0,
+            rate_limit_delay=settings.request_delay_seconds,
         )
-        return self
+        super().__init__(config)
+        self._settings = settings
 
-    async def __aexit__(self, *args: Any) -> None:
-        if self._client:
-            await self._client.aclose()
+    def _get_headers(self) -> dict[str, str]:
+        """Get Grailed Algolia API headers."""
+        return {
+            "x-algolia-application-id": self._settings.grailed_algolia_app_id,
+            "x-algolia-api-key": self._settings.grailed_algolia_api_key,
+            "Content-Type": "application/json",
+        }
 
     async def search(
         self,
@@ -95,24 +96,20 @@ class GrailedScraper:
         max_results: int = 20,
         min_price: float | None = None,
         max_price: float | None = None,
-        category: str = "tops",  # tops, bottoms, outerwear, footwear, etc.
+        **kwargs: Any,
     ) -> list[GrailedListing]:
         """
-        Search Grailed for listings.
+        Search Grailed for listings with retry logic.
 
         Args:
             query: Search query (brand name, item description)
             max_results: Maximum results to return
             min_price: Minimum price filter
             max_price: Maximum price filter
-            category: Category filter
 
         Returns:
             List of GrailedListing objects
         """
-        if not self._client:
-            raise RuntimeError("Scraper not initialized. Use async with statement.")
-
         # Build filters
         filters = ["sold:false"]  # Only active listings
 
@@ -132,10 +129,7 @@ class GrailedScraper:
         }
 
         try:
-            response = await self._client.post(self.ALGOLIA_URL, json=payload)
-            response.raise_for_status()
-
-            data = response.json()
+            data = await self._post_json(self.config.base_url, payload)
             results = data.get("results", [])
 
             if not results:
@@ -144,8 +138,8 @@ class GrailedScraper:
             hits = results[0].get("hits", [])
             return [GrailedListing.from_hit(hit) for hit in hits]
 
-        except httpx.HTTPError as e:
-            print(f"Grailed search error: {e}")
+        except Exception:
+            # Error already logged by BaseScraper
             return []
 
     async def search_brand(
@@ -172,7 +166,7 @@ class GrailedScraper:
         if not listings:
             return {"min": None, "max": None, "avg": None, "median": None, "count": 0}
 
-        prices = sorted([l.price for l in listings if l.price > 0])
+        prices = sorted([listing.price for listing in listings if listing.price > 0])
 
         if not prices:
             return {"min": None, "max": None, "avg": None, "median": None, "count": 0}
