@@ -1,0 +1,15 @@
+"""Filtering and quality assessment module."""
+
+from grail_hunter.filters.quality import (
+    QualityFilter,
+    FilterResult,
+    TRASH_REGEX,
+    HIGH_VALUE_MATERIALS,
+)
+
+__all__ = [
+    "QualityFilter",
+    "FilterResult",
+    "TRASH_REGEX",
+    "HIGH_VALUE_MATERIALS",
+]
