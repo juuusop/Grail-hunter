@@ -30,7 +30,7 @@ def universe(cfg):
     top_brands = (base.get("facets") or {}).get(S.BRAND_ATTR, {})
     S.log(f"universe: {len(groups)} brand groups, {len(top_brands)} top brands")
     names = list(groups)
-    group_brands, pricepoint, brand_meta = {}, {}, {}
+    group_brands, brand_meta = {}, {}
     for i in range(0, len(names), 30):
         chunk = names[i:i + 30]
         res = sp.queries([{"query": "", "hitsPerPage": 200, "facetFilters": LVL0 + [[f"brandGroups:{g}"]],

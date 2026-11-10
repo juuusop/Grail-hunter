@@ -232,3 +232,193 @@ brands:
   - {name: Crockett & Jones, value: 150, aliases: [crockett and jones]}
   - {name: Edward Green, value: 300}
   - {name: "Church's", value: 120, aliases: [churchs]}
+
+  # =====================================================================
+  # Laajennus 11/2026: lisää nicheä, arkistoa ja laadukkaita designer-perusvaatteita
+  # =====================================================================
+  # ---------- Avantgarde / arkisto ----------
+  - {name: Kansai Yamamoto, rare: true, value: 250, min_price: 20}
+  - {name: Matsuda, rare: true, value: 200, aliases: [nicole matsuda, matsuda nicole], min_price: 20}
+  - {name: Masnada, rare: true, value: 250}
+  - {name: Pal Offner, rare: true, value: 250}
+  - {name: A Diciannoveventitre, rare: true, value: 250, aliases: [a1923, a diciannoveventitre 1923]}
+  - {name: Jurgi Persoons, rare: true, value: 200}
+  - {name: Lost & Found Ria Dunn, rare: true, value: 200, aliases: [lost & found, lost and found ria dunn]}
+  - {name: Poème Bohémien, value: 150, aliases: [poeme bohemien]}
+  - {name: Nostra Santissima, value: 200}
+  - {name: Andrea Ya'aqov, value: 150, aliases: [andrea yaaqov]}
+  - {name: Isabel Benenato, value: 180}
+  - {name: Barbara I Gongini, value: 150}
+  - {name: Aleksandr Manamïs, value: 150, aliases: [aleksandr manamis]}
+  - {name: Album di Famiglia, value: 150}
+  - {name: Boboutic, value: 150}
+  - {name: Avant Toi, value: 120}
+  - {name: Hannes Roether, value: 100}
+  - {name: Annette Görtz, value: 100, aliases: [annette gortz]}
+  - {name: Thom Krom, value: 60}
+  - {name: Transit Par-Such, value: 70, aliases: [transit]}
+  - {name: Dirk Schönberger, value: 150, aliases: [dirk schonberger]}
+  - {name: Bless, value: 150, min_price: 20}
+  - {name: Olivier Theyskens, value: 200, aliases: [theyskens theory]}
+  - {name: Limi Feu, value: 150}
+  - {name: Ground Y, value: 100}
+  - {name: Tao Comme des Garçons, value: 150, aliases: [tao]}
+  - {name: Martine Sitbon, value: 120, aliases: [rue du mail]}
+  - {name: Thierry Mugler, value: 250, aliases: [mugler], boost: {vintage: 1.3}}
+  - {name: Claude Montana, value: 200, aliases: [montana]}
+  - {name: Romeo Gigli, value: 150}
+  - {name: Jean Colonna, value: 150}
+  - {name: Azzedine Alaïa, value: 250, aliases: [alaia, azzedine alaia]}
+  - {name: Cecilie Bahnsen, value: 250}
+  - {name: Simone Rocha, value: 250}
+  - {name: Molly Goddard, value: 200}
+  - {name: Wales Bonner, value: 180}
+  - {name: Grace Wales Bonner, value: 180}
+  - {name: Kiko Kostadinov x Asics, value: 150}
+  - {name: Arela, value: 120}
+
+  # ---------- Luksus / italialainen räätälöinti ----------
+  - {name: Chanel, value: 400}
+  - {name: Goyard, value: 300}
+  - {name: Givenchy, value: 150}
+  - {name: Valentino, value: 150, aliases: [valentino garavani]}
+  - {name: Balmain, value: 120}
+  - {name: Courrèges, value: 100, aliases: [courreges]}
+  - {name: Paco Rabanne, value: 100, aliases: [rabanne]}
+  - {name: Missoni, value: 90, aliases: [m missoni]}
+  - {name: Etro, value: 80}
+  - {name: Emilio Pucci, value: 120, aliases: [pucci]}
+  - {name: Max Mara, value: 130, aliases: [maxmara, max mara weekend, s max mara], boost: {"101801": 1.6, manuela: 1.5, teddy: 1.5, kamelinkarva: 1.3, camel: 1.3, weekend: 0.6}}
+  - {name: Sportmax, value: 70}
+  - {name: Brioni, value: 200}
+  - {name: Cesare Attolini, value: 250}
+  - {name: Boglioli, value: 120}
+  - {name: Lardini, value: 90}
+  - {name: Caruso, value: 100}
+  - {name: Tagliatore, value: 80}
+  - {name: Canali, value: 70}
+  - {name: Corneliani, value: 60}
+  - {name: Eleventy, value: 80}
+  - {name: Malo, value: 120}
+  - {name: Ralph Lauren Purple Label, value: 120, aliases: [purple label]}
+  - {name: Berluti, value: 300}
+  - {name: Mulberry, value: 120}
+
+  # ---------- Laatuperusvaatteet (kun hinta on kohdallaan) ----------
+  - {name: Johnstons of Elgin, value: 80, aliases: [johnstons]}
+  - {name: Drumohr, value: 90}
+  - {name: William Lockie, value: 60}
+  - {name: Inverallan, value: 80}
+  - {name: John Smedley, value: 60}
+  - {name: Pringle of Scotland, value: 50, aliases: [pringle]}
+  - {name: Sunspel, value: 40}
+  - {name: Margaret Howell, value: 120, aliases: [mhl, mhl margaret howell]}
+  - {name: Barbour, value: 70, aliases: [barbour international, barbour gold label], boost: {beaufort: 1.3, bedale: 1.3, border: 1.3, made in england: 1.3, a7: 1.4, international: 1.2}}
+  - {name: Grenfell, value: 120}
+  - {name: Private White V.C., value: 200, aliases: [private white vc, private white]}
+  - {name: Mackintosh, value: 200}
+  - {name: Aquascutum, value: 80}
+  - {name: Burberry, value: 90, aliases: ["burberry's", burberrys, burberry london], boost: {trench: 1.8, trenssi: 1.8, kensington: 1.4, westminster: 1.4, sandringham: 1.4, made in england: 1.2, vintage: 1.2}}
+  - {name: Nigel Cabourn, value: 150}
+  - {name: YMC, value: 60, aliases: [you must create]}
+  - {name: Universal Works, value: 60}
+  - {name: Norse Projects, value: 60}
+  - {name: Wood Wood, value: 50}
+  - {name: Han Kjøbenhavn, value: 60, aliases: [han kjobenhavn]}
+  - {name: A Kind of Guise, value: 80}
+  - {name: Comoli, value: 200, rare: true}
+  - {name: Graphpaper, value: 150}
+  - {name: Porter Classic, value: 200}
+  - {name: Arts & Science, value: 150}
+  - {name: Evan Kinori, value: 150}
+  - {name: Yaeca, value: 100}
+  - {name: Casey Casey, value: 150}
+  - {name: Ann-Sofie Back, value: 80, aliases: [ann sofie back, back]}
+  - {name: Hope, value: 60, aliases: [hope sthlm, hope stockholm], min_price: 15}
+  - {name: Filippa K, value: 50}
+  - {name: Tiger of Sweden, value: 45}
+  - {name: Whyred, value: 50}
+  - {name: House of Dagmar, value: 70, aliases: [dagmar]}
+  - {name: Stine Goya, value: 60}
+  - {name: Ganni, value: 50}
+  - {name: Samuji, value: 70}
+  - {name: Ivana Helsinki, value: 60}
+  - {name: Marimekko, value: 50, boost: {vintage: 1.6, jokapoika: 1.5, "1960": 1.5, "1970": 1.4}}
+  - {name: Paul Smith, value: 70}
+  - {name: Lemaire x Uniqlo, value: 30}
+
+  # ---------- Denim ----------
+  - {name: Momotaro, value: 150}
+  - {name: Pure Blue Japan, value: 150}
+  - {name: Iron Heart, value: 150}
+  - {name: Samurai Jeans, value: 150, aliases: [samurai]}
+  - {name: Studio D'Artisan, value: 120, aliases: [studio dartisan]}
+  - {name: The Flat Head, value: 150, aliases: [flat head]}
+  - {name: Warehouse & Co, value: 120, aliases: [warehouse co]}
+  - {name: Sugar Cane, value: 80}
+  - {name: Levi's Vintage Clothing, value: 120, aliases: [lvc, levis vintage clothing]}
+  - {name: Levi's, value: 25, aliases: [levis, levi strauss], boost: {big e: 3.0, lvc: 3.0, made in usa: 2.0, valencia: 2.0, "501xx": 2.5, type ii: 2.5, type iii: 1.8, orange tab: 1.6, vintage: 1.3}}
+
+  # ---------- Kengät ----------
+  - {name: Red Wing, value: 90, aliases: [red wing shoes]}
+  - {name: Viberg, value: 300}
+  - {name: Yuketen, value: 150}
+  - {name: Common Projects, value: 80}
+  - {name: Diemme, value: 60}
+  - {name: Buttero, value: 80}
+  - {name: Santoni, value: 120}
+  - {name: Del Carlo, value: 120}
+  - {name: Premiata, value: 100}
+  - {name: Moma, value: 100}
+  - {name: Grenson, value: 70}
+
+  # ---------- Tech / outdoor (pohjoismaiset suosikit) ----------
+  - {name: Norrøna, value: 90, aliases: [norrona], boost: {lofoten: 1.4, trollveggen: 1.4, gore-tex: 1.2}}
+  - {name: Haglöfs, value: 50, aliases: [haglofs]}
+  - {name: Houdini, value: 60}
+  - {name: Mammut, value: 50}
+  - {name: Montbell, value: 60, aliases: [mont-bell, mont bell]}
+  - {name: Satisfy, value: 120}
+  - {name: District Vision, value: 100}
+  - {name: Gramicci, value: 40}
+
+  # ---------- Street ----------
+  - {name: Aimé Leon Dore, value: 90, aliases: [aime leon dore]}
+  - {name: Noah, value: 80, aliases: [noah ny]}
+  - {name: Kith, value: 60}
+  - {name: Palace, value: 70, aliases: [palace skateboards]}
+  - {name: Brain Dead, value: 70}
+  - {name: Cav Empt, value: 120, aliases: [c.e, ce cav empt]}
+  - {name: Carhartt WIP, value: 35, boost: {detroit: 1.5, chore: 1.3, michigan: 1.3, double knee: 1.3, active jacket: 1.3}}
+  - {name: Corteiz, value: 70}
+  - {name: Cole Buxton, value: 80}
+
+  # ---------- Sellpyn luksus- ja laatuluokista poimitut ----------
+  - {name: Tod's, value: 120, aliases: [tods]}
+  - {name: Giorgio Armani, value: 120, boost: {black label: 1.3, borgonuovo: 1.3}}
+  - {name: Bally, value: 100, boost: {vintage: 1.2}}
+  - {name: Roberto Cavalli, value: 100, boost: {vintage: 1.4}}
+  - {name: Casablanca, value: 150}
+  - {name: Isabel Marant, value: 110}
+  - {name: Eytys, value: 70}
+  - {name: Jacob Cohen, value: 70}
+  - {name: Gran Sasso, value: 60}
+  - {name: Alan Paine, value: 50}
+  - {name: R.M. Williams, value: 150, aliases: [rm williams]}
+  - {name: Allen Edmonds, value: 120}
+  - {name: Loake, value: 70}
+  - {name: Pertti Palmroth, value: 90, boost: {vintage: 1.3}}
+  - {name: Stenströms, value: 50, aliases: [stenstroms]}
+  - {name: Eton, value: 40}
+  - {name: Oscar Jacobson, value: 60}
+  - {name: Asket, value: 40}
+  - {name: 66 North, value: 120, aliases: [66 north iceland, 66 degrees north]}
+  - {name: Lundhags, value: 60}
+  - {name: Woolpower, value: 40}
+  - {name: Ulvang, value: 40}
+  - {name: Devold, value: 50}
+  - {name: Hestra, value: 40}
+  - {name: Edwin, value: 40}
+  - {name: Carhartt, value: 35, boost: {detroit: 1.8, active jacket: 1.6, double knee: 1.5, made in usa: 1.5, vintage: 1.3, chore: 1.4}}
+  - {name: Lyle & Scott Vintage, value: 40}
+  - {name: Fred Perry, value: 35, boost: {raf simons: 2.5, made in england: 1.4, comme des garcons: 2.0}}
