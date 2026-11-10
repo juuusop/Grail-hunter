@@ -1,167 +1,39 @@
 # 🦅 Grail Hunter
 
-Designer thrift scraper for Sellpy with **arbitrage analysis**. Find underpriced grails by comparing prices across Grailed and eBay.
+Sellpy-sniperi, joka pyörii GitHub Actionsissa noin 10 minuutin välein ja kerää parhaat löydöt yhteen paikkaan:
 
-## Features
+- **[FINDS.md](FINDS.md)**: kaikki löydöt kuvineen, viikon parhaat ylimpänä.
+- **Issue "🦅 Löydöt"**: jokainen uusi löytö kommentoidaan sinne. Paina issuessa **Subscribe**, niin GitHub-sovellus ilmoittaa puhelimeen.
+- **[data/BRAND_REPORT.md](data/BRAND_REPORT.md)**: brändiraportti, eli miten Sellpy kirjoittaa kunkin brändin, montako on myynnissä ja mikä on hintataso.
 
-- **Brand Classification**: 60+ designer brands across 6 categories
-- **Tier System**: Automatic grail detection (Tier 1 = instant alert)
-- **Quality Filtering**: Trash detection, material analysis
-- **Arbitrage Analysis**: Compare Sellpy prices to Grailed & eBay market values
-- **Deal Rating**: INSANE / GREAT / GOOD / FAIR / OVERPRICED
-- **Async Scraping**: Fast, efficient httpx-based scrapers
-- **REST API**: Full FastAPI backend with OpenAPI docs
-- **Tauri Desktop App**: Modern Svelte UI with real-time updates
-- **CLI**: Command-line hunting tools
+Mitään avaimia ei tarvitse asettaa. Skripti lukee Sellpyn julkisen hakuavaimen Sellpyn omalta sivulta.
 
-## Brand Categories
+## Miten se löytää graileja
 
-| Category | Examples |
-|----------|----------|
-| ARTISANAL_DARK | Rick Owens, Carol Christian Poell, Guidi |
-| JAPAN_AVANTGARDE | Comme des Garçons, Yohji Yamamoto, Kapital |
-| EURO_LUXURY | Maison Margiela, Raf Simons, Prada |
-| STREET_MODERN | Supreme, Off-White, Fear of God |
-| TECH_GORP | Arc'teryx, Stone Island, Salomon |
-| WORKWEAR_DENIM | Vintage Levi's, Carhartt |
+1. **Brändihaku palvelimella.** Kaikki brändit (`brands.yaml`) laitetaan suoraan Sellpyn hakuun filtteriksi uusimmat ensin, ja sivuja haetaan kunnes vastaan tulee jo nähty tuote. Mitään uutta ei jää väliin, vaikka brändejä olisi satoja.
+2. **Pisteytys, ei hintakattoa.** `pisteet = arvioitu arvo / hinta`. Arvo lasketaan brändin `value`-luvusta, tuotetyypistä (nahkatakki ×2, takki ×1.6, kengät ×1.4 … t-paita ×0.5), kunnosta ja avainsanoista (esim. Rick Owens *geobasket* ×1.5, Margiela *tabi* ×1.6, *DRKSHDW* ×0.6). Hälytys tulee, kun pisteet ≥ 2 eli hinta on enintään puolet arvosta.
+3. **Harvinaiset.** Harvinaiset brändit (CCP, Harnden, BBS, m.a+, Layer-0, Carpe Diem, Number (N)ine, Raf, CDG Homme Plus …) ja harvinaisuussanat (artisanal, runway, sample, prototype, shadow project, vanhat sesonkikoodit kuten AW04) hälyttävät jo, kun hinta on suunnilleen arvon verran.
+4. **Väärin listatut.** Erilliset tekstihaut (`config.yaml` → `hunts`) etsivät tuotteita, joissa brändi on väärin tai "tuntematon", mutta tiedoissa lukee esim. *margiela*, *tabi*, *geobasket*, *hevosennahka* tai halpa *kashmir*.
+5. **Hinnanpudotukset.** Kerran tunnissa koko brändilista käydään läpi. Jos hinta tippuu niin, että tuotteesta tulee diili, tulee 📉-hälytys.
+6. **Roskat pois.** Lapset, hajuvedet, H&M- ja Uniqlo-kollabit, "-tyylinen", rikkinäiset ja kopiot hylätään.
+7. **Sellpyn oma hintataso.** Jos hinta on brändin halvimmassa 25 %:ssa Sellpyssä, arvoon tulee pieni lisä.
 
-## Quick Start
+## Säätäminen (onnistuu puhelimella GitHubin editorissa)
 
-### Python Backend
+- **Brändi lisää / pois:** `brands.yaml`. Seuraava ajo hakee uusien brändien kirjoitusasut automaattisesti.
+- **Liikaa hälytyksiä jostain brändistä:** laske sen `value`a. Brändiraportti näyttää ⚠️:n, jos arvo on selvästi yli Sellpyn mediaanin.
+- **Koot, hintakatto, herkkyys:** `config.yaml` → `settings` (`sizes`, `max_price`, `min_score`).
+- **Ajo heti:** Actions → Sniper → Run workflow.
 
-```bash
-# Install Python dependencies
-pip install -e .
+## Tiedostot
 
-# Start the API server
-grail-hunter serve
+| | |
+|---|---|
+| `sniper.py` | koko logiikka (`run` ja `discover`) |
+| `brands.yaml` | brändit, arvot, aliakset, avainsanakertoimet |
+| `config.yaml` | asetukset, kategoriat, kunto, harvinaisuussanat, poissulut, tekstihaut |
+| `.github/workflows/sniper.yml` | 10 min välein |
+| `.github/workflows/discover.yml` | brändihaku ja -arviointi maanantaisin (ja aina kun `brands.yaml` muuttuu) |
+| `tests/` | offline-testit |
 
-# Hunt for grails (CLI)
-grail-hunter hunt
-
-# Search specific brand
-grail-hunter search "Rick Owens"
-```
-
-### Tauri Desktop App
-
-```bash
-# Install Node dependencies
-npm install
-
-# Run in development mode
-npm run tauri:dev
-
-# Build for production
-npm run tauri:build
-```
-
-## Architecture
-
-```
-grail_hunter/           # Python backend
-├── scrapers/
-│   ├── sellpy.py       # Sellpy Algolia scraper
-│   ├── grailed.py      # Grailed price scraper
-│   └── ebay.py         # eBay price scraper
-├── services/
-│   └── arbitrage.py    # Price comparison & deal rating
-├── api/
-│   └── routes.py       # FastAPI endpoints
-└── cli.py              # Command-line interface
-
-src/                    # Svelte frontend
-├── lib/
-│   ├── components/     # UI components
-│   ├── stores/         # State management
-│   └── api.ts          # API client
-└── App.svelte          # Main app
-
-src-tauri/              # Rust Tauri backend
-└── src/main.rs         # Native commands
-```
-
-## API Endpoints
-
-| Endpoint | Description |
-|----------|-------------|
-| `GET /api/items` | List items with filtering |
-| `GET /api/items/grails` | Top grail items |
-| `GET /api/brands` | All tracked brands |
-| `POST /api/scrape` | Trigger new scrape |
-| `GET /api/stats` | Database statistics |
-| `GET /api/arbitrage/{id}` | Analyze single item |
-| `POST /api/arbitrage/batch` | Analyze multiple items |
-
-## Arbitrage System
-
-The arbitrage service compares Sellpy prices against market values:
-
-```python
-# Deal ratings based on price difference
-INSANE:     60%+ below market   🔥
-GREAT:      40-60% below        💰
-GOOD:       20-40% below        ✅
-FAIR:       0-20% below         ➖
-OVERPRICED: Above market        ❌
-```
-
-Data sources:
-- **Grailed**: Designer resale marketplace (weighted higher)
-- **eBay**: Broader market data + sold listings
-
-## CLI Commands
-
-```bash
-# List all tracked brands
-grail-hunter brands
-
-# Show Tier 1 grails only
-grail-hunter grails
-
-# Hunt with options
-grail-hunter hunt --pages 5 --category "Miehet"
-
-# Start server
-grail-hunter serve --port 8000 --reload
-```
-
-## Configuration
-
-Copy `.env.example` to `.env`:
-
-```bash
-cp .env.example .env
-```
-
-Key settings:
-- `DATABASE_URL` - SQLite or PostgreSQL connection
-- `SCRAPE_INTERVAL_SECONDS` - Auto-scan frequency
-- `MAX_PRICE` - Price filter ceiling
-
-## Development
-
-```bash
-# Install with dev dependencies
-pip install -e ".[dev]"
-
-# Run tests
-pytest
-
-# Type checking
-mypy grail_hunter
-
-# Linting
-ruff check grail_hunter
-```
-
-## Tech Stack
-
-- **Backend**: Python 3.11+, FastAPI, SQLAlchemy 2.0, httpx
-- **Frontend**: Svelte, TailwindCSS, TypeScript
-- **Desktop**: Tauri (Rust)
-- **Database**: SQLite (dev) / PostgreSQL (prod)
-
-## License
-
-MIT
+Vanha FastAPI/Tauri-versio löytyy git-historiasta.

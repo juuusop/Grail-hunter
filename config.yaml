@@ -1,0 +1,121 @@
+# Grail Hunter: Sellpy sniper -asetukset.
+# Brändit ovat tiedostossa brands.yaml.
+
+settings:
+  market: fi                     # sellpy.fi
+  # Hälytys "diilistä", kun pisteet >= min_score.
+  # pisteet = arvioitu arvo / hinta. 2.0 = hinta on puolet arvosta.
+  min_score: 2.0
+  # Harvinaiset brändit (rare: true) ja harvinaisuussanat hälyttävät jo, kun
+  # hinta on arvioitua arvoa vastaava tai alle (pisteet >= rare_min_score).
+  rare_min_score: 0.9
+  # Ei kovaa hintakattoa. Laita numero (EUR), jos haluat.
+  max_price: null
+  # Koot: tyhjä lista = kaikki koot. Esim. clothing: [M, L], shoes: ["43", "44"]
+  sizes:
+    clothing: []
+    shoes: []
+  # Rajaa pääkategoriaan, esim. [Miehet]. Tyhjä = kaikki.
+  categories_lvl0: []
+  # Kuinka monta sivua (100 kpl) uusinta haetaan per ajo, jos edellistä ei löydy.
+  max_pages: 5
+  # Hinnanpudotukset: koko brändilista käydään läpi näin usein (minuuttia).
+  sweep_every_minutes: 60
+  # GitHub-issue, johon löydöt kommentoidaan (puhelimen GitHub-sovellus ilmoittaa).
+  notify_issue_title: "🦅 Löydöt"
+
+# Kategoriakertoimet: mitä arvokkaampi tuotetyyppi, sitä isompi kerroin.
+# Sanat haetaan tuotteen otsikosta, kategoriasta ja kuvauksesta (fi/sv/en).
+categories:
+  - {name: nahkatakki, mult: 2.0, words: [nahkatakki, leather jacket, skinnjacka, biker, rider jacket, lammasnahkatakki, shearling]}
+  - {name: takki, mult: 1.6, words: [takki, takit, jacket, jacka, parka, coat, kappa, rock, anorakki, anorak, bomber, blazer, bleiseri, untuvatakki, toppatakki, dunjacka, kavaj, trenssi, trench]}
+  - {name: kengät, mult: 1.4, words: [kengät, kenkä, saappaat, saapas, nilkkurit, maiharit, boots, boot, skor, kängor, stövlar, sneakers, tennarit, lenkkarit, loafers, derby, oxford]}
+  - {name: laukku, mult: 1.2, words: [laukku, reppu, bag, väska, ryggsäck, backpack, tote, olkalaukku]}
+  - {name: neule, mult: 1.0, words: [neule, neuletakki, villapaita, sweater, tröja, stickad, cardigan, knit, pusero]}
+  - {name: housut, mult: 0.9, words: [housut, farkut, byxor, jeans, trousers, pants, cargo, shortsit, shorts]}
+  - {name: huppari, mult: 0.75, words: [huppari, hoodie, huvtröja, collegepaita, college, sweatshirt, svetari]}
+  - {name: kauluspaita, mult: 0.8, words: [kauluspaita, skjorta, shirt, flanelli]}
+  - {name: t-paita, mult: 0.5, words: [t-paita, t-shirt, t-tröja, tee, toppi, linne, pikee, polo]}
+  - {name: asuste, mult: 0.4, words: [vyö, bälte, belt, lompakko, plånbok, wallet, pipo, mössa, beanie, lippis, keps, cap, hattu, hatt, huivi, halsduk, scarf, solmio, slips, tie, sukat, strumpor, socks, hanskat, käsineet, avaimenperä]}
+  - {name: korut, mult: 0.8, words: [sormus, ring, kaulakoru, halsband, necklace, rannekoru, armband, bracelet]}
+default_category_mult: 0.8
+
+# Kunto (Sellpyn kuntoluokat).
+conditions:
+  - {words: [uusi, ny, nytt, new, uusi lapuilla, oanvänd], mult: 1.05}
+  - {words: [erittäin hyvä, mycket bra, very good, excellent], mult: 1.0}
+  - {words: [hyvä, bra, good], mult: 0.9}
+  - {words: [kohtalainen, tyydyttävä, acceptabelt, acceptable, fair], mult: 0.7}
+  - {words: [huono, dåligt, poor], mult: 0.4}
+
+# Nämä kertoimet koskevat kaikkia brändejä.
+global_boost:
+  archive: 1.2
+  arkisto: 1.2
+  runway: 1.4
+  sample: 1.3
+  prototype: 1.4
+  mainline: 1.2
+  made in japan: 1.15
+  made in italy: 1.1
+  hevosennahka: 1.3
+  horse leather: 1.3
+  horsehide: 1.3
+  kangaroo: 1.2
+  nahka: 1.1
+  leather: 1.1
+  kashmir: 1.15
+  cashmere: 1.15
+  silkki: 1.05
+  gore-tex: 1.15
+  goretex: 1.15
+
+# Sanat, jotka tekevät tuotteesta harvinaisen (kevyempi hälytysraja).
+rare_words: [artisanal, runway, sample, prototype, geobasket, stooges, bondage, astro, shadow project, ghost, steep tech, das parka, box logo, reflective, heat reactive, mesh, verkko, boro, "788z", object dyed]
+# Lisäksi vanhat sesonkikoodit (esim. AW04, SS99, FW2006) merkitään automaattisesti harvinaisiksi.
+
+# Hylätään aina (lapset, hajuvedet, H&M-kollabit, kopiot, rikkinäiset).
+exclude_words: [lasten, lapsille, barn, kids, junior, vauva, baby, hajuvesi, parfym, parfum, perfume, eau de, tuoksu, deodorantti, "h&m", "x h&m", uniqlo, "+j", tyylinen, inspired, kopio, fake, replika, rikki, reikä, reikiä, tahra, tahroja, broken, trasig, fläck, "128 cl", "140 cl", "152 cl", "158 cl", "164 cl", "170 cl", " 140 cm", " 150 cm", " 160 cm", " 170 cm"]
+
+# Väärin listatut / tunnistamattomat: vapaat tekstihaut ilman brändifiltteriä.
+# Hälytys vain, jos sana löytyy tuotteen tiedoista eikä brändi ole jo listalla.
+# value = arvio, jos sana pitää paikkansa. max_price = näistä ei hälytetä yli tämän.
+hunts:
+  - {q: carol christian poell, value: 500}
+  - {q: paul harnden, value: 500}
+  - {q: guidi, value: 350}
+  - {q: boris bidjan, value: 300}
+  - {q: rick owens, value: 250}
+  - {q: geobasket, value: 300}
+  - {q: drkshdw, value: 150}
+  - {q: margiela, value: 200}
+  - {q: tabi, value: 200}
+  - {q: raf simons, value: 250}
+  - {q: helmut lang, value: 200}
+  - {q: number nine, value: 250}
+  - {q: undercover, value: 150, must: [jun takahashi, undercoverism, undercover lab]}
+  - {q: yohji, value: 200}
+  - {q: comme des garcons, value: 120}
+  - {q: junya, value: 180}
+  - {q: issey miyake, value: 140}
+  - {q: jean paul gaultier, value: 150}
+  - {q: chrome hearts, value: 250}
+  - {q: acronym, value: 400, must: [acrnm, errolson]}
+  - {q: veilance, value: 200}
+  - {q: arcteryx, value: 120}
+  - {q: kapital, value: 150}
+  - {q: visvim, value: 250}
+  - {q: sacai, value: 140}
+  - {q: kiko kostadinov, value: 150}
+  - {q: stone island, value: 120}
+  - {q: shadow project, value: 250}
+  - {q: loro piana, value: 250}
+  - {q: hermes, value: 250}
+  - {q: boro, value: 120, must: [boro, sashiko]}
+  - {q: hevosennahka, value: 120}
+  - {q: horse leather, value: 120}
+  - {q: kashmir, value: 60, max_price: 35}
+  - {q: cashmere, value: 60, max_price: 35}
+  - {q: made in japan, value: 70, max_price: 40}
+  - {q: runway, value: 120}
+  - {q: archive, value: 80, max_price: 60}
