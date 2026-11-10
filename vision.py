@@ -242,8 +242,15 @@ def run(cfg):
         ok = [(c, im) for c, im in zip(cands, imgs) if im is not None]
         img_model, _ = clip_models()
         emb = unit(list(img_model.embed([im for _, im in ok], batch_size=32)))
+        # Raw CLIP similarities are ~0.95 for any product photo, so centre each gallery
+        # image / prompt column on this batch: what counts is looking MORE like a grail
+        # brand than the other candidates do.
         sims = emb @ gemb.T
         psims = emb @ pemb.T
+        sims = sims - sims.mean(axis=0, keepdims=True)
+        psims = psims - psims.mean(axis=0, keepdims=True)
+        vstd = float(np.std(sims.max(axis=1))) or 1.0
+        pstd = float(np.std(psims.max(axis=1))) or 1.0
         for (sc, why, h), srow, prow in zip([c for c, _ in ok], sims, psims):
             top = np.argsort(-srow)[:7]
             votes = {}
@@ -253,7 +260,7 @@ def run(cfg):
             pbest = int(np.argmax(prow))
             visual = float(srow[top[0]])
             prompt_hit = float(prow[pbest])
-            combined = sc * 0.15 + (visual - 0.80) * 10 + max(0.0, prompt_hit - 0.26) * 20
+            combined = sc * 0.15 + visual / vstd * 0.6 + prompt_hit / pstd * 0.6
             md = h.get("metadata") or {}
             found.append({
                 "id": str(h["objectID"]), "raw_brand": S.first_str(md.get("brand")), "type": S.first_str(md.get("type")),
@@ -280,7 +287,7 @@ def run(cfg):
                 resale = 0.0
             if v.get("is_designer") and float(v.get("confidence") or 0) >= 0.6 and resale >= 2 * f["price"]:
                 alerts.append((f, v, resale))
-        elif f["combined"] >= float(st.get("vision_clip_alert", 3.0)):
+        elif f["combined"] >= float(st.get("vision_clip_alert", 99)):
             alerts.append((f, None, 0.0))
 
     hist = S.load_json(S.DATA / "vision_candidates.json", [])
