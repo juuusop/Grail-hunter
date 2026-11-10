@@ -34,6 +34,7 @@ settings:
     shoes-eu: [43, 45.5]
     shoes-uk: [9, 11]
     shoes-us: [10, 11.5]
+    socks-eu: [42, 48]
   # Rajaa pääkategoriaan, esim. [Miehet]. Tyhjä = kaikki.
   categories_lvl0: [Miehet, Naiset]
   # Kuinka monta sivua (100 kpl) uusinta haetaan per ajo, jos edellistä ei löydy.
