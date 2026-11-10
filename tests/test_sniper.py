@@ -11,7 +11,7 @@ import sniper  # noqa: E402
 
 
 def hit(oid, brand, title, eur, cond="Hyvä", size="M", lvl1="Takit"):
-    return {"objectID": oid, "brand": brand, "title": title, "price_FI": {"amount": int(eur * 100), "currency": "EUR"},
+    return {"objectID": oid, "metadata": {"brand": brand, "type": title, "condition": cond, "size": size}, "title": title, "price_FI": {"amount": int(eur * 100), "currency": "EUR"},
             "condition": cond, "size": size, "categories": {"lvl0": "Miehet", "lvl1": lvl1},
             "images": [f"https://img.example/{oid}.jpg"]}
 
@@ -26,6 +26,8 @@ CATALOG = [
     hit("a7", "Tuntematon", "Maison Margiela tabi saappaat", 60, lvl1="Kengät"),
     hit("a8", "Maison Margiela", "Margiela x H&M takki", 40),
     hit("a9", "Carol Christian Poell", "CCP housut", 500, lvl1="Housut"),
+    hit("b1", "Laura Guidi", "Laura Guidi mekko", 6, lvl1="Mekot"),
+    hit("b2", "Tabi International", "Tabi takki", 4),
 ]
 
 
@@ -41,14 +43,15 @@ class FakeSellpy:
         out = []
         for r in reqs:
             q = sniper.norm(r.get("query", ""))
-            ff = [v.split(":", 1)[1] for grp in r.get("facetFilters", []) for v in grp if v.startswith("brand:")]
-            hs = [h for h in CATALOG if (not ff or h["brand"] in ff)
+            ff = [v.split(":", 1)[1] for grp in r.get("facetFilters", []) for v in grp if v.startswith("metadata.brand:")]
+            hs = [h for h in CATALOG if (not ff or h["metadata"]["brand"] in ff)
                   and (not q or q in sniper.norm(json.dumps(h, ensure_ascii=False)))]
             facets = {}
             for h in hs:
-                facets[h["brand"]] = facets.get(h["brand"], 0) + 1
+                b = h["metadata"]["brand"]
+                facets[b] = facets.get(b, 0) + 1
             out.append({"hits": hs[: r.get("hitsPerPage", 20)] if r.get("hitsPerPage", 20) else [],
-                        "nbHits": len(hs), "nbPages": 1, "facets": {"brand": facets}})
+                        "nbHits": len(hs), "nbPages": 1, "facets": {"metadata.brand": facets}})
         return out
 
 
@@ -96,6 +99,7 @@ def test_run_end_to_end(env):
     assert "a8" not in finds                   # H&M collab excluded
     assert "a4" not in finds                   # Patagonia fleece at 70 € is not a deal
     assert "a9" in finds                       # CCP: rare brand, near value
+    assert "b1" not in finds and "b2" not in finds   # hunt term only in brand name
     report = (env / "data/BRAND_REPORT.md").read_text()
     assert "Rick Owens" in report
 

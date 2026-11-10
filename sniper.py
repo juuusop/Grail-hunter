@@ -39,7 +39,7 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 # Verified in the earlier Grail-hunter project; used only if the live lookup fails.
 FALLBACK_APP_ID = "50LBQU2I4A"
 FALLBACK_API_KEY = "4e696a94df3469d5356870d63c118c87"
-BRAND_ATTR = "brand"
+BRAND_ATTR = "metadata.brand"
 CHUNK = 80          # brand facet values per Algolia query
 BATCH = 40          # queries per HTTP request in discover
 SEASON_RE = re.compile(r"(?<![a-z0-9])(?:aw|fw|ss)\s?(?:19|20)?(?:9\d|0\d|1[0-2])(?![0-9])")
@@ -358,9 +358,9 @@ class Evaluator:
         price = sp.price(hit)
         if not oid or price <= 0:
             return None
-        if hit.get("isReserved") or hit.get("reserved") or hit.get("is_reserved"):
+        if hit.get("isReserved") or hit.get("isForSale") is False:
             return None
-        raw_brand = first_str(hit.get(BRAND_ATTR), dig(hit, "metadata.brand"), hit.get("brandName"))
+        raw_brand = first_str(dig(hit, BRAND_ATTR), hit.get("brand"), hit.get("brandName"))
         brand = self.matcher.match(raw_brand)
         cats = hit.get("categories") or {}
         cat_text = norm(" ".join(flatten_text(cats)) + " " + first_str(hit.get("title"), dig(hit, "metadata.type"), hit.get("type")))
@@ -378,7 +378,14 @@ class Evaluator:
         if hunt:
             if brand is not None:
                 return None  # the brand feed covers it
-            if not any(has_word(text, t) for t in (hunt.get("must") or [hunt["q"]])):
+            # the term must be in the item's own details, not in its brand name
+            # ("Laura Guidi", "Tabi International" are not grails)
+            md = dict(hit.get("metadata") or {})
+            md.pop("brand", None)
+            own = norm(" ".join(flatten_text([md, hit.get("keywords"), hit.get("title"), hit.get("description")])))
+            terms = hunt.get("must") or [hunt["q"]]
+            hitword = next((t for t in terms if has_word(own, t)), None)
+            if not hitword or any(norm(t) in norm(raw_brand) for t in terms + [hunt["q"]]):
                 return None
             value = float(hunt["value"]) * 0.85
             name = f"{raw_brand or 'Tuntematon'} (haku: {hunt['q']})"
@@ -387,7 +394,7 @@ class Evaluator:
             hmax = hunt.get("max_price")
             if hmax is not None and price > float(hmax):
                 return None
-            reasons.append(f"tekstihaku '{hunt['q']}', brändiksi listattu '{raw_brand or '-'}'")
+            reasons.append(f"tiedoissa '{hitword}', brändiksi listattu '{raw_brand or '-'}'")
         else:
             if brand is None:
                 return None

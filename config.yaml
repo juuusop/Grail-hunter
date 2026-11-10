@@ -117,5 +117,3 @@ hunts:
   - {q: kashmir, value: 60, max_price: 35}
   - {q: cashmere, value: 60, max_price: 35}
   - {q: made in japan, value: 70, max_price: 40}
-  - {q: runway, value: 120}
-  - {q: archive, value: 80, max_price: 60}

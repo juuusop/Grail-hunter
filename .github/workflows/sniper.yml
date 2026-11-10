@@ -30,8 +30,8 @@ jobs:
         uses: actions/cache/restore@v4
         with:
           path: data/state.json
-          key: state-${{ github.run_id }}
-          restore-keys: state-
+          key: state-v2-${{ github.run_id }}
+          restore-keys: state-v2-
       - name: Hunt
         run: python sniper.py run
         env:
@@ -41,7 +41,7 @@ jobs:
         uses: actions/cache/save@v4
         with:
           path: data/state.json
-          key: state-${{ github.run_id }}
+          key: state-v2-${{ github.run_id }}
       - name: Commit finds
         run: |
           git config user.name "grail-hunter-bot"
