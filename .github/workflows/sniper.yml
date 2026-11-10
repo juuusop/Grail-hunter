@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "*/10 * * * *"   # GitHub may delay scheduled runs by a few minutes
   workflow_dispatch:
+  push:                      # run right away when settings or code change
+    paths: [brands.yaml, config.yaml, sniper.py, .github/workflows/sniper.yml]
 
 permissions:
   contents: write
