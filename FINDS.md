@@ -1,12 +1,13 @@
 # 🦅 Grail Hunter: löydöt
 
-Päivitetty 10.11.2026 22:10 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi olla jo myyty.
+Päivitetty 10.11.2026 22:16 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi olla jo myyty.
 
 ## 🔥 Viikon parhaat
 
 | | Löytö | Hinta | Pisteet | Tyyppi / koko | Löydetty (UTC) |
 |---|---|---|---|---|---|
 | <a href="https://www.sellpy.fi/item/zu4CzAXEnc"><img src="https://prod.images.sellpy.net/photoRobot-case-6-k-22/zu4CzAXEnc-6271-0.jpg" width="90"></a> | 🚨 INSANE<br>**[Adidas (haku: raf simons)](https://www.sellpy.fi/item/zu4CzAXEnc)**<br>Adidas Lenkkarit X Raf Simons Detroit Runner | **4 €**<br>arvio ~283 € | 80.75 | kengät<br>SHOES-EU-38.67 | 10.11. 21:54 |
+| <a href="https://www.sellpy.fi/item/hGViG8DXCp"><img src="https://prod.images.sellpy.net/photoRobot-standard-6-k-8/hGViG8DXCp-2c54-0.jpg" width="90"></a> | 🚨 INSANE<br>**[MbyM (haku: tabi)](https://www.sellpy.fi/item/hGViG8DXCp)**<br>MbyM Neuletakki TABI | **3 €**<br>arvio ~153 € | 51.17 | neule<br>WMN-INT-S | 10.11. 22:16 |
 | <a href="https://www.sellpy.fi/item/k3vwgyN5AG"><img src="https://prod.images.sellpy.net/photoRobot-hanging-9-k-13/k3vwgyN5AG-1f95-0.jpg" width="90"></a> | 🚨 INSANE<br>**[St-Martins (haku: junya)](https://www.sellpy.fi/item/k3vwgyN5AG)**<br>St-Martins Housut Junya | **4 €**<br>arvio ~145 € | 41.31 | housut<br>WMN-EU-38 | 10.11. 21:54 |
 | <a href="https://www.sellpy.fi/item/lbpTkozM5g"><img src="https://prod.images.sellpy.net/photoRobot-fixed-11-k-2/lbpTkozM5g-aab6-0-timed-sequence.jpg" width="90"></a> | 🚨 INSANE<br>**[Designers Remix Charlotte Eskildsen (haku: junya)](https://www.sellpy.fi/item/lbpTkozM5g)**<br>Designers Remix Charlotte Eskildsen Kirjekuorilaukku Junya | **5 €**<br>arvio ~200 € | 39.99 | laukku<br>- | 10.11. 21:54 |
 | <a href="https://www.sellpy.fi/item/qH21ATpG4j"><img src="https://prod.images.sellpy.net/photoRobot-standard-2-k-21/qH21ATpG4j-ed8f-0.jpg" width="90"></a> | 🚨 INSANE<br>**[Number (N)ine](https://www.sellpy.fi/item/qH21ATpG4j)**<br>Number Nine Bomber-takki | **22 €**<br>arvio ~532 € | 24.18 | takki<br>WMN-INT-M | 10.11. 21:54 |
@@ -45,12 +46,12 @@ Päivitetty 10.11.2026 22:10 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi oll
 | <a href="https://www.sellpy.fi/item/YAV1tgmTrQ"><img src="https://prod.images.sellpy.net/photoRobot-case-6-k-21/p7Rryvd6AM-2383-0.jpg" width="90"></a> | 🚨 INSANE<br>**[Prada](https://www.sellpy.fi/item/YAV1tgmTrQ)**<br>Prada Linea Rossa Sandaalit | **40 €**<br>arvio ~288 € | 7.21 | kengät<br>SHOES-EU-37 | 10.11. 21:54 |
 | <a href="https://www.sellpy.fi/item/Ag2LbqsHBR"><img src="https://prod.images.sellpy.net/photoRobot-standard-3-k-16/9IgO9jJxDf-8024-0.jpg" width="90"></a> | 🚨 INSANE<br>**[Tiger of Sweden](https://www.sellpy.fi/item/Ag2LbqsHBR)**<br>Tiger of Sweden Bleiseri | **10 €**<br>arvio ~72 € | 7.2 | takki<br>MEN-EU-50 | 10.11. 22:10 |
 | <a href="https://www.sellpy.fi/item/IblyGejRWE"><img src="https://prod.images.sellpy.net/photoRobot-manual-7-k-22/83sBb1UbKB-9e12-single.jpg" width="90"></a> | 🚨 INSANE<br>**[Bottega Veneta](https://www.sellpy.fi/item/IblyGejRWE)**<br>Bottega Veneta Silmälasit BV148807140 | **28 €**<br>arvio ~200 € | 7.14 | muu<br>- | 10.11. 21:54 |
-| <a href="https://www.sellpy.fi/item/Kzn0mq4AbN"><img src="https://prod.images.sellpy.net/photoRobot-standard-2-k-21/XiZJ4ychas-72e7-0.jpg" width="90"></a> | 🚨 INSANE<br>**[Helmut Lang](https://www.sellpy.fi/item/Kzn0mq4AbN)**<br>Helmut Lang T-paita | **10 €**<br>arvio ~71 € | 7.12 | t-paita<br>WMN-INT-S | 10.11. 21:54 |
 
 ## 🕒 Uusimmat
 
 | | Löytö | Hinta | Pisteet | Tyyppi / koko | Löydetty (UTC) |
 |---|---|---|---|---|---|
+| <a href="https://www.sellpy.fi/item/hGViG8DXCp"><img src="https://prod.images.sellpy.net/photoRobot-standard-6-k-8/hGViG8DXCp-2c54-0.jpg" width="90"></a> | 🚨 INSANE<br>**[MbyM (haku: tabi)](https://www.sellpy.fi/item/hGViG8DXCp)**<br>MbyM Neuletakki TABI | **3 €**<br>arvio ~153 € | 51.17 | neule<br>WMN-INT-S | 10.11. 22:16 |
 | <a href="https://www.sellpy.fi/item/QvbFrdFyGQ"><img src="https://prod.images.sellpy.net/photoRobot-standard-5-k-15/P0pU9vKiEX-e7a0-0.jpg" width="90"></a> | 🚨 INSANE<br>**[Lundhags](https://www.sellpy.fi/item/QvbFrdFyGQ)**<br>Lundhags Anorakki | **12 €**<br>arvio ~96 € | 8.0 | takki<br>WMN-INT-S | 10.11. 22:10 |
 | <a href="https://www.sellpy.fi/item/qF5wnuICpb"><img src="https://prod.images.sellpy.net/photoRobot-case-14-k-9/NdjwyLUxSb-1234-0.jpg" width="90"></a> | 🚨 INSANE<br>**[Eytys](https://www.sellpy.fi/item/qF5wnuICpb)**<br>Eytys Lenkkarit | **11 €**<br>arvio ~102 € | 9.31 | kengät<br>SHOES-EU-38 | 10.11. 22:10 |
 | <a href="https://www.sellpy.fi/item/XkwVNokiJJ"><img src="https://prod.images.sellpy.net/photoRobot-standard-7-k-11/qJzJyHLk3g-5947-0.jpg" width="90"></a> | 🔥 KOVA DIILI<br>**[Carhartt WIP](https://www.sellpy.fi/item/XkwVNokiJJ)**<br>Carhartt WIP Bomber-takki Randal Jacket | **18 €**<br>arvio ~50 € | 2.8 | takki<br>WMN-INT-S | 10.11. 22:10 |
@@ -110,4 +111,3 @@ Päivitetty 10.11.2026 22:10 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi oll
 | <a href="https://www.sellpy.fi/item/67axOYrDXr"><img src="https://prod.images.sellpy.net/photoRobot-case-14-l-1/67axOYrDXr-8a23-0.jpg" width="90"></a> | ✅ DIILI<br>**[Mammut](https://www.sellpy.fi/item/67axOYrDXr)**<br>Mammut Näyttö | **17 €**<br>arvio ~36 € | 2.12 | muu<br>ONE SIZE | 10.11. 22:10 |
 | <a href="https://www.sellpy.fi/item/MJswumMkEz"><img src="https://prod.images.sellpy.net/photoRobot-standard-7-k-3/xu8JHqXVzi-3f87-0.jpg" width="90"></a> | 🔥 KOVA DIILI<br>**[Whyred](https://www.sellpy.fi/item/MJswumMkEz)**<br>WHYRED Bleiseri Dora | **22 €**<br>arvio ~80 € | 3.64 | takki<br>WMN-EU-38 | 10.11. 22:10 |
 | <a href="https://www.sellpy.fi/item/NVMUzxjlpL"><img src="https://prod.images.sellpy.net/photoRobot-standard-4-l-5/K2AU7YLt9r-1663-0.jpg" width="90"></a> | ✅ DIILI<br>**[Burberry](https://www.sellpy.fi/item/NVMUzxjlpL)**<br>Burberry Takki | **58 €**<br>arvio ~143 € | 2.46 | takki<br>WMN-EU-44 | 10.11. 22:10 |
-| <a href="https://www.sellpy.fi/item/JaiE41bmrP"><img src="https://prod.images.sellpy.net/photoRobot-case-6-k-21/waslla4VNO-b70b-0.jpg" width="90"></a> | 🚨 INSANE<br>**[Valentino](https://www.sellpy.fi/item/JaiE41bmrP)**<br>Valentino Garavani Slip-ins | **27 €**<br>arvio ~200 € | 7.39 | kengät<br>SHOES-EU-40 | 10.11. 22:10 |
