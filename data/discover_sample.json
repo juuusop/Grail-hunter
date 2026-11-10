@@ -1,218 +1,218 @@
 {
  "facets": {
   "sizes": {
-   "WMN-INT-M": 1611830,
-   "WMN-INT-S": 1600639,
-   "NO SIZE": 1095194,
-   "WMN-INT-L": 885522,
-   "WMN-EU-38": 620967
+   "WMN-INT-M": 1611776,
+   "WMN-INT-S": 1600595,
+   "NO SIZE": 1095102,
+   "WMN-INT-L": 885508,
+   "WMN-EU-38": 620958
   },
   "style": {
-   "rento": 5043550,
-   "minimalistinen": 3049020,
-   "tyylikäs": 1963366,
-   "athleisure": 1301568,
-   "boheemi": 1135942
+   "rento": 5043388,
+   "minimalistinen": 3048937,
+   "tyylikäs": 1963294,
+   "athleisure": 1301546,
+   "boheemi": 1135916
   },
   "segment": {
-   "women": 8863933,
-   "children": 1861998,
-   "men": 1362994,
-   "things": 599782,
-   "unisex": 235570
+   "women": 8863714,
+   "children": 1861920,
+   "men": 1362940,
+   "things": 599757,
+   "unisex": 235509
   },
   "saleType": {
-   "regular": 12749482,
-   "influencer": 95534,
-   "business": 76031,
+   "regular": 12749050,
+   "influencer": 95533,
+   "business": 76027,
    "upcycle": 7
   },
   "materials": {
-   "Tekokuidut": 6736051,
-   "Polyesteri": 4021364,
-   "Puuvilla": 4014793,
-   "Elastaani": 3232938,
-   "Luonnonkuidut": 2226361
+   "Tekokuidut": 6735830,
+   "Polyesteri": 4021241,
+   "Puuvilla": 4014684,
+   "Elastaani": 3232843,
+   "Luonnonkuidut": 2226296
   },
   "brandGroups": {
-   "Fast Fashion & Affordable": 3726948,
-   "Modern & Contemporary": 3721840,
-   "Quality Products": 2229236,
-   "Scandinavian Style & Minimalism": 2099686,
-   "Women's Fashion & Lifestyle": 1987941
+   "Fast Fashion & Affordable": 3726848,
+   "Modern & Contemporary": 3721744,
+   "Quality Products": 2229197,
+   "Scandinavian Style & Minimalism": 2099612,
+   "Women's Fashion & Lifestyle": 1987898
   },
   "storageSite": {
-   "K": 5961371,
-   "J": 3482090,
-   "M": 2326866,
+   "K": 5961141,
+   "J": 3481958,
+   "M": 2326796,
    "G": 69,
-   "F": 52
+   "F": 50
   },
   "salesChannel": {
-   "market": 12306809,
+   "market": 12306467,
    "tradera": 2379
   },
   "metadata.size": {
-   "WMN-INT-S": 1448391,
-   "WMN-INT-M": 1415463,
-   "WMN-INT-L": 767960,
-   "WMN-EU-38": 563170,
-   "WMN-INT-XS": 546676
+   "WMN-INT-S": 1448357,
+   "WMN-INT-M": 1415418,
+   "WMN-INT-L": 767946,
+   "WMN-EU-38": 563161,
+   "WMN-INT-XS": 546666
   },
   "metadata.type": {
-   "Mekko": 986885,
-   "Farkut": 665740,
-   "T-paita": 649951,
-   "Yläosa": 444117,
-   "Neulepaita": 391868
+   "Mekko": 986857,
+   "Farkut": 665732,
+   "T-paita": 649943,
+   "Yläosa": 444108,
+   "Neulepaita": 391857
   },
   "metadata.brand": {
-   "H&M": 871657,
-   "Zara": 549673,
-   "Divided by H&M": 134524,
-   "Lindex": 131430,
-   "Shein": 129545
+   "H&M": 871631,
+   "Zara": 549655,
+   "Divided by H&M": 134522,
+   "Lindex": 131426,
+   "Shein": 129541
   },
   "metadata.color": {
-   "Musta": 3673057,
-   "Sininen": 2623622,
-   "Valkoinen": 2520369,
-   "Beige": 1449689,
-   "Harmaa": 1446936
+   "Musta": 3672918,
+   "Sininen": 2623529,
+   "Valkoinen": 2520284,
+   "Beige": 1449655,
+   "Harmaa": 1446895
   },
   "categories.lvl0": {
-   "Naiset": 9149259,
-   "Lapset": 1852049,
-   "Miehet": 1646752,
-   "Muut tuotteet": 519163,
-   "Kauneustuotteet": 39173
+   "Naiset": 9148979,
+   "Lapset": 1851971,
+   "Miehet": 1646637,
+   "Muut tuotteet": 519139,
+   "Kauneustuotteet": 39172
   },
   "categories.lvl1": {
-   "Naiset > Vaatteet": 8060188,
-   "Lapset > Vaatteet": 1641073,
-   "Miehet > Vaatteet": 1288002,
-   "Naiset > Asusteet": 619433,
-   "Naiset > Kengät": 469635
+   "Naiset > Vaatteet": 8060020,
+   "Lapset > Vaatteet": 1641009,
+   "Miehet > Vaatteet": 1287964,
+   "Naiset > Asusteet": 619337,
+   "Naiset > Kengät": 469619
   },
   "categories.lvl2": {
-   "Naiset > Vaatteet > Mekot": 1595629,
-   "Naiset > Vaatteet > Housut ja farkut": 1305706,
-   "Naiset > Vaatteet > Villapaidat ja neuletakit": 947003,
-   "Naiset > Vaatteet > Yläosat": 665033,
-   "Naiset > Vaatteet > Paidat ja puserot": 641665
+   "Naiset > Vaatteet > Mekot": 1595592,
+   "Naiset > Vaatteet > Housut ja farkut": 1305686,
+   "Naiset > Vaatteet > Villapaidat ja neuletakit": 946985,
+   "Naiset > Vaatteet > Yläosat": 665018,
+   "Naiset > Vaatteet > Paidat ja puserot": 641660
   },
   "categories.lvl3": {
-   "Naiset > Vaatteet > Mekot > Mekot": 1462308,
-   "Naiset > Vaatteet > Housut ja farkut > Housut": 588208,
-   "Naiset > Vaatteet > Housut ja farkut > Farkut": 496312,
-   "Naiset > Vaatteet > T-paidat ja hihattomat > Lyhythihaiset": 490334,
-   "Naiset > Vaatteet > Villapaidat ja neuletakit > Neuleet": 455647
+   "Naiset > Vaatteet > Mekot > Mekot": 1462284,
+   "Naiset > Vaatteet > Housut ja farkut > Housut": 588195,
+   "Naiset > Vaatteet > Housut ja farkut > Farkut": 496307,
+   "Naiset > Vaatteet > T-paidat ja hihattomat > Lyhythihaiset": 490324,
+   "Naiset > Vaatteet > Villapaidat ja neuletakit > Neuleet": 455640
   },
   "itemPriceBucket": {
-   "50,100": 73501,
+   "50,100": 73497,
    "100,150": 27964,
    "150,200": 19042,
-   "30,50": 16236,
+   "30,50": 16235,
    "200,250": 11645
   },
   "metadata.fabric": {
-   "Denim": 952318,
-   "Ribbineule": 470778,
-   "Hieno neule": 253917,
-   "Neulekangas": 215980,
-   "Pitsi": 138131
+   "Denim": 952305,
+   "Ribbineule": 470759,
+   "Hieno neule": 253904,
+   "Neulekangas": 215975,
+   "Pitsi": 138125
   },
   "metadata.season": {
-   "Kevät": 5336532,
-   "Kesä": 4887610,
-   "Syksy": 3085938,
-   "Talvi": 2258953
+   "Kevät": 5336426,
+   "Kesä": 4887523,
+   "Syksy": 3085745,
+   "Talvi": 2258770
   },
   "price_FI.amount": {
-   "350": 3526217,
-   "500": 647310,
-   "450": 588780,
-   "400": 529627,
-   "600": 404281
+   "350": 3526772,
+   "500": 647250,
+   "450": 588528,
+   "400": 529723,
+   "600": 404140
   },
   "metadata.pattern": {
-   "Yksivärinen": 6593092,
-   "Muu": 1062602,
-   "Printti": 795159,
-   "Kukkakuvio": 702226,
-   "Raidallinen": 628761
+   "Yksivärinen": 6592928,
+   "Muu": 1062571,
+   "Printti": 795112,
+   "Kukkakuvio": 702217,
+   "Raidallinen": 628727
   },
   "metadata.language": {
    "Ruotsi": 27829,
-   "Saksa": 22798,
+   "Saksa": 22797,
    "Muu": 22141,
    "Englanti": 7704,
    "Tanska": 2135
   },
   "metadata.material": {
-   "Polyesteri": 4020817,
-   "Puuvilla": 4014360,
-   "Elastaani": 3232708,
-   "Viskoosi": 1752020,
-   "Polyamidi": 1093431
+   "Polyesteri": 4020692,
+   "Puuvilla": 4014252,
+   "Elastaani": 3232611,
+   "Viskoosi": 1752001,
+   "Polyamidi": 1093408
   },
   "metadata.neckline": {
-   "Pyöreä pääntie": 2080161,
-   "V-aukko": 894469,
-   "Neliömäinen kaula": 277601,
-   "Venekaula-aukkoinen": 181186,
-   "Olkaimeton": 89774
+   "Pyöreä pääntie": 2080099,
+   "V-aukko": 894447,
+   "Neliömäinen kaula": 277597,
+   "Venekaula-aukkoinen": 181179,
+   "Olkaimeton": 89768
   },
   "proximityBucketV1": {
-   "3": 2430057,
-   "1": 2168014,
-   "5": 1933288,
-   "2": 1917711,
-   "4": 1196627
+   "3": 2430300,
+   "1": 2167801,
+   "5": 1933553,
+   "2": 1917532,
+   "4": 1196393
   },
   "metadata.condition": {
-   "Erittäin hyvä": 6632162,
-   "Hyvä": 4152678,
-   "Hyväksyttävä": 1541273,
-   "Uusi": 581981,
+   "Erittäin hyvä": 6631905,
+   "Hyvä": 4152570,
+   "Hyväksyttävä": 1541232,
+   "Uusi": 581950,
    "Huono": 9688
   },
   "metadata.waistRise": {
    "High": 38008,
    "Medium": 17789,
-   "Low": 9539
+   "Low": 9538
   },
   "metadata.demography": {
-   "Naiset": 8869067,
-   "Miehet": 1363714,
-   "Tytöt": 853516,
-   "Unisex (Lapset)": 629866,
-   "Pojat": 379934
+   "Naiset": 8868848,
+   "Miehet": 1363660,
+   "Tytöt": 853471,
+   "Unisex (Lapset)": 629838,
+   "Pojat": 379929
   },
   "metadata.pantsLength": {
-   "32": 105489,
-   "30": 44718,
+   "32": 105488,
+   "30": 44717,
    "34": 41797,
    "28": 6445,
    "31": 5025
   },
   "metadata.defects.type": {
-   "Vähän likainen": 896920,
-   "Likainen": 549431,
-   "Vähän nukkaantunut": 539847,
-   "Hieman haalistunut väri": 386601,
-   "Haalistunut väri": 357079
+   "Vähän likainen": 896898,
+   "Likainen": 549412,
+   "Vähän nukkaantunut": 539831,
+   "Hieman haalistunut väri": 386589,
+   "Haalistunut väri": 357071
   },
   "metadata.sleeveLength": {
-   "Pitkähihainen": 3170619,
-   "Lyhyt hihainen": 1369052,
-   "Hihaton": 1264651,
-   "Kolme neljäsosaa hiha": 233001
+   "Pitkähihainen": 3170533,
+   "Lyhyt hihainen": 1369034,
+   "Hihaton": 1264618,
+   "Kolme neljäsosaa hiha": 232997
   },
   "metadata.garmentLength": {
-   "Midi": 1226923,
-   "Maxi": 409901,
-   "Mini": 397963
+   "Midi": 1226901,
+   "Maxi": 409885,
+   "Mini": 397955
   },
   "metadata.restrictedModel": {
    "Unknown": 414,
@@ -222,53 +222,53 @@
    "Watch SE": 13
   },
   "searchableExternalCategory": {
-   "Naiset > Vaatteet > Mekot > Mekot": 1462205,
-   "Naiset > Vaatteet > Yläosat": 665033,
-   "Naiset > Vaatteet > Housut ja farkut > Housut": 588157,
-   "Naiset > Vaatteet > Housut ja farkut > Farkut": 496294,
-   "Naiset > Vaatteet > T-paidat ja hihattomat > Lyhythihaiset": 490334
+   "Naiset > Vaatteet > Mekot > Mekot": 1462181,
+   "Naiset > Vaatteet > Yläosat": 665018,
+   "Naiset > Vaatteet > Housut ja farkut > Housut": 588144,
+   "Naiset > Vaatteet > Housut ja farkut > Farkut": 496289,
+   "Naiset > Vaatteet > T-paidat ja hihattomat > Lyhythihaiset": 490324
   },
   "metadata.measurement.waistInCm": {
-   "76": 209746,
-   "80": 203065,
-   "72": 202597,
-   "74": 150954,
-   "70": 148605
+   "76": 209745,
+   "80": 203063,
+   "72": 202593,
+   "74": 150950,
+   "70": 148602
   },
   "metadata.measurement.widthInCm": {
-   "30": 18507,
-   "20": 17609,
-   "25": 15278,
+   "30": 18504,
+   "20": 17604,
+   "25": 15277,
    "50": 13010,
    "22": 12224
   },
   "metadata.measurement.heightInCm": {
-   "15": 17596,
-   "20": 14752,
-   "14": 13653,
+   "15": 17594,
+   "20": 14751,
+   "14": 13652,
    "16": 13492,
    "18": 12875
   },
   "metadata.measurement.lengthInCm": {
-   "200": 15075,
+   "200": 15074,
    "50": 11266,
    "20": 9745,
-   "2": 9708,
-   "180": 9681
+   "2": 9707,
+   "180": 9680
   },
   "metadata.measurement.heelHeightInCm": {
-   "8": 17249,
-   "10": 17026,
-   "9": 15225,
+   "8": 17247,
+   "10": 17027,
+   "9": 15224,
    "7": 14422,
-   "6": 12650
+   "6": 12649
   },
   "metadata.measurement.innerLegLengthInCm": {
-   "80": 61083,
+   "80": 61081,
    "70": 51130,
-   "75": 44321,
+   "75": 44320,
    "78": 43365,
-   "72": 39477
+   "72": 39474
   }
  },
  "hit_keys": [
@@ -290,6 +290,7 @@
   "itemPackaging",
   "keywords",
   "lastChance",
+  "materials",
   "metadata",
   "objectID",
   "p2p",
@@ -312,41 +313,43 @@
   "weight"
  ],
  "hit": {
-  "createdAt": 1794301233,
-  "updatedAt": 1794347348,
-  "user": "NxfdyTGy2s",
-  "bag": "9POQxCJt4e",
+  "createdAt": 1794297132,
+  "updatedAt": 1794347580,
+  "user": "pkLQicbGjh",
+  "bag": "II0wihZSCb",
   "metadata": {
-   "size": "WMN-INT-M",
-   "defects": [
-    {
-     "type": "Vähän nukkaantunut",
-     "location": "Kainalo (t)",
-     "id": "1430534229",
-     "category": "Käytön jälkiä"
-    }
+   "size": "WMN-EU-38",
+   "details": [
+    "Neulottu"
+   ],
+   "season": [
+    "Kesä"
    ],
    "color": [
-    "Valkoinen"
+    "Beige"
    ],
-   "brand": "Zara",
+   "fabric": "Satiini",
+   "material": [
+    "Polyesteri"
+   ],
+   "brand": "NA-KD",
    "demography": "Naiset",
    "sleeveLength": "Hihaton",
    "pattern": "Yksivärinen",
-   "neckline": "Neliömäinen kaula",
-   "countryOfOrigin": "TR",
-   "type": "Hihaton toppi",
-   "condition": "Hyvä"
+   "neckline": "V-aukko",
+   "countryOfOrigin": "CN",
+   "type": "Halterneck-toppi",
+   "condition": "Uusi"
   },
   "productIdentifiers": null,
   "images": [
-   "https://prod.images.sellpy.net/photoRobot-standard-8-k-15/fZfoIsQjNu-8424-0.jpg",
-   "https://prod.images.sellpy.net/photoRobot-standard-8-k-15/fZfoIsQjNu-8424-180.jpg",
-   "https://prod.images.sellpy.net/phone-images/fZfoIsQjNu-31da.jpg",
-   "https://prod.images.sellpy.net/phone-images/fZfoIsQjNu-4a7c.jpg"
+   "https://prod.images.sellpy.net/photoRobot-standard-2-k-13/QC4rvj08wy-485e-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-standard-2-k-13/QC4rvj08wy-485e-180.jpg",
+   "https://prod.images.sellpy.net/phone-images/QC4rvj08wy-ae0c.jpg",
+   "https://prod.images.sellpy.net/phone-images/QC4rvj08wy-b72d.jpg"
   ],
   "sizes": [
-   "WMN-INT-M"
+   "WMN-EU-38"
   ],
   "p2p": false,
   "isReserved": false,
@@ -360,19 +363,16 @@
     "Naiset > Vaatteet"
    ],
    "lvl2": [
-    "Naiset > Vaatteet > T-paidat ja hihattomat"
-   ],
-   "lvl3": [
-    "Naiset > Vaatteet > T-paidat ja hihattomat > Lyhythihaiset"
+    "Naiset > Vaatteet > Yläosat"
    ]
   },
-  "storageSite": null,
-  "isOnShelf": false,
+  "storageSite": "K",
+  "isOnShelf": true,
   "searchableExternalCategory": [
-   "Naiset > Vaatteet > T-paidat ja hihattomat > Lyhythihaiset"
+   "Naiset > Vaatteet > Yläosat"
   ],
   "saleType": "regular",
-  "personalization_sizeCategory": "WMN-INT-M-Naiset > Vaatteet > T-paidat ja hihattomat",
+  "personalization_sizeCategory": "WMN-EU-38-Naiset > Vaatteet > Yläosat",
   "titleOutputOrder": [
    "brand",
    "type",
@@ -391,77 +391,103 @@
    "demography",
    "extra"
   ],
-  "itemAbTestFraction": 0.486379920375108,
+  "itemAbTestFraction": 0.78721989837485,
   "brandClassification": {
    "styles": [
-    "Chic",
-    "Business"
+    "Y2k",
+    "Urban"
    ],
    "ageGroups": [
-    "Gen Z",
-    "Gen Y",
-    "Gen X"
+    "Gen Z"
    ],
    "pricePoint": 2,
-   "originVibe": "European",
+   "originVibe": "Scandinavian",
    "ethos": "Fast fashion",
-   "aestheticTone": "Elegant"
+   "aestheticTone": "Edgy"
   },
-  "keywords": [
-   "hihaton",
-   "pyöreä pääntie",
-   "perusvaate",
-   "kerrospukeutuminen",
-   "yksivärinen",
-   "kesä",
-   "toppi",
-   "istuva"
+  "materials": [
+   "Polyesteri",
+   "Tekokuidut"
   ],
-  "style": null,
+  "keywords": [
+   "satiinitoppi",
+   "halterneck",
+   "smokattu selkä",
+   "cowl neck",
+   "hihaton",
+   "crop top",
+   "juhlatoppi",
+   "kesätoppi",
+   "selkäsidonta",
+   "v-pääntie"
+  ],
+  "style": [
+   "tyylikäs",
+   "glamour"
+  ],
   "brandGroups": [
-   "Fast Fashion & Affordable",
-   "Trendy Casual",
-   "Modern & Contemporary"
+   "Modern & Contemporary",
+   "Women's Fashion & Lifestyle",
+   "Teen & Youth Culture"
   ],
   "concept": null,
-  "weight": 0.08,
+  "weight": 0.11,
   "itemPackaging": "ApMPjt31KN",
   "salesChannel": "market",
   "pricing": {
-   "amount": 6,
+   "amount": 15,
    "currency": "EUR"
   },
   "isForSale": true,
-  "saleStartedAt": 1794347347717,
+  "saleStartedAt": 1794347580040,
   "lastChance": false,
   "price_FI": {
-   "amount": 600,
+   "amount": 1500,
    "currency": "EUR"
   },
   "priceDrop_FI": null,
-  "firstOfferedAt_FI": 1794347347717,
-  "objectID": "fZfoIsQjNu",
+  "firstOfferedAt_FI": 1794347580040,
+  "objectID": "QC4rvj08wy",
   "_highlightResult": {
    "user": {
-    "value": "NxfdyTGy2s",
+    "value": "pkLQicbGjh",
     "matchLevel": "none",
     "matchedWords": []
    },
    "metadata": {
     "size": {
-     "value": "WMN-INT-M",
+     "value": "WMN-EU-38",
      "matchLevel": "none",
      "matchedWords": []
     },
+    "season": [
+     {
+      "value": "Kesä",
+      "matchLevel": "none",
+      "matchedWords": []
+     }
+    ],
     "color": [
      {
-      "value": "Valkoinen",
+      "value": "Beige",
+      "matchLevel": "none",
+      "matchedWords": []
+     }
+    ],
+    "fabric": {
+     "value": "Satiini",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "material": [
+     {
+      "value": "Polyesteri",
       "matchLevel": "none",
       "matchedWords": []
      }
     ],
     "brand": {
-     "value": "Zara",
+     "value": "NA-KD",
      "matchLevel": "none",
      "matchedWords": []
     },
@@ -481,75 +507,100 @@
      "matchedWords": []
     },
     "neckline": {
-     "value": "Neliömäinen kaula",
+     "value": "V-aukko",
      "matchLevel": "none",
      "matchedWords": []
     },
     "type": {
-     "value": "Hihaton toppi",
+     "value": "Halterneck-toppi",
      "matchLevel": "none",
      "matchedWords": []
     }
    },
    "sizes": [
     {
-     "value": "WMN-INT-M",
+     "value": "WMN-EU-38",
      "matchLevel": "none",
      "matchedWords": []
     }
    ],
-   "categories": {
-    "lvl3": [
-     {
-      "value": "Naiset > Vaatteet > T-paidat ja hihattomat > Lyhythihaiset",
-      "matchLevel": "none",
-      "matchedWords": []
-     }
-    ]
-   },
+   "materials": [
+    {
+     "value": "Polyesteri",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    {
+     "value": "Tekokuidut",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   ],
    "keywords": [
+    {
+     "value": "satiinitoppi",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    {
+     "value": "halterneck",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    {
+     "value": "smokattu selkä",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    {
+     "value": "cowl neck",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
     {
      "value": "hihaton",
      "matchLevel": "none",
      "matchedWords": []
     },
     {
-     "value": "pyöreä pääntie",
+     "value": "crop top",
      "matchLevel": "none",
      "matchedWords": []
     },
     {
-     "value": "perusvaate",
+     "value": "juhlatoppi",
      "matchLevel": "none",
      "matchedWords": []
     },
     {
-     "value": "kerrospukeutuminen",
+     "value": "kesätoppi",
      "matchLevel": "none",
      "matchedWords": []
     },
     {
-     "value": "yksivärinen",
+     "value": "selkäsidonta",
      "matchLevel": "none",
      "matchedWords": []
     },
     {
-     "value": "kesä",
+     "value": "v-pääntie",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   ],
+   "style": [
+    {
+     "value": "tyylikäs",
      "matchLevel": "none",
      "matchedWords": []
     },
     {
-     "value": "toppi",
-     "matchLevel": "none",
-     "matchedWords": []
-    },
-    {
-     "value": "istuva",
+     "value": "glamour",
      "matchLevel": "none",
      "matchedWords": []
     }
    ]
   }
  },
- "nbHits": 12924277
+ "nbHits": 12923840
 }

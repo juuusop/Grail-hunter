@@ -1,6 +1,6 @@
 {
- "generated": 1794347475,
- "brands_hash": "470f6aa2778f",
+ "generated": 1794347659,
+ "brands_hash": "7ea35ecaa651",
  "index": "prod_marketItem_fi_saleStartedAt_desc",
  "brand_attr": "metadata.brand",
  "price_attr": "price_FI",
@@ -23,13 +23,11 @@
   },
   "Boris Bidjan Saberi": {
    "values": [
-    "BBS",
-    "BBS Care",
     "by Boris Bidjan Saberi"
    ],
-   "count": 16,
-   "p25": 4.12,
-   "median": 16.25
+   "count": 8,
+   "p25": 44.25,
+   "median": 68.5
   },
   "Isaac Sellam": {
    "values": [
@@ -39,54 +37,36 @@
    "p25": null,
    "median": null
   },
-  "Julius": {
-   "values": [
-    "Julius",
-    "Julius & Friends",
-    "Julius Bär",
-    "Julius Hüpeden",
-    "Julius K9",
-    "Julius Lang",
-    "Julius Meyer",
-    "Julius Zöllner"
-   ],
-   "count": 337,
-   "p25": 4.5,
-   "median": 10.25
-  },
   "Rick Owens": {
    "values": [
     "Rick Owens",
     "Rick Owens DRKSHDW",
     "Rick Owens Lilies",
-    "Rick Owens Х Champion",
     "Rickowenslilies"
    ],
-   "count": 121,
+   "count": 118,
    "p25": 127.0,
-   "median": 155.0
+   "median": 154.0
   },
   "Maison Margiela": {
    "values": [
     "Maison Margiela",
     "Maison Margiela x Gentle Monster",
     "Maison Martin Margiela",
-    "Maison Martin Margiela by H&M",
     "Maison Martin Margiela x H&M",
     "Martin Margiela"
    ],
-   "count": 324,
-   "p25": 73.0,
-   "median": 119.5
+   "count": 276,
+   "p25": 76.75,
+   "median": 120.0
   },
   "MM6 Maison Margiela": {
    "values": [
-    "MM6 Maison Margiela x Salomon",
-    "MM6 by Maison Margiela"
+    "MM6 Maison Margiela x Salomon"
    ],
-   "count": 276,
-   "p25": 77.0,
-   "median": 115.0
+   "count": 3,
+   "p25": 140.0,
+   "median": 155.0
   },
   "Raf Simons": {
    "values": [
@@ -131,13 +111,12 @@
   },
   "Yohji Yamamoto": {
    "values": [
-    "Y's by Yohji Yamamoto",
     "Yohji Yamamoto",
     "Yohji Yamamoto Pour Homme"
    ],
-   "count": 34,
-   "p25": 114.75,
-   "median": 141.0
+   "count": 25,
+   "p25": 80.12,
+   "median": 127.5
   },
   "Y-3": {
    "values": [
@@ -199,13 +178,11 @@
   "Issey Miyake": {
    "values": [
     "Issey Miyake",
-    "Issey Miyake Fete",
-    "Issey Miyake Parfums",
     "Issey Miyake x UN"
    ],
-   "count": 108,
-   "p25": 46.25,
-   "median": 69.5
+   "count": 96,
+   "p25": 47.38,
+   "median": 73.5
   },
   "Homme Plissé Issey Miyake": {
    "values": [
@@ -230,7 +207,7 @@
    ],
    "count": 47,
    "p25": 130.0,
-   "median": 162.25
+   "median": 163.0
   },
   "Haider Ackermann": {
    "values": [
@@ -278,17 +255,13 @@
    "values": [
     "Gaultier Jeans",
     "Jean Paul Gaultier",
-    "Jean Paul Gaultier Jeans",
-    "Jean Paul Gaultier Parfums",
-    "Jean Paul Gaultier for Lindex",
-    "Jean Paul Gaultier for Target",
     "Jean Paul Gaultier x Lindex",
     "Jean Paul Gaultier x Y/Project",
     "Junior Gaultier"
    ],
-   "count": 447,
-   "p25": 40.0,
-   "median": 85.0
+   "count": 367,
+   "p25": 55.5,
+   "median": 104.5
   },
   "Deepti": {
    "values": [
@@ -309,21 +282,19 @@
   },
   "Carpe Diem": {
    "values": [
-    "Carpe Diem",
-    "Carpe Diem Beds"
+    "Carpe Diem"
    ],
-   "count": 37,
+   "count": 24,
    "p25": 3.5,
-   "median": 4.5
+   "median": 4.25
   },
   "Enfants Riches Déprimés": {
    "values": [
-    "Enfants Riches Déprimés",
-    "Erd Kids"
+    "Enfants Riches Déprimés"
    ],
-   "count": 12,
-   "p25": 225.0,
-   "median": 550.5
+   "count": 10,
+   "p25": 360.0,
+   "median": 551.0
   },
   "Chrome Hearts": {
    "values": [
@@ -373,16 +344,6 @@
    "count": 2,
    "p25": 117.12,
    "median": 132.75
-  },
-  "Augusta": {
-   "values": [
-    "Augusta",
-    "Augusta Pehrsons Eftr.",
-    "Augusta Sportswear"
-   ],
-   "count": 45,
-   "p25": 3.5,
-   "median": 3.75
   },
   "Marsèll": {
    "values": [
@@ -455,57 +416,47 @@
   "Vivienne Westwood": {
    "values": [
     "Vivienne Westwood",
-    "Vivienne Westwood Accessories",
     "Vivienne Westwood x Lee",
     "Vivienne Westwood x Melissa",
     "Vivienne Westwood x Red Label",
     "Vivienne Westwood x Wolford"
    ],
-   "count": 254,
-   "p25": 80.38,
-   "median": 114.5
+   "count": 250,
+   "p25": 80.5,
+   "median": 115.5
   },
   "Hermès": {
    "values": [
-    "Hermes Govantes",
-    "Hermes Inocencio",
     "Hermes Paris",
     "Hermès"
    ],
-   "count": 457,
-   "p25": 101.62,
-   "median": 146.25
+   "count": 451,
+   "p25": 103.5,
+   "median": 147.5
   },
   "Louis Vuitton": {
    "values": [
-    "Louis Vuitton",
-    "Louis Vuitton Uniformes"
+    "Louis Vuitton"
    ],
-   "count": 801,
-   "p25": 152.25,
-   "median": 194.0
+   "count": 779,
+   "p25": 155.0,
+   "median": 198.0
   },
   "Bottega Veneta": {
    "values": [
-    "Bottega Veneta",
-    "Bottega Veneta Parfum",
-    "Bottega Veneta Uniform"
+    "Bottega Veneta"
    ],
-   "count": 319,
-   "p25": 112.5,
-   "median": 158.0
+   "count": 314,
+   "p25": 119.0,
+   "median": 159.0
   },
   "Celine": {
    "values": [
-    "Celine Creation",
-    "Celine Dion",
-    "Celine Victor",
-    "Céline",
-    "Céline & Talisa x NA-KD"
+    "Céline"
    ],
-   "count": 701,
-   "p25": 116.75,
-   "median": 155.0
+   "count": 668,
+   "p25": 119.75,
+   "median": 156.0
   },
   "Dior Homme": {
    "values": [
@@ -518,129 +469,102 @@
   "Dior": {
    "values": [
     "Christian Dior",
-    "Christian Dior Boutique",
-    "Christian Dior Monsieur",
-    "Christian Dior Monsieur Sport",
-    "Christian Dior Parfums",
-    "Christian Dior Sports",
-    "Christian Dior Sportswear",
-    "Dior",
-    "Dior Beauté",
-    "Dior Dior",
-    "Dior Uniforms"
+    "Dior"
    ],
-   "count": 1452,
-   "p25": 60.0,
-   "median": 105.5
+   "count": 1093,
+   "p25": 82.0,
+   "median": 145.0
   },
   "Saint Laurent": {
    "values": [
     "Saint Laurent",
-    "YSL",
-    "YSL Beauty"
+    "YSL"
    ],
-   "count": 676,
-   "p25": 112.88,
+   "count": 675,
+   "p25": 115.88,
    "median": 160.0
   },
   "Yves Saint Laurent": {
    "values": [
-    "Yves Saint Laurent",
-    "Yves Saint Laurent Beauté",
-    "Yves Saint Laurent Enfance",
-    "Yves Saint Laurent Parfums"
+    "Yves Saint Laurent"
    ],
-   "count": 1025,
-   "p25": 52.25,
-   "median": 86.0
+   "count": 852,
+   "p25": 65.0,
+   "median": 101.0
   },
   "Prada": {
    "values": [
     "Prada",
-    "Prada Beauty",
     "Prada Linea Rossa"
    ],
-   "count": 3250,
-   "p25": 109.75,
+   "count": 3177,
+   "p25": 114.5,
    "median": 165.0
   },
   "Miu Miu": {
    "values": [
     "Miu Miu",
-    "Miu Miu Beauty",
-    "Miu Miu Parfums",
     "Miu Miu x New Balance"
    ],
-   "count": 834,
-   "p25": 100.0,
-   "median": 145.5
+   "count": 827,
+   "p25": 102.0,
+   "median": 146.5
   },
   "Fendi": {
    "values": [
     "Fendi",
-    "Fendi Jeans",
-    "Fendi Kids",
     "Fendi x Marc Jacobs",
     "Fendi x Skims",
     "Fendi x Versace",
     "Fendissime"
    ],
-   "count": 561,
-   "p25": 76.0,
-   "median": 135.5
+   "count": 492,
+   "p25": 80.75,
+   "median": 138.0
   },
   "Balenciaga": {
    "values": [
     "Balenciaga",
-    "Balenciaga Uniform",
     "Balenciaga x Adidas",
-    "Balenciaga x Crocs",
-    "Balenciaga. Knits"
+    "Balenciaga x Crocs"
    ],
-   "count": 891,
-   "p25": 118.5,
+   "count": 888,
+   "p25": 119.25,
    "median": 163.0
   },
   "Loewe": {
    "values": [
     "Loewe",
-    "Loewe Verlag",
     "Loewe x On",
     "Loewe x Paula's Ibiza",
     "Loewe x Uniqlo"
    ],
-   "count": 229,
-   "p25": 19.5,
-   "median": 137.0
+   "count": 195,
+   "p25": 104.75,
+   "median": 154.0
   },
   "Gucci": {
    "values": [
     "Gucci",
-    "Gucci Beauty",
-    "Gucci Parfums",
-    "Gucci Songs",
-    "Gucci Uniform",
     "Gucci x New York Yankees"
    ],
-   "count": 3021,
-   "p25": 106.0,
-   "median": 168.0
+   "count": 2980,
+   "p25": 110.5,
+   "median": 169.0
   },
   "Tom Ford": {
    "values": [
-    "TOM FORD Chloe",
     "Tom Ford"
    ],
-   "count": 578,
+   "count": 577,
    "p25": 79.5,
    "median": 125.0
   },
   "Alexander McQueen": {
    "values": [
-    "Alexander McQueen",
-    "Alexander McQueen for Puma"
+    "Alexander McQueen"
    ],
-   "count": 523,
+   "count": 522,
    "p25": 73.5,
    "median": 121.0
   },
@@ -655,14 +579,11 @@
   "Jil Sander": {
    "values": [
     "Jil Sander",
-    "Jil Sander Lufthansa",
-    "Jil Sander Navy",
-    "Jil Sander Parfums",
     "Jil Sander x Birkenstock"
    ],
-   "count": 1268,
-   "p25": 57.0,
-   "median": 107.0
+   "count": 1196,
+   "p25": 63.25,
+   "median": 111.75
   },
   "Lemaire": {
    "values": [
@@ -684,27 +605,23 @@
   "Marni": {
    "values": [
     "Marni",
-    "Marni at H&M",
-    "Marni by H&M",
     "Marni x Bruno B Bonetto",
     "Marni x Uniqlo"
    ],
-   "count": 1100,
-   "p25": 41.0,
-   "median": 65.0
+   "count": 897,
+   "p25": 46.0,
+   "median": 72.0
   },
   "Lanvin": {
    "values": [
     "Lanvin",
-    "Lanvin Parfums",
-    "Lanvin Perfums",
     "Lanvin x Acne",
     "Lanvin x Gallery Dept",
     "Lanvin x H&M"
    ],
-   "count": 624,
-   "p25": 39.0,
-   "median": 84.5
+   "count": 612,
+   "p25": 41.38,
+   "median": 86.5
   },
   "The Row": {
    "values": [
@@ -727,28 +644,16 @@
     "Totême"
    ],
    "count": 2843,
-   "p25": 86.25,
+   "p25": 86.0,
    "median": 144.0
   },
   "Chloé": {
    "values": [
-    "Chloe + Cyrus",
-    "Chloe + Jasmine",
-    "Chloe Laetitia",
-    "Chloe Louise",
-    "Chloe Noel",
-    "Chloe Ting",
-    "Chloé",
-    "Chloé B x NA-KD",
-    "Chloé Monchamp x NA-KD",
-    "Chloé Parfum",
-    "Chloé Schuterman",
-    "Chloé Schuterman by Nathalie Schuterman",
-    "Chloé Stora"
+    "Chloé"
    ],
-   "count": 1623,
-   "p25": 43.25,
-   "median": 111.0
+   "count": 1260,
+   "p25": 65.0,
+   "median": 129.5
   },
   "Loro Piana": {
    "values": [
@@ -793,14 +698,12 @@
   "Ermenegildo Zegna": {
    "values": [
     "Ermenegildo Zegna",
-    "Ermenegildo Zegna Couture",
-    "Ermenegildo Zegna Parfums",
     "Zegna",
     "Zegna Sport"
    ],
-   "count": 583,
-   "p25": 41.38,
-   "median": 66.5
+   "count": 576,
+   "p25": 42.75,
+   "median": 68.0
   },
   "Massimo Alba": {
    "values": [
@@ -821,41 +724,35 @@
   },
   "Aspesi": {
    "values": [
-    "Aspesi",
-    "Aspesi Blu"
+    "Aspesi"
    ],
-   "count": 632,
-   "p25": 30.0,
+   "count": 624,
+   "p25": 29.5,
    "median": 61.0
   },
   "Herno": {
    "values": [
-    "Herno",
-    "Herno Donna",
-    "Herno Iconico",
-    "Herno Laminar"
+    "Herno"
    ],
-   "count": 184,
+   "count": 173,
    "p25": 91.0,
-   "median": 137.75
+   "median": 138.0
   },
   "Colombo": {
    "values": [
-    "Colombo",
-    "Colombo Borgosesia"
+    "Colombo"
    ],
-   "count": 25,
+   "count": 23,
    "p25": 12.0,
    "median": 43.75
   },
   "Double RL": {
    "values": [
-    "Double RL by Ralph Lauren",
-    "RRL by Ralph Lauren"
+    "Double RL by Ralph Lauren"
    ],
-   "count": 26,
-   "p25": 32.0,
-   "median": 112.0
+   "count": 15,
+   "p25": 116.0,
+   "median": 137.0
   },
   "Geoffrey Beene": {
    "values": [
@@ -877,163 +774,88 @@
   "Versace": {
    "values": [
     "Gianni Versace",
-    "Gianni Versace Couture",
-    "Gianni Versace Intimo",
     "Versace",
-    "Versace 1969",
-    "Versace Beachwear",
-    "Versace Classic",
-    "Versace Classic V2",
-    "Versace Classics",
-    "Versace Collection",
-    "Versace Fragrances",
-    "Versace Home",
-    "Versace Intensive",
-    "Versace Jeans",
-    "Versace Jeans Couture",
-    "Versace Jeans Signature",
-    "Versace Parfums",
-    "Versace Sport",
-    "Versace Underwear",
-    "Versace Watches",
-    "Versace for H&M"
+    "Versace Sport"
    ],
-   "count": 2642,
-   "p25": 48.0,
-   "median": 79.0
+   "count": 764,
+   "p25": 47.0,
+   "median": 84.0
   },
   "Dolce & Gabbana": {
    "values": [
     "Dolce & Gabbana",
-    "Dolce & Gabbana Athletic",
-    "Dolce & Gabbana Basic",
-    "Dolce & Gabbana Beachwear",
-    "Dolce & Gabbana Beauty",
-    "Dolce & Gabbana Intimo",
-    "Dolce & Gabbana J&ANS",
-    "Dolce & Gabbana Junior",
-    "Dolce & Gabbana Parfums",
-    "Dolce & Gabbana Underwear",
     "Dolce & Gabbana x Havaianas",
     "Dolce & Gabbana x Khaled Khaled",
     "Dolce & Gabbana x Skims"
    ],
-   "count": 3759,
-   "p25": 51.0,
-   "median": 96.0
+   "count": 3425,
+   "p25": 60.0,
+   "median": 103.25
   },
   "Moschino": {
    "values": [
-    "Moschino",
-    "Moschino Baby",
-    "Moschino Bambino",
-    "Moschino Cheap and Chic",
-    "Moschino Couture!",
-    "Moschino Fragrances",
-    "Moschino Jeans",
-    "Moschino Junior",
-    "Moschino Kid",
-    "Moschino Lingerie",
-    "Moschino Mare",
-    "Moschino Parfums",
-    "Moschino Swim",
-    "Moschino Teen",
-    "Moschino Toy",
-    "Moschino Underwear",
-    "Moschino by Redwall"
+    "Moschino"
    ],
-   "count": 1709,
-   "p25": 28.5,
-   "median": 48.0
+   "count": 432,
+   "p25": 32.0,
+   "median": 56.75
   },
   "Dsquared2": {
    "values": [
     "Dsquared",
     "Dsquared2",
-    "Dsquared2 Beachwear",
-    "Dsquared2 Perfumes",
-    "Dsquared2 Underwear",
-    "Dsquared2 x Smiley",
-    "Dsquared2 × Octobers Very Own"
+    "Dsquared2 x Smiley"
    ],
-   "count": 3093,
+   "count": 3051,
    "p25": 54.5,
    "median": 96.0
   },
   "Kenzo": {
    "values": [
     "Kenzo",
-    "Kenzo Amour",
-    "Kenzo City",
     "Kenzo Homme",
-    "Kenzo Jeans",
-    "Kenzo Jungle",
-    "Kenzo Junior",
-    "Kenzo Kids",
-    "Kenzo Maison",
-    "Kenzo Memento Collection 2",
-    "Kenzo Parfums",
-    "Kenzo Wave",
     "Kenzo x H&M",
     "Kenzo x Vans"
    ],
-   "count": 4145,
-   "p25": 23.0,
-   "median": 45.0
+   "count": 2820,
+   "p25": 36.75,
+   "median": 57.0
   },
   "Diesel": {
    "values": [
-    "DieSel-Co.",
     "Diesel",
-    "Diesel + Edun",
-    "Diesel Basic Jeans",
-    "Diesel Beachwear",
-    "Diesel Black Gold",
-    "Diesel Clouds",
-    "Diesel Females",
-    "Diesel Fragrances",
-    "Diesel Industry",
-    "Diesel Jeans",
-    "Diesel Kid",
-    "Diesel Parfums",
-    "Diesel Style Lab",
-    "Diesel Tricot & Co.",
-    "Diesel Workwear",
-    "Diesel for Females"
+    "Diesel Black Gold"
    ],
-   "count": 12733,
-   "p25": 19.0,
+   "count": 11261,
+   "p25": 20.0,
    "median": 30.0
   },
   "Sacai": {
    "values": [
     "A.P.C. Sacai",
-    "Sacai",
-    "Sacai Luck"
+    "Sacai"
    ],
-   "count": 16,
+   "count": 15,
    "p25": 66.0,
    "median": 125.0
   },
   "Kolor": {
    "values": [
-    "Kolor",
-    "Kolor Knits"
+    "Kolor"
    ],
-   "count": 13,
-   "p25": 5.0,
+   "count": 12,
+   "p25": 4.75,
    "median": 16.0
   },
   "Toga": {
    "values": [
     "Toga",
-    "Toga Archives x H&M",
     "Toga Pulla",
     "Toga Virilis"
    ],
-   "count": 52,
-   "p25": 33.0,
-   "median": 57.0
+   "count": 39,
+   "p25": 28.5,
+   "median": 47.5
   },
   "Facetasm": {
    "values": [
@@ -1109,24 +931,21 @@
   },
   "Beams": {
    "values": [
-    "Beams",
-    "Beams Boy",
-    "Beams Heart"
+    "Beams"
    ],
-   "count": 91,
-   "p25": 9.62,
-   "median": 20.5
+   "count": 76,
+   "p25": 12.0,
+   "median": 31.0
   },
   "Porter": {
    "values": [
     "Head Porter Plus",
     "Porter",
-    "Porter Stevens",
     "Porter-Yoshida & Co"
    ],
-   "count": 20,
-   "p25": 5.0,
-   "median": 52.5
+   "count": 17,
+   "p25": 11.88,
+   "median": 64.0
   },
   "Neighborhood": {
    "values": [
@@ -1155,13 +974,11 @@
   "A Bathing Ape": {
    "values": [
     "A Bathing Ape",
-    "Bape",
-    "Bape Kids by A Bathing Ape",
-    "Bape Sta"
+    "Bape"
    ],
-   "count": 130,
-   "p25": 51.38,
-   "median": 82.5
+   "count": 112,
+   "p25": 65.12,
+   "median": 99.25
   },
   "Nonnative": {
    "values": [
@@ -1174,13 +991,12 @@
   "Evisu": {
    "values": [
     "Evisu",
-    "Evisu Donna",
     "Evisu Heritage",
     "Evisu x Puma"
    ],
-   "count": 145,
-   "p25": 55.38,
-   "median": 112.5
+   "count": 143,
+   "p25": 56.5,
+   "median": 113.0
   },
   "Goldwin": {
    "values": [
@@ -1266,60 +1082,55 @@
   "Salomon": {
    "values": [
     "Salomon",
-    "Salomon Mini",
     "Salomon x KAR L'Art de L'Automobile"
    ],
-   "count": 3658,
+   "count": 3657,
    "p25": 27.75,
    "median": 57.0
   },
   "Patagonia": {
    "values": [
-    "Patagonia",
-    "Patagonia Kids"
+    "Patagonia"
    ],
-   "count": 5167,
-   "p25": 43.0,
-   "median": 67.0
+   "count": 5143,
+   "p25": 41.75,
+   "median": 66.0
   },
   "The North Face": {
    "values": [
     "The North Face",
-    "The North Face Summit Series",
     "The North Face x Gucci",
     "The North Face x Skims",
     "The North Face x Supreme"
    ],
-   "count": 12445,
+   "count": 12085,
    "p25": 24.0,
-   "median": 48.0
+   "median": 46.0
   },
   "Oakley": {
    "values": [
     "Oakley"
    ],
    "count": 727,
-   "p25": 15.5,
+   "p25": 15.62,
    "median": 29.0
   },
   "Canada Goose": {
    "values": [
-    "Canada Goose",
-    "Canada Goose Home"
+    "Canada Goose"
    ],
-   "count": 225,
-   "p25": 128.0,
-   "median": 162.0
+   "count": 220,
+   "p25": 132.0,
+   "median": 164.5
   },
   "Moncler": {
    "values": [
     "Moncler",
     "Moncler Gamme Rouge",
     "Moncler Genius",
-    "Moncler Grenoble",
-    "Moncler Parfums"
+    "Moncler Grenoble"
    ],
-   "count": 1618,
+   "count": 1615,
    "p25": 92.0,
    "median": 137.0
   },
@@ -1376,12 +1187,11 @@
    "values": [
     "Stone Island",
     "Stone Island Denims",
-    "Stone Island Junior",
     "Supreme x Stone Island"
    ],
-   "count": 2121,
-   "p25": 64.0,
-   "median": 98.0
+   "count": 1576,
+   "p25": 77.0,
+   "median": 119.5
   },
   "C.P. Company": {
    "values": [
@@ -1411,11 +1221,6 @@
   "Supreme": {
    "values": [
     "Supreme",
-    "Supreme Basics",
-    "Supreme Creations",
-    "Supreme Top",
-    "Supreme by Melly",
-    "Supreme kids mood",
     "Supreme x Comme des Garçons SHIRT",
     "Supreme x Gucci",
     "Supreme x Hanes",
@@ -1424,20 +1229,18 @@
     "Supreme x Sasquatchfabrix",
     "Supreme x Undercover"
    ],
-   "count": 546,
-   "p25": 43.0,
-   "median": 64.0
+   "count": 494,
+   "p25": 47.0,
+   "median": 68.0
   },
   "1017 Alyx 9SM": {
    "values": [
     "1017 Alyx 9SM",
-    "Alyx",
-    "Alyx Dress",
-    "Alyx Woman"
+    "Alyx"
    ],
-   "count": 37,
-   "p25": 3.5,
-   "median": 17.25
+   "count": 33,
+   "p25": 9.25,
+   "median": 19.75
   },
   "Vetements": {
    "values": [
@@ -1489,21 +1292,19 @@
   },
   "Off-White": {
    "values": [
-    "Off-White",
-    "Off-White Kids"
+    "Off-White"
    ],
-   "count": 595,
-   "p25": 65.38,
-   "median": 110.5
+   "count": 549,
+   "p25": 70.0,
+   "median": 115.5
   },
   "Fear of God": {
    "values": [
-    "Fear of God",
-    "Fear of God Essentials"
+    "Fear of God"
    ],
-   "count": 334,
-   "p25": 38.5,
-   "median": 57.75
+   "count": 37,
+   "p25": 29.62,
+   "median": 55.75
   },
   "Rhude": {
    "values": [
@@ -1561,13 +1362,12 @@
   "Acne Studios": {
    "values": [
     "Acne Studios",
-    "Acne Studios Blå Konst",
     "Acne Studios x Fjällräven",
     "Acne Studios x Monster in My Pocket"
    ],
-   "count": 11301,
-   "p25": 36.0,
-   "median": 77.5
+   "count": 10361,
+   "p25": 39.0,
+   "median": 84.5
   },
   "Our Legacy": {
    "values": [
@@ -1580,12 +1380,11 @@
   },
   "Studio Nicholson": {
    "values": [
-    "Studio Nicholson",
-    "Studio Nicholson + Zara"
+    "Studio Nicholson"
    ],
-   "count": 34,
-   "p25": 38.0,
-   "median": 61.0
+   "count": 18,
+   "p25": 37.25,
+   "median": 65.0
   },
   "Mfpen": {
    "values": [
@@ -1597,21 +1396,19 @@
   },
   "Séfr": {
    "values": [
-    "Séfr",
-    "Séfr Séfr"
+    "Séfr"
    ],
-   "count": 228,
-   "p25": 30.25,
-   "median": 52.5
+   "count": 218,
+   "p25": 31.0,
+   "median": 54.0
   },
   "Bode": {
    "values": [
-    "Bode",
-    "Bode Stricmode"
+    "Bode"
    ],
-   "count": 90,
+   "count": 82,
    "p25": 4.5,
-   "median": 14.0
+   "median": 14.25
   },
   "A.P.C.": {
    "values": [
@@ -1619,16 +1416,12 @@
     "A.P.C x Carhartt",
     "A.P.C x Lacoste",
     "A.P.C.",
-    "A.P.C. & Vanessa Seward",
-    "A.P.C. Brain Dead",
-    "A.P.C. Fadhila",
     "A.P.C. x Carhartt WIP",
-    "A.P.C.O.V.",
     "APC"
    ],
-   "count": 1065,
+   "count": 1060,
    "p25": 24.0,
-   "median": 41.5
+   "median": 42.5
   },
   "Paraboot": {
    "values": [
@@ -1640,12 +1433,11 @@
   },
   "Alden": {
    "values": [
-    "Alden",
-    "Alden Howard"
+    "Alden"
    ],
-   "count": 13,
-   "p25": 132.0,
-   "median": 200.0
+   "count": 12,
+   "p25": 138.0,
+   "median": 209.5
   },
   "John Lobb": {
    "values": [
@@ -1673,16 +1465,16 @@
   },
   "Church's": {
    "values": [
-    "Church's",
-    "Church's English Shoes"
+    "Church's"
    ],
-   "count": 124,
+   "count": 123,
    "p25": 67.25,
    "median": 117.5
   }
  },
  "not_found": [
   "Paul Harnden",
+  "Julius_7",
   "Takahiromiyashita The Soloist",
   "Comme des Garçons Homme Plus",
   "Noir Kei Ninomiya",
@@ -1717,81 +1509,81 @@
   "Mini Boden": 2779,
   "See by Chloé": 1613,
   "Love Moschino": 1373,
+  "Diesel Industry": 1113,
+  "Acne Studios Blå Konst": 939,
+  "Kenzo Kids": 850,
   "Marville Road": 820,
+  "Versace Jeans Couture": 790,
+  "Stone Island Junior": 545,
   "Prêt à Porter": 529,
   "Freeman T. Porter": 511,
+  "Moschino Cheap and Chic": 405,
+  "The North Face Summit Series": 360,
   "Baby Boden": 331,
+  "Versace Jeans": 329,
+  "Versace Collection": 304,
+  "Fear of God Essentials": 297,
   "Grüne Erde": 289,
+  "Moschino Jeans": 284,
+  "MM6 by Maison Margiela": 273,
+  "Kenzo Jungle": 254,
   "Pins and Needles": 245,
+  "Versace for H&M": 220,
+  "Chloé B x NA-KD": 210,
+  "Marni at H&M": 195,
+  "Moschino Couture!": 194,
   "Country Road": 194,
   "Z Zegna": 188,
   "Roadsign Australia": 187,
   "Versus Versace": 183,
+  "Christian Dior Parfums": 172,
   "McQ by Alexander McQueen": 152,
+  "Dolce & Gabbana Underwear": 151,
+  "Yves Saint Laurent Beauté": 148,
+  "Kenzo Jeans": 136,
   "H&M x Moschino": 130,
   "Erdem x H&M": 121,
   "Kings Road": 119,
   "Boutique Moschino": 118,
   "Boden Denim": 116,
   "Cheap And Chic by Moschino": 115,
+  "Diesel Kid": 93,
+  "Dior Beauté": 92,
   "Silk Road": 90,
+  "Moschino Baby": 82,
+  "Diesel Basic Jeans": 75,
+  "Prada Beauty": 73,
   "Roadsign": 73,
+  "Versace Classic V2": 72,
+  "Moschino Underwear": 72,
+  "DieSel-Co.": 68,
   "19V69 Italia by Versace 1969": 65,
+  "Jean Paul Gaultier for Lindex": 63,
   "Même Road": 62,
+  "Jil Sander Navy": 61,
+  "Moschino Kid": 60,
   "Ice Iceberg": 60,
   "Agatha Ruiz de la Prada": 59,
+  "Moschino Teen": 57,
+  "Dolce & Gabbana Junior": 53,
   "Burberry": 52,
+  "Moschino Swim": 51,
+  "Maison Martin Margiela by H&M": 48,
+  "Chloé Parfum": 48,
+  "Diesel Beachwear": 47,
+  "Off-White Kids": 46,
   "Erdem": 45,
+  "Chloé Stora": 45,
   "New Roads": 45,
   "Erdbär": 44,
   "H&M Comme des Garçons": 43,
+  "Christian Dior Boutique": 42,
   "Road": 42,
   "Baby Dior": 40,
+  "Christian Dior Monsieur": 39,
+  "Versace Parfums": 39,
+  "Dsquared2 Underwear": 38,
   "Nike x Stüssy": 38,
-  "Uniqlo and Lemaire": 37,
-  "Versus Gianni Versace": 37,
-  "Porter+Ash": 35,
-  "Nike x Off-White": 34,
-  "Bodenschatz": 34,
-  "Supremebeing": 33,
-  "Yves Salomon": 30,
-  "Uniqlo x White Mountaineering": 26,
-  "Roadstar": 26,
-  "VJC Versace": 25,
-  "AAPE By A Bathing Ape": 25,
-  "Young Versace": 22,
-  "Urban Roam": 22,
-  "Bauer x Supreme": 22,
-  "Freeman Porter": 19,
-  "ACW85": 19,
-  "Bao Bao Issey Miyake": 18,
-  "Augustat": 18,
-  "Ing Loro Piana & C": 18,
-  "Fred Perry x Raf Simons": 17,
-  "Uniqlo J+ Jil Sander": 17,
-  "On the Road": 17,
-  "Roark": 17,
-  "The Roadster": 17,
-  "Má": 14,
-  "Alberto Aspesi": 14,
-  "Boden Limited Edition": 14,
-  "Flower by Kenzo": 13,
-  "Net-a-porter": 13,
-  "Erdinger": 12,
-  "Studio Rundholz": 12,
-  "Adidas x Gucci": 12,
-  "Paffen Sport": 12,
-  "Piero Guidi": 10,
-  "Erdmann": 10,
-  "Pradap": 10,
-  "Lily of The Row": 10,
-  "H&MOSCHINO": 10,
-  "Laura Guidi": 9,
-  "Twins by Julius Hüpeden": 9,
-  "Chloe's Closet": 9,
-  "Girls Boden": 9,
-  "By Julius": 8,
-  "Adidas x Raf Simons": 8,
-  "Disney x Gucci": 8
+  "Uniqlo and Lemaire": 37
  }
 }
