@@ -224,7 +224,7 @@ def run(cfg):
             vs["seen"][oid] = S.now_ts()
             if matcher.match(S.dig(h, S.BRAND_ATTR)) or not h.get("images") or h.get("isReserved"):
                 continue
-            if S.norm(S.first_str(S.dig(h, "metadata.size"))).startswith("child"):
+            if S.norm(S.first_str(S.dig(h, "metadata.size"))).startswith("child") or not S.size_fits(S.first_str(S.dig(h, "metadata.size")), st.get("sizes")):
                 continue
             sc, why = text_signal(h)
             if sc >= float(st.get("vision_text_min", 2.5)):

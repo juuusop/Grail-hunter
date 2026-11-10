@@ -17,9 +17,23 @@ settings:
   # Yleisille brändeille hinnan pitää olla myös alle mediaani × tämä × tuotetyypin kerroin.
   sellpy_median_factor: 0.8
   # Koot: tyhjä lista = kaikki koot. Esim. clothing: [M, L], shoes: ["43", "44"]
+  # jp:n koot: yläosat ja alaosat L ja isommat, vyötärö n. 100 cm, kengät 43–45.
+  # Tekstiarvo = pienin INT-koko, [min, max] = numeroväli. Koodit joita ei ole listattu
+  # (one size, laukut, hatut, '-') menevät aina läpi. Poista koko osio = kaikki koot.
   sizes:
-    clothing: []
-    shoes: []
+    men-int: L
+    wmn-int: XL          # naisten XL ~ miesten L
+    men-eu: [52, 64]     # miesten EU 52 = L
+    men-eu_regular: [52, 64]
+    men-eu_long: [102, 114]
+    men-eu_short: [26, 32]
+    men-eu_collar: [41, 48]
+    wmn-eu: [44, 56]
+    pants-inch: [35, 44]  # vyötärö ~100 cm ≈ W36–W38 farkuissa
+    pants-int: L
+    shoes-eu: [43, 45.5]
+    shoes-uk: [9, 11]
+    shoes-us: [10, 11.5]
   # Rajaa pääkategoriaan, esim. [Miehet]. Tyhjä = kaikki.
   categories_lvl0: [Miehet, Naiset]
   # Kuinka monta sivua (100 kpl) uusinta haetaan per ajo, jos edellistä ei löydy.

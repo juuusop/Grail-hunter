@@ -140,6 +140,44 @@ def load_brands() -> list[Brand]:
     return out
 
 
+INT_ORDER = ["xxxs", "xxs", "xs", "s", "m", "l", "xl", "xxl", "2xl", "3xl", "xxxl", "4xl", "5xl", "6xl"]
+INT_RANK = {k: i for i, k in enumerate(INT_ORDER)}
+INT_RANK.update({"2xl": INT_RANK["xxl"], "xxxl": INT_RANK["3xl"]})
+
+
+def _num(x: str) -> float | None:
+    m = re.match(r"(\d+(?:\.\d+)?)", x)
+    return float(m.group(1)) if m else None
+
+
+def size_fits(size: str, rules: dict | None) -> bool:
+    """True if any part of a Sellpy size code (e.g. MEN-INT-M/L, SHOES-EU-43.5) is in jp's range.
+    Codes the rules do not cover (one size, hats, bags, '-') always pass."""
+    if not rules or not size or size.strip() in ("-", ""):
+        return True
+    for code in str(size).split(","):
+        code = code.strip().upper()
+        parts = code.split("-", 2)
+        if len(parts) < 3:
+            return True
+        kind, system, val = parts
+        key = f"{kind}-{system}".lower()
+        rule = rules.get(key)
+        if rule is None:
+            return True  # unknown system: don't hide it
+        for v in val.split("/"):
+            v = v.strip().lower()
+            if isinstance(rule, str):  # minimum INT size
+                if INT_RANK.get(v, -1) >= INT_RANK.get(rule.lower(), 99):
+                    return True
+            else:  # [min, max] numeric
+                n = _num(v)
+                lo, hi = rule[0], (rule[1] if len(rule) > 1 else None)
+                if n is not None and n >= lo and (hi is None or n <= hi):
+                    return True
+    return False
+
+
 class BrandMatcher:
     """Maps any brand string (Sellpy facet value) to a configured brand.
     Longest alias wins, so 'Comme des Garçons Homme Plus' beats 'Comme des Garçons'."""
@@ -318,9 +356,6 @@ class Evaluator:
         self.min_score = float(self.st.get("min_score", 2.0))
         self.rare_min = float(self.st.get("rare_min_score", 0.9))
         self.max_price = self.st.get("max_price")
-        sizes = self.st.get("sizes") or {}
-        self.sizes_cloth = {norm(x) for x in (sizes.get("clothing") or [])}
-        self.sizes_shoe = {norm(x) for x in (sizes.get("shoes") or [])}
         self.excl = [w for w in cfg.get("exclude_words", [])]
         self.rare_words = cfg.get("rare_words", [])
         self.gboost = {k: float(v) for k, v in (cfg.get("global_boost") or {}).items()}
@@ -356,13 +391,7 @@ class Evaluator:
         return best[1] if best else 0.95
 
     def _size_ok(self, size: str, cat: str) -> bool:
-        allowed = self.sizes_shoe if cat == "kengät" else self.sizes_cloth
-        if not allowed or not size:
-            return True
-        n = norm(size)
-        if n in ("one size", "onesize", "os", "yksi koko"):
-            return True
-        return n in allowed or any(has_word(n, a) for a in allowed)
+        return size_fits(size, self.st.get("sizes"))
 
     def evaluate(self, hit: dict, sp: Sellpy, hunt: dict | None = None) -> Find | None:
         oid = str(hit.get("objectID", ""))

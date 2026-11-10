@@ -115,3 +115,12 @@ def test_run_end_to_end(env):
     finds2 = json.loads((env / "data/finds.json").read_text())
     assert finds2[0]["id"] == "a1" and finds2[0]["old_price"] == 120
     assert "FINDS" not in "" and (env / "FINDS.md").read_text().count("a1") >= 1
+
+
+def test_size_fits():
+    rules = {"men-int": "L", "shoes-eu": [43, 45.5], "pants-inch": [35, 44]}
+    assert S.size_fits("MEN-INT-XL", rules) and S.size_fits("MEN-INT-M/L", rules)
+    assert not S.size_fits("MEN-INT-M", rules)
+    assert S.size_fits("SHOES-EU-44.5", rules) and not S.size_fits("SHOES-EU-41", rules)
+    assert not S.size_fits("PANTS-INCH-32", rules) and S.size_fits("PANTS-INCH-38", rules)
+    assert S.size_fits("ONE SIZE", rules) and S.size_fits("-", rules) and S.size_fits("", rules)
