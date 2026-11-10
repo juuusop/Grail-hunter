@@ -1,0 +1,536 @@
+{
+ "facets": {
+  "sizes": {
+   "WMN-INT-M": 1611842,
+   "WMN-INT-S": 1600650,
+   "NO SIZE": 1095213,
+   "WMN-INT-L": 885532,
+   "WMN-EU-38": 620971
+  },
+  "style": {
+   "rento": 5043570,
+   "minimalistinen": 3049042,
+   "tyylikäs": 1963381,
+   "athleisure": 1301573,
+   "boheemi": 1135952
+  },
+  "segment": {
+   "women": 8864000,
+   "children": 1862001,
+   "men": 1362996,
+   "things": 599788,
+   "unisex": 235573
+  },
+  "saleType": {
+   "regular": 12749561,
+   "influencer": 95536,
+   "business": 76031,
+   "upcycle": 7
+  },
+  "materials": {
+   "Tekokuidut": 6736095,
+   "Polyesteri": 4021397,
+   "Puuvilla": 4014805,
+   "Elastaani": 3232959,
+   "Luonnonkuidut": 2226365
+  },
+  "brandGroups": {
+   "Fast Fashion & Affordable": 3726976,
+   "Modern & Contemporary": 3721869,
+   "Quality Products": 2229251,
+   "Scandinavian Style & Minimalism": 2099701,
+   "Women's Fashion & Lifestyle": 1987955
+  },
+  "storageSite": {
+   "K": 5961422,
+   "J": 3482113,
+   "M": 2326874,
+   "G": 69,
+   "F": 50
+  },
+  "salesChannel": {
+   "market": 12306858,
+   "tradera": 2379
+  },
+  "metadata.size": {
+   "WMN-INT-S": 1448401,
+   "WMN-INT-M": 1415474,
+   "WMN-INT-L": 767970,
+   "WMN-EU-38": 563174,
+   "WMN-INT-XS": 546680
+  },
+  "metadata.type": {
+   "Mekko": 986888,
+   "Farkut": 665744,
+   "T-paita": 649954,
+   "Yläosa": 444117,
+   "Neulepaita": 391870
+  },
+  "metadata.brand": {
+   "H&M": 871662,
+   "Zara": 549678,
+   "Divided by H&M": 134523,
+   "Lindex": 131430,
+   "Shein": 129545
+  },
+  "metadata.color": {
+   "Musta": 3673078,
+   "Sininen": 2623630,
+   "Valkoinen": 2520382,
+   "Beige": 1449698,
+   "Harmaa": 1446940
+  },
+  "categories.lvl0": {
+   "Naiset": 9149329,
+   "Lapset": 1852052,
+   "Miehet": 1646757,
+   "Muut tuotteet": 519166,
+   "Kauneustuotteet": 39176
+  },
+  "categories.lvl1": {
+   "Naiset > Vaatteet": 8060240,
+   "Lapset > Vaatteet": 1641074,
+   "Miehet > Vaatteet": 1288004,
+   "Naiset > Asusteet": 619447,
+   "Naiset > Kengät": 469639
+  },
+  "categories.lvl2": {
+   "Naiset > Vaatteet > Mekot": 1595643,
+   "Naiset > Vaatteet > Housut ja farkut": 1305710,
+   "Naiset > Vaatteet > Villapaidat ja neuletakit": 947006,
+   "Naiset > Vaatteet > Yläosat": 665035,
+   "Naiset > Vaatteet > Paidat ja puserot": 641672
+  },
+  "categories.lvl3": {
+   "Naiset > Vaatteet > Mekot > Mekot": 1462320,
+   "Naiset > Vaatteet > Housut ja farkut > Housut": 588208,
+   "Naiset > Vaatteet > Housut ja farkut > Farkut": 496316,
+   "Naiset > Vaatteet > T-paidat ja hihattomat > Lyhythihaiset": 490339,
+   "Naiset > Vaatteet > Villapaidat ja neuletakit > Neuleet": 455650
+  },
+  "itemPriceBucket": {
+   "50,100": 73497,
+   "100,150": 27964,
+   "150,200": 19042,
+   "30,50": 16235,
+   "200,250": 11645
+  },
+  "metadata.fabric": {
+   "Denim": 952324,
+   "Ribbineule": 470778,
+   "Hieno neule": 253918,
+   "Neulekangas": 215980,
+   "Pitsi": 138133
+  },
+  "metadata.season": {
+   "Kevät": 5336557,
+   "Kesä": 4887641,
+   "Syksy": 3085951,
+   "Talvi": 2258969
+  },
+  "price_FI.amount": {
+   "350": 3525985,
+   "500": 647346,
+   "450": 588821,
+   "400": 529590,
+   "600": 404327
+  },
+  "metadata.pattern": {
+   "Yksivärinen": 6593138,
+   "Muu": 1062607,
+   "Printti": 795160,
+   "Kukkakuvio": 702227,
+   "Raidallinen": 628764
+  },
+  "metadata.language": {
+   "Ruotsi": 27829,
+   "Saksa": 22798,
+   "Muu": 22141,
+   "Englanti": 7704,
+   "Tanska": 2135
+  },
+  "metadata.material": {
+   "Polyesteri": 4020848,
+   "Puuvilla": 4014373,
+   "Elastaani": 3232727,
+   "Viskoosi": 1752023,
+   "Polyamidi": 1093435
+  },
+  "metadata.neckline": {
+   "Pyöreä pääntie": 2080169,
+   "V-aukko": 894475,
+   "Neliömäinen kaula": 277603,
+   "Venekaula-aukkoinen": 181187,
+   "Olkaimeton": 89774
+  },
+  "proximityBucketV1": {
+   "3": 2429833,
+   "1": 2168129,
+   "5": 1933205,
+   "2": 1917773,
+   "4": 1196745
+  },
+  "metadata.condition": {
+   "Erittäin hyvä": 6632201,
+   "Hyvä": 4152706,
+   "Hyväksyttävä": 1541280,
+   "Uusi": 581988,
+   "Huono": 9688
+  },
+  "metadata.waistRise": {
+   "High": 38008,
+   "Medium": 17789,
+   "Low": 9539
+  },
+  "metadata.demography": {
+   "Naiset": 8869134,
+   "Miehet": 1363716,
+   "Tytöt": 853517,
+   "Unisex (Lapset)": 629868,
+   "Pojat": 379934
+  },
+  "metadata.pantsLength": {
+   "32": 105490,
+   "30": 44719,
+   "34": 41797,
+   "28": 6445,
+   "31": 5025
+  },
+  "metadata.defects.type": {
+   "Vähän likainen": 896931,
+   "Likainen": 549436,
+   "Vähän nukkaantunut": 539847,
+   "Hieman haalistunut väri": 386601,
+   "Haalistunut väri": 357079
+  },
+  "metadata.sleeveLength": {
+   "Pitkähihainen": 3170638,
+   "Lyhyt hihainen": 1369059,
+   "Hihaton": 1264662,
+   "Kolme neljäsosaa hiha": 233002
+  },
+  "metadata.garmentLength": {
+   "Midi": 1226932,
+   "Maxi": 409910,
+   "Mini": 397964
+  },
+  "metadata.restrictedModel": {
+   "Unknown": 414,
+   "iPad Wi-Fi": 32,
+   "iPad 5 Wi-Fi (2017)": 18,
+   "iPhone": 15,
+   "Watch SE": 13
+  },
+  "searchableExternalCategory": {
+   "Naiset > Vaatteet > Mekot > Mekot": 1462217,
+   "Naiset > Vaatteet > Yläosat": 665035,
+   "Naiset > Vaatteet > Housut ja farkut > Housut": 588157,
+   "Naiset > Vaatteet > Housut ja farkut > Farkut": 496298,
+   "Naiset > Vaatteet > T-paidat ja hihattomat > Lyhythihaiset": 490339
+  },
+  "metadata.measurement.waistInCm": {
+   "76": 209747,
+   "80": 203066,
+   "72": 202596,
+   "74": 150953,
+   "70": 148605
+  },
+  "metadata.measurement.widthInCm": {
+   "30": 18507,
+   "20": 17609,
+   "25": 15278,
+   "50": 13010,
+   "22": 12224
+  },
+  "metadata.measurement.heightInCm": {
+   "15": 17596,
+   "20": 14752,
+   "14": 13653,
+   "16": 13492,
+   "18": 12875
+  },
+  "metadata.measurement.lengthInCm": {
+   "200": 15075,
+   "50": 11266,
+   "20": 9746,
+   "2": 9709,
+   "180": 9681
+  },
+  "metadata.measurement.heelHeightInCm": {
+   "8": 17249,
+   "10": 17027,
+   "9": 15225,
+   "7": 14422,
+   "6": 12650
+  },
+  "metadata.measurement.innerLegLengthInCm": {
+   "80": 61084,
+   "70": 51130,
+   "75": 44322,
+   "78": 43365,
+   "72": 39477
+  }
+ },
+ "hit_keys": [
+  "_highlightResult",
+  "bag",
+  "bodyOutputOrder",
+  "brandClassification",
+  "brandGroups",
+  "categories",
+  "concept",
+  "createdAt",
+  "firstOfferedAt_FI",
+  "images",
+  "isForSale",
+  "isOnShelf",
+  "isReserved",
+  "itemAbTestFraction",
+  "itemIO",
+  "itemPackaging",
+  "keywords",
+  "lastChance",
+  "metadata",
+  "objectID",
+  "p2p",
+  "personalization_sizeCategory",
+  "priceDrop_FI",
+  "price_FI",
+  "pricing",
+  "productIdentifiers",
+  "saleStartedAt",
+  "saleType",
+  "salesChannel",
+  "searchableExternalCategory",
+  "segment",
+  "sizes",
+  "storageSite",
+  "style",
+  "titleOutputOrder",
+  "updatedAt",
+  "user",
+  "weight"
+ ],
+ "hit": {
+  "createdAt": 1793908178,
+  "updatedAt": 1794347243,
+  "user": "tjVZPG2vll",
+  "bag": "rMMTaADkBZ",
+  "metadata": {
+   "size": "SHOES-EU-37",
+   "details": [
+    "Nauhasolki",
+    "Low-top"
+   ],
+   "color": [
+    "Vihreä",
+    "Ruskea"
+   ],
+   "brand": "Lacoste",
+   "demography": "Naiset",
+   "countryOfOrigin": "VN",
+   "type": "Lenkkarit",
+   "condition": "Erittäin hyvä",
+   "productCode": "7-32CAW0135177"
+  },
+  "productIdentifiers": null,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-case-14-k-3/pQc4eGhJXL-0508-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-case-14-k-3/pQc4eGhJXL-0508-90.jpg",
+   "https://prod.images.sellpy.net/photoRobot-case-14-k-3/pQc4eGhJXL-0508-270.jpg",
+   "https://prod.images.sellpy.net/phone-images/pQc4eGhJXL-267f-cropped.jpg",
+   "https://prod.images.sellpy.net/phone-images/pQc4eGhJXL-8d21.jpg",
+   "https://prod.images.sellpy.net/phone-images/pQc4eGhJXL-94a3.jpg"
+  ],
+  "sizes": [
+   "SHOES-EU-37"
+  ],
+  "p2p": false,
+  "isReserved": false,
+  "segment": "women",
+  "itemIO": "9aLeKEJNQG",
+  "categories": {
+   "lvl0": [
+    "Naiset"
+   ],
+   "lvl1": [
+    "Naiset > Kengät"
+   ],
+   "lvl2": [
+    "Naiset > Kengät > Tennarit"
+   ]
+  },
+  "storageSite": null,
+  "isOnShelf": false,
+  "searchableExternalCategory": [
+   "Naiset > Kengät > Tennarit"
+  ],
+  "saleType": "regular",
+  "personalization_sizeCategory": "SHOES-EU-37-Naiset > Kengät > Tennarit",
+  "titleOutputOrder": [
+   "brand",
+   "type",
+   "size"
+  ],
+  "bodyOutputOrder": [
+   "brand",
+   "type",
+   "size",
+   "sizeEstimated",
+   "model",
+   "material",
+   "color",
+   "demography",
+   "extra"
+  ],
+  "itemAbTestFraction": 0.3462771519382478,
+  "brandClassification": {
+   "styles": [
+    "Preppy",
+    "Athleisure"
+   ],
+   "ageGroups": [
+    "Gen Y",
+    "Gen X"
+   ],
+   "pricePoint": 4,
+   "originVibe": "French",
+   "ethos": "High quality",
+   "aestheticTone": "Classic / Timeless"
+  },
+  "keywords": [
+   "matalavartiset",
+   "nauhalliset",
+   "rei'itetty",
+   "kumipohja",
+   "tamora",
+   "nahka",
+   "minimalistinen",
+   "arkikengät"
+  ],
+  "style": [
+   "minimalistinen"
+  ],
+  "brandGroups": [
+   "Quality Products",
+   "Classic & Timeless Fashion",
+   "Athletic & Sportswear"
+  ],
+  "concept": null,
+  "weight": 0.65,
+  "itemPackaging": "y8j0d79wpX",
+  "salesChannel": "market",
+  "pricing": {
+   "amount": 64,
+   "currency": "EUR"
+  },
+  "isForSale": true,
+  "saleStartedAt": 1794347242961,
+  "lastChance": false,
+  "price_FI": {
+   "amount": 6400,
+   "currency": "EUR"
+  },
+  "priceDrop_FI": null,
+  "firstOfferedAt_FI": 1794347242961,
+  "objectID": "pQc4eGhJXL",
+  "_highlightResult": {
+   "user": {
+    "value": "tjVZPG2vll",
+    "matchLevel": "none",
+    "matchedWords": []
+   },
+   "metadata": {
+    "size": {
+     "value": "SHOES-EU-37",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "color": [
+     {
+      "value": "Vihreä",
+      "matchLevel": "none",
+      "matchedWords": []
+     },
+     {
+      "value": "Ruskea",
+      "matchLevel": "none",
+      "matchedWords": []
+     }
+    ],
+    "brand": {
+     "value": "Lacoste",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "demography": {
+     "value": "Naiset",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "type": {
+     "value": "Lenkkarit",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   },
+   "sizes": [
+    {
+     "value": "SHOES-EU-37",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   ],
+   "keywords": [
+    {
+     "value": "matalavartiset",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    {
+     "value": "nauhalliset",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    {
+     "value": "rei'itetty",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    {
+     "value": "kumipohja",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    {
+     "value": "tamora",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    {
+     "value": "nahka",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    {
+     "value": "minimalistinen",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    {
+     "value": "arkikengät",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   ],
+   "style": [
+    {
+     "value": "minimalistinen",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   ]
+  }
+ },
+ "nbHits": 12924358
+}
