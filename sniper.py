@@ -113,6 +113,7 @@ class Brand:
     boost: dict[str, float] = field(default_factory=dict)
     rare: bool = False
     max_price: float | None = None
+    min_price: float | None = None
 
 
 def load_yaml(name: str) -> dict:
@@ -134,6 +135,7 @@ def load_brands() -> list[Brand]:
             boost={str(k): float(v) for k, v in (b.get("boost") or {}).items()},
             rare=bool(b.get("rare", False)),
             max_price=b.get("max_price"),
+            min_price=b.get("min_price"),
         ))
     return out
 
@@ -157,12 +159,21 @@ class BrandMatcher:
         self.pairs = sorted(uniq.items(), key=lambda p: -len(p[0]))
         self.by_name = {b.name: b for b in brands}
 
+    # A Sellpy brand string may extend an alias only with a known sub-line word
+    # ("Comme des Garçons Homme Plus", "Rick Owens Lilies", "X x Supreme");
+    # "Julius Zöllner", "Loewe Verlag" or "Chloe Ting" are different companies.
+    SUFFIX_OK = {"homme", "plus", "man", "men", "mens", "black", "shirt", "noir", "pour", "deux",
+                 "x", "archive", "mainline", "paris", "gold", "sport", "linea", "genius", "grenoble",
+                 "gamme", "shadow", "lilies", "drkshdw", "play", "comme", "yohji", "denims", "studio"}
+
     def match(self, s) -> Brand | None:
         n = norm(s)
         if not n:
             return None
         for alias, b in self.pairs:
-            if n == alias or n.startswith(alias + " ") or n.startswith(alias + "&"):
+            if n == alias:
+                return b
+            if n.startswith(alias + " ") and n[len(alias) + 1:].split(" ")[0] in self.SUFFIX_OK:
                 return b
         return None
 
@@ -406,9 +417,12 @@ class Evaluator:
                 reasons.append("harvinainen brändi")
             if brand.max_price is not None and price > float(brand.max_price):
                 return None
+            floor = brand.min_price if brand.min_price is not None else self.st.get("min_price", 0)
+            if floor and price < float(floor):
+                return None
 
         cat, cmult = self._category(cat_text, text)
-        if not self._size_ok(size, cat):
+        if norm(size).startswith("child") or not self._size_ok(size, cat):
             return None
         kmult = self._condition(cond)
         bmult = 1.0
@@ -429,9 +443,13 @@ class Evaluator:
 
         est = value * cmult * kmult * bmult
         stats = self.resolved.get(name) if not hunt else None
-        if stats and stats.get("p25") and price <= stats["p25"]:
-            est *= 1.1
-            reasons.append(f"halvimmat 25 % tämän brändin Sellpy-hinnoista (alle {stats['p25']:.0f} €)")
+        if stats and stats.get("median") and stats.get("count", 0) >= 30:
+            # Sellpy prices common brands sensibly, so a deal must also be cheap
+            # compared with what Sellpy usually asks for this brand and item type.
+            cap = stats["median"] * float(self.st.get("sellpy_median_factor", 0.8)) * cmult
+            if price > cap and not rare:
+                return None
+            reasons.append(f"Sellpyn mediaani tälle brändille {stats['median']:.0f} €")
         score = est / price
         if self.max_price is not None and price > float(self.max_price):
             return None

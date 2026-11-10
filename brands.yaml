@@ -16,11 +16,11 @@
 brands:
   # ---------- Avantgarde / archive (grail-taso) ----------
   - {name: Carol Christian Poell, rare: true, value: 600, aliases: [ccp, c.c.p]}
-  - {name: Guidi, value: 450, boost: {"788z": 1.3, "988": 1.2, horse: 1.2, hevonen: 1.2}}
+  - {name: Guidi, value: 450, min_price: 40, boost: {"788z": 1.3, "988": 1.2, horse: 1.2, hevonen: 1.2}}
   - {name: Paul Harnden, rare: true, value: 700, aliases: [paul harnden shoemaker, paul harnden shoemakers]}
-  - {name: Boris Bidjan Saberi, rare: true, value: 400, aliases: [by boris bidjan saberi, bbs, 11 by boris bidjan saberi, 11 by bbs]}
+  - {name: Boris Bidjan Saberi, rare: true, value: 400, min_price: 30, aliases: [by boris bidjan saberi, 11 by boris bidjan saberi, 11 by bbs]}
   - {name: Isaac Sellam, rare: true, value: 350, aliases: [isaac sellam experience]}
-  - {name: Julius, rare: true, value: 250, aliases: [julius 7, julius_7]}
+  - {name: Julius_7, rare: true, value: 250, aliases: [julius 7, julius_7 julius]}
   - {name: Rick Owens, value: 320, aliases: [rick owens drkshdw, drkshdw, rick owens lilies, rick owens mainline],
      boost: {geobasket: 1.5, ramones: 1.3, dunk: 1.3, stooges: 1.5, bauhaus: 1.3, intarsia: 1.2, drkshdw: 0.6, lilies: 0.6, nahka: 1.4, leather: 1.4, skinn: 1.4}}
   - {name: Maison Margiela, value: 250, aliases: [maison martin margiela, martin margiela, margiela],
@@ -28,13 +28,13 @@ brands:
   - {name: MM6 Maison Margiela, value: 90, aliases: [mm6], boost: {tabi: 1.6}}
   - {name: Raf Simons, rare: true, value: 350, aliases: [raf simons archive], boost: {ozweego: 0.5, response trail: 0.6}}
   - {name: RAF by Raf Simons, value: 90, aliases: [raf by raf simons]}
-  - {name: Helmut Lang, value: 250, boost: {bondage: 1.5, astro: 1.4, painter: 1.3, reflective: 1.3, archive: 1.2}}
+  - {name: Helmut Lang, value: 150, boost: {bondage: 1.5, astro: 1.4, painter: 1.3, reflective: 1.3, archive: 1.2}}
   - {name: Number (N)ine, rare: true, value: 350, aliases: [number nine, numbernine, number n ine, number (n)ine x takahiro miyashita]}
   - {name: Takahiromiyashita The Soloist, rare: true, value: 300, aliases: [the soloist, takahiromiyashitathesoloist]}
   - {name: Undercover, value: 250, aliases: [undercoverism, undercover jun takahashi, undercover lab]}
   - {name: Yohji Yamamoto, value: 280, aliases: [yohji yamamoto pour homme, yohji yamamoto + noir, yohji yamamoto noir, "y's", ys for men, "y's for men"],
      boost: {new era: 0.5}}
-  - {name: Y-3, value: 80, aliases: [y3, y 3]}
+  - {name: Y-3, value: 70, aliases: [y3, y 3]}
   - {name: Comme des Garçons Homme Plus, rare: true, value: 300, aliases: [cdg homme plus, comme des garcons homme plus]}
   - {name: Comme des Garçons Homme, value: 150, aliases: [cdg homme, comme des garcons homme deux, homme deux]}
   - {name: Comme des Garçons, value: 160, aliases: [cdg, comme des garcons, comme des garcons black, comme des garcons shirt, comme des garcons comme des garcons, tricot comme des garcons]}
@@ -48,16 +48,16 @@ brands:
   - {name: Haider Ackermann, value: 200}
   - {name: A.F. Vandevorst, value: 150, aliases: [af vandevorst, a.f vandevorst]}
   - {name: Walter Van Beirendonck, value: 180, aliases: [wild and lethal trash]}
-  - {name: Dirk Bikkembergs, value: 100, aliases: [bikkembergs]}
+  - {name: Dirk Bikkembergs, value: 60, aliases: [bikkembergs]}
   - {name: Hussein Chalayan, value: 160, aliases: [chalayan]}
-  - {name: Jean Paul Gaultier, value: 200, aliases: [jean paul gaultier homme, gaultier jeans, junior gaultier, jpg jean paul gaultier],
+  - {name: Jean Paul Gaultier, value: 150, aliases: [jean paul gaultier homme, gaultier jeans, junior gaultier, jpg jean paul gaultier],
      boost: {mesh: 1.6, verkko: 1.6, tattoo: 1.5, cyber: 1.5, femme: 1.0}}
   - {name: The Viridi-anne, rare: true, value: 200, aliases: [viridi anne]}
   - {name: Ziggy Chen, rare: true, value: 200}
   - {name: Individual Sentiments, value: 120}
-  - {name: Deepti, rare: true, value: 150, aliases: [deepti s.c., deepti s.l., deepti sc, deepti sl]}
-  - {name: Cortana, rare: true, value: 120}
-  - {name: Carpe Diem, rare: true, value: 300, aliases: [c diem, c.diem]}
+  - {name: Deepti, rare: true, value: 150, min_price: 40, aliases: [deepti s.c., deepti s.l., deepti sc, deepti sl]}
+  - {name: Cortana, rare: true, value: 120, min_price: 40}
+  - {name: Carpe Diem, rare: true, value: 300, min_price: 60, aliases: [c diem, c.diem]}
   - {name: Enfants Riches Déprimés, rare: true, value: 350, aliases: [enfants riches deprimes, erd]}
   - {name: Chrome Hearts, value: 400}
   - {name: Kapital, value: 220, aliases: [kapital kountry], boost: {boro: 1.5, sashiko: 1.3, century denim: 1.4, ring coat: 1.4}}
@@ -72,7 +72,6 @@ brands:
   - {name: Label Under Construction, value: 120}
   - {name: Uma Wang, value: 200}
   - {name: Forme d'Expression, value: 200, aliases: [forme d expression]}
-  - {name: Augusta, rare: true, value: 250}
   - {name: Daniel Andresen, value: 200}
   - {name: Lumen et Umbra, value: 100}
   - {name: Marsèll, value: 150, aliases: [marsell]}
@@ -99,12 +98,12 @@ brands:
   - {name: Dior, value: 200, aliases: [christian dior]}
   - {name: Saint Laurent, value: 220, aliases: [saint laurent paris, ysl], boost: {wyatt: 1.4, teddy: 1.3, alo yoga: 0.5, new era: 0.5, lexon: 0.4}}
   - {name: Yves Saint Laurent, value: 120, aliases: [yves saint laurent rive gauche, ysl rive gauche]}
-  - {name: Prada, value: 180, aliases: [prada linea rossa, prada sport], boost: {linea rossa: 1.3, sport: 1.2, nylon: 1.2, re-nylon: 1.2}}
+  - {name: Prada, value: 160, aliases: [prada linea rossa, prada sport], boost: {linea rossa: 1.3, sport: 1.2, nylon: 1.2, re-nylon: 1.2}}
   - {name: Miu Miu, value: 160}
   - {name: Fendi, value: 180, aliases: [fendissime]}
   - {name: Balenciaga, value: 220}
   - {name: Loewe, value: 220, aliases: [loewe x on, loewe x on cloud, "loewe x paula's ibiza", loewe x smiley, loewe x studio ghibli], boost: {"paula's": 1.2, ghibli: 1.3}}
-  - {name: Gucci, value: 180, boost: {tom ford: 1.4}}
+  - {name: Gucci, value: 160, boost: {tom ford: 1.4}}
   - {name: Tom Ford, value: 250}
   - {name: Alexander McQueen, value: 150}
   - {name: Burberry Prorsum, value: 160}
@@ -116,7 +115,7 @@ brands:
   - {name: The Row, value: 300}
   - {name: Khaite, value: 200}
   - {name: Totême, value: 110, aliases: [toteme]}
-  - {name: Chloé, value: 130, aliases: [chloe]}
+  - {name: Chloé, value: 110, aliases: [chloe]}
   - {name: Loro Piana, value: 350}
   - {name: Brunello Cucinelli, value: 250}
   - {name: Kiton, value: 250}
@@ -127,7 +126,7 @@ brands:
   - {name: Barena Venezia, value: 120, aliases: [barena]}
   - {name: Aspesi, value: 90}
   - {name: Herno, value: 120}
-  - {name: Colombo, value: 150}
+  - {name: Colombo, value: 150, min_price: 30}
   - {name: Double RL, value: 140, aliases: [rrl, double rl by ralph lauren, rrl ralph lauren]}
   - {name: Geoffrey Beene, value: 50}
   - {name: Gianfranco Ferré, value: 70, aliases: [gianfranco ferre]}
@@ -136,7 +135,7 @@ brands:
   - {name: Moschino, value: 60}
   - {name: Dsquared2, value: 60, aliases: [dsquared]}
   - {name: Kenzo, value: 50}
-  - {name: Diesel, value: 40, aliases: [diesel black gold]}
+  - {name: Diesel, value: 30, aliases: [diesel black gold]}
 
   # ---------- Japani / workwear / heritage ----------
   - {name: Sacai, value: 180, aliases: [sacai x carhartt wip, the north face x sacai, a.p.c. sacai]}
@@ -176,9 +175,9 @@ brands:
   - {name: Klättermusen, value: 120, aliases: [klattermusen]}
   - {name: ROA, value: 120}
   - {name: Post Archive Faction, value: 150, aliases: [paf, post archive faction (paf)]}
-  - {name: Salomon, value: 60, boost: {xt-6: 1.4, xt-4: 1.4, acs: 1.3, s/lab: 1.3}}
+  - {name: Salomon, value: 50, boost: {xt-6: 1.4, xt-4: 1.4, acs: 1.3, s/lab: 1.3}}
   - {name: Patagonia, value: 60, boost: {retro-x: 1.4, das parka: 1.6, snap-t: 1.3, vintage: 1.2}}
-  - {name: The North Face, value: 60, aliases: [tnf], boost: {nuptse: 1.4, himalayan: 1.6, steep tech: 1.8, summit series: 1.3, sacai: 2.0}}
+  - {name: The North Face, value: 50, aliases: [tnf], boost: {nuptse: 1.4, himalayan: 1.6, steep tech: 1.8, summit series: 1.3, sacai: 2.0}}
   - {name: Oakley, value: 40, boost: {software: 2.0, vintage: 1.5}}
   - {name: Canada Goose, value: 250}
   - {name: Moncler, value: 220, aliases: [moncler grenoble, moncler genius, moncler x 1017 alyx 9sm]}
@@ -187,7 +186,7 @@ brands:
   - {name: Mackage, value: 120}
   - {name: Stutterheim, value: 70}
   - {name: Sunsea, value: 150}
-  - {name: Aton, value: 90}
+  - {name: Aton, value: 90, min_price: 20}
 
   # ---------- Terrace ----------
   - {name: Stone Island, value: 140, aliases: [stone island shadow project, si shadow project, supreme x stone island],
@@ -215,13 +214,13 @@ brands:
   - {name: Thug Club, value: 120}
   - {name: Palm Angels, value: 80}
   - {name: Stüssy, value: 50, aliases: [stussy, our legacy x stussy], boost: {our legacy: 1.6}}
-  - {name: Acne Studios, value: 90}
+  - {name: Acne Studios, value: 80}
   - {name: Our Legacy, value: 110, aliases: [our legacy work shop]}
   - {name: Studio Nicholson, value: 100}
   - {name: Mfpen, value: 90}
   - {name: Séfr, value: 80, aliases: [sefr]}
   - {name: Bode, value: 200}
-  - {name: A.P.C., value: 60, aliases: [apc, a.p.c, a.p.c x nike, a.p.c. jjjjound, a.p.c. x supreme, casio x a.p.c],
+  - {name: A.P.C., value: 50, aliases: [apc, a.p.c, a.p.c x nike, a.p.c. jjjjound, a.p.c. x supreme, casio x a.p.c],
      boost: {jjjjound: 1.6, supreme: 1.5, sacai: 1.5, nike: 1.3}}
 
   # ---------- Kengät (laadukkaat, Sellpyssä usein halvalla) ----------

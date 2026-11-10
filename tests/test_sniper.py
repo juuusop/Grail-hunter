@@ -82,7 +82,8 @@ def test_matcher_longest_alias():
     assert m.match("Arc'teryx Veilance").name == "Arc'teryx Veilance"
     assert m.match("Arcteryx").name == "Arc'teryx"
     assert m.match("Number (N)ine").name == "Number (N)ine"
-    assert m.match("Julius") is not None and m.match("Juliusz Store") is None
+    assert m.match("Julius_7").name == "Julius_7" and m.match("Julius") is None and m.match("Julius Zöllner") is None
+    assert m.match("Loewe Verlag") is None and m.match("Chloe Ting") is None
     assert m.match("Okänt märke") is None
 
 
