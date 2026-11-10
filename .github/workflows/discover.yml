@@ -33,5 +33,5 @@ jobs:
           git add -A data/
           if ! git diff --cached --quiet; then
             git commit -m "Brändiraportti päivitetty [skip ci]"
-            git pull --rebase origin "${GITHUB_REF_NAME}" && git push
+            git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push
           fi

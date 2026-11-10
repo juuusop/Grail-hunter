@@ -2,3 +2,4 @@ data/state.json
 data/*.tmp
 __pycache__/
 .pytest_cache/
+data/vision_state.json
