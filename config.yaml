@@ -101,7 +101,7 @@ hunts:
   - {q: undercover, value: 150, must: [jun takahashi, undercoverism, undercover lab]}
   - {q: yohji, value: 200}
   - {q: comme des garcons, value: 120}
-  - {q: junya, value: 180}
+  - {q: junya, value: 180, must: [junya watanabe]}
   - {q: issey miyake, value: 140}
   - {q: jean paul gaultier, value: 150}
   - {q: chrome hearts, value: 250}
@@ -121,4 +121,3 @@ hunts:
   - {q: horse leather, value: 120}
   - {q: kashmir, value: 60, max_price: 35}
   - {q: cashmere, value: 60, max_price: 35}
-  - {q: made in japan, value: 70, max_price: 40}
