@@ -119,8 +119,8 @@ def test_run_end_to_end(env):
 
 def test_size_fits():
     rules = {"men-int": "L", "shoes-eu": [43, 45.5], "pants-inch": [35, 44]}
-    assert S.size_fits("MEN-INT-XL", rules) and S.size_fits("MEN-INT-M/L", rules)
-    assert not S.size_fits("MEN-INT-M", rules)
-    assert S.size_fits("SHOES-EU-44.5", rules) and not S.size_fits("SHOES-EU-41", rules)
-    assert not S.size_fits("PANTS-INCH-32", rules) and S.size_fits("PANTS-INCH-38", rules)
-    assert S.size_fits("ONE SIZE", rules) and S.size_fits("-", rules) and S.size_fits("", rules)
+    assert sniper.size_fits("MEN-INT-XL", rules) and sniper.size_fits("MEN-INT-M/L", rules)
+    assert not sniper.size_fits("MEN-INT-M", rules)
+    assert sniper.size_fits("SHOES-EU-44.5", rules) and not sniper.size_fits("SHOES-EU-41", rules)
+    assert not sniper.size_fits("PANTS-INCH-32", rules) and sniper.size_fits("PANTS-INCH-38", rules)
+    assert sniper.size_fits("ONE SIZE", rules) and sniper.size_fits("-", rules) and sniper.size_fits("", rules)
