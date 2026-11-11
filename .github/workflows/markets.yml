@@ -5,6 +5,7 @@ on:
   schedule:
     - cron: "12,42 * * * *"
   push:
+    branches: [claude/designer-thrift-scraper-KF3Wi]
     paths: [markets.py, markets_eu.py, .github/workflows/markets.yml]
   workflow_dispatch:
 

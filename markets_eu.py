@@ -71,13 +71,21 @@ APPAREL_EXTRA = ["jakke", "frakke", "kåpe", "dunjakke", "genser", "hettegenser"
 JUNK_EXTRA = ["parfyme", "boek", "boeken", "bok", "plakat", "nøkkelring", "sleutelhanger", "doos", "eske", "æske"]
 
 # size tokens in free-text titles: "str L", "maat XL", "storlek M", "size 52"; bare XS/XL in caps
-_SIZE_WORD = re.compile(r"\b(?:size|str|stl|strl|storlek|størrelse|maat|mt|koko|gr|größe)\.?\s*:?\s*"
+_SIZE_WORD = re.compile(r"\b(?:size|str|stl|strl|storlek|størrelse|maat|mt|koko|gr|größe|eu)\.?\s*:?\s*"
                         r"(xxs|xs|s|m|l|xl|xxl|xxxl|[2-4]xl|\d{2})\b", re.I)
 _SIZE_BARE = re.compile(r"(?<![\w-])(XXS|XS|XL|XXL|XXXL|[2-4]XL)(?![\w-])")
 
 
+_SHOE_WORDS = re.compile(r"sko|skor|shoe|sneaker|boot|støvl|stövl|laars|laarz|schoen|kengä|nike|adidas|salomon|"
+                         r"loafer|derby|sandal|trainer|runner|vapormax|blazer low|dunk|air max|air force", re.I)
+_UK = re.compile(r"\bUK\s?(\d{1,2}(?:[.,]5)?)\b", re.I)
+
+
 def title_size(title: str) -> str:
     """Best-effort size code (Sellpy style) from a free-text title, '' if unknown (unknown always passes)."""
+    shoe = bool(_SHOE_WORDS.search(title))
+    if shoe and (m := _UK.search(title)):
+        return f"SHOES-UK-{float(m.group(1).replace(',', '.')):g}"  # config shoes-uk decides
     m = _SIZE_WORD.search(title)
     v = m.group(1) if m else None
     if not v:
@@ -88,7 +96,11 @@ def title_size(title: str) -> str:
     v = v.upper()
     if v.isdigit():
         n = int(v)
-        return f"MEN-EU-{n}" if 40 <= n <= 64 and n % 2 == 0 else ""  # 42..46 could be shoes; even = suit sizes
+        if shoe and 34 <= n <= 49:
+            return f"SHOES-EU-{n}"
+        if 32 <= n <= 40:
+            return f"WMN-EU-{n}"  # 32-40 are women's sizes (men's EU tailoring starts ~44)
+        return f"MEN-EU-{n}" if 42 <= n <= 64 and n % 2 == 0 else ""
     return f"MEN-INT-{v}"
 
 
