@@ -36,7 +36,7 @@ settings:
     shoes-us: [10, 11.5]
     socks-eu: [42, 48]
   # Rajaa pääkategoriaan, esim. [Miehet]. Tyhjä = kaikki.
-  categories_lvl0: [Miehet, Naiset]
+  categories_lvl0: [Miehet, Naiset, Muut tuotteet]
   # Kuinka monta sivua (100 kpl) uusinta haetaan per ajo, jos edellistä ei löydy.
   max_pages: 5
   # Hinnanpudotukset: koko brändilista käydään läpi näin usein (minuuttia).

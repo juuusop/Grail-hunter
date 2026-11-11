@@ -74,9 +74,9 @@ def thumb(session, url):
         if r.status_code != 200:
             return None
         im = Image.open(io.BytesIO(r.content)).convert("RGB")
-        im.thumbnail((220, 220))
+        im.thumbnail((180, 180))
         buf = io.BytesIO()
-        im.save(buf, "JPEG", quality=68, optimize=True)
+        im.save(buf, "JPEG", quality=62, optimize=True)
         return "data:image/jpeg;base64," + base64.b64encode(buf.getvalue()).decode()
     except Exception:
         return None
@@ -95,25 +95,53 @@ def deep(cfg):
     relaxed = {**cfg, "settings": {**st, "min_score": float(st.get("scan_min_score", 1.4)),
                                    "sellpy_median_factor": float(st.get("scan_median_factor", 1.0))}}
     ev = S.Evaluator(relaxed, matcher, resolved, market)
-    vals = [v for n, b in resolved["brands"].items() for v in b["values"] if n in matcher.by_name]
-    chunks = [vals[i:i + S.CHUNK] for i in range(0, len(vals), S.CHUNK)]
-    num = [f"{sp.price_attr}.amount>0"]
-    hits = []
-    for i in range(0, len(chunks), 8):
-        for page in range(3):  # up to 3000 newest per chunk
-            res = sp.queries([{"query": "", "hitsPerPage": 1000, "page": page, "facetFilters": LVL0 + [
-                [f"{S.BRAND_ATTR}:{v}" for v in ch]], "numericFilters": num,
-                "attributesToHighlight": [], "attributesToSnippet": []} for ch in chunks[i:i + 8]])
-            got = 0
-            for r in res:
-                hs = r.get("hits", [])
-                got += len(hs)
-                hits += [(h, None) for h in hs]
-            if got == 0 or all(r.get("nbPages", 0) <= page + 1 for r in res):
-                break
-            time.sleep(0.5)
+    # Sellpy's search returns at most 1000 hits per query, so slice the catalogue until
+    # every slice fits: brands are packed into groups of <=900 items, big brands are
+    # split by price band, and any slice still over 1000 is halved again.
+    lvl0 = [[f"categories.lvl0:{c}" for c in st.get("scan_lvl0", ["Miehet", "Naiset", "Muut tuotteet"])]]
+    pa = f"{sp.price_attr}.amount"
+    groups, cur, cur_n = [], [], 0
+    for n, b in sorted(resolved["brands"].items(), key=lambda kv: kv[1].get("count", 0)):
+        if n not in matcher.by_name or not b.get("values"):
+            continue
+        c = int(b.get("count") or 0)
+        if c > 900:
+            groups.append((b["values"], c))
+            continue
+        if cur_n + c > 900 or len(cur) + len(b["values"]) > 80:
+            groups.append((cur, cur_n))
+            cur, cur_n = [], 0
+        cur += b["values"]
+        cur_n += c
+    if cur:
+        groups.append((cur, cur_n))
+    bands = [0, 800, 1200, 1600, 2000, 2500, 3000, 4000, 5000, 7000, 10000, 15000, 25000, 10 ** 8]
+    pending = []
+    for vals, c in groups:
+        if c > 900:
+            pending += [(vals, lo, hi) for lo, hi in zip(bands, bands[1:])]
+        else:
+            pending.append((vals, 0, 10 ** 8))
+    keep = ["objectID", "metadata", sp.price_attr, "categories", "images", "keywords", "isReserved", "isForSale",
+            "saleStartedAt", f"priceDrop_{market.upper()}", "brandClassification", "brandGroups", "title", "size"]
+    hits, nq = [], 0
+    while pending:
+        batch, pending = pending[:8], pending[8:]
+        res = sp.queries([{"query": "", "hitsPerPage": 1000, "facetFilters": lvl0 + [[f"{S.BRAND_ATTR}:{v}" for v in vals]],
+                           "numericFilters": [f"{pa}>={max(lo, 1)}", f"{pa}<{hi}"], "attributesToRetrieve": keep,
+                           "attributesToHighlight": [], "attributesToSnippet": []} for vals, lo, hi in batch])
+        nq += len(batch)
+        for (vals, lo, hi), r in zip(batch, res):
+            if r.get("nbHits", 0) > 1000 and hi - lo > 50:
+                mid = (lo + hi) // 2 if hi < 10 ** 7 else lo * 2
+                pending += [(vals, lo, mid), (vals, mid, hi)]
+            else:
+                hits += [(h, None) for h in r.get("hits", [])]
+        time.sleep(0.6)
+    S.log(f"deep: {nq} slice queries, {len(hits)} brand hits")
+    num = [f"{pa}>0"]
     hunts = cfg.get("hunts") or []
-    res = sp.queries([{"query": h["q"], "hitsPerPage": 300, "numericFilters": num, "facetFilters": LVL0,
+    res = sp.queries([{"query": h["q"], "hitsPerPage": 1000, "numericFilters": num, "facetFilters": lvl0,
                        "typoTolerance": "min"} for h in hunts])
     for h, r in zip(hunts, res):
         hits += [(x, h) for x in r.get("hits", [])]
@@ -142,7 +170,8 @@ def deep(cfg):
         })
         out.append(d)
     out.sort(key=lambda d: -d["score"])
-    out = out[:int(st.get("scan_max_items", 1500))]
+    S.log(f"deep: {len(out)} candidates in total")
+    out = out[:int(st.get("scan_max_items", 2500))]
     S.log(f"deep: {len(out)} candidates, fetching thumbnails")
     with ThreadPoolExecutor(8) as pool:
         thumbs = list(pool.map(lambda d: thumb(sp.s, d["image"]), out))
