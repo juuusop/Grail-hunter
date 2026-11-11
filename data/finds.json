@@ -1,5 +1,707 @@
 [
  {
+  "id": "tori-49669794",
+  "brand": "Canada Goose · Tori",
+  "title": "Canada Goose Parka, coyote-reunus",
+  "price": 130.0,
+  "value": 380,
+  "score": 2.92,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49669794",
+  "image": "https://img.tori.net/dynamic/default/item/49669794/b608c09d-48d4-4f7c-9592-09829be89835",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 164 €",
+   "kate ~62 € (ROI 45%, myy grailed ~285 €; brändiarvio ~285 € (ei mallivertailua, geneerinen kappale))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794439713,
+  "resale": 285,
+  "profit": 62,
+  "roi": 0.45,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~285 € (ei mallivertailua, geneerinen kappale)",
+   "myynti grailed ~285 € → käteen ~199 € kulujen ja tinkimisen jälkeen",
+   "osto 130 € + toimitus = 137 €"
+  ]
+ },
+ {
+  "id": "tori-46534564",
+  "brand": "Junya Watanabe · Tori",
+  "title": "Junya Watanabe x North Face Nuptse Sininen XL takki",
+  "price": 100.0,
+  "value": 334,
+  "score": 3.34,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/46534564",
+  "image": "https://img.tori.net/dynamic/default/item/46534564/90d8cfc7-5c30-4d0e-a4f0-a8e5a796fe24",
+  "reasons": [
+   "💰 kate ~68 € (ROI 63%, myy grailed ~250 €; brändiarvio ~250 € (ei mallivertailua, geneerinen kappale))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794439714,
+  "resale": 250,
+  "profit": 68,
+  "roi": 0.63,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~250 € (ei mallivertailua, geneerinen kappale)",
+   "myynti grailed ~250 € → käteen ~175 € kulujen ja tinkimisen jälkeen",
+   "osto 100 € + toimitus = 107 €"
+  ]
+ },
+ {
+  "id": "tori-47295182",
+  "brand": "Celine · Tori",
+  "title": "Celine boots",
+  "price": 100.0,
+  "value": 293,
+  "score": 2.93,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/47295182",
+  "image": "https://img.tori.net/dynamic/default/item/47295182/cc972225-380e-4337-ad99-cdd2f8b326c1",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 154 €",
+   "kate ~46 € (ROI 43%, myy grailed ~220 €; brändiarvio ~220 € (ei mallivertailua, geneerinen kappale))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794439718,
+  "resale": 220,
+  "profit": 46,
+  "roi": 0.43,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~220 € (ei mallivertailua, geneerinen kappale)",
+   "myynti grailed ~220 € → käteen ~153 € kulujen ja tinkimisen jälkeen",
+   "osto 100 € + toimitus = 107 €"
+  ]
+ },
+ {
+  "id": "tori-49715838",
+  "brand": "Balenciaga · Tori",
+  "title": "Balenciaga naisten housut",
+  "price": 79.0,
+  "value": 188,
+  "score": 2.38,
+  "label": "✅ DIILI",
+  "category": "housut",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49715838",
+  "image": "https://img.tori.net/dynamic/default/item/49715838/b57487b4-4a4c-404a-8ab1-269cc2ced1b4",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 162 €",
+   "kate ~12 € (ROI 14%, myy grailed ~141 €; brändiarvio ~141 € (ei mallivertailua, geneerinen kappale))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794439720,
+  "resale": 141,
+  "profit": 12,
+  "roi": 0.14,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~141 € (ei mallivertailua, geneerinen kappale)",
+   "myynti grailed ~141 € → käteen ~98 € kulujen ja tinkimisen jälkeen",
+   "osto 79 € + toimitus = 86 €"
+  ]
+ },
+ {
+  "id": "tori-49668989",
+  "brand": "Balenciaga · Tori",
+  "title": "Vintage Balenciaga -housut",
+  "price": 90.0,
+  "value": 188,
+  "score": 2.09,
+  "label": "✅ DIILI",
+  "category": "housut",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49668989",
+  "image": "https://img.tori.net/dynamic/default/item/49668989/e9fc59ec-cc4c-46e3-944f-fe7689f07431",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 162 €",
+   "kate ~1 € (ROI 1%, myy grailed ~141 €; brändiarvio ~141 € (ei mallivertailua, geneerinen kappale))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794439720,
+  "resale": 141,
+  "profit": 1,
+  "roi": 0.01,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~141 € (ei mallivertailua, geneerinen kappale)",
+   "myynti grailed ~141 € → käteen ~98 € kulujen ja tinkimisen jälkeen",
+   "osto 90 € + toimitus = 97 €"
+  ]
+ },
+ {
+  "id": "tori-49530260",
+  "brand": "Balenciaga · Tori",
+  "title": "Balenciaga neule",
+  "price": 100.0,
+  "value": 209,
+  "score": 2.09,
+  "label": "✅ DIILI",
+  "category": "neule",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49530260",
+  "image": "https://img.tori.net/dynamic/default/item/49530260/4802782e-8778-4e35-8370-ec7e4ad4f45b",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 162 €",
+   "kate ~2 € (ROI 2%, myy grailed ~157 €; brändiarvio ~157 € (ei mallivertailua, geneerinen kappale))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794439720,
+  "resale": 157,
+  "profit": 2,
+  "roi": 0.02,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~157 € (ei mallivertailua, geneerinen kappale)",
+   "myynti grailed ~157 € → käteen ~109 € kulujen ja tinkimisen jälkeen",
+   "osto 100 € + toimitus = 107 €"
+  ]
+ },
+ {
+  "id": "tori-49233324",
+  "brand": "Balenciaga · Tori",
+  "title": "Balenciaga Kengät",
+  "price": 70.0,
+  "value": 293,
+  "score": 4.18,
+  "label": "🚨 INSANE",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49233324",
+  "image": "https://img.tori.net/dynamic/default/item/49233324/1f1370a3-fe74-44c8-94f0-dfa0fb3653d8",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 162 €",
+   "💰 kate ~76 € (ROI 99%, myy grailed ~220 €; brändiarvio ~220 € (ei mallivertailua, geneerinen kappale))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794439720,
+  "resale": 220,
+  "profit": 76,
+  "roi": 0.99,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~220 € (ei mallivertailua, geneerinen kappale)",
+   "myynti grailed ~220 € → käteen ~153 € kulujen ja tinkimisen jälkeen",
+   "osto 70 € + toimitus = 77 €"
+  ]
+ },
+ {
+  "id": "tori-45938841",
+  "brand": "Loewe · Tori",
+  "title": "Loewe top",
+  "price": 70.0,
+  "value": 167,
+  "score": 2.39,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/45938841",
+  "image": "https://img.tori.net/dynamic/default/item/45938841/f656af2a-10d7-4bd3-b656-956aceab109c",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 155 €",
+   "kate ~10 € (ROI 13%, myy grailed ~125 €; brändiarvio ~125 € (ei mallivertailua, geneerinen kappale))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794439721,
+  "resale": 125,
+  "profit": 10,
+  "roi": 0.13,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~125 € (ei mallivertailua, geneerinen kappale)",
+   "myynti grailed ~125 € → käteen ~87 € kulujen ja tinkimisen jälkeen",
+   "osto 70 € + toimitus = 77 €"
+  ]
+ },
+ {
+  "id": "tori-49763851",
+  "brand": "Moncler · Tori",
+  "title": "moncler takki",
+  "price": 90.0,
+  "value": 334,
+  "score": 3.72,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49763851",
+  "image": "https://img.tori.net/dynamic/default/item/49763851/8943ec5c-2c95-4ca2-a6a9-922ab7c1fc59",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 136 €",
+   "💰 kate ~78 € (ROI 80%, myy grailed ~250 €; brändiarvio ~250 € (ei mallivertailua, geneerinen kappale))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794439723,
+  "resale": 250,
+  "profit": 78,
+  "roi": 0.8,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~250 € (ei mallivertailua, geneerinen kappale)",
+   "myynti grailed ~250 € → käteen ~175 € kulujen ja tinkimisen jälkeen",
+   "osto 90 € + toimitus = 97 €"
+  ]
+ },
+ {
+  "id": "tori-49736778",
+  "brand": "Moncler · Tori",
+  "title": "Moncler untuvatakki M musta",
+  "price": 120.0,
+  "value": 334,
+  "score": 2.79,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49736778",
+  "image": "https://img.tori.net/dynamic/default/item/49736778/aef51ac0-41a2-4860-b7d6-2465b4d5d43d",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 136 €",
+   "kate ~48 € (ROI 38%, myy grailed ~250 €; brändiarvio ~250 € (ei mallivertailua, geneerinen kappale))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794439724,
+  "resale": 250,
+  "profit": 48,
+  "roi": 0.38,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~250 € (ei mallivertailua, geneerinen kappale)",
+   "myynti grailed ~250 € → käteen ~175 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 127 €"
+  ]
+ },
+ {
+  "id": "tori-49582575",
+  "brand": "Moncler · Tori",
+  "title": "Moncler pitkä musta hupullinen untuvatakki",
+  "price": 120.0,
+  "value": 334,
+  "score": 2.79,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49582575",
+  "image": "https://img.tori.net/dynamic/default/item/49582575/ce6d9296-f6c2-4ec1-aee7-eac560fc8334",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 136 €",
+   "kate ~48 € (ROI 38%, myy grailed ~250 €; brändiarvio ~250 € (ei mallivertailua, geneerinen kappale))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794439725,
+  "resale": 250,
+  "profit": 48,
+  "roi": 0.38,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~250 € (ei mallivertailua, geneerinen kappale)",
+   "myynti grailed ~250 € → käteen ~175 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 127 €"
+  ]
+ },
+ {
+  "id": "tori-49567947",
+  "brand": "Moncler · Tori",
+  "title": "Moncler untuvatakki koko 38",
+  "price": 80.0,
+  "value": 334,
+  "score": 4.18,
+  "label": "🚨 INSANE",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49567947",
+  "image": "https://img.tori.net/dynamic/default/item/49567947/a6202c84-8342-41f0-a8d0-4adc4f69a9e2",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 136 €",
+   "💰 kate ~88 € (ROI 101%, myy grailed ~250 €; brändiarvio ~250 € (ei mallivertailua, geneerinen kappale))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794439725,
+  "resale": 250,
+  "profit": 88,
+  "roi": 1.01,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~250 € (ei mallivertailua, geneerinen kappale)",
+   "myynti grailed ~250 € → käteen ~175 € kulujen ja tinkimisen jälkeen",
+   "osto 80 € + toimitus = 87 €"
+  ]
+ },
+ {
+  "id": "tori-46284191",
+  "brand": "Arc'teryx · Tori",
+  "title": "Arcteryx Alden pants",
+  "price": 65.0,
+  "value": 137,
+  "score": 2.1,
+  "label": "✅ DIILI",
+  "category": "housut",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/46284191",
+  "image": "https://img.tori.net/dynamic/default/item/46284191/655be8fc-1d4e-4d07-bc48-b190263c5fe2",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 96 €",
+   "⚠️ kate ~-1 € (ROI -1%, myy grailed ~103 €; brändiarvio ~103 € (ei mallivertailua, geneerinen kappale))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794439725,
+  "resale": 103,
+  "profit": -1,
+  "roi": -0.01,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~103 € (ei mallivertailua, geneerinen kappale)",
+   "myynti grailed ~103 € → käteen ~71 € kulujen ja tinkimisen jälkeen",
+   "osto 65 € + toimitus = 72 €"
+  ]
+ },
+ {
+  "id": "tradera-759947385",
+  "brand": "The Row · Tradera 🇸🇪",
+  "title": "The Row-sneakers",
+  "price": 93.96,
+  "value": 399,
+  "score": 4.25,
+  "label": "🚨 INSANE",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340303/759947385/the-row-sneakers",
+  "image": "https://img.tradera.net/images/533/666059533_436d1840-58c3-4d02-8160-2c16795f7e19.jpg",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 167 €",
+   "💰 kate ~99 € (ROI 90%, myy grailed ~299 €; brändiarvio ~299 € (ei mallivertailua, geneerinen kappale))",
+   "1080 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794439743,
+  "resale": 299,
+  "profit": 99,
+  "roi": 0.9,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~299 € (ei mallivertailua, geneerinen kappale)",
+   "myynti grailed ~299 € → käteen ~209 € kulujen ja tinkimisen jälkeen",
+   "osto 94 € + toimitus = 110 €"
+  ]
+ },
+ {
+  "id": "tradera-759344768",
+  "brand": "Yohji Yamamoto · Tradera 🇸🇪",
+  "title": "Y's Yohji Yamamoto Wool Knit",
+  "price": 73.95,
+  "value": 306,
+  "score": 4.14,
+  "label": "🚨 INSANE",
+  "category": "neule",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1000656/759344768/y-s-yohji-yamamoto-wool-knit",
+  "image": "https://img.tradera.net/images/405/666949405_c6292a59-cf32-4151-b46a-b94d024418bb.jpg",
+  "reasons": [
+   "wool ×1.15",
+   "💰 kate ~70 € (ROI 78%, myy grailed ~230 €; brändiarvio ~230 € (ei mallivertailua, geneerinen kappale))",
+   "850 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794439752,
+  "resale": 230,
+  "profit": 70,
+  "roi": 0.78,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~230 € (ei mallivertailua, geneerinen kappale)",
+   "myynti grailed ~230 € → käteen ~160 € kulujen ja tinkimisen jälkeen",
+   "osto 74 € + toimitus = 90 €"
+  ]
+ },
+ {
+  "id": "tradera-759858467",
+  "brand": "Yohji Yamamoto · Tradera 🇸🇪",
+  "title": "Yohji Yamamoto Pour Homme patchwork jacka SS2012",
+  "price": 330.6,
+  "value": 715,
+  "score": 2.16,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1000694/759858467/yohji-yamamoto-pour-homme-patchwork-jacka-ss2012",
+  "image": "https://img.tradera.net/images/743/667349743_37176ce1-3390-4308-9ced-7d64c10a1e31.jpg",
+  "reasons": [
+   "pour homme ×1.4",
+   "sesonkikoodi SS2012",
+   "⚠️ kate ~-114 € (ROI -33%, myy grailed ~332 €; malli 'pour homme' ~350 € (taulukko))",
+   "3800 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794439752,
+  "resale": 332,
+  "profit": -114,
+  "roi": -0.33,
+  "exit": "grailed",
+  "resale_why": [
+   "malli 'pour homme' ~350 € (taulukko)",
+   "myynti grailed ~332 € → käteen ~232 € kulujen ja tinkimisen jälkeen",
+   "osto 331 € + toimitus = 347 €"
+  ]
+ },
+ {
+  "id": "tradera-752787089",
+  "brand": "Yohji Yamamoto · Tradera 🇸🇪",
+  "title": "Y-3 Yohji Yamamoto Adidas svart jacka, storlek M/M",
+  "price": 87.0,
+  "value": 213,
+  "score": 2.45,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1000695/752787089/y-3-yohji-yamamoto-adidas-svart-jacka-storlek-m-m",
+  "image": "https://img.tradera.net/images/817/661820817_05f56607-196e-4495-bc77-01518b4d09e6.jpg",
+  "reasons": [
+   "y-3 ×0.5",
+   "⚠️ kate ~-64 € (ROI -62%, myy grailed ~56 €; brändiarvio ~56 € (ei mallivertailua, geneerinen kappale))",
+   "1000 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794439752,
+  "resale": 56,
+  "profit": -64,
+  "roi": -0.62,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~56 € (ei mallivertailua, geneerinen kappale)",
+   "massakollaboraatio/diffuusio 'adidas' ×0.35",
+   "myynti grailed ~56 € → käteen ~39 € kulujen ja tinkimisen jälkeen",
+   "osto 87 € + toimitus = 103 €"
+  ]
+ },
+ {
+  "id": "tradera-750882560",
+  "brand": "Kansai Yamamoto · Tradera 🇸🇪",
+  "title": "1990s | Kansai Yamamoto | Kansai O2 | graphic knit sweater | Basara design",
+  "price": 217.06,
+  "value": 238,
+  "score": 1.09,
+  "label": "💎 HARVINAINEN",
+  "category": "neule",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1000656/750882560/1990s-kansai-yamamoto-kansai-o2-graphic-knit-sweater-basara-design",
+  "image": "https://img.tradera.net/images/787/638532787_a1777c8f-6152-4060-b298-66350bdde37a.jpg",
+  "reasons": [
+   "harvinainen brändi",
+   "⚠️ kate ~-109 € (ROI -47%, myy grailed ~178 €; brändiarvio ~178 € (ei mallivertailua, geneerinen kappale))",
+   "2495 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794439754,
+  "resale": 178,
+  "profit": -109,
+  "roi": -0.47,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~178 € (ei mallivertailua, geneerinen kappale)",
+   "myynti grailed ~178 € → käteen ~124 € kulujen ja tinkimisen jälkeen",
+   "osto 217 € + toimitus = 233 €"
+  ]
+ },
+ {
+  "id": "tradera-760016943",
+  "brand": "Maison Margiela · Tradera 🇸🇪",
+  "title": "Maison Margiela Replica-sneakers, bruna",
+  "price": 127.72,
+  "value": 332,
+  "score": 2.6,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340304/760016943/maison-margiela-replica-sneakers-bruna",
+  "image": "https://img.tradera.net/images/585/667471585_1a35ea56-53d9-4898-9c00-8e17ceb1d1c0.jpg",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 120 €",
+   "⚠️ kate ~-31 € (ROI -22%, myy grailed ~162 €; malli 'replica' ~170 € (taulukko: Replica/GAT myy hyvin mutta tarjontaa paljon))",
+   "1468 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794439754,
+  "resale": 162,
+  "profit": -31,
+  "roi": -0.22,
+  "exit": "grailed",
+  "resale_why": [
+   "malli 'replica' ~170 € (taulukko: Replica/GAT myy hyvin mutta tarjontaa paljon)",
+   "myynti grailed ~162 € → käteen ~113 € kulujen ja tinkimisen jälkeen",
+   "osto 128 € + toimitus = 144 €"
+  ]
+ },
+ {
+  "id": "tradera-757747260",
+  "brand": "Maison Margiela · Tradera 🇸🇪",
+  "title": "Maison Martin Margiela bag",
+  "price": 108.75,
+  "value": 285,
+  "score": 2.62,
+  "label": "🔥 KOVA DIILI",
+  "category": "laukku",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/302664/757747260/maison-martin-margiela-bag",
+  "image": "https://img.tradera.net/images/114/665712114_8437fd71-4da7-4e80-8be9-b58eaf43fd81.jpg",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 120 €",
+   "kate ~24 € (ROI 20%, myy grailed ~214 €; brändiarvio ~214 € (ei mallivertailua, geneerinen kappale))",
+   "1250 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794439754,
+  "resale": 214,
+  "profit": 24,
+  "roi": 0.2,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~214 € (ei mallivertailua, geneerinen kappale)",
+   "myynti grailed ~214 € → käteen ~149 € kulujen ja tinkimisen jälkeen",
+   "osto 109 € + toimitus = 125 €"
+  ]
+ },
+ {
+  "id": "tradera-758283708",
+  "brand": "Maison Margiela · Tradera 🇸🇪",
+  "title": "Maison Margiela x Reebok Project 0 CL Tabi Sneakers Svart/Röd EUR 40",
+  "price": 87.0,
+  "value": 532,
+  "score": 6.11,
+  "label": "🚨 INSANE",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340304/758283708/maison-margiela-x-reebok-project-0-cl-tabi-sneakers-svart-rod-eur-40",
+  "image": "https://img.tradera.net/images/859/657295859_f275bfa8-e3bd-47b0-941d-c885f68c9ea7.jpg",
+  "reasons": [
+   "tabi ×1.6",
+   "Sellpyn mediaani tälle brändille 120 €",
+   "💰 kate ~149 € (ROI 145%, myy grailed ~361 €; malli 'tabi' ~380 € (taulukko: Tabi on Margielan likvidein tuote, kengät ja saappaat))",
+   "1000 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794439755,
+  "resale": 361,
+  "profit": 149,
+  "roi": 1.45,
+  "exit": "grailed",
+  "resale_why": [
+   "malli 'tabi' ~380 € (taulukko: Tabi on Margielan likvidein tuote, kengät ja saappaat)",
+   "myynti grailed ~361 € → käteen ~252 € kulujen ja tinkimisen jälkeen",
+   "osto 87 € + toimitus = 103 €"
+  ]
+ },
+ {
+  "id": "tradera-755075292",
+  "brand": "Bottega Veneta · Tradera 🇸🇪",
+  "title": "Bottega Veneta sneakers EU 36",
+  "price": 106.05,
+  "value": 332,
+  "score": 3.14,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340303/755075292/bottega-veneta-sneakers-eu-36",
+  "image": "https://img.tradera.net/images/834/663593834_74c2b7bc-2e21-479a-b1ad-81b3ce5c8e9b.jpg",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 159 €",
+   "kate ~52 € (ROI 42%, myy grailed ~249 €; brändiarvio ~249 € (ei mallivertailua, geneerinen kappale))",
+   "1219 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794439757,
+  "resale": 249,
+  "profit": 52,
+  "roi": 0.42,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~249 € (ei mallivertailua, geneerinen kappale)",
+   "myynti grailed ~249 € → käteen ~174 € kulujen ja tinkimisen jälkeen",
+   "osto 106 € + toimitus = 122 €"
+  ]
+ },
+ {
+  "id": "tradera-753724347",
+  "brand": "Bottega Veneta · Tradera 🇸🇪",
+  "title": "Bottega Veneta mocka Chelsea boots",
+  "price": 88.91,
+  "value": 332,
+  "score": 3.74,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340304/753724347/bottega-veneta-mocka-chelsea-boots",
+  "image": "https://img.tradera.net/images/571/654715571_063b79d8-c863-44a6-870d-96f60c361c69.jpg",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 159 €",
+   "💰 kate ~69 € (ROI 66%, myy grailed ~249 €; brändiarvio ~249 € (ei mallivertailua, geneerinen kappale))",
+   "1022 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794439757,
+  "resale": 249,
+  "profit": 69,
+  "roi": 0.66,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~249 € (ei mallivertailua, geneerinen kappale)",
+   "myynti grailed ~249 € → käteen ~174 € kulujen ja tinkimisen jälkeen",
+   "osto 89 € + toimitus = 105 €"
+  ]
+ },
+ {
   "id": "nLzAzoumTD",
   "brand": "Tuntematon (haku: raf simons)",
   "title": "Taidekirja",
