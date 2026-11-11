@@ -131,6 +131,16 @@ hunts:
   - {q: shadow project, value: 250}
   - {q: loro piana, value: 250}
   - {q: hermes, value: 250}
+  - {q: wales bonner, value: 180}
+  - {q: jjjjound, value: 160}
+  - {q: craig green, value: 200}
+  - {q: aime leon dore, value: 140}
+  - {q: salehe bembury, value: 150}
+  - {q: fragment design, value: 160}
+  - {q: off-white, value: 150, must: [off-white, virgil]}
+  - {q: martine rose, value: 200}
+  - {q: cecilie bahnsen, value: 180}
+  - {q: made in usa new balance, value: 120, must: [made in usa]}
   - {q: boro, value: 120, must: [boro, sashiko]}
   - {q: hevosennahka, value: 120}
   - {q: horse leather, value: 120}
