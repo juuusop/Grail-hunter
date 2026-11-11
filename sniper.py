@@ -341,6 +341,12 @@ class Find:
     source: str
     old_price: float | None = None
     ts: int = 0
+    # resale.py: realistic sale price, best exit platform and expected profit after fees
+    resale: float | None = None
+    profit: float | None = None
+    roi: float | None = None
+    exit: str = ""
+    resale_why: list[str] = field(default_factory=list)
 
     def to_dict(self):
         return self.__dict__.copy()
@@ -359,6 +365,7 @@ class Evaluator:
         self.excl = [w for w in cfg.get("exclude_words", [])]
         self.rare_words = cfg.get("rare_words", [])
         self.gboost = {k: float(v) for k, v in (cfg.get("global_boost") or {}).items()}
+        self.buy_source = "sellpy"   # markets.py sets this per listing (delivery cost differs)
 
     def _image(self, hit, oid):
         imgs = hit.get("images") or []
@@ -492,11 +499,15 @@ class Evaluator:
             label = "💎 HARVINAINEN"
         else:
             return None
-        return Find(id=oid, brand=name, title=title, price=round(price, 2), value=round(est),
-                    score=round(score, 2), label=label, category=cat, condition=cond or "-",
-                    size=size or "-", link=f"https://www.sellpy.{self.market}/item/{oid}",
-                    image=self._image(hit, oid), reasons=reasons,
-                    source="haku" if hunt else "brändi", ts=now_ts())
+        f = Find(id=oid, brand=name, title=title, price=round(price, 2), value=round(est),
+                 score=round(score, 2), label=label, category=cat, condition=cond or "-",
+                 size=size or "-", link=f"https://www.sellpy.{self.market}/item/{oid}",
+                 image=self._image(hit, oid), reasons=reasons,
+                 source="haku" if hunt else "brändi", ts=now_ts())
+        if not hunt:
+            import resale
+            resale.annotate(f, text, kmult, self.buy_source)
+        return f
 
 
 # ---------------------------------------------------------------- notifications (GitHub issue)
@@ -563,7 +574,8 @@ def find_md(f: Find) -> str:
     return (f"<a href=\"{f.link}\"><img src=\"{f.image}\" width=\"140\" align=\"left\"></a>\n\n"
             f"**{f.label} · [{f.brand}]({f.link})**  \n"
             f"{f.title}  \n"
-            f"**{f.price:.0f} €**{drop} · arvio ~{f.value} € · pisteet {f.score}  \n"
+            f"**{f.price:.0f} €**{drop} · arvio ~{f.value} € · pisteet {f.score}"
+            + (f" · **kate ~{f.profit:.0f} €** ({f.exit})" if f.profit is not None else "") + "  \n"
             f"{f.category} · koko {f.size} · {f.condition}"
             + (f"  \n_{why}_" if why else "") + "<br clear=\"left\">")
 
@@ -579,7 +591,8 @@ def write_finds_md(finds: list[dict]):
         title = (f.get("title") or "").replace("|", "/")[:60]
         return (f"| <a href=\"{f['link']}\"><img src=\"{f['image']}\" width=\"90\"></a> | "
                 f"{f['label']}<br>**[{f['brand']}]({f['link']})**<br>{title} | "
-                f"**{f['price']:.0f} €**{drop}<br>arvio ~{f['value']} € | {f['score']} | "
+                f"**{f['price']:.0f} €**{drop}<br>arvio ~{f['value']} €"
+                + (f"<br>kate ~{f['profit']:.0f} €" if f.get("profit") is not None else "") + f" | {f['score']} | "
                 f"{f['category']}<br>{f['size']} | {t} |")
 
     head = "| | Löytö | Hinta | Pisteet | Tyyppi / koko | Löydetty (UTC) |\n|---|---|---|---|---|---|"
@@ -788,7 +801,8 @@ def run(cfg: dict):
     if alerts or not FINDS_MD.exists():
         write_finds_md(finds)
 
-    alerts.sort(key=lambda f: -f.score)
+    import resale
+    alerts.sort(key=resale.rank_key)   # expected profit first, then score
     notifier = GitHubNotifier(st.get("notify_issue_title", "🦅 Löydöt"), state)
     if first_run:
         if alerts:
