@@ -1,5 +1,68 @@
 [
  {
+  "id": "2xtp3N3FFw",
+  "brand": "Barbour",
+  "title": "Barbour international Takki International",
+  "price": 62.0,
+  "value": 128,
+  "score": 2.06,
+  "label": "📉 ✅ DIILI",
+  "category": "takki",
+  "condition": "Hyväksyttävä",
+  "size": "MEN-INT-L",
+  "link": "https://www.sellpy.fi/item/2xtp3N3FFw",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-16-k-8/2xtp3N3FFw-0dc7-0.jpg",
+  "reasons": [
+   "hinta laski 65 → 62 €",
+   "international ×1.2",
+   "Sellpyn mediaani tälle brändille 108 €"
+  ],
+  "source": "brändi",
+  "old_price": 65.0,
+  "ts": 1794437840
+ },
+ {
+  "id": "s36rYvEQyT",
+  "brand": "Filippa K",
+  "title": "Filippa K Rannekoru",
+  "price": 20.0,
+  "value": 40,
+  "score": 2.0,
+  "label": "✅ DIILI",
+  "category": "korut",
+  "condition": "Erittäin hyvä",
+  "size": "-",
+  "link": "https://www.sellpy.fi/item/s36rYvEQyT",
+  "image": "https://prod.images.sellpy.net/photoRobot-manual-13-k-8/s36rYvEQyT-b03a-single.jpg",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 34 €"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794437840
+ },
+ {
+  "id": "itqnO7uPTA",
+  "brand": "New Balance (haku: made in usa new balance)",
+  "title": "New Balance Lenkkitossut 990v6",
+  "price": 113.0,
+  "value": 143,
+  "score": 1.26,
+  "label": "💎 HARVINAINEN",
+  "category": "kengät",
+  "condition": "Erittäin hyvä",
+  "size": "SHOES-EU-43",
+  "link": "https://www.sellpy.fi/item/itqnO7uPTA",
+  "image": "https://prod.images.sellpy.net/photoRobot-case-14-k-16/itqnO7uPTA-da84-0.jpg",
+  "reasons": [
+   "tiedoissa 'made in usa', brändiksi listattu 'New Balance'",
+   "harvinainen: verkko"
+  ],
+  "source": "haku",
+  "old_price": null,
+  "ts": 1794437844
+ },
+ {
   "id": "tori-46805357",
   "brand": "Goyard · Tori",
   "title": "Goyard tekonahkainen laukku vihreä unisex",
