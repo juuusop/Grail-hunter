@@ -1,11 +1,12 @@
 name: Other marketplaces
 
-# Emmy, Tori, Huuto.net and Tradera, every 30 min, scored with the same brand rules.
+# Emmy, Tori, Huuto.net, Tradera + Finn, Blocket, DBA, Marktplaats, 2dehands, every 30 min, scored with the same brand rules.
 on:
   schedule:
     - cron: "12,42 * * * *"
   push:
-    paths: [markets.py, .github/workflows/markets.yml]
+    branches: [claude/designer-thrift-scraper-KF3Wi]
+    paths: [markets.py, markets_eu.py, .github/workflows/markets.yml]
   workflow_dispatch:
 
 permissions:
@@ -19,7 +20,7 @@ concurrency:
 jobs:
   markets:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5

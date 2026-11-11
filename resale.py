@@ -82,12 +82,16 @@ def tier(brand: str, value: float) -> str:
     return "mainstream"
 
 
-def model_match(brand: str, text: str) -> dict | None:
+def model_match(brand: str, text: str, category: str | None = None) -> dict | None:
     best, blen = None, -1
     for m in cfg().get("models") or []:
         if m.get("brand") != brand:
             continue
+        if category and m.get("cats") and category not in m["cats"]:
+            continue
         if m.get("words") and not all(S.has_word(text, w) for w in m["words"]):
+            continue
+        if any(S.has_word(text, w) for w in (m.get("not_words") or [])):
             continue
         hits = [w for w in (m.get("any_words") or []) if S.has_word(text, w)]
         if m.get("any_words") and not hits:
@@ -96,6 +100,15 @@ def model_match(brand: str, text: str) -> dict | None:
         if ln > blen:
             best, blen = {**m, "_hit": (m.get("words") or hits)[0]}, ln
     return best
+
+
+def model_value(brand: str, text: str, kmult: float = 1.0, category: str | None = None) -> tuple[float, dict] | None:
+    """Model-table resale price for the sniper's own score (a Kelly is not valued like a scarf)."""
+    try:
+        m = model_match(brand, S.norm(text), category)
+    except Exception:  # pragma: no cover
+        return None
+    return (float(m["price"]) * kmult, m) if m else None
 
 
 def local_comp(brand: str, category: str) -> dict | None:
@@ -109,6 +122,7 @@ def local_comp(brand: str, category: str) -> dict | None:
 def resellable(text: str) -> bool:
     """Only garments, shoes, bags and jewellery resell; books, cases and nipple covers don't."""
     from markets import APPAREL, JUNK
+    text = text.replace("box calf", "boxcalf").replace("box bag", "boxbag")  # leather / Celine model, not packaging
     extra = ["mekko", "klänning", "takki", "laukku", "saappaat", "nilkkurit", "sormus", "ring", "kaulakoru",
              "rannekoru", "bleiseri", "liivi", "neule", "paita", "housut", "farkut", "kengät", "tennarit", "nahkatakki"]
     if any(S.has_word(text, w) for w in JUNK + ["nännisuoja", "osoitekirja", "muistikirja", "kirja", "taidekirja",
@@ -131,7 +145,7 @@ def evaluate(brand: str, category: str, price: float, value: float, text: str,
     for w in c.get("fabric_words") or []:
         if f"{S.norm(w)} {bn}" in text or f"{S.norm(w)} by {bn}" in text:
             return None  # "tyg Loro Piana": only the fabric is the brand
-    m = model_match(brand, text)
+    m = model_match(brand, text, category)
     if m:
         intl = float(m["price"]) * kmult
         why.append(f"malli '{m['_hit']}' ~{m['price']} € (taulukko{': ' + m['why'] if m.get('why') else ''})")
@@ -169,11 +183,16 @@ def evaluate(brand: str, category: str, price: float, value: float, text: str,
     for name, e in (c.get("exits") or {"tori": {"price": 0.6, "liquidity": 0.95}}).items():
         if e.get("only_tiers") and t not in e["only_tiers"]:
             continue
+        if e.get("only_categories") and category not in e["only_categories"]:
+            continue
+        if category in (e.get("not_categories") or []):
+            continue
         gross = intl * float(e.get("price", 1.0))
         src = ""
         if name == "tori" and lc:
             gross, src = float(lc["median"]), f" (Huudon toteutuneet: mediaani {lc['median']:.0f} €, n={lc['n']})"
-        net = gross * float(e.get("liquidity", 1.0)) * (1 - float(e.get("fee", 0))) \
+        liq = max(float(e.get("liquidity", 1.0)), float((m or {}).get("liquidity", 0)))
+        net = gross * liq * (1 - float(e.get("fee", 0))) \
             - float(e.get("fixed", 0)) - float(e.get("ship", 0))
         if best is None or net > best[1]:
             best = (name, net, gross, src)
@@ -205,6 +224,12 @@ def annotate(f, text: str, kmult: float = 1.0, buy_source: str = "sellpy"):
         tag = "⚠️ "
     f.reasons.append(f"{tag}kate ~{r['profit']} € (ROI {r['roi']:.0%}, myy {r['exit']} ~{r['resale']} €; {r['why'][0]})")
     return f
+
+
+def big_profit(r: dict) -> bool:
+    """Alert on profit alone (score below min_score): big absolute margin with a sane ROI."""
+    c = cfg()
+    return r["profit"] >= float(c.get("alert_profit", 300)) and r["roi"] >= float(c.get("alert_roi", 0.25))
 
 
 def rank_key(f) -> tuple:

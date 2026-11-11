@@ -45,3 +45,30 @@ def test_yahoo_comps_anchor_generic_pieces(monkeypatch):
     r = resale.evaluate("Helmut Lang", "takki", 20, 999, "Helmut Lang takki", 1.0, "sellpy")
     assert r["why"][0].startswith("Yahoo JP")
     assert r["resale"] == round((400 + 200) / 2 * 1.15)
+
+
+def _ev():
+    import sniper
+    cfg = sniper.load_yaml("config.yaml")
+    ev = sniper.Evaluator(cfg, sniper.BrandMatcher(sniper.load_brands()), {"brands": {}}, "fi")
+    ev.buy_source = "auctionet"
+    return ev
+
+
+def _hit(title, eur):
+    return {"objectID": "x1", "_price": eur, "title": title, "images": [],
+            "metadata": {"brand": "Hermès", "type": title, "size": "", "condition": "Hyvä"},
+            "categories": {"lvl0": ""}, "description": ""}
+
+
+class _P:
+    def price(self, hit):
+        return hit["_price"]
+
+
+def test_kelly_at_auction_alerts_on_profit_scarf_does_not():
+    ev = _ev()
+    f = ev.evaluate(_hit("Hermès Kelly 32 väska box calf", 4500), _P())
+    assert f is not None and f.profit > 300
+    assert any("kelly" in r for r in f.reasons)
+    assert ev.evaluate(_hit("Hermès carré silk scarf huivi", 150), _P()) is None

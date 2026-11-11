@@ -478,6 +478,12 @@ class Evaluator:
             reasons.append(f"sesonkikoodi {SEASON_RE.search(text).group(0).upper()}")
 
         est = value * cmult * kmult * bmult
+        if not hunt:
+            import resale
+            mv = resale.model_value(name, text, kmult, cat)
+            if mv:  # a known model has its own resale level (Kelly vs. scarf, Geobasket vs. tee)
+                est = mv[0]
+                reasons.append(f"malli '{mv[1]['_hit']}' ~{mv[1]['price']:.0f} €")
         stats = self.resolved.get(name) if not hunt else None
         if stats and stats.get("median") and stats.get("count", 0) >= 30:
             # Sellpy prices common brands sensibly, so a deal must also be cheap
@@ -498,7 +504,12 @@ class Evaluator:
         elif rare and score >= self.rare_min:
             label = "💎 HARVINAINEN"
         else:
-            return None
+            # expensive pieces (Kelly at auction) can leave real money at a low value/price ratio
+            import resale
+            rp = None if hunt else resale.evaluate(name, cat, price, est, text, kmult, self.buy_source)
+            if not rp or not resale.big_profit(rp):
+                return None
+            label = "💰 KATE"
         f = Find(id=oid, brand=name, title=title, price=round(price, 2), value=round(est),
                  score=round(score, 2), label=label, category=cat, condition=cond or "-",
                  size=size or "-", link=f"https://www.sellpy.{self.market}/item/{oid}",
