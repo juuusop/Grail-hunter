@@ -15,9 +15,17 @@
    "title": "Two undercover angels & Kiss me monster",
    "closed": "2026-11-08T21:08:00+0200",
    "ts": 1794439631
+  },
+  "653080173": {
+   "brand": "Dior",
+   "cat": "muu",
+   "price": 1.4,
+   "title": "Hajuvesinäyte Dior Savage Elixir",
+   "closed": "2026-10-11T16:43:23+0300",
+   "ts": 1794440756
   }
  },
- "i": 40,
+ "i": 80,
  "groups": {
   "Carpe Diem|muu": {
    "n": 1,
@@ -30,7 +38,13 @@
    "median": 15.0,
    "p25": 15.0,
    "p75": 15.0
+  },
+  "Dior|muu": {
+   "n": 1,
+   "median": 1.4,
+   "p25": 1.4,
+   "p75": 1.4
   }
  },
- "generated": 1794439645
+ "generated": 1794440779
 }
