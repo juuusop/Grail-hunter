@@ -296,7 +296,7 @@ def run(cfg: dict):
         S.log(f"{name}: {len(got)} listings")
         listings += got
 
-    fake_risk = {S.norm(x) for x in (mk.get("fake_risk") or [])}
+    fake_risk = {S.norm(x) for x in (mk.get("fake_risk") or []) + EU.FAKE_RISK_EXTRA}
     block = [S.norm(x) for x in (mk.get("text_block") or [])]
     found = []
     for L in listings:
