@@ -288,9 +288,11 @@ def run(cfg: dict):
             b = finder.find(L.title)
         if b is None:
             continue
+        t = S.norm(L.title + " " + L.text)
+        if any(x in t for x in block):
+            continue
         if L.source in P2P:
-            t = S.norm(L.title + " " + L.text)
-            if any(S.has_word(t, w) for w in JUNK) or any(x in t for x in block):
+            if any(S.has_word(t, w) for w in JUNK):
                 continue
             if not any(S.has_word(t, w) for w in APPAREL):
                 continue
@@ -317,8 +319,13 @@ def run(cfg: dict):
 
     scan = S.load_json(SCAN, {"items": []})
     keep = {d["id"]: d for d in scan.get("items", []) if d.get("ts", 0) >= cutoff}
+    from scan import thumb
     for f in found:
-        keep[f.id] = {**keep.get(f.id, {}), **f.to_dict()}
+        old = keep.get(f.id, {})
+        d = {**old, **f.to_dict()}
+        if not d.get("thumb") and f.image:
+            d["thumb"] = thumb(requests.Session(), f.image)
+        keep[f.id] = d
     S.save_json(SCAN, {"generated": S.now_ts(), "items": sorted(keep.values(), key=lambda d: -d["score"])[:3000]})
 
     if new:
