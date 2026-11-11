@@ -116,7 +116,7 @@ brands:
   - {name: Khaite, value: 200}
   - {name: Totême, value: 110, aliases: [toteme]}
   - {name: Chloé, value: 110, aliases: [chloe]}
-  - {name: Loro Piana, value: 350}
+  - {name: Loro Piana, value: 350, boost: {"tyg": 0.35, "lanka": 0.35, "kangas": 0.35, "fabric": 0.35, "cloth": 0.35, "hugo boss": 0.35, "boss": 0.4, "tiger of sweden": 0.35, "cavaliere": 0.35, "rose & born": 0.35, "j.lindeberg": 0.35, "super 110": 0.6, "super 120": 0.6}}
   - {name: Brunello Cucinelli, value: 250}
   - {name: Kiton, value: 250}
   - {name: Isaia, value: 150}
