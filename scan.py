@@ -74,9 +74,9 @@ def thumb(session, url):
         if r.status_code != 200:
             return None
         im = Image.open(io.BytesIO(r.content)).convert("RGB")
-        im.thumbnail((180, 180))
+        im.thumbnail((150, 150))
         buf = io.BytesIO()
-        im.save(buf, "JPEG", quality=62, optimize=True)
+        im.save(buf, "JPEG", quality=58, optimize=True)
         return "data:image/jpeg;base64," + base64.b64encode(buf.getvalue()).decode()
     except Exception:
         return None
@@ -171,10 +171,11 @@ def deep(cfg):
         out.append(d)
     out.sort(key=lambda d: -d["score"])
     S.log(f"deep: {len(out)} candidates in total")
-    out = out[:int(st.get("scan_max_items", 2500))]
+    nthumb = int(st.get("scan_thumbs", 3000))
     S.log(f"deep: {len(out)} candidates, fetching thumbnails")
     with ThreadPoolExecutor(8) as pool:
-        thumbs = list(pool.map(lambda d: thumb(sp.s, d["image"]), out))
+        thumbs = list(pool.map(lambda d: thumb(sp.s, d["image"]), out[:nthumb]))
+    thumbs += [None] * (len(out) - len(thumbs))
     for d, t in zip(out, thumbs):
         d["thumb"] = t
     S.save_json(S.DATA / "scan.json", {"generated": S.now_ts(), "items": out})
