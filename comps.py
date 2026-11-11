@@ -148,6 +148,9 @@ def report(comps: dict) -> str:
             f"kurssi {comps['jpy_per_eur']:.0f} ¥/€. Hinnat euroina ilman toimitusta, viimeiset ~100 myytyä per brändi.\n\n"
             "**Suhde** = sniperin arvio (brands.yaml `value` × kategoriakerroin) / Japanin myyty mediaani samassa kategoriassa. "
             "Yli 2× tarkoittaa että sniper luultavasti yliarvioi brändiä (turhia hälytyksiä), alle 0.5× että aliarvioi (diilejä jää huomaamatta).\n\n"
+            "**Lue näin:** Japani on maailman syvin designer-käytettyjen markkina, joten sen myyntihinta on käytännössä *lattiahinta*. "
+            "Japanilaiset kotimaan brändit (Kapital, Kolor, Undercover, Yohji) ovat siellä halvempia kuin Euroopassa, joten niillä suhde 2–3× ei vielä todista virhettä. "
+            "Pieni n tai outo mediaani (esim. alle 20 €) tarkoittaa yleensä että englanninkielinen haku osui vääriin tuotteisiin, ei että brändi on halpa.\n\n"
             "| Brändi | value | JP myyty mediaani € (n) | kategoriat | Sellpy mediaani € | suhde |\n|---|---|---|---|---|---|\n")
     return head + "\n".join(r for _, r in rows) + "\n"
 

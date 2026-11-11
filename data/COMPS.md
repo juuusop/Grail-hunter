@@ -4,6 +4,8 @@ Päivitetty 2026-11-11, kurssi 177 ¥/€. Hinnat euroina ilman toimitusta, viim
 
 **Suhde** = sniperin arvio (brands.yaml `value` × kategoriakerroin) / Japanin myyty mediaani samassa kategoriassa. Yli 2× tarkoittaa että sniper luultavasti yliarvioi brändiä (turhia hälytyksiä), alle 0.5× että aliarvioi (diilejä jää huomaamatta).
 
+**Lue näin:** Japani on maailman syvin designer-käytettyjen markkina, joten sen myyntihinta on käytännössä *lattiahinta*. Japanilaiset kotimaan brändit (Kapital, Kolor, Undercover, Yohji) ovat siellä halvempia kuin Euroopassa, joten niillä suhde 2–3× ei vielä todista virhettä. Pieni n tai outo mediaani (esim. alle 20 €) tarkoittaa yleensä että englanninkielinen haku osui vääriin tuotteisiin, ei että brändi on halpa.
+
 | Brändi | value | JP myyty mediaani € (n) | kategoriat | Sellpy mediaani € | suhde |
 |---|---|---|---|---|---|
 | Layer-0 | 400 | 15 (21) | kengät 15€ (21) | - | 37.3× ⚠️ liian korkea? |
