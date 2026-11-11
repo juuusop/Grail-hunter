@@ -23,9 +23,41 @@
    "title": "Hajuvesinäyte Dior Savage Elixir",
    "closed": "2026-10-11T16:43:23+0300",
    "ts": 1794440756
+  },
+  "653191864": {
+   "brand": "Miu Miu",
+   "cat": "muu",
+   "price": 6.0,
+   "title": "Tuoksunäytteitä 8 kpl YSL, Chloe, Miu Miu ym.",
+   "closed": "2026-10-02T17:39:20+0300",
+   "ts": 1794440975
+  },
+  "653191355": {
+   "brand": "Gucci",
+   "cat": "muu",
+   "price": 1.4,
+   "title": "Hajuvesinäyte  Gucci Flora Gorgeous Gardenia",
+   "closed": "2026-10-08T20:14:50+0300",
+   "ts": 1794440978
+  },
+  "650885709": {
+   "brand": "Gucci",
+   "cat": "muu",
+   "price": 2.0,
+   "title": "Hajuvesinäyte uutuustuoksu Gucci Flora Gorgeous Orchid",
+   "closed": "2026-09-05T18:21:20+0300",
+   "ts": 1794440978
+  },
+  "651877321": {
+   "brand": "45R",
+   "cat": "muu",
+   "price": 5.0,
+   "title": "3MUSTAPHAS3   – BAM!    orig. EU  1985   EP 12'' 45rpm   BDL",
+   "closed": "2026-09-20T20:19:00+0300",
+   "ts": 1794441006
   }
  },
- "i": 80,
+ "i": 120,
  "groups": {
   "Carpe Diem|muu": {
    "n": 1,
@@ -44,7 +76,25 @@
    "median": 1.4,
    "p25": 1.4,
    "p75": 1.4
+  },
+  "Miu Miu|muu": {
+   "n": 1,
+   "median": 6.0,
+   "p25": 6.0,
+   "p75": 6.0
+  },
+  "Gucci|muu": {
+   "n": 2,
+   "median": 1.7,
+   "p25": 1.4,
+   "p75": 2.0
+  },
+  "45R|muu": {
+   "n": 1,
+   "median": 5.0,
+   "p25": 5.0,
+   "p75": 5.0
   }
  },
- "generated": 1794440779
+ "generated": 1794441022
 }
