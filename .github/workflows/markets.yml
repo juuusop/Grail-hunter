@@ -31,8 +31,8 @@ jobs:
         uses: actions/cache/restore@v4
         with:
           path: data/markets_state.json
-          key: markets-v1-${{ github.run_id }}
-          restore-keys: markets-v1-
+          key: markets-v2-${{ github.run_id }}
+          restore-keys: markets-v2-
       - run: python markets.py run
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -41,7 +41,7 @@ jobs:
         uses: actions/cache/save@v4
         with:
           path: data/markets_state.json
-          key: markets-v1-${{ github.run_id }}
+          key: markets-v2-${{ github.run_id }}
       - name: Commit
         run: |
           git config user.name "grail-hunter-bot"

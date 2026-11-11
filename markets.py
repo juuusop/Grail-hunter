@@ -25,6 +25,24 @@ STATE = S.DATA / "markets_state.json"
 SCAN = S.DATA / "markets_scan.json"
 UA = {"User-Agent": "Mozilla/5.0 (compatible; grail-hunter/1.0; personal use)", "Accept-Language": "fi-FI,fi;q=0.9,en;q=0.7"}
 SEK_EUR = 0.087
+P2P = {"tori", "huuto", "tradera"}
+APPAREL = ["takki", "jacket", "jacka", "parka", "anorakki", "bleiseri", "blazer", "kavaj", "kavaj", "liivi", "väst", "vest",
+           "housut", "byxor", "pants", "trousers", "farkut", "jeans", "denim", "shortsit", "shorts", "cargo",
+           "paita", "tröja", "skjorta", "shirt", "t-paita", "t-shirt", "tee", "huppari", "hoodie", "college", "sweatshirt",
+           "neule", "neulepaita", "villapaita", "stickad", "knit", "cardigan", "neuletakki", "mekko", "klänning", "dress",
+           "hame", "kjol", "skirt", "toppi", "topp", "top", "kengät", "skor", "shoes", "sneakers", "lenkkarit", "tennarit",
+           "saappaat", "kängor", "stövlar", "boots", "derby", "loafer", "loaferit", "sandaalit", "sandaler", "sandals",
+           "laukku", "väska", "bag", "reppu", "ryggsäck", "backpack", "olkalaukku", "lompakko", "plånbok", "wallet",
+           "vyö", "bälte", "belt", "pipo", "mössa", "beanie", "lippis", "keps", "cap", "huivi", "halsduk", "scarf",
+           "puku", "kostym", "suit", "haalari", "overall", "fleece", "untuvatakki", "dunjacka", "puffer", "kauluspaita",
+           "geobasket", "ramones", "tabi", "runner", "trainer", "tossut"]
+JUNK = ["beauty", "beaute", "beauté", "parfum", "parfums", "parfym", "hajuvesi", "tuoksu", "meikki", "smink", "huulipuna",
+        "kynsilakka", "voide", "lotion", "blush", "puuteri", "necessär", "necessar", "sminkväska", "dustbag", "pölypussi",
+        "kotelo", "rasia", "box", "laatikko", "kassi ostos", "paperikassi", "shopping bag", "kirja", "bok", "book", "lehti",
+        "magazine", "rafzine", "vinyl", "lp", "dvd", "blu-ray", "city guide", "avaimenperä", "keychain", "nyckelring", "charm",
+        "riipus", "tyyliset", "tyylinen", "tyylisen", "inspired", "kopio", "fake", "replika", "look alike", "lookalike",
+        "sinivalolasit", "anti-blue", "antibluelight", "korvakorut", "kaulakoru", "sormus", "tarra", "sticker", "juliste",
+        "poster", "kangaskassi ilmainen", "rpm", "7\"", "single"]
 FLAG = {"emmy": "Emmy", "tori": "Tori", "huuto": "Huuto", "tradera": "Tradera 🇸🇪"}
 
 
@@ -92,7 +110,7 @@ def emmy(state: dict, max_pages: int) -> list[Listing]:
                 if ":" in t:
                     k, v = t.split(":", 1)
                     tag.setdefault(k, v)
-            if tag.get("agegroup", "").lower().startswith("kid") or "instock" not in tags:
+            if tag.get("agegroup", "Adults") != "Adults" or "instock" not in tags:
                 continue
             v0 = (p.get("variants") or [{}])[0]
             if not v0.get("available", True):
@@ -261,6 +279,8 @@ def run(cfg: dict):
         S.log(f"{name}: {len(got)} listings")
         listings += got
 
+    fake_risk = {S.norm(x) for x in (mk.get("fake_risk") or [])}
+    block = [S.norm(x) for x in (mk.get("text_block") or [])]
     found = []
     for L in listings:
         b = matcher.match(L.brand) if L.brand else None
@@ -268,6 +288,15 @@ def run(cfg: dict):
             b = finder.find(L.title)
         if b is None:
             continue
+        if L.source in P2P:
+            t = S.norm(L.title + " " + L.text)
+            if any(S.has_word(t, w) for w in JUNK) or any(x in t for x in block):
+                continue
+            if not any(S.has_word(t, w) for w in APPAREL):
+                continue
+            # cheap "luxury" from private sellers is almost always fake
+            if S.norm(b.name) in fake_risk and L.price < float(mk.get("fake_risk_floor", 0.3)) * b.value:
+                continue
         f = ev.evaluate(to_hit(L, b.name), sp)
         if not f:
             continue

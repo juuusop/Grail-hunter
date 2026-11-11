@@ -145,3 +145,12 @@ markets:
   tori_queries: 20         # brändihakuja per ajo (kiertää koko listan läpi)
   huuto_queries: 25
   tradera_queries: 12
+  # Yksityismyyjillä (Tori/Huuto/Tradera) halpa luksus on lähes aina feikki: näiltä vaaditaan
+  # hinta vähintään fake_risk_floor × brändin arvo.
+  fake_risk_floor: 0.3
+  fake_risk: [Chrome Hearts, Chanel, Louis Vuitton, Hermès, Gucci, Dior, Dior Homme, Christian Dior, Prada, Balenciaga,
+              Saint Laurent, Yves Saint Laurent, Bottega Veneta, Fendi, Celine, Loewe, Moncler, Canada Goose, Stone Island,
+              A Bathing Ape, Supreme, Off-White, Fear of God, Rick Owens, Maison Margiela, Burberry, Versace, Givenchy,
+              Valentino, Alexander McQueen, Vivienne Westwood, Enfants Riches Déprimés, Arc'teryx]
+  # samannimiset muut merkit / väärät osumat vapaatekstissä
+  text_block: [globe hope, piero guidi, laura guidi, 45rpm, 45 rpm, coco chanel, hope solo]
