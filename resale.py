@@ -7,7 +7,7 @@ buy price and delivery. Every find gets the numbers and where they came from.
 
 Commands:
   python resale.py comps    collect sold comps from Huuto.net (official API, closed auctions)
-                            into data/comps.json  (GitHub Actions runs this daily)
+                            into data/huuto_comps.json  (GitHub Actions runs this daily)
   python resale.py report   rank all known finds by expected profit -> data/PROFIT.md
 """
 from __future__ import annotations
@@ -19,7 +19,8 @@ from functools import lru_cache
 
 import sniper as S
 
-COMPS_FILE = S.DATA / "comps.json"
+COMPS_FILE = S.DATA / "huuto_comps.json"
+YAHOO_FILE = S.DATA / "comps.json"   # Yahoo! Auctions Japan sold prices (comps.py)
 PROFIT_MD = S.DATA / "PROFIT.md"
 
 
@@ -49,7 +50,22 @@ def core_cfg() -> dict:
     return S.load_yaml("config.yaml") or {}
 
 
+@lru_cache(maxsize=1)
+def yahoo() -> dict:
+    return S.load_json(YAHOO_FILE, {}).get("brands", {})
+
+
+def yahoo_comp(brand: str, category: str) -> dict | None:
+    """Sold prices on Yahoo! Auctions Japan for this brand + category (EUR). Japan = floor price."""
+    b = yahoo().get(brand) or {}
+    g = (b.get("cats") or {}).get(category) or {}
+    if int(g.get("n", 0)) >= int(cfg().get("min_yahoo_comps", 5)):
+        return g
+    return None
+
+
 def reset_cache():
+    yahoo.cache_clear()
     core_cfg.cache_clear()
     cfg.cache_clear()
     brand_values.cache_clear()
@@ -96,7 +112,8 @@ def resellable(text: str) -> bool:
     extra = ["mekko", "klänning", "takki", "laukku", "saappaat", "nilkkurit", "sormus", "ring", "kaulakoru",
              "rannekoru", "bleiseri", "liivi", "neule", "paita", "housut", "farkut", "kengät", "tennarit", "nahkatakki"]
     if any(S.has_word(text, w) for w in JUNK + ["nännisuoja", "osoitekirja", "muistikirja", "kirja", "taidekirja",
-                                     "meikkipussi", "kosmetiikkalaukku", "toilettilaukku", "puhelinkuori", "kuori"]):
+                                     "meikkipussi", "kosmetiikkalaukku", "toilettilaukku", "puhelinkuori", "kuori",
+                                     "koiran", "koira", "lemmikki", "dog", "hund"]):
         return False
     return any(S.has_word(text, w) or w in text for w in APPAREL + extra if len(w) >= 5) or \
         any(S.has_word(text, w) for w in APPAREL + extra if len(w) < 5)
@@ -119,14 +136,32 @@ def evaluate(brand: str, category: str, price: float, value: float, text: str,
         intl = float(m["price"]) * kmult
         why.append(f"malli '{m['_hit']}' ~{m['price']} € (taulukko{': ' + m['why'] if m.get('why') else ''})")
     else:
-        intl = float(value) * float(c.get("generic_factor", 0.75))
+        yc = yahoo_comp(brand, category)
+        if yc:
+            dom = brand in (c.get("jp_domestic") or [])
+            fx = float(c.get("jp_domestic_to_eu" if dom else "jp_to_eu", 1.6 if dom else 1.3))
+            # Yahoo's category median includes the iconic pieces; a generic find sits nearer the lower quartile
+            base = (float(yc["median"]) + float(yc["p25"])) / 2
+            intl = base * fx * kmult
+            head = (f"Yahoo JP toteutuneet ({category}): mediaani {yc['median']:.0f} €, p25 {yc['p25']:.0f} € "
+                    f"(n={yc['n']}) → geneerinen ~{base:.0f} € × {fx:g} EU-taso")
+        else:
+            intl = float(value) * float(c.get("generic_factor", 0.75))
         hits = [(w, float(x)) for w, x in (c.get("collab_words") or {}).items()
                 if S.norm(w) != bn and S.has_word(text, w)]
         if hits:
             w, x = min(hits, key=lambda h: h[1])
             intl *= x
             why.append(f"massakollaboraatio/diffuusio '{w}' ×{x:g}")
-        why.insert(0, f"brändiarvio ~{intl:.0f} € (ei mallivertailua, geneerinen kappale)")
+        if not yc:
+            head = f"brändiarvio ~{intl:.0f} € (ei mallivertailua eikä Yahoo-dataa)"
+        why.insert(0, head)
+    if buy_source in ("tori", "huuto", "tradera") and \
+            S.norm(brand) in {S.norm(x) for x in ((core_cfg().get("markets") or {}).get("fake_risk") or [])
+                              + (c.get("extra_fake_risk") or [])}:
+        fr = float(c.get("fake_risk_mult", 0.7))
+        intl *= fr
+        why.append(f"⚠️ feikkiriski yksityismyyjältä (×{fr:g}): pyydä kuvat lapuista/koodeista ennen ostoa")
     t = tier(brand, value)
     lc = local_comp(brand, category)
     buy = price + float((c.get("buy_costs") or {}).get(buy_source, 6.0))
@@ -300,7 +335,7 @@ def report(limit: int = 60):
           f"{len(rows)} löytöä arvioitu, {len(good)} joissa odotettu kate ≥ {cfg().get('min_profit', 60)} €. "
           f"Paras myyntikanava: " + ", ".join(f"{k} {v}" for k, v in sorted(by_exit.items(), key=lambda x: -x[1])) + ".",
           "", "Kate = arvioitu myyntihinta parhaassa kanavassa × likviditeetti − palkkiot − (ostohinta + toimitus). "
-          "Lähde näkyy perusteluissa: *malli* = käsin koottu vertailutaulukko, *Huudon toteutuneet* = oikeat kaupat, "
+          "Lähde näkyy perusteluissa: *malli* = käsin koottu vertailutaulukko, *Yahoo JP* = Japanin toteutuneet kaupat × EU-kerroin, *Huudon toteutuneet* = oikeat kaupat, "
           "*brändiarvio* = karkein. Tuote voi olla jo myyty.", "",
           "| Löytö | Hinta | Myynti | Kate | ROI | Miksi |", "|---|---|---|---|---|---|"]
     for r in rows[:limit]:

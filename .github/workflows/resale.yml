@@ -32,7 +32,7 @@ jobs:
         run: |
           git config user.name "grail-hunter-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/comps.json data/PROFIT.md
+          git add data/huuto_comps.json data/PROFIT.md
           if ! git diff --cached --quiet; then
             git commit -m "Resale comps + profit ranking [skip ci]"
             for i in 1 2 3; do git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push && break; sleep 5; done

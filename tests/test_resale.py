@@ -37,3 +37,11 @@ def test_rank_key_prefers_profit():
     b = {"profit": 50, "score": 9.0}
     c = {"profit": None, "score": 20}
     assert sorted([c, b, a], key=resale.rank_key) == [a, b, c]
+
+
+def test_yahoo_comps_anchor_generic_pieces(monkeypatch):
+    fake = {"Helmut Lang": {"cats": {"takki": {"n": 10, "median": 400, "p25": 200, "p75": 900}}}}
+    monkeypatch.setattr(resale, "yahoo", lambda: fake)
+    r = resale.evaluate("Helmut Lang", "takki", 20, 999, "Helmut Lang takki", 1.0, "sellpy")
+    assert r["why"][0].startswith("Yahoo JP")
+    assert r["resale"] == round((400 + 200) / 2 * 1.15)

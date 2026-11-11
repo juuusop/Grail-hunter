@@ -9,7 +9,7 @@
 #
 # Lähde-merkinnät perusteluissa:
 #   "malli"     = alla olevasta mallitaulukosta (Grailed/Vestiaire-tyyppihinnat, käsin koottu arvio, EI live-dataa)
-#   "huuto-myyty" = oikeat päättyneet Huuto.net-kaupat (data/comps.json, päivitetään päivittäin)
+#   "huuto-myyty" = oikeat päättyneet Huuto.net-kaupat (data/huuto_comps.json, päivitetään päivittäin)
 #   "brändiarvo" = brands.yaml value × kategoria × kunto (karkein)
 
 # Hälytykseen "💰"-merkintä kun odotettu kate on vähintään tämä (EUR) ja ROI vähintään min_roi.
@@ -47,6 +47,19 @@ collab_words: {nike: 0.35, adidas: 0.35, "h&m": 0.2, "h & m": 0.2, uniqlo: 0.15,
 
 # Brändi mainittu vain materiaalina ("tyg Loro Piana", "fabric by ...") → ei brändin tuote.
 fabric_words: [tyg, fabric, kangas, cloth, stoff, fabrics, tissu, kankaasta, lanka, garn, yarn, "tyg från", "ull från"]
+
+# Yahoo! Auctions Japan -toteutuneet (data/comps.json, comps.py): Japani on lattiahinta, EU/Grailed-taso
+# arvioidaan kertoimella. Japanilaiset kotimaiset brändit ovat siellä halvempia → isompi kerroin.
+# Käytetään kun mallitaulukko ei osu ja brändi+kategoria-yhdistelmällä on vähintään min_yahoo_comps kauppaa.
+min_yahoo_comps: 5
+jp_to_eu: 1.15
+jp_domestic_to_eu: 1.4
+# Feikkiriskibrändit (config.yaml markets.fake_risk) yksityismyyjiltä: myyntiarvio × tämä.
+fake_risk_mult: 0.7
+extra_fake_risk: [Goyard, Hermès, Bottega Veneta, Golden Goose, Palm Angels, Amiri, Gallery Dept]
+jp_domestic: [Kapital, Undercover, Yohji Yamamoto, Comme des Garçons, Comme des Garçons Homme, Comme des Garçons Homme Plus,
+              Junya Watanabe, Issey Miyake, Homme Plissé Issey Miyake, Pleats Please, Visvim, Number (N)ine, 45R,
+              Takahiromiyashita The Soloist, Sacai, Kolor, Neighborhood, WTAPS, Hysteric Glamour, Needles, Noir Kei Ninomiya]
 
 # Brändin "taso": archive/designer myyvät kansainvälisesti (Grailed), muut lähinnä Vinted/Tori.
 # Brändit joita ei ole listattu: value >= 200 → archive, >= 90 → designer, muuten mainstream.
