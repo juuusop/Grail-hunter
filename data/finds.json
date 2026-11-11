@@ -1,5 +1,172 @@
 [
  {
+  "id": "2Zq7GXJ8vv",
+  "brand": "Transit Par-Such",
+  "title": "Transit Par Such Tunika",
+  "price": 27.0,
+  "value": 50,
+  "score": 1.87,
+  "label": "💎 HARVINAINEN",
+  "category": "muu",
+  "condition": "Hyvä",
+  "size": "WMN-INT-XXXL",
+  "link": "https://www.sellpy.fi/item/2Zq7GXJ8vv",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-15-k-13/2Zq7GXJ8vv-de7d-0.jpg",
+  "reasons": [
+   "harvinainen: artisanal",
+   "Sellpyn mediaani tälle brändille 20 €"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794427761
+ },
+ {
+  "id": "odoQmCid5C",
+  "brand": "Annette Görtz",
+  "title": "Annette Görtz Tunika",
+  "price": 91.0,
+  "value": 84,
+  "score": 0.92,
+  "label": "💎 HARVINAINEN",
+  "category": "muu",
+  "condition": "Erittäin hyvä",
+  "size": "WMN-INT-XL",
+  "link": "https://www.sellpy.fi/item/odoQmCid5C",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-7-l-5/odoQmCid5C-77da-0.jpg",
+  "reasons": [
+   "silkki ×1.05",
+   "harvinainen: artisanal",
+   "Sellpyn mediaani tälle brändille 54 €"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794427761
+ },
+ {
+  "id": "6gg15a9LQi",
+  "brand": "Barbour",
+  "title": "Barbour international Talvitakki International",
+  "price": 52.0,
+  "value": 121,
+  "score": 2.33,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "Hyvä",
+  "size": "MEN-INT-L",
+  "link": "https://www.sellpy.fi/item/6gg15a9LQi",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-12-l-2/6gg15a9LQi-0fd5-0.jpg",
+  "reasons": [
+   "international ×1.2",
+   "Sellpyn mediaani tälle brändille 101 €"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794427761
+ },
+ {
+  "id": "66jYwUyumO",
+  "brand": "Barbour",
+  "title": "Barbour Pikeepaita",
+  "price": 19.0,
+  "value": 53,
+  "score": 2.8,
+  "label": "🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "Hyväksyttävä",
+  "size": "MEN-INT-XL",
+  "link": "https://www.sellpy.fi/item/66jYwUyumO",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-12/66jYwUyumO-3c42-0.jpg",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 101 €"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794427761
+ },
+ {
+  "id": "CG5p9XLzly",
+  "brand": "Han Kjøbenhavn",
+  "title": "Han Kjøbenhavn Lyhythihainen pusero",
+  "price": 15.0,
+  "value": 60,
+  "score": 4.0,
+  "label": "🚨 INSANE",
+  "category": "neule",
+  "condition": "Erittäin hyvä",
+  "size": "MEN-INT-XL",
+  "link": "https://www.sellpy.fi/item/CG5p9XLzly",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-k-13/CG5p9XLzly-46e5-0.jpg",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 20 €"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794427761
+ },
+ {
+  "id": "9xSCPqlBrD",
+  "brand": "Hope",
+  "title": "HOPE Stockholm Kangaslaukku",
+  "price": 27.0,
+  "value": 65,
+  "score": 2.4,
+  "label": "✅ DIILI",
+  "category": "laukku",
+  "condition": "Hyvä",
+  "size": "-",
+  "link": "https://www.sellpy.fi/item/9xSCPqlBrD",
+  "image": "https://prod.images.sellpy.net/photoRobot-fixed-11-k-4/9xSCPqlBrD-78d9-single.jpg",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 36 €"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794427761
+ },
+ {
+  "id": "x6y2cTSBDp",
+  "brand": "Jean Paul Gaultier",
+  "title": "Jean Paul Gaultier Urheilukassi Le Male",
+  "price": 58.5,
+  "value": 126,
+  "score": 2.15,
+  "label": "📉 ✅ DIILI",
+  "category": "muu",
+  "condition": "Uusi",
+  "size": "-",
+  "link": "https://www.sellpy.fi/item/x6y2cTSBDp",
+  "image": "https://prod.images.sellpy.net/photoRobot-fixed-22-l-3/x6y2cTSBDp-c47c-0-timed-sequence.jpg",
+  "reasons": [
+   "hinta laski 66 → 58 €",
+   "Sellpyn mediaani tälle brändille 104 €"
+  ],
+  "source": "brändi",
+  "old_price": 65.5,
+  "ts": 1794427762
+ },
+ {
+  "id": "mAPRYQngJ1",
+  "brand": "Fendi",
+  "title": "Fendi Rannekoru",
+  "price": 43.0,
+  "value": 157,
+  "score": 3.65,
+  "label": "🔥 KOVA DIILI",
+  "category": "korut",
+  "condition": "Hyvä",
+  "size": "-",
+  "link": "https://www.sellpy.fi/item/mAPRYQngJ1",
+  "image": "https://prod.images.sellpy.net/photoRobot-manual-7-k-21/815BhCb1wm-f6fa-single.jpg",
+  "reasons": [
+   "nahka ×1.1",
+   "leather ×1.1",
+   "Sellpyn mediaani tälle brändille 138 €"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794427762
+ },
+ {
   "id": "kbrvb6pxy0",
   "brand": "Yves Saint Laurent",
   "title": "Yves Saint Laurent Paita",
