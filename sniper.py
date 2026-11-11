@@ -359,6 +359,8 @@ class Evaluator:
         self.excl = [w for w in cfg.get("exclude_words", [])]
         self.rare_words = cfg.get("rare_words", [])
         self.gboost = {k: float(v) for k, v in (cfg.get("global_boost") or {}).items()}
+        # real sold prices from Japan (comps.py); shown in reasons, not used for scoring
+        self.comps = (load_json(DATA / "comps.json", {}) or {}).get("brands", {})
 
     def _image(self, hit, oid):
         imgs = hit.get("images") or []
@@ -479,6 +481,13 @@ class Evaluator:
             if price > cap and not rare:
                 return None
             reasons.append(f"Sellpyn mediaani tälle brändille {stats['median']:.0f} €")
+        comp = self.comps.get(name) if not hunt else None
+        if comp:
+            cc = (comp.get("cats") or {}).get(cat)
+            if cc:
+                reasons.append(f"Japanissa myyty ({cat}) mediaani {cc['median']} € (n={cc['n']})")
+            else:
+                reasons.append(f"Japanissa myyty mediaani {comp['median']} € (n={comp['n']})")
         score = est / price
         if self.max_price is not None and price > float(self.max_price):
             return None
