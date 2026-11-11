@@ -1,82 +1,116 @@
 #!/usr/bin/env python3
-"""One-off feasibility probe for new deal sources. Prints status, size and item counts.
-Runs in GitHub Actions (the dev sandbox can't reach these hosts)."""
-import json, re, time
+"""Feasibility probe round 2: parse the reachable sources and print real sample rows."""
+import json, re, time, statistics
 import requests
 
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
       "Accept-Language": "fi-FI,fi;q=0.9,en;q=0.8"}
-Q = "yohji yamamoto"
-PAGES = {
-    "auctionet_api": f"https://auctionet.com/api/v2/items.json?q={Q}&per_page=50",
-    "auctionet_html": f"https://auctionet.com/en/search?q={Q}",
-    "lauritz": f"https://www.lauritz.com/en/search?q={Q}",
-    "catawiki_api": f"https://www.catawiki.com/buyer/api/v1/search?q={Q}&per_page=24",
-    "catawiki_html": f"https://www.catawiki.com/en/s?q={Q}",
-    "bukowskis": f"https://www.bukowskis.com/en/search?q={Q}",
-    "helander": "https://www.helander.com/",
-    "hagelstam": "https://www.hagelstam.fi/",
-    "yahoo_auctions": f"https://auctions.yahoo.co.jp/search/search?p={Q}&n=50",
-    "yahoo_closed": f"https://auctions.yahoo.co.jp/closedsearch/closedsearch?p={Q}&n=50",
-    "mercari_jp": f"https://jp.mercari.com/search?keyword={Q}",
-    "rakuma": f"https://fril.jp/s?query={Q}",
-    "2ndstreet_jp": f"https://www.2ndstreet.jp/search?keyword={Q}",
-    "ragtag": f"https://www.ragtag.jp/search?q={Q}",
-    "zenmarket": f"https://zenmarket.jp/en/yahoo.aspx?q={Q}",
-    "buyee": f"https://buyee.jp/item/search/query/{Q}",
-    "grailed": f"https://www.grailed.com/shop?query={Q}",
-    "zadaa": "https://zadaa.co/fi",
-    "ebay_de": f"https://www.ebay.de/sch/i.html?_nkw={Q}&_sop=10",
-    "ebay_com": f"https://www.ebay.com/sch/i.html?_nkw={Q}&_sop=10",
-    "kleinanzeigen": f"https://www.kleinanzeigen.de/s-{Q.replace(' ', '-')}/k0",
-    "blocket": f"https://www.blocket.se/annonser/hela_sverige?q={Q}",
-    "finn": f"https://www.finn.no/bap/forsale/search.html?q={Q}",
-    "dba": f"https://www.dba.dk/soeg/?soeg={Q}",
-    "vinted_fi": f"https://www.vinted.fi/catalog?search_text={Q}",
-    "yoox": f"https://www.yoox.com/fi/search?dept=men&textsearch={Q}",
-    "theoutnet": f"https://www.theoutnet.com/en-fi/shop/search/{Q}",
-    "secondstreet_eu": "https://2ndstreeteurope.com/",
-}
-SHOPIFY = ["emmy.fi", "relove.fi", "www.relove.fi", "kaartinenkuusela.fi", "www.beyondretro.com", "www.arkivet.se",
-           "www.dagmarstore.se", "www.grandvintage.se", "archivepdx.com", "www.archivestore.co", "www.thegoodsdept.com",
-           "www.nakedcph.com", "www.kirppu.fi", "www.uffshop.fi", "www.relovestore.com", "www.thefoundry.se",
-           "www.grailpoint.com", "www.dot-comme.com", "www.ivoryshop.fi", "www.sweatshop.fi", "www.stylerunner.fi",
-           "www.solebox.com", "www.antonia.it", "www.reseeshop.com", "www.vintagestore.fi", "www.archivio.store",
-           "www.2ndstreeteurope.com", "us.2ndstreet.com", "www.rebag.com", "www.thereal-real.com", "www.thrifted.com"]
+S = requests.Session(); S.headers.update(UA)
 
-def show(name, url):
-    try:
-        r = requests.get(url, headers=UA, timeout=25)
-        t = r.text
-        hints = {k: len(re.findall(p, t)) for k, p in {
-            "jsonld": r"application/ld\+json", "nextdata": r"__NEXT_DATA__", "price_yen": r"円", "price_eur": r"€",
-            "captcha": r"(?i)captcha|cf-chl|challenge-platform|px-captcha|datadome"}.items()}
-        extra = ""
-        if "json" in r.headers.get("content-type", ""):
-            try:
-                j = r.json()
-                extra = " keys=" + (",".join(list(j)[:8]) if isinstance(j, dict) else f"list[{len(j)}]")
-            except Exception:
-                pass
-        print(f"{name:16} {r.status_code} {len(t):>8}B {r.headers.get('content-type','')[:30]:30} {hints}{extra}")
-    except Exception as e:
-        print(f"{name:16} ERR {e!r:.120}")
-    time.sleep(1)
+def get(u, **kw):
+    r = S.get(u, timeout=25, **kw); time.sleep(1); return r
 
-print("== pages ==")
-for n, u in PAGES.items():
-    show(n, u)
-print("== shopify products.json ==")
-for d in SHOPIFY:
+def ld(t):
+    out = []
+    for m in re.finditer(r'<script[^>]*application/ld\+json[^>]*>(.*?)</script>', t, re.S):
+        try: out.append(json.loads(m.group(1)))
+        except Exception: pass
+    return out
+
+def nextdata(t):
+    m = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', t, re.S)
+    return json.loads(m.group(1)) if m else None
+
+def walk_keys(o, depth=0, path=""):
+    if depth > 6: return
+    if isinstance(o, dict):
+        for k, v in o.items():
+            if isinstance(v, list) and v and isinstance(v[0], dict) and len(v) >= 5:
+                print(f"   list {path}.{k} len={len(v)} keys={list(v[0])[:14]}")
+            walk_keys(v, depth + 1, f"{path}.{k}")
+    elif isinstance(o, list) and o:
+        walk_keys(o[0], depth + 1, path + "[0]")
+
+def sec(n): print(f"\n===== {n} =====", flush=True)
+
+# --- Yahoo Auctions: open + sold (closed) ---
+for kind, url in [("open", "https://auctions.yahoo.co.jp/search/search?p=yohji+yamamoto&n=100&s1=new&o1=d"),
+                  ("sold", "https://auctions.yahoo.co.jp/closedsearch/closedsearch?p=yohji+yamamoto+pour+homme&n=100")]:
+    sec(f"yahoo {kind}")
     try:
-        r = requests.get(f"https://{d}/products.json?limit=250", headers=UA, timeout=20)
-        n = len(r.json().get("products", [])) if r.ok and "json" in r.headers.get("content-type", "") else -1
-        vend = {}
-        if n > 0:
-            for p in r.json()["products"]:
-                vend[p.get("vendor")] = vend.get(p.get("vendor"), 0) + 1
-            vend = dict(sorted(vend.items(), key=lambda x: -x[1])[:12])
-        print(f"{d:28} {r.status_code} products={n} {vend if n > 0 else ''}")
-    except Exception as e:
-        print(f"{d:28} ERR {e!r:.100}")
-    time.sleep(0.5)
+        t = get(url).text
+        nd = nextdata(t)
+        if nd: walk_keys(nd)
+        prices = [int(x.replace(",", "")) for x in re.findall(r'data-auction-price="(\d+)"', t)] or \
+                 [int(x.replace(",", "")) for x in re.findall(r'"price"\s*:\s*(\d+)', t)]
+        titles = re.findall(r'data-auction-title="([^"]+)"', t)[:5]
+        print(" n_prices", len(prices), "median_yen", statistics.median(prices) if prices else None, titles)
+        for d in ld(t): print(" ld", str(d)[:300])
+    except Exception as e: print(" ERR", e)
+
+# --- Rakuma / Mercari (SSR?) ---
+for n, u in [("rakuma", "https://fril.jp/s?query=yohji+yamamoto&sort=created_at&order=desc"),
+             ("mercari", "https://jp.mercari.com/search?keyword=yohji%20yamamoto&order=desc&sort=created_time")]:
+    sec(n)
+    try:
+        t = get(u).text
+        print(" item links", len(set(re.findall(r'(?:item\.fril\.jp/|/item/m)\w+', t))), "yen", re.findall(r'[¥￥]\s?[\d,]+', t)[:8])
+        print(" captcha ctx", re.findall(r'.{60}(?:captcha|challenge).{60}', t, re.I)[:2])
+    except Exception as e: print(" ERR", e)
+
+# --- Grailed ---
+sec("grailed")
+try:
+    t = get("https://www.grailed.com/shop?query=yohji%20yamamoto").text
+    nd = nextdata(t)
+    if nd: walk_keys(nd)
+    print(" algolia?", re.findall(r'(?i)algolia[^"\']{0,60}', t)[:3])
+    print(" captcha ctx", re.findall(r'.{60}(?:captcha|challenge).{40}', t, re.I)[:2])
+except Exception as e: print(" ERR", e)
+
+# --- Auctionet ---
+sec("auctionet")
+for u in ["https://auctionet.com/api/v2/items.json?q=yohji", "https://auctionet.com/api/v2/items.json?query=yohji",
+          "https://auctionet.com/api/v2/items.json?category_id=&q=hermes", "https://auctionet.com/api/v2/items.json"]:
+    try:
+        j = get(u).json(); it = j.get("items", [])
+        print(f" {u} -> {len(it)} pag={j.get('pagination')}")
+        if it: print("  keys", list(it[0])[:25]); print("  sample", {k: it[0].get(k) for k in ['title','currency','estimate','upcoming_bid','state','ends_at','house','category_id'] if k in it[0]})
+    except Exception as e: print(" ERR", u, e)
+try:
+    t = get("https://auctionet.com/en/search?q=yohji+yamamoto").text
+    for d in ld(t): print(" ld", str(d)[:400])
+    print(" item links", len(set(re.findall(r'/en/(\d+)-[\w-]+', t))), re.findall(r'/en/\d+-[\w-]+', t)[:5])
+except Exception as e: print(" ERR", e)
+
+# --- Zadaa ---
+sec("zadaa")
+for u in ["https://zadaa.co/fi", "https://zadaa.co/fi/search?q=acne", "https://zadaa.co/fi/brands/acne-studios",
+          "https://zadaa.co/api/products?search=acne", "https://zadaa.co/robots.txt", "https://zadaa.co/sitemap.xml"]:
+    try:
+        r = get(u); t = r.text
+        print(f" {u} {r.status_code} {len(t)}B ct={r.headers.get('content-type','')[:25]} eur={len(re.findall('€', t))} prodlinks={len(set(re.findall(r'/(?:fi/)?(?:p|product|products|item)/[\w-]+', t)))}")
+        if u.endswith(".txt"): print(t[:600])
+        if "api" in t[:0]: pass
+        apis = set(re.findall(r'https?://[\w.-]*(?:api|graphql)[\w./-]*', t))
+        if apis: print("  apis", list(apis)[:6])
+        for d in ld(t)[:2]: print("  ld", str(d)[:300])
+    except Exception as e: print(" ERR", u, e)
+
+# --- Kleinanzeigen ---
+sec("kleinanzeigen")
+try:
+    t = get("https://www.kleinanzeigen.de/s-mode-beauty/rick-owens/k0c153").text
+    items = re.findall(r'data-adid="(\d+)"', t)
+    pr = re.findall(r'aditem-main--middle--price-shipping--price">\s*([^<]+)<', t)
+    print(" ads", len(items), "prices", [p.strip() for p in pr[:10]])
+    print(" versand", len(re.findall(r'Versand möglich', t)))
+except Exception as e: print(" ERR", e)
+
+# --- Hagelstam / Helander quick content check ---
+sec("auction houses fi")
+for u in ["https://www.hagelstam.fi/", "https://www.helander.com/"]:
+    try:
+        t = get(u).text
+        print(" ", u, re.findall(r'(?i)(muoti|fashion|laukku|hermès|hermes|chanel|louis vuitton|kello|watch)', t)[:10])
+    except Exception as e: print(" ERR", e)
