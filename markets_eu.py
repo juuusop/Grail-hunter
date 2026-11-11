@@ -36,12 +36,13 @@ RECOMMERCE = {
     "blocket": ("www.blocket.se", "Blocket 🇸🇪"),
     "dba": ("www.dba.dk", "DBA 🇩🇰"),
 }
+AUCTIONET = ("auctionet.com", "Auctionet 🔨")
 LRP = {
     "marktplaats": ("www.marktplaats.nl", "Marktplaats 🇳🇱"),
     "2dehands": ("www.2dehands.be", "2dehands 🇧🇪"),
 }
 # estimated postage of a parcel (~1 kg) to Finland, EUR; override in config.yaml markets.ship_eur
-SHIP_EUR = {"finn": 22, "blocket": 15, "dba": 18, "marktplaats": 20, "2dehands": 20}
+SHIP_EUR = {"auctionet": 25, "finn": 22, "blocket": 15, "dba": 18, "marktplaats": 20, "2dehands": 20}
 # Norway is outside the EU: Finnish import VAT 25.5 % on goods + postage, plus the carrier's clearance fee
 NON_EU = {"finn": (0.255, 8)}
 
@@ -58,7 +59,7 @@ def landed(source: str, price: float, ship_cfg: dict | None = None) -> tuple[flo
     return round(total, 2), note
 
 
-FLAG = {k: v[1] for k, v in {**RECOMMERCE, **LRP}.items()}
+FLAG = {k: v[1] for k, v in {**RECOMMERCE, **LRP, "auctionet": AUCTIONET}.items()}
 SOURCES = list(FLAG)
 
 # extra apparel words in Norwegian / Swedish / Danish / Dutch (markets.APPAREL is FI/SE/EN)
@@ -233,4 +234,61 @@ def lrp(source: str, queries: list[str], get) -> list:
 
 
 def fetch(source: str, queries: list[str], get) -> list:
+    if source == "auctionet":
+        return auctionet(queries, get)
     return recommerce(source, queries, get) if source in RECOMMERCE else lrp(source, queries, get)
+
+
+# ---------------------------------------------------------------- Auctionet (60+ Nordic auction houses, open JSON API)
+# Mostly luxury bags/accessories, almost no archive designer, so only high-value brands are queried.
+# The current bid is not the price: the hammer usually lands near the house estimate, and the buyer pays
+# ~25 % premium on top. Scored price = max(next bid, low estimate) x (1 + premium) + postage.
+AUCTIONET_PREMIUM = 0.25
+AUCTIONET_FASHION_CAT = 49  # "Vintage & Designer Fashion"
+
+
+def parse_auctionet(j: dict):
+    out = []
+    for it in j.get("items") or []:
+        cur = it.get("currency") or "SEK"
+        if cur not in FX:
+            continue
+        bid = float(it.get("next_bid_amount") or 0)
+        est = float(it.get("estimate") or 0)
+        base = max(bid, est)
+        if base <= 0 or not it.get("id"):
+            continue
+        imgs = it.get("images") or []
+        img = ""
+        if imgs and isinstance(imgs[0], dict):
+            img = next((v for k in ("medium", "large", "thumb", "url") if isinstance(v := imgs[0].get(k), str)), "")
+        out.append({"id": str(it["id"]), "title": it.get("title") or "", "base": base, "bid": bid, "est": est,
+                    "upper": float(it.get("upper_estimate") or 0), "cur": cur, "ends": it.get("ends_at"),
+                    "house": it.get("house") or "", "img": img, "cat": it.get("category_id"),
+                    "text": (it.get("description") or "")[:600] + " " + (it.get("condition") or "")})
+    return out
+
+
+def auctionet(queries: list[str], get) -> list:
+    from markets import Listing
+    out = []
+    for q in queries:
+        try:
+            j = get("https://auctionet.com/api/v2/items.json", params={"q": q}).json()
+        except Exception as e:
+            S.log(f"auctionet {q}: {e}")
+            continue
+        now = time.time()
+        for d in parse_auctionet(j):
+            if d["ends"] and float(d["ends"]) < now:
+                continue
+            eur = round(d["base"] * FX[d["cur"]] * (1 + AUCTIONET_PREMIUM), 2)
+            hours = (float(d["ends"]) - now) / 3600 if d["ends"] else None
+            out.append(Listing(source="auctionet", id=f"auctionet-{d['id']}", title=d["title"], price=eur,
+                               url=f"https://auctionet.com/en/{d['id']}", image=d["img"], text=d["text"],
+                               extra={"orig": f"huuto {d['bid']:.0f} / arvio {d['est']:.0f}-{d['upper']:.0f} {d['cur']}"
+                                              f" + {AUCTIONET_PREMIUM * 100:.0f} % provisio",
+                                      "auction": True, "fashion": d["cat"] == AUCTIONET_FASHION_CAT,
+                                      "house": d["house"], "hours": hours}))
+        time.sleep(2.5)
+    return out

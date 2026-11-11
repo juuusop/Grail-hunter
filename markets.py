@@ -279,7 +279,11 @@ def run(cfg: dict):
     if eu_sources:
         EU.refresh_fx(S.log)
     for src in eu_sources:
-        plan.append((src, lambda src=src: EU.fetch(src, _rotation(state, f"{src}_i", eu_queries, eu_n), _get)))
+        qs = eu_queries
+        if src == "auctionet":  # luxury bags/accessories source: only brands worth an auction premium
+            amin = float(mk.get("auctionet_min_value", 300))
+            qs = [b.name for b in sorted(brands, key=lambda b: -b.value) if b.value >= amin]
+        plan.append((src, lambda src=src, qs=qs: EU.fetch(src, _rotation(state, f"{src}_i", qs, eu_n), _get)))
     allowed = set(mk.get("sources") or ["emmy", "tori", "huuto", "tradera"]) | set(eu_sources)
     for name, fn in plan:
         if name not in allowed:
@@ -326,6 +330,9 @@ def run(cfg: dict):
         if L.source in EU.FLAG:
             f.reasons.append(f"{L.extra.get('orig', '')} {landed_note} = {L.price:.0f} € perillä (arvio, mukana pisteissä); "
                              "kysy myyjältä lähettääkö Suomeen")
+            if L.extra.get("house"):
+                h = L.extra.get("hours")
+                f.reasons.append(f"{L.extra['house']}" + (f", päättyy {h:.0f} h päästä" if h is not None else ""))
             if L.extra.get("min_bid"):
                 f.reasons.append("'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi")
         if L.source == "tradera":
