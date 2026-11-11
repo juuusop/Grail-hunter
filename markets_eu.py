@@ -68,7 +68,16 @@ APPAREL_EXTRA = ["jakke", "frakke", "kåpe", "dunjakke", "genser", "hettegenser"
                  "taske", "belte", "bælte", "lue", "skjerf", "tørklæde", "sweater", "pullover", "sneaker",
                  "jas", "jasje", "colbert", "broek", "trui", "overhemd", "jurk", "rok", "schoenen", "laarzen",
                  "tas", "riem", "sjaal", "muts", "vest", "spijkerbroek", "rugzak", "portemonnee", "blazer"]
-JUNK_EXTRA = ["parfyme", "boek", "boeken", "bok", "plakat", "nøkkelring", "sleutelhanger", "doos", "eske", "æske"]
+JUNK_EXTRA = ["parfyme", "boek", "boeken", "bok", "plakat", "nøkkelring", "sleutelhanger", "doos", "eske", "æske",
+              # laces, not shoes ("Raf Simons Stan Smith veters" scored 15x on the first live run)
+              "veters", "schoenveters", "shoelaces", "laces", "snørebånd", "skolisser", "snörband", "kengännauhat",
+              # wholesale lots of "designer" caps etc. are fakes ("Loro Piana caps restpartij, laatste 5 stuks")
+              "restpartij", "stuks", "partij", "wholesale", "groothandel",
+              # the mill, not the maker ("Hackett, ing. Loro Piana" = Hackett blazer in Loro Piana cloth)
+              "ing loro piana", "loro piana fabric", "fabric by", "tessuto", "stof van", "tyg från", "stoff fra"]
+# brands that are faked a lot in private sales on top of config.yaml markets.fake_risk
+FAKE_RISK_EXTRA = ["Loro Piana", "Brunello Cucinelli", "Acne Studios", "Golden Goose", "Amiri", "Palm Angels",
+                   "Represent", "Essentials", "Gallery Dept", "Hellstar", "Corteiz", "Trapstar", "Moncler"]
 
 # size tokens in free-text titles: "str L", "maat XL", "storlek M", "size 52"; bare XS/XL in caps
 _SIZE_WORD = re.compile(r"\b(?:size|str|stl|strl|storlek|størrelse|maat|mt|koko|gr|größe|eu)\.?\s*:?\s*"
