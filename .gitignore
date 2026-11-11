@@ -3,3 +3,4 @@ data/*.tmp
 __pycache__/
 .pytest_cache/
 data/vision_state.json
+data/markets_state.json

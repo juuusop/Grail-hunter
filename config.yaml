@@ -136,3 +136,12 @@ hunts:
   - {q: horse leather, value: 120}
   - {q: kashmir, value: 60, max_price: 35}
   - {q: cashmere, value: 60, max_price: 35}
+
+# Muut alustat (markets.py, ajetaan 30 min välein). Vain julkiset sivut, kohtuullinen tahti.
+markets:
+  sources: [emmy, tori, huuto, tradera]
+  query_min_value: 150     # brändit, joilla haetaan Torista/Huudosta/Traderasta (arvo >= tämä tai harvinainen)
+  emmy_pages: 6            # Emmyn uusimmat tuotteet, 250 / sivu
+  tori_queries: 20         # brändihakuja per ajo (kiertää koko listan läpi)
+  huuto_queries: 25
+  tradera_queries: 12
