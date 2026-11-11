@@ -1,116 +1,72 @@
 #!/usr/bin/env python3
-"""Feasibility probe round 2: parse the reachable sources and print real sample rows."""
-import json, re, time, statistics
+"""Probe round 3: real price data. Yahoo Auctions JP sold vs open per brand, Auctionet fashion volume, Kleinanzeigen."""
+import json, re, time, statistics as st
 import requests
 
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
-      "Accept-Language": "fi-FI,fi;q=0.9,en;q=0.8"}
+      "Accept-Language": "ja,en;q=0.8"}
 S = requests.Session(); S.headers.update(UA)
-
 def get(u, **kw):
-    r = S.get(u, timeout=25, **kw); time.sleep(1); return r
-
-def ld(t):
-    out = []
-    for m in re.finditer(r'<script[^>]*application/ld\+json[^>]*>(.*?)</script>', t, re.S):
-        try: out.append(json.loads(m.group(1)))
-        except Exception: pass
-    return out
-
+    r = S.get(u, timeout=25, **kw); time.sleep(1.2); return r
 def nextdata(t):
     m = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', t, re.S)
     return json.loads(m.group(1)) if m else None
 
-def walk_keys(o, depth=0, path=""):
-    if depth > 6: return
-    if isinstance(o, dict):
-        for k, v in o.items():
-            if isinstance(v, list) and v and isinstance(v[0], dict) and len(v) >= 5:
-                print(f"   list {path}.{k} len={len(v)} keys={list(v[0])[:14]}")
-            walk_keys(v, depth + 1, f"{path}.{k}")
-    elif isinstance(o, list) and o:
-        walk_keys(o[0], depth + 1, path + "[0]")
-
-def sec(n): print(f"\n===== {n} =====", flush=True)
-
-# --- Yahoo Auctions: open + sold (closed) ---
-for kind, url in [("open", "https://auctions.yahoo.co.jp/search/search?p=yohji+yamamoto&n=100&s1=new&o1=d"),
-                  ("sold", "https://auctions.yahoo.co.jp/closedsearch/closedsearch?p=yohji+yamamoto+pour+homme&n=100")]:
-    sec(f"yahoo {kind}")
-    try:
-        t = get(url).text
-        nd = nextdata(t)
-        if nd: walk_keys(nd)
-        prices = [int(x.replace(",", "")) for x in re.findall(r'data-auction-price="(\d+)"', t)] or \
-                 [int(x.replace(",", "")) for x in re.findall(r'"price"\s*:\s*(\d+)', t)]
-        titles = re.findall(r'data-auction-title="([^"]+)"', t)[:5]
-        print(" n_prices", len(prices), "median_yen", statistics.median(prices) if prices else None, titles)
-        for d in ld(t): print(" ld", str(d)[:300])
-    except Exception as e: print(" ERR", e)
-
-# --- Rakuma / Mercari (SSR?) ---
-for n, u in [("rakuma", "https://fril.jp/s?query=yohji+yamamoto&sort=created_at&order=desc"),
-             ("mercari", "https://jp.mercari.com/search?keyword=yohji%20yamamoto&order=desc&sort=created_time")]:
-    sec(n)
-    try:
-        t = get(u).text
-        print(" item links", len(set(re.findall(r'(?:item\.fril\.jp/|/item/m)\w+', t))), "yen", re.findall(r'[¥￥]\s?[\d,]+', t)[:8])
-        print(" captcha ctx", re.findall(r'.{60}(?:captcha|challenge).{60}', t, re.I)[:2])
-    except Exception as e: print(" ERR", e)
-
-# --- Grailed ---
-sec("grailed")
 try:
-    t = get("https://www.grailed.com/shop?query=yohji%20yamamoto").text
-    nd = nextdata(t)
-    if nd: walk_keys(nd)
-    print(" algolia?", re.findall(r'(?i)algolia[^"\']{0,60}', t)[:3])
-    print(" captcha ctx", re.findall(r'.{60}(?:captcha|challenge).{40}', t, re.I)[:2])
-except Exception as e: print(" ERR", e)
+    rates = requests.get("https://api.frankfurter.app/latest?from=EUR&to=JPY,SEK", timeout=15).json()["rates"]
+except Exception:
+    rates = {"JPY": 170.0, "SEK": 11.3}
+JPY = rates["JPY"]; print("rates", rates)
 
-# --- Auctionet ---
-sec("auctionet")
-for u in ["https://auctionet.com/api/v2/items.json?q=yohji", "https://auctionet.com/api/v2/items.json?query=yohji",
-          "https://auctionet.com/api/v2/items.json?category_id=&q=hermes", "https://auctionet.com/api/v2/items.json"]:
+def yahoo(q, closed):
+    base = "https://auctions.yahoo.co.jp/closedsearch/closedsearch" if closed else "https://auctions.yahoo.co.jp/search/search"
+    # category 23000 = ファッション
+    nd = nextdata(get(base, params={"p": q, "n": 100, "auccat": 23000, "s1": "new" if not closed else "end", "o1": "d"}).text)
+    items = nd["props"]["pageProps"]["initialState"]["search"]["items"]["listing"]["items"]
+    return items
+
+first = True
+rows = []
+for q, label in [("yohji yamamoto pour homme", "Yohji Yamamoto"), ("comme des garcons homme plus", "CDG Homme Plus"),
+                 ("junya watanabe man", "Junya Watanabe MAN"), ("homme plisse issey miyake", "Homme Plissé"),
+                 ("undercover", "Undercover"), ("number nine", "Number (N)ine"), ("kapital", "Kapital"),
+                 ("visvim", "Visvim"), ("sacai", "Sacai"), ("kolor", "Kolor"),
+                 ("rick owens", "Rick Owens"), ("maison margiela", "Maison Margiela"), ("helmut lang", "Helmut Lang")]:
     try:
-        j = get(u).json(); it = j.get("items", [])
-        print(f" {u} -> {len(it)} pag={j.get('pagination')}")
-        if it: print("  keys", list(it[0])[:25]); print("  sample", {k: it[0].get(k) for k in ['title','currency','estimate','upcoming_bid','state','ends_at','house','category_id'] if k in it[0]})
-    except Exception as e: print(" ERR", u, e)
+        sold = yahoo(q, True); live = yahoo(q, False)
+        if first:
+            print("ITEM KEYS", list(sold[0])); print("SAMPLE", {k: sold[0][k] for k in list(sold[0])[:40]}); first = False
+        sp = [i.get("price") or i.get("currentPrice") for i in sold]; sp = [p for p in sp if p]
+        bn = [i.get("buyNowPrice") for i in live if i.get("buyNowPrice")]
+        cp = [i.get("price") or i.get("currentPrice") for i in live]; cp = [p for p in cp if p]
+        r = dict(brand=label, sold_n=len(sp), sold_med_eur=round(st.median(sp) / JPY) if sp else None,
+                 sold_p25_eur=round(st.quantiles(sp, n=4)[0] / JPY) if len(sp) > 4 else None,
+                 live_n=len(cp), live_med_eur=round(st.median(cp) / JPY) if cp else None,
+                 buynow_n=len(bn), buynow_p25_eur=round(st.quantiles(bn, n=4)[0] / JPY) if len(bn) > 4 else None)
+        rows.append(r); print("ROW", json.dumps(r, ensure_ascii=False))
+    except Exception as e:
+        print("ERR", label, repr(e)[:200])
+
+print("\n===== auctionet =====")
 try:
-    t = get("https://auctionet.com/en/search?q=yohji+yamamoto").text
-    for d in ld(t): print(" ld", str(d)[:400])
-    print(" item links", len(set(re.findall(r'/en/(\d+)-[\w-]+', t))), re.findall(r'/en/\d+-[\w-]+', t)[:5])
-except Exception as e: print(" ERR", e)
-
-# --- Zadaa ---
-sec("zadaa")
-for u in ["https://zadaa.co/fi", "https://zadaa.co/fi/search?q=acne", "https://zadaa.co/fi/brands/acne-studios",
-          "https://zadaa.co/api/products?search=acne", "https://zadaa.co/robots.txt", "https://zadaa.co/sitemap.xml"]:
+    j = get("https://auctionet.com/api/v2/categories.json").json()
+    print("cat keys", list(j)[:5]); cats = j.get("categories") or j
+    for c in (cats if isinstance(cats, list) else [])[:200]:
+        n = (c.get("name") or c.get("title") or "")
+        if re.search(r"(?i)cloth|fashion|kläder|accessor|bag|väsk|shoe|sko|textil|watch|klock|jewel|smycke", str(c)):
+            print("  CAT", c)
+except Exception as e: print("ERR cats", e)
+for q in ["hermes", "chanel", "louis vuitton", "prada", "gucci", "rolex", "comme des garcons", "margiela", "rick owens", "acne"]:
     try:
-        r = get(u); t = r.text
-        print(f" {u} {r.status_code} {len(t)}B ct={r.headers.get('content-type','')[:25]} eur={len(re.findall('€', t))} prodlinks={len(set(re.findall(r'/(?:fi/)?(?:p|product|products|item)/[\w-]+', t)))}")
-        if u.endswith(".txt"): print(t[:600])
-        if "api" in t[:0]: pass
-        apis = set(re.findall(r'https?://[\w.-]*(?:api|graphql)[\w./-]*', t))
-        if apis: print("  apis", list(apis)[:6])
-        for d in ld(t)[:2]: print("  ld", str(d)[:300])
-    except Exception as e: print(" ERR", u, e)
+        j = get("https://auctionet.com/api/v2/items.json", params={"q": q}).json()
+        it = j["items"]
+        print(f"  {q:20} total={j['pagination']['total_entries']} houses={len({i['house'] for i in it})} "
+              f"ex={[(i['title'][:45], i['currency'], i.get('estimate'), i.get('next_bid_amount')) for i in it[:2]]}")
+    except Exception as e: print("ERR", q, e)
 
-# --- Kleinanzeigen ---
-sec("kleinanzeigen")
+print("\n===== kleinanzeigen =====")
 try:
-    t = get("https://www.kleinanzeigen.de/s-mode-beauty/rick-owens/k0c153").text
-    items = re.findall(r'data-adid="(\d+)"', t)
-    pr = re.findall(r'aditem-main--middle--price-shipping--price">\s*([^<]+)<', t)
-    print(" ads", len(items), "prices", [p.strip() for p in pr[:10]])
-    print(" versand", len(re.findall(r'Versand möglich', t)))
-except Exception as e: print(" ERR", e)
-
-# --- Hagelstam / Helander quick content check ---
-sec("auction houses fi")
-for u in ["https://www.hagelstam.fi/", "https://www.helander.com/"]:
-    try:
-        t = get(u).text
-        print(" ", u, re.findall(r'(?i)(muoti|fashion|laukku|hermès|hermes|chanel|louis vuitton|kello|watch)', t)[:10])
-    except Exception as e: print(" ERR", e)
+    t = get("https://www.kleinanzeigen.de/s-mode-beauty/rick-owens/k0c153", headers={"Accept-Language": "de-DE"}).text
+    pr = re.findall(r'price-shipping--price[^>]*>\s*([^<]+?)\s*<', t)
+    print(" prices", pr[:15])
+except Exception as e: print("ERR", e)
