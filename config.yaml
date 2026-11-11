@@ -95,7 +95,7 @@ rare_words: [artisanal, runway, sample, prototype, geobasket, stooges, bondage, 
 # Lisäksi vanhat sesonkikoodit (esim. AW04, SS99, FW2006) merkitään automaattisesti harvinaisiksi.
 
 # Hylätään aina (lapset, hajuvedet, H&M-kollabit, kopiot, rikkinäiset).
-exclude_words: [lindex, kappahl, x target, at h&m, by h&m, lasten, lapsille, barn, kids, junior, vauva, baby, hajuvesi, parfym, parfum, perfume, eau de, tuoksu, deodorantti, "h&m", "x h&m", uniqlo, "+j", tyylinen, inspired, kopio, fake, replika, rikki, reikä, reikiä, tahra, tahroja, broken, trasig, fläck, "128 cl", "140 cl", "152 cl", "158 cl", "164 cl", "170 cl", " 140 cm", " 150 cm", " 160 cm", " 170 cm"]
+exclude_words: [kirja, käsityökirja, aikakausilehti, lehti, juomalasi, lasi, kynänteroitin, muki, tyyny, taulu, juliste, kynttilä, astia, lautanen, uimakengät, sukelluskengät, lindex, kappahl, x target, at h&m, by h&m, lasten, lapsille, barn, kids, junior, vauva, baby, hajuvesi, parfym, parfum, perfume, eau de, tuoksu, deodorantti, "h&m", "x h&m", uniqlo, "+j", tyylinen, inspired, kopio, fake, replika, rikki, reikä, reikiä, tahra, tahroja, broken, trasig, fläck, "128 cl", "140 cl", "152 cl", "158 cl", "164 cl", "170 cl", " 140 cm", " 150 cm", " 160 cm", " 170 cm"]
 
 # Väärin listatut / tunnistamattomat: vapaat tekstihaut ilman brändifiltteriä.
 # Hälytys vain, jos sana löytyy tuotteen tiedoista eikä brändi ole jo listalla.
@@ -137,7 +137,7 @@ hunts:
   - {q: aime leon dore, value: 140}
   - {q: salehe bembury, value: 150}
   - {q: fragment design, value: 160}
-  - {q: off-white, value: 150, must: [off-white, virgil]}
+  - {q: virgil abloh, value: 150, must: [virgil abloh, c/o virgil]}
   - {q: martine rose, value: 200}
   - {q: cecilie bahnsen, value: 180}
   - {q: made in usa new balance, value: 120, must: [made in usa]}

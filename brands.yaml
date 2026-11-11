@@ -265,7 +265,7 @@ brands:
   - {name: Tao Comme des Garçons, value: 150, aliases: [tao]}
   - {name: Martine Sitbon, value: 120, aliases: [rue du mail]}
   - {name: Thierry Mugler, value: 250, aliases: [mugler], boost: {vintage: 1.3}}
-  - {name: Claude Montana, value: 200, aliases: [montana]}
+  - {name: Claude Montana, value: 200, aliases: [claude montana paris]}
   - {name: Romeo Gigli, value: 150}
   - {name: Jean Colonna, value: 150}
   - {name: Azzedine Alaïa, value: 250, aliases: [alaia, azzedine alaia]}
