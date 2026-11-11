@@ -73,3 +73,10 @@ def test_auctionet_uses_estimate_and_skips_unknown_currency():
     out = EU.parse_auctionet(j)
     assert [o["id"] for o in out] == ["1"]
     assert out[0]["base"] == 20000 and out[0]["img"] == "https://img/1.jpg"
+
+
+def test_title_size_shoes_and_womens():
+    assert EU.title_size("Nike Blazer Low Acronym Night Maroon str. 37") == "SHOES-EU-37"
+    assert EU.title_size("Nike Blazer Low x Acronym DO9373-001 UK8.5") == "SHOES-UK-8.5"
+    assert EU.title_size("Isaac Sellam leren gilet maat 36") == "WMN-EU-36"
+    assert EU.title_size("Guidi boots EU 44") == "SHOES-EU-44"
