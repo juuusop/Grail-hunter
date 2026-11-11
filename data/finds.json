@@ -1,5 +1,228 @@
 [
  {
+  "id": "cYpgBVSkWk",
+  "brand": "The North Face",
+  "title": "The North Face Vyölaukku",
+  "price": 28.0,
+  "value": 60,
+  "score": 2.14,
+  "label": "✅ DIILI",
+  "category": "laukku",
+  "condition": "Erittäin hyvä",
+  "size": "-",
+  "link": "https://www.sellpy.fi/item/cYpgBVSkWk",
+  "image": "https://prod.images.sellpy.net/photoRobot-fixed-11-k-11/cYpgBVSkWk-5673-0-timed-sequence.jpg",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 46 €"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794385360
+ },
+ {
+  "id": "87yVABQET2",
+  "brand": "Diesel",
+  "title": "Diesel Kaulanlämmitin",
+  "price": 16.0,
+  "value": 43,
+  "score": 2.7,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "Hyvä",
+  "size": "-",
+  "link": "https://www.sellpy.fi/item/87yVABQET2",
+  "image": "https://prod.images.sellpy.net/photoRobot-fixed-22-l-5/87yVABQET2-51ab-single.jpg",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 30 €"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794385360
+ },
+ {
+  "id": "vvYNz874oM",
+  "brand": "Hope",
+  "title": "HOPE Stockholm Neulepaita Compose",
+  "price": 21.0,
+  "value": 54,
+  "score": 2.57,
+  "label": "🔥 KOVA DIILI",
+  "category": "neule",
+  "condition": "Hyvä",
+  "size": "MEN-EU-52",
+  "link": "https://www.sellpy.fi/item/vvYNz874oM",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-7-k-9/vvYNz874oM-cf0d-0.jpg",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 36 €"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794385360
+ },
+ {
+  "id": "e2iW8fV1Dj",
+  "brand": "Filippa K",
+  "title": "Filippa K Neulepaita",
+  "price": 21.0,
+  "value": 45,
+  "score": 2.14,
+  "label": "✅ DIILI",
+  "category": "neule",
+  "condition": "Hyvä",
+  "size": "MEN-INT-L",
+  "link": "https://www.sellpy.fi/item/e2iW8fV1Dj",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-8/e2iW8fV1Dj-dc87-0.jpg",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 28 €"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794385360
+ },
+ {
+  "id": "VIB250u9RO",
+  "brand": "Filippa K",
+  "title": "Filippa K Bomber-takki",
+  "price": 20.0,
+  "value": 72,
+  "score": 3.6,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "Hyvä",
+  "size": "MEN-EU-54",
+  "link": "https://www.sellpy.fi/item/VIB250u9RO",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-l-1/VIB250u9RO-7e73-0.jpg",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 28 €"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794385360
+ },
+ {
+  "id": "kt6bUjteo2",
+  "brand": "Lundhags",
+  "title": "Lundhags Aluspaita",
+  "price": 21.0,
+  "value": 46,
+  "score": 2.17,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Hyväksyttävä",
+  "size": "MEN-INT-XL",
+  "link": "https://www.sellpy.fi/item/kt6bUjteo2",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-4-k-4/kt6bUjteo2-70f3-0.jpg",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 72 €"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794385361
+ },
+ {
+  "id": "V58srcSEYb",
+  "brand": "Raf Simons",
+  "title": "Raf Simons Bleiseri",
+  "price": 200.0,
+  "value": 504,
+  "score": 2.52,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "Hyvä",
+  "size": "MEN-EU-52",
+  "link": "https://www.sellpy.fi/item/V58srcSEYb",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-10-l-3/V58srcSEYb-085a-0.jpg",
+  "reasons": [
+   "harvinainen brändi"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794385362
+ },
+ {
+  "id": "62Xo0Vnhpm",
+  "brand": "Y-3",
+  "title": "Y-3 Yohji Yamamoto Urheilutoppi",
+  "price": 27.0,
+  "value": 56,
+  "score": 2.07,
+  "label": "📉 ✅ DIILI",
+  "category": "muu",
+  "condition": "Erittäin hyvä",
+  "size": "MEN-INT-L",
+  "link": "https://www.sellpy.fi/item/62Xo0Vnhpm",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-4-k-10/62Xo0Vnhpm-f246-0.jpg",
+  "reasons": [
+   "hinta laski 31 → 27 €",
+   "Sellpyn mediaani tälle brändille 54 €"
+  ],
+  "source": "brändi",
+  "old_price": 31.0,
+  "ts": 1794385362
+ },
+ {
+  "id": "eWBt6PuGIc",
+  "brand": "Dries Van Noten",
+  "title": "Dries van Noten Bleiseri",
+  "price": 156.0,
+  "value": 228,
+  "score": 1.46,
+  "label": "💎 HARVINAINEN",
+  "category": "takki",
+  "condition": "Hyväksyttävä",
+  "size": "MEN-EU-54",
+  "link": "https://www.sellpy.fi/item/eWBt6PuGIc",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-9-l-3/eWBt6PuGIc-454b-0.jpg",
+  "reasons": [
+   "harvinainen: artisanal",
+   "Sellpyn mediaani tälle brändille 120 €"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794385363
+ },
+ {
+  "id": "dDKXA2tuep",
+  "brand": "Gucci",
+  "title": "Gucci Kävelykengät",
+  "price": 92.0,
+  "value": 234,
+  "score": 2.54,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Hyväksyttävä",
+  "size": "SHOES-EU-43.5",
+  "link": "https://www.sellpy.fi/item/dDKXA2tuep",
+  "image": "https://prod.images.sellpy.net/photoRobot-case-6-k-21/UjUfF3HR3F-4e75-0.jpg",
+  "reasons": [
+   "nahka ×1.1",
+   "Sellpyn mediaani tälle brändille 166 €"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794385364
+ },
+ {
+  "id": "AWX7ssRrAK",
+  "brand": "Moncler",
+  "title": "Moncler Rugby paita",
+  "price": 59.0,
+  "value": 167,
+  "score": 2.83,
+  "label": "🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "Hyväksyttävä",
+  "size": "MEN-INT-XL",
+  "link": "https://www.sellpy.fi/item/AWX7ssRrAK",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-9-l-3/AWX7ssRrAK-03b6-0.jpg",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 135 €"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794385365
+ },
+ {
   "id": "0SCksVpZjC",
   "brand": "Moncler",
   "title": "Moncler Untuvaliivi",
