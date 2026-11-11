@@ -62,3 +62,14 @@ def test_landed_price_norway_includes_vat():
     assert p == round((100 + 22) * 1.255 + 8, 2) and "ALV" in note
     assert EU.landed("blocket", 100)[0] == 115
     assert EU.landed("dba", 100, {"dba": 5})[0] == 105
+
+
+def test_auctionet_uses_estimate_and_skips_unknown_currency():
+    j = {"items": [
+        {"id": 1, "title": "HERMÈS laukku", "currency": "SEK", "next_bid_amount": 500, "estimate": 20000,
+         "upper_estimate": 25000, "ends_at": 9999999999, "house": "Stockholms Auktionsverk", "category_id": 49,
+         "images": [{"medium": "https://img/1.jpg"}]},
+        {"id": 2, "title": "x", "currency": "CHF", "next_bid_amount": 100, "estimate": 100}]}
+    out = EU.parse_auctionet(j)
+    assert [o["id"] for o in out] == ["1"]
+    assert out[0]["base"] == 20000 and out[0]["img"] == "https://img/1.jpg"
