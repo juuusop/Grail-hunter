@@ -359,6 +359,16 @@ class Evaluator:
         self.excl = [w for w in cfg.get("exclude_words", [])]
         self.rare_words = cfg.get("rare_words", [])
         self.gboost = {k: float(v) for k, v in (cfg.get("global_boost") or {}).items()}
+        # Name collisions: if Sellpy's own median for a brand is under 10 % of the value we
+        # assume (e.g. "Casablanca", "Bless", "Tao"), most of its stock is a different,
+        # cheap label. Cap the value at 3x the Sellpy median so those stop looking like deals.
+        self.collisions = {}
+        for b in {id(x): x for x in matcher.by_name.values()}.values():
+            stt = self.resolved.get(b.name) or {}
+            med, cnt = stt.get("median"), stt.get("count", 0)
+            if med and cnt >= int(self.st.get("collision_min_count", 20)) and med < 0.1 * b.value:
+                self.collisions[b.name] = (b.value, med)
+                b.value = round(med * 3, 1)
 
     def _image(self, hit, oid):
         imgs = hit.get("images") or []
