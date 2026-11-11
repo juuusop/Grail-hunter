@@ -1,0 +1,36 @@
+{
+ "items": {
+  "647154999": {
+   "brand": "Carpe Diem",
+   "cat": "muu",
+   "price": 14.0,
+   "title": "CARPE DIEM - En Regardant Passer le Temps CD",
+   "closed": "2026-10-02T17:04:46+0300",
+   "ts": 1794439603
+  },
+  "654565291": {
+   "brand": "Undercover",
+   "cat": "muu",
+   "price": 15.0,
+   "title": "Two undercover angels & Kiss me monster",
+   "closed": "2026-11-08T21:08:00+0200",
+   "ts": 1794439631
+  }
+ },
+ "i": 40,
+ "groups": {
+  "Carpe Diem|muu": {
+   "n": 1,
+   "median": 14.0,
+   "p25": 14.0,
+   "p75": 14.0
+  },
+  "Undercover|muu": {
+   "n": 1,
+   "median": 15.0,
+   "p25": 15.0,
+   "p75": 15.0
+  }
+ },
+ "generated": 1794439645
+}
