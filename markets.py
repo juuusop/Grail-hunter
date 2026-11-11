@@ -19,13 +19,14 @@ from dataclasses import dataclass, field
 
 import requests
 
+import markets_eu as EU
 import sniper as S
 
 STATE = S.DATA / "markets_state.json"
 SCAN = S.DATA / "markets_scan.json"
 UA = {"User-Agent": "Mozilla/5.0 (compatible; grail-hunter/1.0; personal use)", "Accept-Language": "fi-FI,fi;q=0.9,en;q=0.7"}
 SEK_EUR = 0.087
-P2P = {"tori", "huuto", "tradera"}
+P2P = {"tori", "huuto", "tradera", *EU.SOURCES}
 APPAREL = ["takki", "jacket", "jacka", "parka", "anorakki", "bleiseri", "blazer", "kavaj", "kavaj", "liivi", "väst", "vest",
            "housut", "byxor", "pants", "trousers", "farkut", "jeans", "denim", "shortsit", "shorts", "cargo",
            "paita", "tröja", "skjorta", "shirt", "t-paita", "t-shirt", "tee", "huppari", "hoodie", "college", "sweatshirt",
@@ -43,7 +44,9 @@ JUNK = ["beauty", "beaute", "beauté", "parfum", "parfums", "parfym", "hajuvesi"
         "riipus", "tyyliset", "tyylinen", "tyylisen", "inspired", "kopio", "fake", "replika", "look alike", "lookalike",
         "sinivalolasit", "anti-blue", "antibluelight", "korvakorut", "kaulakoru", "sormus", "tarra", "sticker", "juliste",
         "poster", "kangaskassi ilmainen", "rpm", "7\"", "single"]
-FLAG = {"emmy": "Emmy", "tori": "Tori", "huuto": "Huuto", "tradera": "Tradera 🇸🇪"}
+FLAG = {"emmy": "Emmy", "tori": "Tori", "huuto": "Huuto", "tradera": "Tradera 🇸🇪", **EU.FLAG}
+APPAREL += EU.APPAREL_EXTRA
+JUNK += EU.JUNK_EXTRA
 
 
 @dataclass
@@ -268,8 +271,22 @@ def run(cfg: dict):
             ("tori", lambda: tori(state, queries, int(mk.get("tori_queries", 20)))),
             ("huuto", lambda: huuto(state, queries, int(mk.get("huuto_queries", 25)))),
             ("tradera", lambda: tradera(state, queries, int(mk.get("tradera_queries", 12))))]
+    # Nordic/Benelux sources: cross-border, so only brands worth the postage (value >= eu_query_min_value)
+    eu_min = float(mk.get("eu_query_min_value", 200))
+    eu_queries = [b.name for b in sorted(brands, key=lambda b: -b.value) if b.value >= eu_min or b.rare]
+    eu_n = int(mk.get("eu_queries", 10))
+    eu_sources = list(mk.get("eu_sources", EU.SOURCES))
+    if eu_sources:
+        EU.refresh_fx(S.log)
+    for src in eu_sources:
+        qs = eu_queries
+        if src == "auctionet":  # luxury bags/accessories source: only brands worth an auction premium
+            amin = float(mk.get("auctionet_min_value", 300))
+            qs = [b.name for b in sorted(brands, key=lambda b: -b.value) if b.value >= amin]
+        plan.append((src, lambda src=src, qs=qs: EU.fetch(src, _rotation(state, f"{src}_i", qs, eu_n), _get)))
+    allowed = set(mk.get("sources") or ["emmy", "tori", "huuto", "tradera"]) | set(eu_sources)
     for name, fn in plan:
-        if name not in (mk.get("sources") or ["emmy", "tori", "huuto", "tradera"]):
+        if name not in allowed:
             continue
         try:
             got = fn()
@@ -279,7 +296,7 @@ def run(cfg: dict):
         S.log(f"{name}: {len(got)} listings")
         listings += got
 
-    fake_risk = {S.norm(x) for x in (mk.get("fake_risk") or [])}
+    fake_risk = {S.norm(x) for x in (mk.get("fake_risk") or []) + EU.FAKE_RISK_EXTRA}
     block = [S.norm(x) for x in (mk.get("text_block") or [])]
     found = []
     for L in listings:
@@ -294,11 +311,14 @@ def run(cfg: dict):
         if L.source in P2P:
             if any(S.has_word(t, w) for w in JUNK):
                 continue
-            if not any(S.has_word(t, w) for w in APPAREL):
+            if not L.extra.get("fashion") and not any(S.has_word(t, w) for w in APPAREL):
                 continue
             # cheap "luxury" from private sellers is almost always fake
             if S.norm(b.name) in fake_risk and L.price < float(mk.get("fake_risk_floor", 0.3)) * b.value:
                 continue
+        landed_note = ""
+        if L.source in EU.FLAG:  # score the price delivered to Finland, not the sticker price
+            L.price, landed_note = EU.landed(L.source, L.price, mk.get("ship_eur"))
         f = ev.evaluate(to_hit(L, b.name), sp)
         if not f:
             continue
@@ -307,6 +327,14 @@ def run(cfg: dict):
         f.brand = f"{f.brand} · {FLAG[L.source]}"
         if L.extra.get("auction"):
             f.reasons.append("huutokauppa: hinta voi vielä nousta")
+        if L.source in EU.FLAG:
+            f.reasons.append(f"{L.extra.get('orig', '')} {landed_note} = {L.price:.0f} € perillä (arvio, mukana pisteissä); "
+                             "kysy myyjältä lähettääkö Suomeen")
+            if L.extra.get("house"):
+                h = L.extra.get("hours")
+                f.reasons.append(f"{L.extra['house']}" + (f", päättyy {h:.0f} h päästä" if h is not None else ""))
+            if L.extra.get("min_bid"):
+                f.reasons.append("'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi")
         if L.source == "tradera":
             f.reasons.append(f"{L.extra['sek']:.0f} SEK, Ruotsi: tarkista toimitus Suomeen")
         found.append(f)
