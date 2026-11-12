@@ -197,7 +197,7 @@ def deep(cfg):
     # and the artifact cannot load remote images (CSP), so a missing thumb = no picture
     nthumb = int(st.get("scan_thumbs") or len(out))
     S.log(f"deep: {len(out)} candidates, fetching thumbnails")
-    with ThreadPoolExecutor(8) as pool:
+    with ThreadPoolExecutor(16) as pool:
         thumbs = list(pool.map(lambda d: thumb(sp.s, d["image"]), out[:nthumb]))
     thumbs += [None] * (len(out) - len(thumbs))
     for d, t in zip(out, thumbs):

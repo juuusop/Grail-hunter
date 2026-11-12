@@ -9,6 +9,7 @@ Commands:
 """
 from __future__ import annotations
 
+import functools
 import json
 import math
 import os
@@ -62,11 +63,20 @@ def norm(s) -> str:
     return re.sub(r"\s+", " ", s).strip()
 
 
-def has_word(text: str, word: str) -> bool:
+@functools.lru_cache(maxsize=20000)
+def _word_re(word: str):
     w = norm(word)
     if not w:
+        return None
+    return re.compile(r"(?<![a-z0-9])" + re.escape(w) + r"(?![a-z0-9])"), w
+
+
+def has_word(text: str, word: str) -> bool:
+    c = _word_re(word)
+    if c is None:
         return False
-    return re.search(r"(?<![a-z0-9])" + re.escape(w) + r"(?![a-z0-9])", text) is not None
+    rx, w = c
+    return w in text and rx.search(text) is not None
 
 
 def flatten_text(obj, skip=("images", "objectID")) -> list[str]:
