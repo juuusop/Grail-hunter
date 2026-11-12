@@ -357,6 +357,8 @@ class Find:
     roi: float | None = None
     exit: str = ""
     resale_why: list[str] = field(default_factory=list)
+    # risk.py: fake risk 0-100 + level, condition flag, reasons
+    risk: dict | None = None
 
     def to_dict(self):
         return self.__dict__.copy()
@@ -549,6 +551,8 @@ class Evaluator:
         if not hunt:
             import resale
             resale.annotate(f, text, kmult, self.buy_source)
+        import risk
+        risk.annotate(f, text, self.buy_source)
         return f
 
 
@@ -613,6 +617,10 @@ class GitHubNotifier:
 def find_md(f: Find) -> str:
     drop = f" ~~{f.old_price:.0f} €~~" if f.old_price else ""
     why = "; ".join(f.reasons) if f.reasons else ""
+    import risk
+    rb = risk.badge(f.risk)
+    if rb:
+        why = (why + "; " if why else "") + rb + " (" + "; ".join(f.risk.get("why") or []) + ")"
     return (f"<a href=\"{f.link}\"><img src=\"{f.image}\" width=\"140\" align=\"left\"></a>\n\n"
             f"**{f.label} · [{f.brand}]({f.link})**  \n"
             f"{f.title}  \n"
@@ -627,6 +635,8 @@ def write_finds_md(finds: list[dict]):
     best = sorted([f for f in finds if f["ts"] >= week], key=lambda f: -f["score"])[:40]
     newest = sorted(finds, key=lambda f: -f["ts"])[:60]
 
+    import risk
+
     def row(f):
         t = datetime.fromtimestamp(f["ts"], timezone.utc).strftime("%d.%m. %H:%M")
         drop = f" (oli {f['old_price']:.0f})" if f.get("old_price") else ""
@@ -634,7 +644,8 @@ def write_finds_md(finds: list[dict]):
         return (f"| <a href=\"{f['link']}\"><img src=\"{f['image']}\" width=\"90\"></a> | "
                 f"{f['label']}<br>**[{f['brand']}]({f['link']})**<br>{title} | "
                 f"**{f['price']:.0f} €**{drop}<br>arvio ~{f['value']} €"
-                + (f"<br>kate ~{f['profit']:.0f} €" if f.get("profit") is not None else "") + f" | {f['score']} | "
+                + (f"<br>kate ~{f['profit']:.0f} €" if f.get("profit") is not None else "")
+                + (f"<br>{risk.badge(f.get('risk'))}" if f.get("risk") and risk.badge(f.get("risk")) else "") + f" | {f['score']} | "
                 f"{f['category']}<br>{f['size']} | {t} |")
 
     head = "| | Löytö | Hinta | Pisteet | Tyyppi / koko | Löydetty (UTC) |\n|---|---|---|---|---|---|"
