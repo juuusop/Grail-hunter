@@ -179,7 +179,7 @@ def tori(state: dict, queries: list[str], n: int) -> list[Listing]:
                 continue
             cond = "Uusi" if "NewCondition" in str(it.get("itemCondition")) else ""
             out.append(Listing(source="tori", id=f"tori-{iid}", title=it.get("name") or "", price=price, url=url,
-                               image=it.get("image") or "", condition=cond, text=it.get("description") or ""))
+                               image=it.get("image") or "", condition=cond, size=EU.title_size(it.get("name") or ""), text=it.get("description") or ""))
         time.sleep(2.5)
     return out
 
@@ -203,7 +203,7 @@ def huuto(state: dict, queries: list[str], n: int) -> list[Listing]:
             auction = it.get("saleMethod") != "buy-now"
             out.append(Listing(source="huuto", id=f"huuto-{it['id']}", title=it.get("title") or "", price=price,
                                url=(it.get("links") or {}).get("alternative") or "", image=img or "",
-                               text=it.get("category") or "",
+                               text=it.get("category") or "", size=EU.title_size(it.get("title") or ""),
                                extra={"auction": auction and not bn, "closes": it.get("closingTime")}))
         time.sleep(1.5)
     return out
@@ -233,7 +233,8 @@ def tradera(state: dict, queries: list[str], n: int) -> list[Listing]:
             except ValueError:
                 pass
             out.append(Listing(source="tradera", id=f"tradera-{iid}", title=desc, price=round(sek * SEK_EUR, 2),
-                               url=url, image=img.replace("{format}", "images"), extra={"sek": sek}))
+                               url=url, image=img.replace("{format}", "images"), size=EU.title_size(desc),
+                               extra={"sek": sek}))
         time.sleep(2.5)
     return out
 
@@ -347,7 +348,11 @@ def run(cfg: dict):
     state["seen"] = {k: v for k, v in seen.items() if v >= cutoff}
 
     scan = S.load_json(SCAN, {"items": []})
-    keep = {d["id"]: d for d in scan.get("items", []) if d.get("ts", 0) >= cutoff}
+    # a listing fetched again this run but no longer passing (size, sold-out price, new filters) leaves the scan;
+    # otherwise stale finds from older rules linger in the Atlas for 30 days
+    fetched, passed = {L.id for L in listings}, {f.id for f in found}
+    keep = {d["id"]: d for d in scan.get("items", [])
+            if d.get("ts", 0) >= cutoff and (d["id"] not in fetched or d["id"] in passed)}
     from scan import thumb
     for f in found:
         old = keep.get(f.id, {})
