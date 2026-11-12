@@ -1,5 +1,81 @@
 [
  {
+  "id": "hEXrSPjn8Q",
+  "raw_brand": "H&M",
+  "type": "Vyö",
+  "price": 5.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-manual-23-l-2/hEXrSPjn8Q-5e42-single.jpg",
+   "https://prod.images.sellpy.net/photoRobot-manual-23-l-2/hEXrSPjn8Q-265b-single.jpg",
+   "https://prod.images.sellpy.net/phone-images/hEXrSPjn8Q-ee40.jpg",
+   "https://prod.images.sellpy.net/phone-images/hEXrSPjn8Q-0dbd.jpg"
+  ],
+  "text_score": 2.5,
+  "why": [
+   "materiaali: nahka",
+   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
+  ],
+  "clip_guess": "Hermès",
+  "clip_sim": 0.153,
+  "prompt": "Guidi",
+  "prompt_sim": 0.053,
+  "combined": 6.52,
+  "link": "https://www.sellpy.fi/item/hEXrSPjn8Q",
+  "size": "BELTS-CM-80",
+  "condition": "Hyväksyttävä"
+ },
+ {
+  "id": "xbztaoKcf5",
+  "raw_brand": "",
+  "type": "Maxi-mekko",
+  "price": 57.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-standard-4-l-1/xbztaoKcf5-27f0-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-standard-4-l-1/xbztaoKcf5-27f0-180.jpg",
+   "https://prod.images.sellpy.net/phone-images/xbztaoKcf5-a820.jpg",
+   "https://prod.images.sellpy.net/phone-images/xbztaoKcf5-b1d8.jpg"
+  ],
+  "text_score": 4.5,
+  "why": [
+   "materiaali: pellava",
+   "valmistettu: IT",
+   "brändi tuntematon"
+  ],
+  "clip_guess": "Burberry",
+  "clip_sim": 0.113,
+  "prompt": "Rick Owens",
+  "prompt_sim": 0.048,
+  "combined": 5.52,
+  "link": "https://www.sellpy.fi/item/xbztaoKcf5",
+  "size": "ONE SIZE",
+  "condition": "Erittäin hyvä"
+ },
+ {
+  "id": "drcvMHZeSZ",
+  "raw_brand": "Uniqlo",
+  "type": "Kaulahuivi",
+  "price": 22.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-standard-2-k-16/drcvMHZeSZ-c46e-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-standard-2-k-16/drcvMHZeSZ-c46e-180.jpg",
+   "https://prod.images.sellpy.net/phone-images/drcvMHZeSZ-9dc4.jpg",
+   "https://prod.images.sellpy.net/phone-images/drcvMHZeSZ-a3d8.jpg"
+  ],
+  "text_score": 2.5,
+  "why": [
+   "materiaali: villa",
+   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
+  ],
+  "clip_guess": "C.P. Company",
+  "clip_sim": 0.105,
+  "prompt": "Kapital",
+  "prompt_sim": 0.011,
+  "combined": 3.8,
+  "link": "https://www.sellpy.fi/item/drcvMHZeSZ",
+  "size": "",
+  "condition": "Erittäin hyvä"
+ },
+ {
   "id": "KWONx5pR3t",
   "raw_brand": "H&M",
   "type": "Palazzo-housut",
@@ -10183,85 +10259,6 @@
   "combined": 5.61,
   "link": "https://www.sellpy.fi/item/IAFHnFoJTY",
   "size": "WMN-INT-S",
-  "condition": "Erittäin hyvä"
- },
- {
-  "id": "JHXmp4xzCz",
-  "raw_brand": "Saddler",
-  "type": "Vyö",
-  "price": 38.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-manual-13-k-9/62bnlkDZwe-537e-single.jpg",
-   "https://prod.images.sellpy.net/photoRobot-manual-13-k-9/62bnlkDZwe-2cc3-single.jpg",
-   "https://prod.images.sellpy.net/photoRobot-manual-13-k-9/62bnlkDZwe-1279-single.jpg",
-   "https://prod.images.sellpy.net/phone-images/62bnlkDZwe-ba6b.jpg",
-   "https://prod.images.sellpy.net/phone-images/62bnlkDZwe-be37.jpg",
-   "https://prod.images.sellpy.net/phone-images/62bnlkDZwe-c115.jpg"
-  ],
-  "text_score": 3.5,
-  "why": [
-   "materiaali: nahka",
-   "valmistettu: IT"
-  ],
-  "clip_guess": "Hermès",
-  "clip_sim": 0.212,
-  "prompt": "Rick Owens",
-  "prompt_sim": 0.042,
-  "combined": 5.61,
-  "link": "https://www.sellpy.fi/item/JHXmp4xzCz",
-  "size": "BELTS-CM-95",
-  "condition": "Erittäin hyvä"
- },
- {
-  "id": "F4eAW7gsxj",
-  "raw_brand": "Sunde",
-  "type": "Puvunhousut",
-  "price": 8.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-hanging-9-k-13/JkkJ36yI9W-6f72-0.jpg",
-   "https://prod.images.sellpy.net/photoRobot-hanging-9-k-13/JkkJ36yI9W-6f72-180.jpg",
-   "https://prod.images.sellpy.net/phone-images/JkkJ36yI9W-d1ae.jpg",
-   "https://prod.images.sellpy.net/phone-images/JkkJ36yI9W-da9d.jpg",
-   "https://prod.images.sellpy.net/phone-images/JkkJ36yI9W-e55f.jpg"
-  ],
-  "text_score": 2.5,
-  "why": [
-   "materiaali: villa",
-   "Sellpyn hintaluokka 3/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "Lemaire",
-  "clip_sim": 0.175,
-  "prompt": "Issey Miyake",
-  "prompt_sim": 0.08,
-  "combined": 5.61,
-  "link": "https://www.sellpy.fi/item/F4eAW7gsxj",
-  "size": "MEN-INT-M/L",
-  "condition": "Hyvä"
- },
- {
-  "id": "7VNlWffeP2",
-  "raw_brand": "Reserved",
-  "type": "Naisten takki",
-  "price": 10.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-standard-3-k-12/7VNlWffeP2-6298-0.jpg",
-   "https://prod.images.sellpy.net/photoRobot-standard-3-k-12/7VNlWffeP2-6298-180.jpg",
-   "https://prod.images.sellpy.net/phone-images/7VNlWffeP2-2058.jpg",
-   "https://prod.images.sellpy.net/phone-images/7VNlWffeP2-284c.jpg"
-  ],
-  "text_score": 4.3,
-  "why": [
-   "materiaali: nahka",
-   "muoto: pitkä",
-   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "Max Mara",
-  "clip_sim": 0.121,
-  "prompt": "Yohji Yamamoto",
-  "prompt_sim": 0.111,
-  "combined": 5.56,
-  "link": "https://www.sellpy.fi/item/7VNlWffeP2",
-  "size": "WMN-EU-34",
   "condition": "Erittäin hyvä"
  }
 ]
