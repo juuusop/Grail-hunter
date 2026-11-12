@@ -1,6 +1,6 @@
 # Brändiraportti
 
-Luotu 11.11.2026 23:50 UTC, indeksi `prod_marketItem_fi_saleStartedAt_desc`.
+Luotu 11.11.2026 23:52 UTC, indeksi `prod_marketItem_fi_saleStartedAt_desc`.
 
 **Diiliraja** = hinta, jonka alle peruskappale (kerroin 1.0) hälyttää. Jos Sellpyn mediaani on jo diilirajan alla, brändin `value` on luultavasti liian korkea, ja se kannattaa laskea, ettei tule spämmiä.
 
@@ -10,7 +10,7 @@ Luotu 11.11.2026 23:50 UTC, indeksi `prod_marketItem_fi_saleStartedAt_desc`.
 | Tiger of Sweden | 17628 | 27.0 | 15.0 | 22 |  | Tiger of Sweden |
 | The North Face | 12016 | 58.0 | 27.0 | 25 |  | The North Face, The North Face x Gucci, The North Face x Skims, The North Face x Supreme |
 | Ganni | 11744 | 90.0 | 48.0 | 25 |  | Ganni, Ganni x Juicy Couture |
-| Diesel | 11192 | 32.0 | 21.0 | 15 |  | Diesel, Diesel Black Gold |
+| Diesel | 11191 | 32.0 | 21.0 | 15 |  | Diesel, Diesel Black Gold |
 | Acne Studios | 10279 | 86.0 | 39.0 | 40 |  | Acne Studios, Acne Studios x Fjällräven, Acne Studios x Monster in My Pocket |
 | Hope | 7846 | 37.0 | 21.0 | 30 |  | HOPE Stockholm, Hope |
 | Carhartt WIP | 6920 | 41.0 | 25.0 | 18 |  | Carhartt WIP, Carhartt WIP X Fela Kuti, Carhartt WIP X Isle Skateboards, Carhartt WIP x Awake NY, Carhartt WIP x Highsnobiety, Carhartt WIP x New Balance |
@@ -67,7 +67,7 @@ Luotu 11.11.2026 23:50 UTC, indeksi `prod_marketItem_fi_saleStartedAt_desc`.
 | Louis Vuitton | 777 | 200.0 | 163.25 | 150 |  | Louis Vuitton |
 | Versace | 760 | 83.5 | 45.88 | 50 |  | Gianni Versace, Versace, Versace Sport |
 | Oakley | 724 | 29.0 | 15.62 | 20 |  | Oakley |
-| Parajumpers | 716 | 114.75 | 64.0 | 45 |  | Parajumpers |
+| Parajumpers | 714 | 114.75 | 64.0 | 45 |  | Parajumpers |
 | Givenchy | 704 | 89.5 | 48.0 | 75 |  | Givenchy |
 | Comme des Garçons Play | 698 | 56.5 | 41.0 | 18 |  | Comme des Garçons PLAY, Comme des Garçons PLAY x Converse |
 | Saint Laurent | 673 | 161.0 | 111.62 | 110 |  | Saint Laurent, YSL |
@@ -93,7 +93,7 @@ Luotu 11.11.2026 23:50 UTC, indeksi `prod_marketItem_fi_saleStartedAt_desc`.
 | Hermès | 454 | 146.5 | 103.0 | 200 | ⚠️ value liian korkea? | Hermes Paris, Hermès |
 | Norse Projects | 440 | 29.75 | 16.88 | 30 | ⚠️ value liian korkea? | Norse Projects |
 | Moschino | 434 | 56.0 | 32.0 | 30 |  | Moschino |
-| Pringle of Scotland | 430 | 12.0 | 6.0 | 25 | ⚠️ value liian korkea? | Pringle, Pringle Of Scotland x H&M, Pringle of Scotland, Pringle of Scotland x H&M |
+| Pringle of Scotland | 430 | 12.0 | 6.0 | 25 | ⚠️ value liian korkea? | Pringle, Pringle of Scotland, Pringle of Scotland x H&M |
 | Dries Van Noten | 429 | 119.0 | 78.75 | 75 |  | Dries van Noten |
 | Edwin | 421 | 25.0 | 14.0 | 20 |  | Edwin |
 | Ann-Sofie Back | 418 | 6.0 | 3.5 | 40 | ⚠️ value liian korkea? | Ann-Sofie Back, Back |
@@ -333,7 +333,7 @@ Paul Harnden, Julius_7, Takahiromiyashita The Soloist, Comme des Garçons Homme 
 
 Näitä löytyi hakujen sivutuotteena. Lisää `brands.yaml`iin, jos kiinnostaa.
 
-- Levi Strauss & Co (74868)
+- Levi Strauss & Co (74867)
 - Levi's Premium (15646)
 - Boden (8993)
 - Tiger of Sweden Jeans (4552)
@@ -391,10 +391,10 @@ Näitä löytyi hakujen sivutuotteena. Lisää `brands.yaml`iin, jos kiinnostaa.
 - Versus Versace (184)
 - Missoni Lindex (181)
 - Pierre Balmain (172)
+- Adidas x Marimekko (170)
 - Christian Dior Parfums (165)
 - Filippa K Jeans (163)
 - Fred Perry Sportswear (160)
-- Adidas x Marimekko (158)
 - LEVI'S Engineered Jeans (157)
 - McQ by Alexander McQueen (151)
 - Dolce & Gabbana Underwear (150)
@@ -405,11 +405,11 @@ Näitä löytyi hakujen sivutuotteena. Lisää `brands.yaml`iin, jos kiinnostaa.
 - Kenzo Jeans (134)
 - Burberry Children (130)
 - H&M x Moschino (127)
+- Mika Piirainen Marimekko (127)
 - Max Mara Leisure (126)
 - Tao & Friends (123)
 - Kings Road (119)
 - Class Roberto Cavalli (118)
-- Mika Piirainen Marimekko (117)
 - Boutique Moschino (116)
 - Boden Denim (116)
 - Jo Malone (116)

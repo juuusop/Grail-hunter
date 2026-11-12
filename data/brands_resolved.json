@@ -1,5 +1,5 @@
 {
- "generated": 1794441055,
+ "generated": 1794441132,
  "brands_hash": "4d89cd1352ca",
  "index": "prod_marketItem_fi_saleStartedAt_desc",
  "brand_attr": "metadata.brand",
@@ -827,7 +827,7 @@
     "Diesel",
     "Diesel Black Gold"
    ],
-   "count": 11192,
+   "count": 11191,
    "p25": 21.0,
    "median": 32.0
   },
@@ -1147,7 +1147,7 @@
    "values": [
     "Parajumpers"
    ],
-   "count": 716,
+   "count": 714,
    "p25": 64.0,
    "median": 114.75
   },
@@ -1995,7 +1995,6 @@
   "Pringle of Scotland": {
    "values": [
     "Pringle",
-    "Pringle Of Scotland x H&M",
     "Pringle of Scotland",
     "Pringle of Scotland x H&M"
    ],
@@ -2828,7 +2827,7 @@
   "Yuketen"
  ],
  "similar_unlisted": {
-  "Levi Strauss & Co": 74868,
+  "Levi Strauss & Co": 74867,
   "Levi's Premium": 15646,
   "Boden": 8993,
   "Tiger of Sweden Jeans": 4552,
@@ -2886,10 +2885,10 @@
   "Versus Versace": 184,
   "Missoni Lindex": 181,
   "Pierre Balmain": 172,
+  "Adidas x Marimekko": 170,
   "Christian Dior Parfums": 165,
   "Filippa K Jeans": 163,
   "Fred Perry Sportswear": 160,
-  "Adidas x Marimekko": 158,
   "LEVI'S Engineered Jeans": 157,
   "McQ by Alexander McQueen": 151,
   "Dolce & Gabbana Underwear": 150,
@@ -2900,11 +2899,11 @@
   "Kenzo Jeans": 134,
   "Burberry Children": 130,
   "H&M x Moschino": 127,
+  "Mika Piirainen Marimekko": 127,
   "Max Mara Leisure": 126,
   "Tao & Friends": 123,
   "Kings Road": 119,
   "Class Roberto Cavalli": 118,
-  "Mika Piirainen Marimekko": 117,
   "Boutique Moschino": 116,
   "Boden Denim": 116,
   "Jo Malone": 116
