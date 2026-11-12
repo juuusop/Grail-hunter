@@ -145,3 +145,12 @@ def test_title_size_finnish_shoes_and_small_tops():
     assert markets_eu.title_size("Maison Margiela tennarit koko 45") == "SHOES-EU-45"
     assert markets_eu.title_size("Puma Hussein Chalayan tunn jacka storlek XS 34") == "MEN-INT-XS"
     assert not sniper.size_fits(markets_eu.title_size("Nike Blazer Low Acronym str. 37"), {"shoes-eu": [43, 45]})
+
+
+def test_brand_style_words_do_not_set_category():
+    import yaml
+    cfg = yaml.safe_load(open(Path(__file__).parent.parent / "config.yaml", encoding="utf-8"))
+    hit = {"objectID": "x", "title": "Maxi-mekko", "metadata": {"type": "Maxi-mekko"},
+           "brandClassification": {"aestheticTone": "rock", "styles": ["coat"]}}
+    text = sniper.norm(" ".join(sniper.flatten_text(hit, skip=("images", "objectID", "brandClassification", "brandGroups"))))
+    assert not any(sniper.has_word(text, w) for c in cfg["categories"] if c["name"] == "takki" for w in c["words"])
