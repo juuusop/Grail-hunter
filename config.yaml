@@ -9,6 +9,9 @@ settings:
   # Harvinaiset brändit (rare: true) ja harvinaisuussanat hälyttävät jo, kun
   # hinta on arvioitua arvoa vastaava tai alle (pisteet >= rare_min_score).
   rare_min_score: 0.9
+  # brand_guide.yaml-tasot: D-tason brändeillä (Sellpy-mediaani alle ~50 €, tuhansia kappaleita,
+  # esim. Filippa K, Eton, Tiger of Sweden) puolikas hinta ei jätä katetta → vaaditaan pisteet 3.0.
+  tier_min_score: {D: 3.0}
   # Ei kovaa hintakattoa. Laita numero (EUR), jos haluat.
   max_price: null
   # Brändihaun alaraja (EUR): halvemmat ovat lähes aina asusteita tai väärä brändi.

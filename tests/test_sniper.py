@@ -154,3 +154,12 @@ def test_brand_style_words_do_not_set_category():
            "brandClassification": {"aestheticTone": "rock", "styles": ["coat"]}}
     text = sniper.norm(" ".join(sniper.flatten_text(hit, skip=("images", "objectID", "brandClassification", "brandGroups"))))
     assert not any(sniper.has_word(text, w) for c in cfg["categories"] if c["name"] == "takki" for w in c["words"])
+
+
+def test_brand_guide_merges_into_brands():
+    brands = {b.name: b for b in sniper.load_brands()}
+    ro = brands["Rick Owens"]
+    assert ro.tier == "A" and ro.fake == 3
+    assert ro.boost["kiss"] == 1.3          # from brand_guide.yaml
+    assert ro.boost["drkshdw"] == 0.6       # brands.yaml still wins / kept
+    assert all(b.tier in "SABCD" and b.tier for b in brands.values())

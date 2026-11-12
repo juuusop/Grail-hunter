@@ -298,6 +298,7 @@ def run(cfg: dict):
         listings += got
 
     fake_risk = {S.norm(x) for x in (mk.get("fake_risk") or []) + EU.FAKE_RISK_EXTRA}
+    fake_risk |= {S.norm(b.name) for b in brands if b.fake >= 3}  # brand_guide.yaml
     block = [S.norm(x) for x in (mk.get("text_block") or [])]
     found = []
     for L in listings:
