@@ -1,5 +1,96 @@
 [
  {
+  "id": "Gtqwuc4vqV",
+  "brand": "Heron Preston",
+  "title": "Heron Preston Vaelluskengät",
+  "price": 33.0,
+  "value": 88,
+  "score": 2.66,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Hyväksyttävä",
+  "size": "SHOES-EU-44",
+  "link": "https://www.sellpy.fi/item/Gtqwuc4vqV",
+  "image": "https://prod.images.sellpy.net/photoRobot-case-14-k-9/X6BMt55pPK-84d8-0.jpg",
+  "reasons": [
+   "leather ×1.1",
+   "Sellpyn mediaani tälle brändille 62 €",
+   "kate ~3 € (ROI 7%, myy vinted ~46 €; brändiarvio ~66 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794512244,
+  "resale": 46,
+  "profit": 3,
+  "roi": 0.07,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~66 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~46 € → käteen ~42 € kulujen ja tinkimisen jälkeen",
+   "osto 33 € + toimitus = 39 €"
+  ]
+ },
+ {
+  "id": "KLBGz7Joqv",
+  "brand": "Barbour",
+  "title": "Barbour Asustesetti",
+  "price": 30.0,
+  "value": 66,
+  "score": 2.22,
+  "label": "✅ DIILI",
+  "category": "neule",
+  "condition": "Hyväksyttävä",
+  "size": "ONE SIZE",
+  "link": "https://www.sellpy.fi/item/KLBGz7Joqv",
+  "image": "https://prod.images.sellpy.net/photoRobot-fixed-22-l-4/KLBGz7Joqv-d3af-0-timed-sequence.jpg",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 108 €",
+   "⚠️ kate ~-5 € (ROI -13%, myy vinted ~35 €; brändiarvio ~50 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794512245,
+  "resale": 35,
+  "profit": -5,
+  "roi": -0.13,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~50 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~35 € → käteen ~31 € kulujen ja tinkimisen jälkeen",
+   "osto 30 € + toimitus = 36 €"
+  ]
+ },
+ {
+  "id": "BVXLcBBf61",
+  "brand": "Tiger of Sweden",
+  "title": "Tiger of Sweden Naisten takki",
+  "price": 18.0,
+  "value": 65,
+  "score": 3.6,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "Hyvä",
+  "size": "WMN-EU-48",
+  "link": "https://www.sellpy.fi/item/BVXLcBBf61",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-3-k-11/rplznQz89v-e2e4-0.jpg",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 27 €",
+   "kate ~7 € (ROI 29%, myy vinted ~34 €; brändiarvio ~49 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794512245,
+  "resale": 34,
+  "profit": 7,
+  "roi": 0.29,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~49 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~34 € → käteen ~31 € kulujen ja tinkimisen jälkeen",
+   "osto 18 € + toimitus = 24 €"
+  ]
+ },
+ {
   "id": "tori-49806267",
   "brand": "Moncler · Tori",
   "title": "Moncler untuvatakki M musta",
