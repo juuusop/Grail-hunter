@@ -1,16 +1,20 @@
 name: Deep scan
 
 # Edit ops/request.txt ("universe" or "deep") and push to run a one-off scan.
+# Also runs by itself every second night and posts only brand-new insane deals.
 on:
+  schedule:
+    - cron: "20 3 */2 * *"
   push:
     paths: [ops/request.txt]
   workflow_dispatch:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
-  group: sniper
+  group: deepscan
   cancel-in-progress: false
 
 jobs:
@@ -24,7 +28,12 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt Pillow
-      - run: python scan.py $(cat ops/request.txt)
+      - name: Scan
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then python scan.py deep; else python scan.py $(cat ops/request.txt); fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SCAN_NOTIFY: ${{ github.event_name == 'schedule' && '1' || '' }}
       - name: Commit results
         run: |
           git config user.name "grail-hunter-bot"

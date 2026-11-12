@@ -12,6 +12,7 @@ from __future__ import annotations
 
 import base64
 import io
+import os
 import sys
 import time
 from concurrent.futures import ThreadPoolExecutor
@@ -80,6 +81,24 @@ def thumb(session, url):
         return "data:image/jpeg;base64," + base64.b64encode(buf.getvalue()).decode()
     except Exception:
         return None
+
+
+def notify_insane(st, out):
+    """Scheduled full scans: post only truly insane deals nobody has been told about yet."""
+    import dataclasses
+    prev = S.load_json(S.DATA / "scan.json", {"items": []})
+    known = {d["id"] for d in prev.get("items", [])} | {d["id"] for d in S.load_json(S.FINDS_FILE, [])}
+    thr = float(st.get("scan_alert_score", 5.0))
+    hits = [d for d in out if d["score"] >= thr and d["id"] not in known and d.get("source") == "brändi"]
+    hits = hits[:int(st.get("scan_alert_max", 15))]
+    S.log(f"deep: {len(hits)} new insane deals to notify")
+    if not hits:
+        return
+    names = {f.name for f in dataclasses.fields(S.Find)}
+    finds = [S.Find(**{k: v for k, v in d.items() if k in names}) for d in hits]
+    state = S.load_json(S.STATE_FILE, {})
+    S.GitHubNotifier(st.get("notify_issue_title", "🦅 Löydöt"), state).send(
+        f"### 🧨 Täysi skanni: {len(finds)} todella kovaa löytöä vanhasta varastosta (pisteet ≥ {thr:g})", finds)
 
 
 def deep(cfg):
@@ -178,6 +197,8 @@ def deep(cfg):
     thumbs += [None] * (len(out) - len(thumbs))
     for d, t in zip(out, thumbs):
         d["thumb"] = t
+    if os.getenv("SCAN_NOTIFY"):
+        notify_insane(st, out)
     S.save_json(S.DATA / "scan.json", {"generated": S.now_ts(), "items": out})
     S.log("deep: done")
 
