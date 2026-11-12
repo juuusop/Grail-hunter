@@ -1,5 +1,455 @@
 [
  {
+  "id": "tradera-759738228",
+  "brand": "Valentino · Tradera 🇸🇪",
+  "title": "Valentino Sneakers",
+  "price": 87.0,
+  "value": 200,
+  "score": 2.29,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340304/759738228/valentino-sneakers",
+  "image": "https://img.tradera.net/images/240/657608240_dd57c45f-c84c-4e81-9e3b-f8644ac3e744.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 135 €",
+   "Japanissa myyty mediaani 19 € (n=53)",
+   "⚠️ kate ~-30 € (ROI -29%, myy grailed ~105 €; brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa))",
+   "1000 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794524716,
+  "resale": 105,
+  "profit": -30,
+  "roi": -0.29,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~105 € → käteen ~73 € kulujen ja tinkimisen jälkeen",
+   "osto 87 € + toimitus = 103 €"
+  ],
+  "risk": {
+   "fake": 42,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-759738261",
+  "brand": "Valentino · Tradera 🇸🇪",
+  "title": "Valentino Sneakers",
+  "price": 78.3,
+  "value": 200,
+  "score": 2.55,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340303/759738261/valentino-sneakers",
+  "image": "https://img.tradera.net/images/754/655288754_d4934eb8-f1d2-42b5-9fc5-d2c089d94e36.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 135 €",
+   "Japanissa myyty mediaani 19 € (n=53)",
+   "⚠️ kate ~-21 € (ROI -23%, myy grailed ~105 €; brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa))",
+   "900 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794524716,
+  "resale": 105,
+  "profit": -21,
+  "roi": -0.23,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~105 € → käteen ~73 € kulujen ja tinkimisen jälkeen",
+   "osto 78 € + toimitus = 94 €"
+  ],
+  "risk": {
+   "fake": 42,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-759738224",
+  "brand": "Valentino · Tradera 🇸🇪",
+  "title": "Valentino sneakers",
+  "price": 86.56,
+  "value": 200,
+  "score": 2.3,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340304/759738224/valentino-sneakers",
+  "image": "https://img.tradera.net/images/334/657608334_6f1674df-defb-4c60-a2a9-3ff83e4ce300.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 135 €",
+   "Japanissa myyty mediaani 19 € (n=53)",
+   "⚠️ kate ~-30 € (ROI -29%, myy grailed ~105 €; brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa))",
+   "995 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794524716,
+  "resale": 105,
+  "profit": -30,
+  "roi": -0.29,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~105 € → käteen ~73 € kulujen ja tinkimisen jälkeen",
+   "osto 87 € + toimitus = 103 €"
+  ],
+  "risk": {
+   "fake": 42,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-759738263",
+  "brand": "Valentino · Tradera 🇸🇪",
+  "title": "Valentino sneakers",
+  "price": 86.56,
+  "value": 200,
+  "score": 2.3,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340303/759738263/valentino-sneakers",
+  "image": "https://img.tradera.net/images/890/655288890_edbd2046-46b3-49ee-a574-c51358298a71.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 135 €",
+   "Japanissa myyty mediaani 19 € (n=53)",
+   "⚠️ kate ~-30 € (ROI -29%, myy grailed ~105 €; brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa))",
+   "995 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794524716,
+  "resale": 105,
+  "profit": -30,
+  "roi": -0.29,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~105 € → käteen ~73 € kulujen ja tinkimisen jälkeen",
+   "osto 87 € + toimitus = 103 €"
+  ],
+  "risk": {
+   "fake": 42,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-759738230",
+  "brand": "Valentino · Tradera 🇸🇪",
+  "title": "Valentino skor",
+  "price": 60.9,
+  "value": 200,
+  "score": 3.28,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340303/759738230/valentino-skor",
+  "image": "https://img.tradera.net/images/192/657608192_1def6850-43bf-48d1-b2ac-58d6d5a0667e.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 135 €",
+   "Japanissa myyty mediaani 19 € (n=53)",
+   "⚠️ kate ~-4 € (ROI -5%, myy grailed ~105 €; brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa))",
+   "700 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794524716,
+  "resale": 105,
+  "profit": -4,
+  "roi": -0.05,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~105 € → käteen ~73 € kulujen ja tinkimisen jälkeen",
+   "osto 61 € + toimitus = 77 €"
+  ],
+  "risk": {
+   "fake": 42,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-759738232",
+  "brand": "Valentino · Tradera 🇸🇪",
+  "title": "Valentino Sneakers",
+  "price": 95.7,
+  "value": 200,
+  "score": 2.08,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340304/759738232/valentino-sneakers",
+  "image": "https://img.tradera.net/images/740/655751740_03b83f1d-a5be-44f6-b8fb-28a7aefe46bb.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 135 €",
+   "Japanissa myyty mediaani 19 € (n=53)",
+   "⚠️ kate ~-39 € (ROI -35%, myy grailed ~105 €; brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa))",
+   "1100 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794524716,
+  "resale": 105,
+  "profit": -39,
+  "roi": -0.35,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~105 € → käteen ~73 € kulujen ja tinkimisen jälkeen",
+   "osto 96 € + toimitus = 112 €"
+  ],
+  "risk": {
+   "fake": 42,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-760009536",
+  "brand": "Valentino · Tradera 🇸🇪",
+  "title": "Valentino sneakers i vit och vinröd",
+  "price": 87.0,
+  "value": 200,
+  "score": 2.29,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340303/760009536/valentino-sneakers-i-vit-och-vinrod",
+  "image": "https://img.tradera.net/images/336/667466336_aa84cdfd-c00f-480b-b751-90c69b24ac26.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 135 €",
+   "Japanissa myyty mediaani 19 € (n=53)",
+   "⚠️ kate ~-30 € (ROI -29%, myy grailed ~105 €; brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa))",
+   "1000 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794524716,
+  "resale": 105,
+  "profit": -30,
+  "roi": -0.29,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~105 € → käteen ~73 € kulujen ja tinkimisen jälkeen",
+   "osto 87 € + toimitus = 103 €"
+  ],
+  "risk": {
+   "fake": 42,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-759738231",
+  "brand": "Valentino · Tradera 🇸🇪",
+  "title": "Valentino Garavani Sneakers",
+  "price": 95.61,
+  "value": 200,
+  "score": 2.09,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340303/759738231/valentino-garavani-sneakers",
+  "image": "https://img.tradera.net/images/167/657608167_109cf41f-0240-4733-b5a4-ca54b0bee24e.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 135 €",
+   "Japanissa myyty mediaani 19 € (n=53)",
+   "⚠️ kate ~-39 € (ROI -35%, myy grailed ~105 €; brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa))",
+   "1099 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794524716,
+  "resale": 105,
+  "profit": -39,
+  "roi": -0.35,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~105 € → käteen ~73 € kulujen ja tinkimisen jälkeen",
+   "osto 96 € + toimitus = 112 €"
+  ],
+  "risk": {
+   "fake": 42,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-759738262",
+  "brand": "Valentino · Tradera 🇸🇪",
+  "title": "Valentino Garavani Sneakers",
+  "price": 86.56,
+  "value": 200,
+  "score": 2.3,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340303/759738262/valentino-garavani-sneakers",
+  "image": "https://img.tradera.net/images/505/655288505_1f9f5ee4-1e67-4960-bb1b-54be72fb97ab.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 135 €",
+   "Japanissa myyty mediaani 19 € (n=53)",
+   "⚠️ kate ~-30 € (ROI -29%, myy grailed ~105 €; brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa))",
+   "995 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794524716,
+  "resale": 105,
+  "profit": -30,
+  "roi": -0.29,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~105 € → käteen ~73 € kulujen ja tinkimisen jälkeen",
+   "osto 87 € + toimitus = 103 €"
+  ],
+  "risk": {
+   "fake": 42,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-760156604",
+  "brand": "Valentino · Tradera 🇸🇪",
+  "title": "Valentino Rockrunner Skor",
+  "price": 87.0,
+  "value": 200,
+  "score": 2.29,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340304/760156604/valentino-rockrunner-skor",
+  "image": "https://img.tradera.net/images/214/667581214_189f0917-c1c6-4a3a-b6d5-483849741423.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 135 €",
+   "Japanissa myyty mediaani 19 € (n=53)",
+   "⚠️ kate ~-30 € (ROI -29%, myy grailed ~105 €; brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa))",
+   "1000 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794524716,
+  "resale": 105,
+  "profit": -30,
+  "roi": -0.29,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~105 € → käteen ~73 € kulujen ja tinkimisen jälkeen",
+   "osto 87 € + toimitus = 103 €"
+  ],
+  "risk": {
+   "fake": 42,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
   "id": "BgOFfyHrnK",
   "brand": "The North Face",
   "title": "The North Face Fleece-paita",
