@@ -1,0 +1,4880 @@
+# Brändiopas (deep brand guide), yksi merkintä per brands.yaml-brändi.
+# tier    = jälleenmyyntitaso: S grail/likvidi, A vahva, B hyvä, C vain halvalla, D ei katetta.
+# hype    = 1–5 nykyinen kysyntä/hype, quality = 1–5 valmistuksen laatu, fake = 0–3 väärennösriski.
+# kw      = malli-/aikakausi-/linja-avainsanat → kerroin. Yhdistetään brands.yaml boostiin
+#           (brands.yaml voittaa, jos sama sana on molemmissa).
+# Tekstikentät näkyvät oppaassa (guide.html). Numerot: Sellpy-mediaani (n), Japanin myydyt (JP, n)
+# ovat 11.11.2026 ajosta (data/BRAND_REPORT.md, data/comps.json).
+Carol Christian Poell:
+  tier: S
+  hype: 3
+  quality: 5
+  fake: 1
+  status: Brändi hiljeni n. 2019–2021, Milanon studio myi varastoja. Tuotanto pientä, siksi tarjonta kuivuu vuosi vuodelta.
+  good: Italiassa käsin tehty, kokeellisimmat nahkakäsittelyt koko alalla (object dyed, rubber-dipped, drip). Jokainen kappale on tavallaan uniikki.
+  bad: 'Hinta ja kunto: object dyed -nahka halkeilee, kumikäsitellyt pinnat tahmaantuvat. Mitoitus kapea ja pitkä.'
+  buy: Nahkatakit (object dyed, bias-cut), Drip Rubber -kengät ja -saappaat, In-Between -housut, kumipohjaiset derbyt, kangastakit kumisaumoilla.
+  avoid: Kappaleet joiden kumipinnoite on kuoriutunut tai tahmea; hinnat yli 1500 € ilman tarkkoja kuvia.
+  tells: Valkoinen pieni lappu jossa CAROL CHRISTIAN POELL tai pelkkä sisäänommeltu tunniste; usein ei näkyvää logoa. Koot italialaiset, istuu pienesti (50 ≈ M).
+  kw:
+    object dyed: 1.4
+    drip: 1.3
+    rubber: 1.2
+    bias: 1.2
+    prosthetic: 1.4
+Guidi:
+  tier: S
+  hype: 4
+  quality: 5
+  fake: 1
+  status: Vahva ja vakaa. Archive-skene käyttää Guidia peruskenkänä, uutena 900–1500 €.
+  good: Hevosen- ja kangurunnahka, vegetabile-parkitus, kestää vuosikymmeniä ja muotoutuu jalkaan. Takkien nahka maailman parhaita.
+  bad: Kova ja kipeä sisäänajo, koko tarkka. Monet kenkäkopiot (”Guidi style”) kirpparilla.
+  buy: 788Z ja 988 -saappaat, PL1/PL2 -derbyt, 995/996 back zip, nahkatakit (horse full grain), laukut (BV06). Musta ja CV CO11T -värit myyvät parhaiten.
+  avoid: Nimettömät italialaiset nahkakengät, joissa ”Guidi” vain kuvauksessa. Laura Guidi ja Guidi & Rosellini ovat eri merkkejä.
+  tells: 'Sisällä ”GUIDI” leimattu, mallikoodi + koko leimana varressa. Iso koko: 43 Guidi ≈ 43–43.5, käy myös puolikkaalla pienempänä.'
+  kw:
+    '995': 1.3
+    796z: 1.3
+    pl1: 1.3
+    pl2: 1.3
+    back zip: 1.3
+    horse full grain: 1.3
+    kangaroo: 1.2
+Paul Harnden:
+  tier: S
+  hype: 3
+  quality: 5
+  fake: 0
+  status: Kulttimainen, ei mainosta, ei nettikauppaa. Uutena takit 3000–6000 €, Japanissa myyty mediaani 369 € (n=50), nahkatakit ~980 €.
+  good: Käsinommeltu Englannissa, kankaat ja nahat huippua, ajatonta. Kengät ovat legendaarisia (Blucher, Oxford).
+  bad: Ei logoja eli vaikea tunnistaa kuvista; kalliit korjata. Koot pieniä ja epäsäännöllisiä.
+  buy: Kengät (Blucher, Shinkicker), mac- ja villatakit, liivit, lin/villa paidat.
+  avoid: Hyvin kuluneet kengät ilman pohjia, koska uusintapohjaus on erikoistyötä.
+  tells: Valkoinen kangastunniste käsin kirjoitetulla tekstillä tai PAUL HARNDEN SHOEMAKERS -leima. Kengät leveät lestit.
+  kw:
+    blucher: 1.3
+    shinkicker: 1.4
+    mac: 1.2
+Boris Bidjan Saberi:
+  tier: A
+  hype: 3
+  quality: 5
+  fake: 1
+  status: Vakaa archive-asema, Barcelona. JP myyty mediaani 257 € (n=50). 11 by BBS on halvempi linja ja myy ~puolet mainlinesta.
+  good: Object dyed -tekstiilit, hevosnahka, anatomiset kaavat, omat kenkämallit (Bamba, Salomon-yhteistyö).
+  bad: Mitoitus pitkä ja kapea, värit fade-tyyppisiä, mikä ei kaikkia miellytä. 11-linjan t-paidat myyvät huonosti.
+  buy: Nahkatakit (J1, J3), P13 -housut, Bamba-kengät, BBS x Salomon (Bamba 2/3), neuleet.
+  avoid: 11 by BBS t-paidat yli 100 €, koska jälleenmyynti on heikkoa.
+  tells: Lappu BORIS BIDJAN SABERI + mallikoodi (esim. P13.TF), 11-linjalla 11 BY BBS. Koot 1–4 tai S–XL, istuu pienesti.
+  kw:
+    bamba: 1.4
+    salomon: 1.3
+    object dyed: 1.3
+    horse: 1.3
+    p13: 1.2
+    11 by: 0.6
+Isaac Sellam:
+  tier: A
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Pariisilainen nahkatalo, edelleen tuotannossa. Takit uutena 2000–4000 €, käytettynä 400–900 €.
+  good: Paksu vegetabile-nahka, raakat reunat, rakenne joka kestää ikuisesti.
+  bad: Hyvin raskas, tyyli kapea (dark avant). Jälleenmyynti hidas koska ostajakunta pieni.
+  buy: Nahkatakit ja -bleiserit, nahkahousut, laukut.
+  avoid: Yksinkertaiset t-paidat ja trikoot, niiden arvo ei ole nahkan tasolla.
+  tells: ISAAC SELLAM EXPERIENCE -tunniste, usein nahkalappu. Koko istuu tiukkana.
+  kw:
+    nahkatakki: 1.2
+    blazer: 1.2
+Julius_7:
+  tier: B
+  hype: 3
+  quality: 4
+  fake: 0
+  status: Tatsuro Horikawan Tokion merkki, länsimaissa hiljaisempi kuin 2010-luvun alussa. JP mediaani 116 € (n=26).
+  good: Gasmask-hupparit, dark tech -estetiikka, hyvät jersey- ja nahkakappaleet.
+  bad: Hype 2010-luvun alussa, nyt kysyntä pienempi. Japanilaiset koot pieniä (3 ≈ M).
+  buy: Gasmask-hupparit, nahkatakit, cargo-housut, Julius x Nike/Converse.
+  avoid: Perus-t-paidat.
+  tells: JULIUS_7 tai JULIUS -lappu, kausikoodit 2010–2020. Koko 4 ≈ L.
+  kw:
+    gasmask: 1.6
+    gas mask: 1.6
+Rick Owens:
+  tier: A
+  hype: 5
+  quality: 4
+  fake: 3
+  status: Vahvin avant-brändi juuri nyt, kysyntä ylittää tarjonnan nahkassa ja kengissä. JP mediaani 282 € (n=90), Sellpyssä mediaani 154 € (n=118).
+  good: Mainline on Italiassa tehty, nahka (LMB, Intarsia, Stooges) ja kengät ovat tähtikappaleet. Pitkät leikkaukset.
+  bad: DRKSHDW ja Lilies myyvät puoleen, kopioita (Geobasket, Ramones) paljon. Monet kappaleet istuvat erikoisesti.
+  buy: Stooges/LMB/Intarsia -nahkatakit, Geobasket, Ramones, Kiss Boots, Bauhaus- ja Creatch-housut, Dirt Cargo, Mountain-hupparit.
+  avoid: DRKSHDW t-paidat (Sellpyssä paljon), väärennöskengät halvalla, kuluneet Ramones-kärjet ilman kuvia.
+  tells: 'Mainline: valkoinen lappu RICK OWENS + mallikoodi RU/RR; DRKSHDW musta lappu DU. Kengissä kausikoodi (FW20). Koko IT 50 ≈ M, takit istuvat pienesti.'
+  kw:
+    kiss: 1.3
+    creatch: 1.2
+    lmb: 1.4
+    dirt: 1.2
+    mega bumper: 1.3
+    megalaced: 1.3
+    tecuatl: 1.3
+    babel: 1.2
+Maison Margiela:
+  tier: A
+  hype: 4
+  quality: 4
+  fake: 3
+  status: Galliano-aika (2014–2024) jakaa mielipiteet, Martinin oma aika (1989–2009) on arkistoarvoista. JP mediaani 112 € (n=44), Sellpy 120 € (n=276).
+  good: Tabit, GAT-tennarit, Replica-linja, valkoinen nelinitsi. Artisanal (linja 0) on museotasoa.
+  bad: Valtavasti tarvikkeita (lompakot, tuoksut) ja Line 10 -perusvaatteita, joiden arvo on pieni. H&M-yhteistyö (2012) ei ole arvokas.
+  buy: Tabi-saappaat/-loaferit, Replica GAT, Martinin aikaiset takit ja neuleet (ennen 2009), Artisanal, Line 14 räätälöinti, 5AC -laukku.
+  avoid: Margiela x H&M, Line 11 pikkutarvikkeet, Galliano-ajan kalliit perusvaatteet.
+  tells: Valkoinen tyhjä lappu = vanha aika; numerolappu jossa linja ympyröity (0 Artisanal, 1 women, 10 men, 14 men tailoring, 11 asusteet, 22 kengät). 'Maison Martin Margiela' = ennen 2015.
+  kw:
+    maison martin: 1.3
+    line 14: 1.2
+    replica: 1.2
+    5ac: 1.3
+    glam slam: 1.3
+MM6 Maison Margiela:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 2
+  status: Diffuusiolinja, naisten painotus. Sellpy mediaani 155 € (n=3, pieni otos).
+  good: Hauskoja muotoja, Japanese bag ja tabit myyvät.
+  bad: Laatu tavallista designer-tasoa, ei arkistoarvoa. Naisten koot.
+  buy: Japanese bag, tabi-mallit, MM6 x The North Face, MM6 x Salomon.
+  avoid: Perus-t-paidat ja -neuleet yli 40 €.
+  tells: MM6 lappu. Koot naisten, isompia malleja tehty oversize.
+  kw:
+    japanese bag: 1.5
+    the north face: 1.5
+    salomon: 1.4
+Raf Simons:
+  tier: S
+  hype: 5
+  quality: 4
+  fake: 3
+  status: Brändi lopetettiin 2022, mikä nosti arkistokauden (1995–2005) kappaleiden arvon pilviin. JP mediaani 141 € (n=53). Sellpy 117 € (n=26).
+  good: Riot Riot Riot, Virginia Creeper, Consumed, Peter Saville -kaudet ovat muotihistorian ytimessä. Myöhemmät 2014–2021 kaudet myös kysyttyjä.
+  bad: Ozweego- ja Adidas-tennarit massatuotantoa, arvo pieni. Fred Perry -yhteistyö ok mutta ei grail.
+  buy: AW01 Riot, AW02 Virginia Creeper, AW03 Closer/Joy Division (Peter Saville), SS02/AW04 parkat, 2017–2020 oversized neuleet ja takit.
+  avoid: Raf x Adidas -tennarit (Ozweego, Response) yli 80 €, Raf x Fred Perry yli 80 €.
+  tells: 'Vanha lappu: musta tekstiilitunniste RAF SIMONS valkoisella; kausikoodi lapussa. Belgialainen 46/48 istuu pienesti, 2010-luvulla oversize.'
+  kw:
+    riot: 1.6
+    virginia creeper: 2.0
+    peter saville: 1.8
+    joy division: 1.8
+    closer: 1.4
+    consumed: 1.5
+    sterling ruby: 1.5
+    fred perry: 0.6
+    adidas: 0.6
+RAF by Raf Simons:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 1
+  status: Edullinen sivulinja (2000-luvun loppu). Sellpy mediaani 61 € (n=4).
+  good: Rafin estetiikka halvemmalla.
+  bad: Ei arkistoarvoa, laatu keskitasoa.
+  buy: Neuleet ja takit alle 60 €.
+  avoid: Kaikki yli 100 €.
+  tells: RAF BY RAF SIMONS -lappu.
+  kw: {}
+Helmut Lang:
+  tier: A
+  hype: 4
+  quality: 4
+  fake: 1
+  status: 'Helmutin oma aika 1986–2005 on kova arkisto, uusi Helmut Lang (2006→) on toinen brändi. Sellpyssä 553 kpl (mediaani 68 €), löydöissä 29: kirppareiden paras arkistolähde.'
+  good: 'Minimalismi + tekninen vaate: bondage, astro biker, reflective, painter-farkut. Italialainen vanha laatu.'
+  bad: Uusi Helmut Lang (Theory-omistus) pyörii Sellpyssä paljon ja on arvoltaan 20–60 €. Erottaminen vaatii lapun tarkistuksen.
+  buy: '1998–2004: bondage-takit, astro biker, flak jacket, reflective-farkut, painter jeans, nahkatakit, raw denim, feather-neule.'
+  avoid: 2006 jälkeiset perus-t-paidat ja trikoot (valtaosa Sellpystä).
+  tells: 'Arkisto: musta lappu jossa HELMUT LANG valkoisella, Made in Italy, ''Helmut Lang Jeans'' -lappu vanhoissa farkuissa. Uudet: Made in China/Vietnam, valkoinen lappu, ei Italy. Koko 50 IT ≈ M.'
+  kw:
+    made in italy: 1.5
+    flak: 1.4
+    feather: 1.3
+    raw denim: 1.2
+    '1998': 1.4
+    '1999': 1.4
+    '2000': 1.2
+    '2003': 1.2
+Number (N)ine:
+  tier: S
+  hype: 4
+  quality: 4
+  fake: 3
+  status: Takahiro Miyashitan kausi 1996–2009 on arkistograilien kärkeä. Brändi elvytettiin 2010-luvulla mutta ilman Miyashitaa (arvo pieni). JP mediaani 85 € (n=79).
+  good: Grunge/Kurt Cobain -estetiikka, AW04 Give Peace a Chance, AW05 The High Streets, AW06 Noir. Nahat ja neuleet.
+  bad: Uusi Number (N)ine 2010→ ei arvokas, väärennöksiä Marlboro-kappaleista.
+  buy: 'AW03–AW08 kaudet: Marlboro-takit, Kurt-neuleet, nahkatakit, hupparit kausilogoilla, mohair-neuleet.'
+  avoid: Post-2010 'Number (N)ine' -merkatut perus-t-paidat ja Nimen pelkät logopaidat.
+  tells: 'Vanha lappu musta: NUMBER (N)INE, kausikoodi; sizes 2–4 (3 ≈ M). Japanin koot pieniä.'
+  kw:
+    give peace a chance: 1.8
+    high streets: 1.6
+    noir: 1.3
+    mohair: 1.3
+    '2005': 1.4
+    '2006': 1.4
+    '2004': 1.4
+Takahiromiyashita The Soloist:
+  tier: A
+  hype: 3
+  quality: 5
+  fake: 0
+  status: Miyashitan oma merkki vuodesta 2010. Hinnat uutena kovat (1000–3000 €), jälleenmyynti 30–40 %. JP mediaani 66 € (n=50, paljon asusteita).
+  good: Rakenne, nahat, rock-estetiikka, todellinen japanilainen käsityö.
+  bad: Erittäin niche-ostajakunta, mitat pieniä, hinnat laskevat.
+  buy: Nahkatakit, kengät, takit, mohair-neuleet.
+  avoid: Asusteet ja t-paidat.
+  tells: TAKAHIROMIYASHITA TheSoloist. -lappu. Koko 46/48.
+  kw: {}
+Undercover:
+  tier: A
+  hype: 4
+  quality: 4
+  fake: 2
+  status: Jun Takahashin arkistokaudet (SS03 Scab, AW03 Paper Doll, AW04 But Beautiful, AW05 Arts & Crafts) ovat grail-tasoa; uudet kaudet myyvät normaalisti. JP mediaani 57 € (n=54).
+  good: Punk-tarinat, käsityö, hassut yksityiskohdat. Undercoverism-linja miehille.
+  bad: Uniqlo/GU-yhteistyöt ja Nike-tennarit (Gyakusou) sotkevat hakuja.
+  buy: SS03 Scab, AW04 But Beautiful II Bug, AW05 Arts & Crafts, AW06 Guruguru, Joker-kausi SS17, Cindy Sherman, Neon Genesis -collab. Gilapple-laukut.
+  avoid: Uniqlo-, GU-, Nike Gyakusou -perusvaatteet.
+  tells: Vanha lappu UNDERCOVER (punainen/musta), kausikoodi. Koko 3 ≈ L, 2 ≈ M.
+  kw:
+    paper doll: 1.6
+    guruguru: 1.4
+    joker: 1.3
+    cindy sherman: 1.5
+    gyakusou: 0.5
+    chaos balance: 1.4
+    langlitz: 1.5
+Yohji Yamamoto:
+  tier: A
+  hype: 4
+  quality: 5
+  fake: 1
+  status: Ikuinen perusarvo. Pour Homme (mieslinja) kysytyin, Y's ja Noir naisille. JP mediaani 69 € (n=48) Japanissa koska siellä tarjontaa on valtavasti; Euroopassa hinnat 2–3×.
+  good: Gabardiinit, villat, kaavoitus, ajattomuus. 1990-luvun Pour Homme on tavoitetuinta.
+  bad: Japanissa niin halpaa, että Eurooppa-arvo on hupenemassa. Y-3 ja Adidas ovat eri tasoa.
+  buy: Pour Homme takit ja housut (gabardine, wool), 1990-luvun kappaleet, kangasmuotoiset kengät, Discord-laukut.
+  avoid: Y-3, Yohji x New Era, Ground Y -perus-t-paidat.
+  tells: Pour Homme -lappu (punainen kirjoitus vanhoissa), HD/HJ/HN -mallikoodit; 1990-luvulla 'Made in Japan' ja 'Yohji Yamamoto Pour Homme' valkoisella. Koko 3 ≈ L.
+  kw:
+    discord: 1.3
+    '1990': 1.3
+    '1995': 1.3
+    linen: 1.1
+Y-3:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 2
+  status: Adidasin ja Yohjin sivulinja vuodesta 2002. Sellpy mediaani 54 € (n=304). Ei arkistoarvoa paitsi aivan varhaisissa.
+  good: Kengät (Qasa, Kaiwa) ja 2000-luvun alun takit ovat ok.
+  bad: Massatuotanto, löytyy outletista.
+  buy: Varhaiset 2002–2006 nahkatakit ja Qasa High -kengät halvalla.
+  avoid: T-paidat, hupparit, verkkarit.
+  tells: Y-3 logo, adidas-lappu.
+  kw:
+    qasa: 1.3
+    '2003': 1.3
+Comme des Garçons Homme Plus:
+  tier: S
+  hype: 4
+  quality: 5
+  fake: 1
+  status: Kawakubon mieslinja, kaikkein kysytyin CdG miehille. JP mediaani 112 € (n=55).
+  good: Konseptuaaliset kaudet, villa ja polyesteri muodot, räätälöinti.
+  bad: Kaudet vaihtelevat, osa vaikeasti puettavaa. Japanin koot.
+  buy: 1990-luvun ja 2000-luvun alun bleiserit, AD2004 Flower, AD2006 'Hidden', Homme Plus Evergreen.
+  avoid: Myöhäisten kausien kirkkaat show-kappaleet ilman sovitusta (vaikea myydä).
+  tells: Lappu COMME des GARÇONS HOMME PLUS, sisällä AD-vuosi (esim. AD2004 = kausi). Koot S/M/L japanilaisia (L ≈ EU M).
+  kw:
+    evergreen: 1.3
+    ad2004: 1.3
+    ad2005: 1.3
+Comme des Garçons Homme:
+  tier: B
+  hype: 3
+  quality: 4
+  fake: 1
+  status: Workwear-henkinen linja, Homme Deux on räätälöity. Sellpy mediaani 137 € (n=19).
+  good: Kangasvalinnat, käytännöllinen.
+  bad: Ei yhtä kysytty kuin Plus.
+  buy: 1990-luvun Homme-takit, Homme Deux -puvut.
+  avoid: Perus-t-paidat.
+  tells: AD-vuosi lapussa, koot japanilaiset.
+  kw: {}
+Comme des Garçons:
+  tier: B
+  hype: 4
+  quality: 4
+  fake: 3
+  status: 'Kattobrändi: Play (logosydän) on massaa, Shirt ja Black keskitasoa, Homme Plus ja naisten mainline arvokkaita. Sellpy 192 kpl, mediaani 83 €.'
+  good: Valtavan tunnettu, myy aina. Vanha CdG (1980–1990-luku) on muotihistoriaa.
+  bad: Play-väärennöksiä paljon, ja Converse-tennarit ovat massaa.
+  buy: Naisten mainline 1990-luvulta (AD-koodit), Shirt Forever -paidat, Tricot-neuleet halvalla, 'Lumps and bumps' SS97.
+  avoid: Play-t-paidat yli 40 €, Converse x Play yli 50 €.
+  tells: 'AD-vuosi: AD1997 = 1997. Shirt-linjan koot ranskalaiset. Play-sydämen väärennöksissä silmät väärin.'
+  kw:
+    lumps: 1.6
+    ad1997: 1.5
+    body meets dress: 1.6
+    tricot: 0.8
+    shirt forever: 1.2
+Comme des Garçons Play:
+  tier: D
+  hype: 3
+  quality: 2
+  fake: 3
+  status: Massabrändi. Sellpy 698 kpl, mediaani 56 €. Ei kannata metsästää paitsi pilkkahinnalla.
+  good: Tunnettu, likvidi.
+  bad: Ei ylihintaa, paljon väärennöksiä.
+  buy: Vain alle 20 € pikamyyntiin.
+  avoid: Kaikki yli 40 €.
+  tells: Sydänlogo, PLAY-lappu.
+  kw: {}
+Junya Watanabe:
+  tier: A
+  hype: 4
+  quality: 5
+  fake: 1
+  status: Junya MAN on miesten workwear-yhteistyökuningas; arvo vahva ja kasvaa. JP 59 € (n=43, paljon naisten osia), Sellpy 153 € (n=20).
+  good: Patchwork-farkut ja -takit, collabit (Levi's, Carhartt, TNF, Mackintosh), täydellinen valmistus.
+  bad: Naisten linja vaikeampi myydä. Japanin koot pieniä.
+  buy: Junya MAN patchwork denim, Junya x Levi's 501, x TNF, x Carhartt, x Mackintosh, AW06 nahkatakit, x Comme Ça du Mode.
+  avoid: Naisten kokeelliset juhla-asut ilman kuvia.
+  tells: JUNYA WATANABE COMME des GARÇONS MAN -lappu, AD-vuosi. Koot S–XL japanilaiset.
+  kw:
+    stussy: 1.3
+    new balance: 1.2
+    palace: 1.2
+Noir Kei Ninomiya:
+  tier: B
+  hype: 3
+  quality: 4
+  fake: 0
+  status: CdG-alainen naisten linja, vakaa. JP mediaani 150 € (n=100), mikä on korkea.
+  good: Rakenteelliset, laserleikatut ja nitattu kappaleet, harvinaiset.
+  bad: Vain naisten koot, nichemarkkina.
+  buy: Rakenteelliset takit ja liivit, nahkahame.
+  avoid: Rikkinäiset rakenteet (vaikea korjata).
+  tells: Noir Kei Ninomiya -lappu + AD-vuosi.
+  kw: {}
+Issey Miyake:
+  tier: B
+  hype: 4
+  quality: 4
+  fake: 2
+  status: Laskostus (pleats) on noussut 2020-luvulla. Vintage 1980–1990-luvun mainline arvokkain. Sellpy mediaani 71 € (n=98).
+  good: Innovatiiviset materiaalit, 1980-luvun takit ja neuleet, Bao Bao -laukut.
+  bad: Paljon tuotantoa, kysyntä riippuu kappaleesta.
+  buy: 1980–1990 vintage mainline takit, Issey Miyake Men 1990-luvulta, Bao Bao laukut, A-POC.
+  avoid: Kuluneet Bao Baot (kolmiot irti), kopiot.
+  tells: 'Vanha lappu: ISSEY MIYAKE + ''Made in Japan'', mallikoodi IM- / ME-. Bao Bao -väärennöksiä paljon.'
+  kw:
+    a-poc: 1.5
+    '1980': 1.3
+    '1985': 1.3
+Homme Plissé Issey Miyake:
+  tier: B
+  hype: 4
+  quality: 4
+  fake: 1
+  status: Vahva nousu 2020-luvulla. JP mediaani 127 € (n=48).
+  good: Rypistymätön, mukava, tunnistettava.
+  bad: Koot heittelevät, myyvä vain tietyissä väreissä.
+  buy: Housut, takit (monthly color -sarjat).
+  avoid: Haalistuneet kappaleet.
+  tells: HOMME PLISSÉ ISSEY MIYAKE -lappu, koot 1–5 (3 ≈ M/L).
+  kw: {}
+Pleats Please:
+  tier: C
+  hype: 3
+  quality: 4
+  fake: 1
+  status: Naisten laskostuslinja. Sellpy mediaani 116 € (n=24).
+  good: Kevyt, tunnistettava, myy hyvin pientä katetta.
+  bad: Sellpy hinnoittelee jo realistisesti.
+  buy: Printtipaidat ja -hameet alle 50 €.
+  avoid: Yli 120 € perushinnat.
+  tells: PLEATS PLEASE ISSEY MIYAKE -lappu.
+  kw: {}
+Ann Demeulemeester:
+  tier: A
+  hype: 3
+  quality: 5
+  fake: 1
+  status: Annin oma aika 1985–2013 on arvokkain; nykyinen (Antonioli-omistus) heikompi. JP mediaani 129 € (n=82), Sellpy 160 € (n=47).
+  good: Saappaat (lace-up back), nahkatakit, runoilijaestetiikka, mustavalkoisuus.
+  bad: Naiskoot pieniä; uudet kaudet eivät myy yhtä hyvin.
+  buy: Lace-up/back-lace -saappaat, nahkatakit, villatakit 2000-luvulta, Patti Smith -henkiset paidat.
+  avoid: Uusien kausien perus-t-paidat.
+  tells: Vanha lappu ANN DEMEULEMEESTER valkoisella. Koko FR 38 ≈ S.
+  kw:
+    back lace: 1.3
+    lace-up: 1.2
+Haider Ackermann:
+  tier: B
+  hype: 3
+  quality: 5
+  fake: 0
+  status: Brändi tauolla omana, Ackermann teki Canada Goose ja Tom Ford -töitä. JP 104 € (n=18), Sellpy 112 € (n=15).
+  good: Kankaat (silkki, samettiset), värit, räätälöinti.
+  bad: Pieni ostajakunta, kapea leikkaus.
+  buy: Bleiserit, nahkatakit, silkkipaidat, velvet-housut.
+  avoid: Mainstream-perusvaatteet.
+  tells: HAIDER ACKERMANN -lappu. Koko IT.
+  kw:
+    velvet: 1.2
+    silkki: 1.1
+A.F. Vandevorst:
+  tier: B
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Antwerpen, brändi lopetti 2020. Sellpy mediaani 81 € (n=22).
+  good: Nahka, punainen risti -tunnus, militarismi.
+  bad: Pääosin naisten, kysyntä pieni.
+  buy: Nahkatakit, saappaat (ratsastus).
+  avoid: Perusneuleet.
+  tells: Punainen risti lapussa.
+  kw: {}
+Walter Van Beirendonck:
+  tier: B
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Antwerpen Six, värikäs ja provosoiva. W&LT (Wild and Lethal Trash) 1990-luvulla arvokkain. JP 112 € (n=27).
+  good: Rave-ajan W&LT, nousussa 90s-nostalgiassa.
+  bad: Kapea ostajakunta.
+  buy: W&LT 1993–1999 -takit ja neuleet.
+  avoid: Uudet t-paidat.
+  tells: W.&L.T. -lappu.
+  kw:
+    w&lt: 1.5
+Dirk Bikkembergs:
+  tier: D
+  hype: 1
+  quality: 3
+  fake: 1
+  status: Nykyään jalkapallo-/lifestyle-brändi, Sellpy mediaani 16 € (n=228). Vain 1990-luvun Antwerpen-kaudet arvokkaita.
+  good: Varhaiset saappaat ja nahkakengät (1990s).
+  bad: Nykytuotanto halpaa.
+  buy: 1990-luvun saappaat ja takit, joissa Made in Italy.
+  avoid: Bikkembergs-urheilutuotteet.
+  tells: 'Vanha: DIRK BIKKEMBERGS koko nimi, ''homme''; uusi: pelkkä BIKKEMBERGS.'
+  kw:
+    made in italy: 1.4
+    '1990': 1.5
+    boots: 1.3
+Hussein Chalayan:
+  tier: B
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Konseptitaiteilija, brändi pienessä mittakaavassa. JP 71 € (n=45).
+  good: Kuuluisat ideat (pöytämekko, lentokone), varhaiset kaudet museoarvoisia.
+  bad: Pieni kysyntä, enimmäkseen naisille.
+  buy: 1990-luvun kappaleet, Chalayan x Puma -kengät halvalla.
+  avoid: Puma-tennarit yli 50 €.
+  tells: HUSSEIN CHALAYAN -lappu.
+  kw:
+    puma: 0.6
+Jean Paul Gaultier:
+  tier: A
+  hype: 5
+  quality: 4
+  fake: 3
+  status: Y2K- ja Bella Hadid -buumi teki mesh-topeista grailin. Sellpy mediaani 103 € (n=361), JP 75 €.
+  good: Mesh-topit (tattoo, cyber, trompe l'oeil), korsettiset kappaleet, 1990-luvun Homme.
+  bad: Uudet Gaultier (2020→) vähemmän arvokkaita, mesh-väärennöksiä paljon.
+  buy: 1990-luvun mesh-topit ja -mekot, Cyber/Tattoo, Homme -takit, Junior Gaultier ja Gaultier Jeans halvalla.
+  avoid: Hajusteet, kopiot (uudet 'vintage' mesh ilman lappuja).
+  tells: Vanhoissa lapuissa 'Jean Paul Gaultier Maille' tai 'Femme'/'Homme' ja Made in Italy. Uudet mesh-topit Shayne Oliver -collabit 2021→.
+  kw:
+    maille: 1.3
+    trompe: 1.4
+    soleil: 1.3
+    homme: 1.2
+The Viridi-anne:
+  tier: B
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Japanilainen dark-avant, Euroopassa harvinainen. JP mediaani 76 € (n=65).
+  good: Garment dye, nahat, laadukas.
+  bad: Japanissa runsaasti tarjontaa halvalla.
+  buy: Nahkatakit, takit.
+  avoid: T-paidat.
+  tells: The Viridi-anne -lappu, koot 1–4.
+  kw: {}
+Ziggy Chen:
+  tier: B
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Shanghai, archive-skene kasvaa. JP 109 € (n=24).
+  good: Kankaat ja vanhan maailman räätälöinti.
+  bad: Pieni ostajakunta.
+  buy: Takit, housut.
+  avoid: '-'
+  tells: Ziggy Chen -lappu, koot 46–52.
+  kw: {}
+Individual Sentiments:
+  tier: C
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Pieni japanilainen avant-merkki, harvoin Euroopassa.
+  good: 'Japanilainen (Kyoto) dark-minimal: garment dye, pellava ja villa, rento kerrospukeutuminen à la Yohji/Ziggy Chen.'
+  bad: Lähes tuntematon Euroopassa, myyminen vaatii Grailedin ja kärsivällisyyttä.
+  buy: Takit, väljät housut, neuleet alle 60 €.
+  avoid: T-paidat.
+  tells: Lappu INDIVIDUAL SENTIMENTS, koot 1–4 (3 ≈ M/L).
+  kw: {}
+Deepti:
+  tier: B
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Ruotsalainen/espanjalainen dark-avant nahkatalo, Sellpyssä yllättävän paljon (72 kpl, mediaani 19 €, osa nimisekaannuksia). Löydöissä 7.
+  good: Hevos- ja lampaannahka, object dyed, Isaac Sellam -tyylinen raakuus pienemmällä hinnalla.
+  bad: Tunnettuus pieni, myy hitaasti Grailedissa (150–400 € takit).
+  buy: Nahkatakit, nahkahousut, saappaat.
+  avoid: Puuvillaiset perusvaatteet.
+  tells: DEEPTI -lappu, koot S–XL.
+  kw:
+    nahkatakki: 1.3
+    leather: 1.3
+    horse: 1.2
+Cortana:
+  tier: C
+  hype: 1
+  quality: 5
+  fake: 0
+  status: Espanjalainen hiljainen luksus (Rosa Esteva), naisten. Sellpy mediaani 52 € (n=4).
+  good: Upeat luonnonmateriaalit, silkki ja pellava.
+  bad: Pieni jälleenmyyntimarkkina.
+  buy: Silkkimekot ja takit alle 60 €.
+  avoid: '-'
+  tells: CORTANA -lappu, Made in Spain.
+  kw: {}
+Carpe Diem:
+  tier: A
+  hype: 2
+  quality: 5
+  fake: 1
+  status: Maurizio Altierin kulttimerkki 1996–2007, myöhemmin m.a+. Grail-tasoa mutta Sellpyssä nimi törmää muihin (mediaani 4.5 €, n=23 = väärät). JP 117 € (n=33).
+  good: Käsin tehdyt nahkat ja kengät, kokeelliset materiaalit.
+  bad: 'Nimiväärinkäsityksiä: ''carpe diem'' -tekstipaidat.'
+  buy: Nahkatakit, saappaat, kengät, laukut.
+  avoid: Kaikki ilman C.DIEM / Carpe Diem -tunnistetta ja Italia-alkuperää.
+  tells: Lappu 'C. DIEM' tai CARPE DIEM + Made in Italy. Myöhemmin 'by M. Altieri'.
+  kw:
+    nahka: 1.3
+    leather: 1.3
+    made in italy: 1.4
+    altieri: 1.6
+Enfants Riches Déprimés:
+  tier: A
+  hype: 4
+  quality: 3
+  fake: 3
+  status: LA-luksusstreet, uudet hinnat absurdit (t-paita 500 €). Sellpy mediaani 551 € (n=10).
+  good: Rock-estetiikka, pienet painokset, tunnettu skenessä.
+  bad: Laatu ei vastaa hintaa, väärennöksiä.
+  buy: Hand-painted hoodiet, flanellit, nahkatakit.
+  avoid: Yksinkertaiset t-paidat yli 200 €.
+  tells: Numeroidut painokset, ERD-lappu.
+  kw: {}
+Chrome Hearts:
+  tier: S
+  hype: 5
+  quality: 4
+  fake: 3
+  status: Todella kova kysyntä (korut, hupparit, Matty Boy). Sellpy mediaani 705 € (n=14). Väärennöksiä erittäin paljon.
+  good: Hopeakorut .925, nahkatakit, likviditeetti erinomainen.
+  bad: Feikkejä yli puolet nettimarkkinasta; ostaminen yksityiseltä riskialtista.
+  buy: Hopeakorut (cross, dagger, Forever ring), nahkatakit, hupparit, laseissa vanhat mallit.
+  avoid: Halvat hupparit ja korut ilman todistettavaa alkuperää.
+  tells: Hopeassa .925 ja CH-leima tarkka; Sellpyn tarkastus vähentää riskiä. Vaatteissa printin laatu ja pesulappu.
+  kw:
+    '925': 1.3
+    cross: 1.2
+    dagger: 1.3
+    matty boy: 1.2
+    sterling: 1.3
+Kapital:
+  tier: A
+  hype: 4
+  quality: 4
+  fake: 2
+  status: Vahva kysyntä länsimaissa, Japanissa halvempi (JP mediaani 56 €). Sellpy mediaani 131 € (n=14).
+  good: Boro, sashiko, indigo, Century denim, käsityö, hauskat kuviot (smiley, bone).
+  bad: Japanissa niin paljon että arbitraasi toimii vain hyvillä malleilla.
+  buy: Ring coat, Century denim, boro-takit, Kountry smiley-neuleet, bandanat, Okabilly.
+  avoid: Perus-t-paidat.
+  tells: KAPITAL tai KAPITAL KOUNTRY, koot 1–5 (4 ≈ L). Väärennöksiä smileyistä.
+  kw:
+    smiley: 1.3
+    kountry: 1.1
+    bandana: 1.1
+    fastcolor: 1.2
+Visvim:
+  tier: S
+  hype: 4
+  quality: 5
+  fake: 2
+  status: Hiroki Nakamuran super-premium. JP mediaani 172 € (n=83). FBT ja Christo kengät liikkuvat aina.
+  good: Natural dye, vanhan ajan tekniikat, kengät kestävät.
+  bad: Uutena todella kallis; ostajat tuntevat hinnat tarkkaan.
+  buy: FBT, Christo, Virgil Boots, Kiyari/Noragi -takit, ICT-linja.
+  avoid: Kuluneet FBT:t ilman pohjia.
+  tells: VISVIM -lappu, koot 1–5 (3 ≈ M).
+  kw:
+    virgil: 1.3
+    noragi: 1.3
+    ict: 1.4
+    kiyari: 1.3
+Hysteric Glamour:
+  tier: B
+  hype: 4
+  quality: 3
+  fake: 2
+  status: Y2K/japani-rock nousussa. Sellpy mediaani 76 € (n=18).
+  good: 90s–00s painatukset, Courtney Love, Andy Warhol.
+  bad: Uudet t-paidat massaa, Japanissa halpaa.
+  buy: Vintage graafiset t-paidat, denim, nahkatakit.
+  avoid: Uudet logopaidat.
+  tells: HYSTERIC GLAMOUR -lappu, vanhoissa 'Made in Japan', koot F/S/M.
+  kw:
+    andy warhol: 1.3
+    playboy: 1.2
+45R:
+  tier: B
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Japanilainen indigo-luksus, JP mediaani 38 € (n=90). Sellpyssä 8 kpl (nimitörmäyksiä).
+  good: Indigo, käsinvärjätty, ajaton.
+  bad: Länsimaissa nichettävä.
+  buy: Indigo-farkut ja -takit.
+  avoid: '-'
+  tells: 45R tai 45rpm -lappu.
+  kw:
+    indigo: 1.2
+Leon Emanuel Blanck:
+  tier: A
+  hype: 3
+  quality: 5
+  fake: 0
+  status: Archive-skenen nykyinen huippu, Firenze. JP 288 € (n=5).
+  good: Distortion-leikkaukset, object dyed nahat, kengät.
+  bad: Mitoitus outo, kappaleet kalliita.
+  buy: Distortion-takit, nahkatakit, kengät.
+  avoid: '-'
+  tells: LEB-lappu, koot 46–52.
+  kw:
+    distortion: 1.3
+Layer-0:
+  tier: A
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Kengät ja nahat, Italia. JP mediaani 15 € (n=21) on virheellinen haku (layer 0 sekoittuu). Grailed 300–800 €.
+  good: Kestävimmät käsin tehdyt nahkakengät archive-skenessä.
+  bad: Hyvin pieni ostajakunta.
+  buy: Saappaat, derbyt.
+  avoid: '-'
+  tells: LAYER-0 leima.
+  kw: {}
+m.a+:
+  tier: A
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Maurizio Amadein merkki (ent. Carpe Diem). JP 32 € (n=100) on haun saastumaa (m.a+ = monet tuotteet). Grailed 200–700 €.
+  good: Hevosnahka, vegetabile, käsityö.
+  bad: Mallit kapeita, koot pieniä.
+  buy: Nahkatakit, saappaat, laukut.
+  avoid: '-'
+  tells: Lappu 'm.a+' ja Made in Italy.
+  kw: {}
+Taichi Murakami:
+  tier: B
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Hyvin harvinaiset nahkat. JP 198 € (n=13).
+  good: Ultraohut lammas- ja hirvennahka, käsin ommellut nahkatakit ja -paidat; Japanin hiljaista käsityötä.
+  bad: Hyvin pieni ostajakunta, kappaleet istuvat pienesti.
+  buy: Nahkatakit ja nahkapaidat.
+  avoid: '-'
+  tells: Koot 1–3, Made in Japan.
+  kw: {}
+Label Under Construction:
+  tier: C
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Pieni italialainen neulemerkki, archive-tyyliin.
+  good: Italialaiset neuleet ja hupparit, joissa näkyvät saumat ja ’keskeneräiset’ yksityiskohdat; hyvä archive-perusvaate.
+  bad: Hidas myydä, pieni tunnettuus.
+  buy: Neuleet ja hupparit alle 50 €.
+  avoid: Yli 100 € käytettynä.
+  tells: Koot IT 46–52.
+  kw: {}
+Uma Wang:
+  tier: B
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Shanghai, laadukas avant-kangas. JP 96 € (n=19).
+  good: Kankaat, väljät muodot.
+  bad: Naisille painottunut.
+  buy: Takit, housut.
+  avoid: '-'
+  tells: UMA WANG -lappu.
+  kw: {}
+Forme d'Expression:
+  tier: B
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Saksalais-japanilainen nichebrändi, JP 100 € (n=100).
+  good: 'Berliiniläinen, Japanissa tuotettu: wafuku-vaikutteet, mustat villat ja pellavat, hyvä kaava.'
+  bad: Kysyntä keskittyy pieneen dark-avant-piiriin.
+  buy: Takit, kimono-tyyliset paidat, housut.
+  avoid: '-'
+  tells: Koot S–L.
+  kw: {}
+Daniel Andresen:
+  tier: B
+  hype: 1
+  quality: 5
+  fake: 0
+  status: Antwerpen, nahkatakit ja ratsastusvaikutteet.
+  good: Raskaat, käsin viimeistellyt nahat (ratsastus/militaari-vaikutteet), saappaat ja nahkatakit kestävät vuosikymmeniä.
+  bad: Brändi pieni, nimellä harvoin hakuja.
+  buy: Nahkatakit, ratsastussaappaat.
+  avoid: '-'
+  tells: Belgialainen, koot 46–52.
+  kw: {}
+Lumen et Umbra:
+  tier: C
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Italialainen pieni dark-merkki.
+  good: Italialaiset jersey- ja neuletuotteet dark-estetiikalla, mukavat kerroksiin.
+  bad: Kysyntä pientä, ei likvidi.
+  buy: Neuleet alle 40 €.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Marsèll:
+  tier: B
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Italialainen kenkämerkki, arkistoestetiikkaa. Sellpy mediaani 60 € (n=11).
+  good: Kengät, laukut, vegetabile.
+  bad: Kärjet muotoiltuja, kaikille ei käy.
+  buy: Saappaat, derbyt, laukut.
+  avoid: '-'
+  tells: Marsèll leima, koot EU.
+  kw:
+    gomma: 1.2
+Officine Creative:
+  tier: C
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Italialainen kenkä, Sellpy 115 € (n=86) eli hinnoitellaan jo hyvin.
+  good: Italialaiset käsityökengät vintage-viimeistelyllä (Anatomia, Legrand), hyvä nahka.
+  bad: Sellpy hinnoittelee jo hyvin (mediaani 116 €), joten katetta vain kun hinta alle 70 €.
+  buy: Anatomia-saappaat, Legrand-derbyt.
+  avoid: '-'
+  tells: EU-koot, istuvat normaalisti.
+  kw: {}
+Rundholz:
+  tier: C
+  hype: 1
+  quality: 3
+  fake: 0
+  status: Saksalainen lagenlook, Sellpy mediaani 96 € (n=104).
+  good: 'Saksalainen lagenlook: musta pellava, kerrokset, Black Label -linja paras.'
+  bad: Ostajat lähinnä Saksassa, Grailed-kysyntä pieni.
+  buy: Black Label -takit alle 50 €.
+  avoid: DIP-linjan perusvaatteet.
+  tells: Black Label -lappu = parempi linja.
+  kw: {}
+Damir Doma:
+  tier: B
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Pariisi, kultiaika 2008–2015, brändi pienentynyt. Sellpy mediaani 42 € (n=9).
+  good: Väljät kerrokset, pellavat ja villat.
+  bad: Silent-linja heikompi.
+  buy: Varhaiset takit, neuleet.
+  avoid: Silent-linjan perus-t-paidat.
+  tells: DAMIR DOMA / Silent by Damir Doma.
+  kw:
+    silent: 0.6
+Kris Van Assche:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Oma brändi lopetettu 2015, sittemmin Dior Homme ja Berluti. Sellpy mediaani 36 €.
+  good: Kapeat leikkaukset, hyvä räätälöinti.
+  bad: Kysyntä pientä.
+  buy: Takit, housut alle 60 €.
+  avoid: '-'
+  tells: KRISVANASSCHE -lappu.
+  kw: {}
+Bernhard Willhelm:
+  tier: B
+  hype: 2
+  quality: 3
+  fake: 0
+  status: Hullu saksalainen, nousussa nuorten keskuudessa. JP 65 € (n=34).
+  good: Värikäs, absurdi saksalainen (Antwerpen-koulutus), Camper-kengät ja 2000-luvun kaudet nousussa nuorissa.
+  bad: Kapea maku, vaikea myydä nopeasti.
+  buy: 2000–2010 kaudet, Camper x BW -kengät.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Veronique Branquinho:
+  tier: C
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Antwerpen, naisten. Sellpy 46 € (n=10).
+  good: Antwerpenin hiljainen romantikko, naisten räätälöinti ja nahkakengät.
+  bad: Naisten koot, pieni kysyntä.
+  buy: Takit, kengät, 1998–2008 kaudet.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Christopher Nemeth:
+  tier: A
+  hype: 3
+  quality: 4
+  fake: 0
+  status: Lontoolais-tokiolainen kulttisuunnittelija (kuoli 2010). JP 99 € (n=77).
+  good: Köysisaumat, postisäkkikankaat, käsin tehty.
+  bad: Kapea maku, vaikea tunnistaa.
+  buy: Takit, housut köysityöllä.
+  avoid: '-'
+  tells: Nemeth-lappu (käsin).
+  kw:
+    rope: 1.3
+Craig Green:
+  tier: B
+  hype: 3
+  quality: 4
+  fake: 0
+  status: Lontoo, tunnetut quilted-takit ja Moncler-yhteistyö. JP 91 € (n=16).
+  good: Workwear-muodot, quilted, nauhat.
+  bad: Kysyntä vaihtelee.
+  buy: Quilted- ja worker-takit, Craig Green x Moncler, x Adidas.
+  avoid: Perus-t-paidat.
+  tells: '-'
+  kw:
+    quilted: 1.3
+    moncler: 1.5
+Sasquatchfabrix:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 0
+  status: Japanilainen, JP 33 € (n=43).
+  good: Tokio, wafuku + street; hauskat kuviot ja hyvä kangas.
+  bad: Japanissa halpaa (JP 33 €), Euroopassa vähän ostajia.
+  buy: Takit, haori-tyyliset paidat.
+  avoid: T-paidat.
+  tells: Koot S–L japanilaiset.
+  kw: {}
+Children of the Discordance:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 0
+  status: Japanilainen patchwork-street, JP 32 € (n=22).
+  good: Vintage-bandanoista ja -kankaista koottu patchwork, uniikit kappaleet.
+  bad: JP 32 €, pieni markkina länsimaissa.
+  buy: Bandana-patchwork-paidat ja -takit.
+  avoid: '-'
+  tells: Koot 1–3.
+  kw: {}
+Sulvam:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Yohji-koulun Teppei Fujita, JP 39 € (n=13).
+  good: Teppei Fujita (ex-Yohji), raa'at saumat ja epäsymmetria, Yohji-henki halvemmalla.
+  bad: Pieni tunnettuus.
+  buy: Takit ja housut.
+  avoid: '-'
+  tells: Koot S–L.
+  kw: {}
+Ganryu:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: CdG-alainen linja (Fumito Ganryu), lopetettu 2017. JP 50 € (n=100).
+  good: Funktionaaliset muodot, laatu.
+  bad: Ei hype-arvoa.
+  buy: Takit, housut alle 60 €.
+  avoid: '-'
+  tells: Ganryu -lappu + AD-vuosi.
+  kw: {}
+Vivienne Westwood:
+  tier: B
+  hype: 4
+  quality: 3
+  fake: 3
+  status: Korut (orb-kaulakoru) ja 1980–1990-luvun Gold Label ovat kysyttyjä; Anglomania ja Red Label keskitasoa. Sellpy mediaani 116 € (n=250).
+  good: Punk-historia, korsetit, tartaanit, pearl choker -hype (TikTok).
+  bad: Korujen väärennökset valtavia, Man-linja vaihtelee.
+  buy: Gold Label korsetit ja takit, 1980-luvun Worlds End, armour ring, pearl orb choker (aitona).
+  avoid: Halvat orb-korut ilman tarkkoja kuvia, Anglomania-t-paidat.
+  tells: Worlds End / Seditionaries -lappu = 1970–1980. Gold Label kultainen lappu. Korvissa orb-leima.
+  kw:
+    worlds end: 2.0
+    seditionaries: 2.5
+    corset: 1.4
+    korsetti: 1.4
+    armour: 1.3
+    choker: 1.2
+Hermès:
+  tier: S
+  hype: 4
+  quality: 5
+  fake: 3
+  status: Maailman vahvin luksusarvo. Sellpy mediaani 146 € (n=454, paljon huiveja ja solmioita). Birkin/Kelly jälleenmyynti usein yli uushinnan.
+  good: Laukut, carré-huivit, nahkatyöt, ajaton kysyntä, myy kaikkialla.
+  bad: Solmiot ja pienet huivit massaa (40–80 €). Väärennökset laukuissa erittäin taitavia.
+  buy: Kelly, Birkin, Evelyne, Picotin, Garden Party, carré 90 silkki (vintage teemat), Clic H, Kelly-vyö, Martin Margiela -ajan (1997–2003) vaatteet.
+  avoid: Huonokuntoiset solmiot, laukut ilman kuvia leimoista.
+  tells: Laukuissa blind stamp (vuosikirjain), käsinommel; huivissa reunan käsin rullattu päärme, © ja signeeraus. Margiela-ajan vaatteissa Hermès Paris -lappu 1998–2004.
+  kw:
+    kelly: 2.0
+    birkin: 2.5
+    evelyne: 1.5
+    picotin: 1.5
+    garden party: 1.4
+    carré: 1.2
+    carre: 1.2
+    solmio: 0.4
+    tie: 0.4
+    slips: 0.4
+Louis Vuitton:
+  tier: A
+  hype: 4
+  quality: 3
+  fake: 3
+  status: Laukut likvidejä ja hinta nousee vuosittain uutena (→ myös käytettynä). Sellpy mediaani 200 € (n=777).
+  good: Monogram canvas kestää, likviditeetti erinomainen, vintage Speedy/Keepall.
+  bad: Kangas (pinnoitettu canvas), ei nahka; feikkejä erittäin paljon.
+  buy: Keepall, Speedy, Neverfull, Alma, Pochette Accessoires, Multi Pochette, vintage Steamer, Virgil-ajan vaatteet ja Supreme x LV.
+  avoid: Huonot vachetta-kädensijat (tummat, halkeilevat) ilman alennusta, pienet tarvikkeet.
+  tells: Date code (esim. SD1029) ennen 2021, sen jälkeen mikrosiru. Lapun fontti ja ommelmäärät.
+  kw:
+    keepall: 1.5
+    speedy: 1.4
+    neverfull: 1.3
+    pochette: 1.2
+    alma: 1.3
+    damier: 1.1
+    supreme: 2.0
+    virgil: 1.3
+Bottega Veneta:
+  tier: A
+  hype: 4
+  quality: 5
+  fake: 3
+  status: Daniel Lee -kausi 2018–2021 ja intrecciato aina kysyttyjä. Sellpy mediaani 159 € (n=311).
+  good: Käsin punottu nahka, laukut kestävät vuosikymmeniä.
+  bad: Monet vanhat laukut kuluneita kulmista.
+  buy: Intrecciato laukut (Cassette, Jodie, Pouch, Cabat, Veneta), lompakot, Puddle/Tire -kengät.
+  avoid: Kuluneet kulmat ilman alennusta.
+  tells: Sisäpuolella nahkalappu jossa sarjanumero; intrecciato tasainen.
+  kw:
+    intrecciato: 1.4
+    cassette: 1.5
+    jodie: 1.4
+    pouch: 1.3
+    cabat: 1.5
+    veneta: 1.2
+    puddle: 1.2
+    tire: 1.2
+Celine:
+  tier: A
+  hype: 4
+  quality: 4
+  fake: 3
+  status: Phoebe Philo -aika (2008–2018, 'Old Céline' aksentilla) on kulttistatuksessa, Hedi Slimane (2018→) myy miehille. Sellpy mediaani 157 € (n=666).
+  good: Phoeben laukut (Luggage, Trapeze, Box), Hedin farkut ja takit.
+  bad: Uudet tuotteet kalliita uutena mutta jälleenmyynti 40–50 %.
+  buy: 'Phoebe-aika: Luggage, Box, Trio, takit; Hedi: Teddy-takit, nahkatakit, farkut, chelsea-bootsit.'
+  avoid: Perus logoasut.
+  tells: '''CÉLINE'' aksentilla = ennen 2018 (Phoebe tai vanhempi). Ilman aksenttia = Hedi.'
+  kw:
+    céline: 1.2
+    luggage: 1.4
+    trapeze: 1.3
+    box: 1.1
+    triomphe: 1.2
+    phoebe: 1.5
+    teddy: 1.3
+Dior Homme:
+  tier: S
+  hype: 4
+  quality: 4
+  fake: 2
+  status: Hedi Slimanen kausi 2001–2007 on miesten arkistograilin kärjessä. JP mediaani 198 € (n=47). Kris Van Assche -aika (2007–2018) halvempi.
+  good: Skinny-siluetin syntymä, Luster-farkut, nahkatakit, Navigate/Strip -kaudet.
+  bad: 'Tiukka mitoitus: 44–46 ovat yleisimpiä, L-koot harvinaisia.'
+  buy: 'Hedi: AW04 Strip, SS05 Rock, AW03 Luster farkut, nahkatakit (Navigate), bee-takit.'
+  avoid: Kris Van Assche -perusvaatteet yli 100 €.
+  tells: 'Lapussa ''Dior Homme'' + kausikoodi (esim. 4EH = 2004). Koot pienet: 48 ≈ S/M.'
+  kw:
+    luster: 1.5
+    navigate: 1.5
+    strip: 1.3
+    '2004': 1.3
+    '2005': 1.3
+    '2006': 1.3
+    bee: 1.2
+Dior:
+  tier: A
+  hype: 4
+  quality: 4
+  fake: 3
+  status: Saddle bag (Galliano 1999) ja Kim Jonesin miehet myyvät. Sellpy mediaani 145 € (n=1086, paljon kosmetiikkaa ja huiveja).
+  good: Galliano-ajan vintage (Saddle, logomania), oblique.
+  bad: Valtavasti väärennöksiä, kosmetiikkapussit sotkevat.
+  buy: Saddle bag, Galliano-aikaiset logomania-kappaleet, Book Tote, B23-tennarit, Lady Dior.
+  avoid: Meikkipussit (kylkiäiset), huivit ilman leimoja.
+  tells: Christian Dior lapussa, sarjanumero laukussa (esim. 01-BO-0119).
+  kw:
+    saddle: 1.8
+    lady dior: 1.6
+    book tote: 1.4
+    oblique: 1.2
+    galliano: 1.4
+    b23: 1.2
+Saint Laurent:
+  tier: A
+  hype: 4
+  quality: 4
+  fake: 3
+  status: Hedi Slimane -kausi 2012–2016 on miesten suosikki (nahkatakit, Wyatt-bootsit). Sellpy mediaani 161 € (n=673).
+  good: L01-nahkatakki, Teddy, Wyatt ja Chelsea bootsit, vahva kysyntä.
+  bad: Uudet (Vaccarello) hupparit massaa; huonoja kopioita.
+  buy: L01/L17 -nahkatakit, Teddy varsity, Wyatt-bootsit, Hedi-ajan farkut, laukut (Loulou, Sac de Jour).
+  avoid: Kosmetiikkapussit, YSL-logopaidat.
+  tells: 'Hedin aika: ''Saint Laurent Paris'' musta lappu 2012–2016. Koko 48 ≈ S.'
+  kw:
+    l01: 1.6
+    l17: 1.4
+    chelsea: 1.2
+    sac de jour: 1.4
+    loulou: 1.3
+    paris: 1.1
+Yves Saint Laurent:
+  tier: B
+  hype: 3
+  quality: 4
+  fake: 2
+  status: Vintage YSL (Rive Gauche, ennen 2012). Sellpy mediaani 101 € (n=848), löydöissä 8. Paljon solmioita ja huiveja.
+  good: Tom Fordin aika (1999–2004) Rive Gauche on arvokas, 70–80 luvun smokkitakit.
+  bad: Lisenssituotteita (solmiot, huivit, laukut) valtavasti.
+  buy: Tom Ford -aika Rive Gauche (1999–2004), Le Smoking, safarit, vintage Mombasa-laukku.
+  avoid: Lisenssisolmiot, YSL Pour Homme -lisenssipuvut (Saksa).
+  tells: Rive Gauche -lappu = mainline; 'Yves Saint Laurent pour homme' -lisenssi usein heikompi.
+  kw:
+    rive gauche: 1.5
+    tom ford: 1.5
+    mombasa: 1.5
+    smoking: 1.3
+    safari: 1.3
+Prada:
+  tier: A
+  hype: 4
+  quality: 4
+  fake: 3
+  status: Re-Nylon, Linea Rossa ja 1990–2000-luvun minimalismi ovat kuumia. Sellpy mediaani 165 € (n=3149), löydöissä 21.
+  good: Nylon, Re-Edition-laukut, America's Cup -kengät, 90s minimalismi.
+  bad: Laaja tuotanto, laatu vaihtelee vuosittain.
+  buy: Re-Edition 2000/2005, Tessuto nylon laukut, America's Cup, Linea Rossa 1998–2003 takit, Monolith-kengät.
+  avoid: Kosmetiikkapussit, lisenssilasit ilman koteloa.
+  tells: Triangle-logo, sarjanumerokortti; Linea Rossa punainen raita.
+  kw:
+    america's cup: 1.5
+    re-edition: 1.6
+    tessuto: 1.3
+    monolith: 1.3
+    '1998': 1.2
+Miu Miu:
+  tier: B
+  hype: 5
+  quality: 4
+  fake: 3
+  status: '2020-luvun kuumin naisten luksusbrändi (Lyst Index #1). Sellpy mediaani 150 € (n=820).'
+  good: Ballerinat, Wander-laukku, 1990-luvun vintage.
+  bad: Hype voi laskea, väärennöksiä.
+  buy: Wander, Arcadie, ballerinat, 1990-luvun vintage.
+  avoid: Pienet tarvikkeet.
+  tells: Miu Miu -lappu, sarjanumero.
+  kw:
+    wander: 1.5
+    arcadie: 1.3
+    ballet: 1.2
+Fendi:
+  tier: B
+  hype: 4
+  quality: 4
+  fake: 3
+  status: Baguette-buumi (Y2K). Sellpy mediaani 138 € (n=493).
+  good: Baguette, Zucca/Zucchino-vintage, Peekaboo.
+  bad: Lisenssituotteita.
+  buy: Baguette, Zucca-laukut, Spy bag, Peekaboo.
+  avoid: Huivit, lompakot.
+  tells: Sarjanumero laukuissa, Zucca-kuvio.
+  kw:
+    baguette: 1.7
+    zucca: 1.3
+    zucchino: 1.3
+    peekaboo: 1.6
+    spy: 1.4
+Balenciaga:
+  tier: B
+  hype: 3
+  quality: 3
+  fake: 3
+  status: Demna-aika jakaa, Ghesquière-aika (1997–2012) on arkistoarvoista. Sellpy mediaani 163 € (n=882).
+  good: Motorcycle City -laukku (Ghesquière), Triple S, varhaiset Demna-kaudet (2016–2018).
+  bad: Hype laskenut 2022 jälkeen, väärennöksiä Triple S ja Speed.
+  buy: Ghesquière-ajan takit ja City/First -laukut, 2016–2018 Demna oversized takit.
+  avoid: Triple S ja Speed kopioriskillä, perus logopaidat.
+  tells: 'Ghesquière-aika: ''Balenciaga Paris'' lappu + Le Dix.'
+  kw:
+    city: 1.3
+    le dix: 1.4
+    ghesquiere: 1.5
+    first: 1.1
+    motorcycle: 1.3
+Loewe:
+  tier: A
+  hype: 5
+  quality: 5
+  fake: 2
+  status: Jonathan Anderson -kausi 2013–2024 on huippua. Sellpy mediaani 155 € (n=193).
+  good: Puzzle-laukku, Hammock, Flamenco, nahka huippulaatua.
+  bad: Loewe Verlag (kirjat) ja Loewe-televisiot sotkevat.
+  buy: Puzzle, Hammock, Flamenco, Gate, Ghibli-collab, Paula's Ibiza, nahkatakit.
+  avoid: Ei-vaatetavarat.
+  tells: Loewe Madrid 1846 -leima, sarjanumero.
+  kw:
+    puzzle: 1.5
+    hammock: 1.4
+    flamenco: 1.3
+    gate: 1.2
+Gucci:
+  tier: B
+  hype: 3
+  quality: 3
+  fake: 3
+  status: Tom Ford -aika (1994–2004) arvokkain, Alessandro Michele -ajan hype laskenut. Sellpy mediaani 169 € (n=2963).
+  good: Horsebit-loaferit, Jackie-laukku, Tom Fordin seksikäs 90-luku.
+  bad: Valtava tuotanto, väärennöksiä, Michele-ajan maksimalismi myy alennuksella.
+  buy: Tom Ford -aika (velvet, nahka), Horsebit 1953 loaferit, Jackie, Bamboo, Ace-tennarit halvalla.
+  avoid: GG-canvas pienet tarvikkeet, logo-t-paidat.
+  tells: 'Tom Ford -aika: ''Gucci Made in Italy'' lappu 1995–2004. Sarjanumerot.'
+  kw:
+    horsebit: 1.4
+    jackie: 1.4
+    bamboo: 1.3
+    '1953': 1.2
+Tom Ford:
+  tier: B
+  hype: 3
+  quality: 5
+  fake: 2
+  status: Oma brändi (2006→), Sellpy mediaani 125 € (n=565, paljon aurinkolaseja).
+  good: Räätälöinti, nahkakengät, pukujen laatu.
+  bad: Aurinkolasit ja kosmetiikka massaa.
+  buy: Puvut, nahkatakit, kengät.
+  avoid: Aurinkolasit yli 80 €.
+  tells: TOM FORD -lappu, Made in Italy / Switzerland.
+  kw:
+    aurinkolasit: 0.5
+    sunglasses: 0.5
+    solglasögon: 0.5
+Alexander McQueen:
+  tier: B
+  hype: 3
+  quality: 4
+  fake: 3
+  status: Leen oma aika (1992–2010) on museotasoa; nyt (Sarah Burton → Seán McGirr) tennarit massaa. Sellpy mediaani 124 € (n=517).
+  good: Räätälöinti, skull-huivit, 2000-luvun kaudet.
+  bad: Oversized-tennarit massaa.
+  buy: Lee-aika (ennen 2010) takit ja puvut, skull-huivit.
+  avoid: Oversized-tennarit.
+  tells: 'Lee-aika: musta lappu valkoisella tekstillä, ''Alexander McQueen'' (ilman ®).'
+  kw:
+    oversized: 0.6
+    skull: 1.1
+    '2008': 1.2
+    plato's: 2.0
+Burberry Prorsum:
+  tier: B
+  hype: 2
+  quality: 4
+  fake: 1
+  status: Runway-linja 1999–2015. Christopher Bailey -kaudet. JP 31 € (n=90) haku saastunut.
+  good: Bailey-ajan takit, nahkatakit.
+  bad: Lopetettu, ostajat eivät tunne.
+  buy: Military- ja nahkatakit.
+  avoid: '-'
+  tells: Burberry Prorsum -lappu.
+  kw: {}
+Jil Sander:
+  tier: B
+  hype: 3
+  quality: 5
+  fake: 1
+  status: Jilin oma aika ja Raf Simons -kausi (2005–2012) ovat arvokkaimmat. Sellpy mediaani 112 € (n=1187).
+  good: Minimalismin kuningatar, kankaat.
+  bad: Navy ja +J -linjat halpoja, Sellpyssä paljon.
+  buy: Raf-aika takit ja paidat, Lucie & Luke Meier -kauden nahkalaukut (Cannolo, Tangle).
+  avoid: Jil Sander Navy, +J.
+  tells: Navy-linja erillinen lappu; Raf-aika 2005–2012.
+  kw:
+    tangle: 1.3
+    cannolo: 1.3
+Lemaire:
+  tier: A
+  hype: 4
+  quality: 5
+  fake: 1
+  status: Vahvasti nousussa (Croissant bag, Twisted shirt). Sellpy mediaani 130 € (n=66). JP 11 € haku saastunut Uniqlo-yhteistyöstä.
+  good: Hiljaisen luksuksen keskeinen nimi, kankaat.
+  bad: Uniqlo U ja Uniqlo x Lemaire sotkevat.
+  buy: Croissant bag, Twisted shirt, Military-takit, boxy-farkut.
+  avoid: Uniqlo-yhteistyöt.
+  tells: LEMAIRE -lappu.
+  kw:
+    military: 1.2
+Dries Van Noten:
+  tier: B
+  hype: 3
+  quality: 4
+  fake: 0
+  status: Dries jäi eläkkeelle 2024, arkisto nousussa. Sellpy mediaani 119 € (n=429), löydöissä 14.
+  good: Kuosit, brodeeraukset, väri; erinomaiset paidat.
+  bad: Valtava tuotanto, kaikki ei myy.
+  buy: Brodeeratut takit, printtipaidat, 1990–2000 kaudet, kengät.
+  avoid: Basic-t-paidat.
+  tells: Dries Van Noten -lappu (musta), koot IT.
+  kw: {}
+Marni:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 1
+  status: Sellpy mediaani 72 € (n=895).
+  good: Värikäs, laukut (Trunk).
+  bad: Massatuotantoa, ei arkistoarvoa.
+  buy: Trunk-laukut, mohair-neuleet.
+  avoid: H&M-yhteistyö.
+  tells: '-'
+  kw:
+    trunk: 1.3
+    mohair: 1.2
+Lanvin:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 1
+  status: Alber Elbazin aika (2001–2015) arvokkain. Sellpy mediaani 86 € (n=608).
+  good: Tennarit, Elbaz-ajan mekot.
+  bad: Kysyntä vähentynyt.
+  buy: Elbaz-ajan mekot, Lanvin tennarit alle 60 €.
+  avoid: Lisenssisolmiot.
+  tells: '-'
+  kw: {}
+The Row:
+  tier: A
+  hype: 5
+  quality: 5
+  fake: 2
+  status: Hiljaisen luksuksen kärkibrändi, jälleenmyynti vahva. Sellpy mediaani 167 € (n=83), JP 150 € (n=100).
+  good: Kankaat (cashmere), Margaux-laukku, minimalismi.
+  bad: Uutena hinnat järjettömät; ostajat tietävät arvot.
+  buy: Margaux, Park Tote, cashmere-neuleet, villatakit, mokkasiinit.
+  avoid: '-'
+  tells: THE ROW -lappu.
+  kw:
+    margaux: 1.6
+    park tote: 1.4
+    cashmere: 1.2
+Khaite:
+  tier: B
+  hype: 4
+  quality: 4
+  fake: 1
+  status: NY, hiljainen luksus. Sellpy mediaani 174 € (n=78).
+  good: 'NY:n hiljainen luksus: Danielle-farkut, nahkasaappaat, cashmere.'
+  bad: Naisten koot, hinnoiteltu jo Sellpyssä (174 €).
+  buy: Saappaat, nahkalaukut (Lotus), cashmere.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Totême:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 0
+  status: Ruotsalainen minimalismi, Sellpy mediaani 144 € (n=2822). Sellpy hinnoittelee jo kovaa.
+  good: Villatakit, skarffi.
+  bad: Valtava tarjonta Pohjoismaissa.
+  buy: Villatakit alle 80 €.
+  avoid: Perusneuleet yli 60 €.
+  tells: '-'
+  kw: {}
+Chloé:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 2
+  status: Paddington (2005) ja boho-buumi palasivat. Sellpy mediaani 130 € (n=1253).
+  good: Paddington, Paraty, Phoebe Philo -aika (2001–2006).
+  bad: Hajusteet ja lisenssituotteet.
+  buy: Paddington, Silverado, Phoebe-ajan vaatteet.
+  avoid: Hajusteet.
+  tells: '-'
+  kw:
+    paddington: 1.6
+    silverado: 1.4
+Loro Piana:
+  tier: A
+  hype: 4
+  quality: 5
+  fake: 2
+  status: 'Hiljaisen luksuksen ydin. Sellpy mediaani 153 € (n=217). Iso ongelma: ''Loro Piana -kankaasta'' tehdyt muiden merkkien puvut.'
+  good: Cashmere, vicuña, Summer Walk -kengät, Open Walk.
+  bad: Kangasmainintoja muiden brändien vaatteissa.
+  buy: Summer Walk, Open Walk, cashmere-neuleet, Storm System -takit, vicuña.
+  avoid: Muiden merkkien tuotteet 'Loro Piana -kankaasta'.
+  tells: Loro Piana -lappu, ei kangasleimaa.
+  kw:
+    summer walk: 1.5
+    open walk: 1.4
+    vicuna: 2.0
+    storm system: 1.3
+    baby cashmere: 1.4
+Brunello Cucinelli:
+  tier: A
+  hype: 3
+  quality: 5
+  fake: 1
+  status: Uutena järjettömän kallis (neule 1500 €), käytettynä 15–25 %. JP mediaani 184 € (n=60).
+  good: Cashmere ja villa maailman huippua, monili-helmityöt naisille.
+  bad: 'Kova arvonlasku: uusi neule 1500 € → käytettynä 200–300 €. Ostajat tietävät tämän.'
+  buy: Cashmere-neuleet ja -takit L+, nahkatakit, suede-takit.
+  avoid: Solmiot, huivit.
+  tells: Made in Italy, koot IT 50–54 ≈ M–L.
+  kw:
+    cashmere: 1.2
+    monili: 1.2
+Kiton:
+  tier: A
+  hype: 2
+  quality: 5
+  fake: 1
+  status: Napolilainen huippuräätälöinti. JP mediaani 112 € (n=100). Koot ratkaisevat (räätälöity).
+  good: Käsin tehty, kankaat.
+  bad: Puvut myyvät hitaasti, koko ratkaisee.
+  buy: Bleiserit, puvut, cashmere-takit.
+  avoid: Solmiot.
+  tells: '-'
+  kw:
+    solmio: 0.4
+    tie: 0.4
+Isaia:
+  tier: B
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Napoli, koralli-lappuinen. Sellpy 56 € (n=16).
+  good: Käsin tehty.
+  bad: Pieni markkina.
+  buy: Bleiserit ja puvut.
+  avoid: '-'
+  tells: Koralli-pinssi.
+  kw: {}
+Agnona:
+  tier: B
+  hype: 1
+  quality: 5
+  fake: 0
+  status: Kangastehdas + vaatteet, Zegna-ryhmä. Sellpy 72 € (n=54).
+  good: 'Kangastehdas jolta muut ostavat: cashmere, vicuña, alpakka.'
+  bad: Tunnettuus pieni, ostajat odottavat alennusta.
+  buy: Takit ja huivit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Ermenegildo Zegna:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 1
+  status: Puvut myyvät hitaasti. Sellpy mediaani 66 € (n=583).
+  good: Kankaat.
+  bad: Puvut ja solmiot massaa, kangaslappu sekoittaa.
+  buy: Couture-linja, Triple Stitch -tennarit.
+  avoid: Solmiot, kangasmaininnat.
+  tells: '''Zegna fabric'' muiden merkeissä.'
+  kw:
+    triple stitch: 1.4
+    couture: 1.3
+    solmio: 0.4
+    tie: 0.4
+Massimo Alba:
+  tier: B
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Italialainen pehmeä luksus. Sellpy 50 € (n=41).
+  good: Pehmeä italialainen 'pyjama'-luksus, käsinvärjätyt cashmeret ja pellavat.
+  bad: Pieni kysyntä Grailedissa.
+  buy: Takit, cashmere-neuleet.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Barena Venezia:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Venetsia, Sellpy 55 € (n=213).
+  good: Rento venetsialainen tailoring, villa ja pellava.
+  bad: Pieni kysyntä, Sellpy hinnoittelee 55 €.
+  buy: Takit alle 50 €.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Aspesi:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Italia, nylon-takit. Sellpy 60 € (n=630).
+  good: Italialaiset kevyet nylon- ja puuvillatakit (Minifield), laadukas.
+  bad: Ei hype-arvoa.
+  buy: Minifield-takit alle 40 €.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Herno:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 1
+  status: Untuvatakit. Sellpy 138 € (n=168), hinnoiteltu jo.
+  good: Kevyet untuvatakit, Laminar (Gore-Tex) huippulinja.
+  bad: Sellpy hinnoittelee kovaa (138 €).
+  buy: Laminar-linja alle 120 €.
+  avoid: '-'
+  tells: '-'
+  kw:
+    laminar: 1.4
+Colombo:
+  tier: B
+  hype: 1
+  quality: 5
+  fake: 0
+  status: Cashmere-tehdas. Sellpy 48 € (n=22).
+  good: Cashmere- ja vicuña-tehdas, jonka kankaita on luksusmerkeillä.
+  bad: Lähes tuntematon kuluttajille.
+  buy: Cashmere-takit alle 80 €.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Double RL:
+  tier: A
+  hype: 3
+  quality: 5
+  fake: 1
+  status: Ralph Laurenin vintage-americana. JP mediaani 111 € (n=67).
+  good: Selvedge-farkut, indigo, nahkatakit, vintage-tyyli.
+  bad: Tunnistus vaatii RRL-lapun.
+  buy: Nahkatakit, ranch-takit, indigo-neuleet, farkut.
+  avoid: '-'
+  tells: RRL -lappu (kaksois-R).
+  kw:
+    indigo: 1.2
+    selvedge: 1.2
+    ranch: 1.2
+Geoffrey Beene:
+  tier: D
+  hype: 1
+  quality: 2
+  fake: 0
+  status: Lisenssituotteet, Sellpy 5.5 € (n=44).
+  good: 1970–80-luvun vintage mainline (naisten) on museotasoa.
+  bad: Lähes kaikki Sellpyssä on lisenssipaitoja ja solmioita (mediaani 5.5 €).
+  buy: Ei kannata metsästää.
+  avoid: Lisenssit.
+  tells: '-'
+  kw: {}
+Gianfranco Ferré:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 1
+  status: 1980–1990-luvun mainline nousussa. Sellpy 31 € (n=270).
+  good: Vintage paidat ja takit.
+  bad: Lisenssituotteita.
+  buy: 1980–1990-luvun mainline.
+  avoid: GFF-lisenssit.
+  tells: '-'
+  kw:
+    vintage: 1.3
+Versace:
+  tier: B
+  hype: 4
+  quality: 3
+  fake: 3
+  status: Giannin aika (ennen 1997) on hype-vintagea. Sellpy mediaani 84 € (n=760).
+  good: Barokkisilkkipaidat, Medusa.
+  bad: Jeans Couture ja Versus halpoja.
+  buy: Gianni Versace -silkkipaidat, 1990-luvun takit.
+  avoid: Versace Jeans Couture.
+  tells: '''Gianni Versace'' lappu = vanha.'
+  kw:
+    gianni: 1.6
+    silk: 1.2
+    silkki: 1.2
+    baroque: 1.2
+    barokki: 1.2
+Dolce & Gabbana:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 2
+  status: 1990-luvun vintage nousussa. Sellpy 107 € (n=3403).
+  good: Vintage leopardi ja korsetti.
+  bad: D&G sivulinja heikko.
+  buy: 1990-luvun mainline.
+  avoid: D&G sivulinja.
+  tells: '-'
+  kw:
+    vintage: 1.2
+Moschino:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 2
+  status: Franco Moschino -aika (ennen 1994). Sellpy 56 € (n=434).
+  good: Vintage Cheap and Chic.
+  bad: Uudet tuotteet massaa.
+  buy: 1990-luvun vintage.
+  avoid: Love Moschino.
+  tells: '-'
+  kw:
+    cheap and chic: 1.3
+    love moschino: 0.6
+Dsquared2:
+  tier: D
+  hype: 2
+  quality: 2
+  fake: 3
+  status: Sellpy 96 € (n=3031), väärennöksiä.
+  good: Tunnettu logo.
+  bad: Ei kysyntää archive- tai designer-piireissä, väärennöksiä paljon, Sellpy hinnoittelee 96 €.
+  buy: Ei kannata.
+  avoid: Kaikki.
+  tells: '-'
+  kw: {}
+Kenzo:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 2
+  status: Kenzo Takadan vintage (1970–1990) arvokas. Sellpy 56 € (n=2811).
+  good: Vintage Kenzo Jungle, Nigon -aika.
+  bad: Tiger-collegepaidat massaa.
+  buy: 1980-luvun vintage, Nigo-kauden takit.
+  avoid: Tiikeri-collegepaidat.
+  tells: '-'
+  kw:
+    nigo: 1.3
+    jungle: 1.2
+Diesel:
+  tier: D
+  hype: 2
+  quality: 2
+  fake: 1
+  status: Y2K nousussa (Glenn Martens). Sellpy 32 € (n=11191).
+  good: Y2K vintage.
+  bad: Valtavasti tarjontaa.
+  buy: Y2K-takit ja farkut.
+  avoid: Perusfarkut.
+  tells: '-'
+  kw: {}
+Sacai:
+  tier: B
+  hype: 4
+  quality: 4
+  fake: 2
+  status: Hybridit, Nike-yhteistyö (LDWaffle, Vaporwaffle) nosti. Sellpy mediaani 125 € (n=15), JP 106 € (n=73).
+  good: Hybridileikkaukset, collabit (Nike, TNF, Carhartt, Fragment).
+  bad: Nike-tennarit laskeneet; väärennöksiä.
+  buy: Hybridi-takit (MA-1), Sacai x TNF, x Carhartt, x Nike Blazer/LDWaffle alle retail.
+  avoid: Kopio-tennarit.
+  tells: Koot 1–4 (3 ≈ L).
+  kw:
+    ma-1: 1.3
+    ldwaffle: 1.3
+    vaporwaffle: 1.3
+    fragment: 1.3
+Kolor:
+  tier: B
+  hype: 3
+  quality: 4
+  fake: 0
+  status: Junichi Abe, hybridimuodot. JP 20 € (n=100) saastunut 'color'-haulla. Länsimaissa takit 200–400 €.
+  good: Kangasyhdistelmät, Adidas-yhteistyö.
+  bad: Mitoitus pieni, hakusana-ongelma.
+  buy: Takit, Kolor x Adidas.
+  avoid: '-'
+  tells: Koot 1–4.
+  kw: {}
+Toga:
+  tier: B
+  hype: 3
+  quality: 4
+  fake: 0
+  status: Toga Virilis (miehet) ja Toga Pulla (naiset), kengät western-tyyliin. Sellpy 48 € (n=39).
+  good: 'Toga Virilis ja Pulla: metallikoristellut western-kengät ja saappaat, hauska japanilainen estetiikka.'
+  bad: Kapea maku.
+  buy: Western-saappaat, metallikoristeltu loafer.
+  avoid: '-'
+  tells: Koot EU.
+  kw:
+    western: 1.3
+Facetasm:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 0
+  status: Tokio street-avant, hype hiipunut.
+  good: Hiroshi Ochiai, hybridit ja kerrokset; varhaiset kaudet (2013–2017).
+  bad: Hype hiipunut.
+  buy: Takit halvalla.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Doublet:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 0
+  status: LVMH Prize 2018, konseptuaalinen huumori.
+  good: LVMH Prize 2018, konseptuaalinen huumori (teddy-hupparit), hauskoja kappaleita.
+  bad: Pieni kysyntä.
+  buy: Konseptikappaleet halvalla.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+MMY Maison Mihara Yasuhiro:
+  tier: B
+  hype: 4
+  quality: 3
+  fake: 2
+  status: Sulavat pohjat (Peterson, Blakey) TikTok-hitti. Sellpy 75 € (n=12).
+  good: Sulavat original sole -pohjat, TikTok-hitti.
+  bad: Laatu keskitasoa, hype voi laskea nopeasti.
+  buy: Peterson, Blakey, Hank alle 80 €.
+  avoid: '-'
+  tells: '-'
+  kw:
+    peterson: 1.3
+    blakey: 1.3
+    hank: 1.2
+Hender Scheme:
+  tier: B
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Japanilainen nahkakäsityö, 'manual industrial products' (nahkatennarit). JP 63 € (n=44).
+  good: Vegetabile-nahasta tehdyt 'manual industrial products' (nahka-AF1-, Jordan-repliikit), lompakot.
+  bad: Koko tarkka, kallis uutena.
+  buy: MIP-sarja, laukut, lompakot.
+  avoid: '-'
+  tells: '-'
+  kw:
+    mip: 1.3
+Needles:
+  tier: B
+  hype: 4
+  quality: 3
+  fake: 2
+  status: Track pant -hype jatkuu. Sellpy 87 € (n=41).
+  good: Track pants (perhonen), rebuild-flanellit.
+  bad: Väärennöksiä track pantseissa.
+  buy: Track pant (narrow/H.D.), Rebuild by Needles, mohair-neuleet.
+  avoid: Perus-t-paidat.
+  tells: Perhoslogo, koot XS–L (japanilaiset).
+  kw:
+    mohair: 1.2
+    h.d.: 1.2
+Engineered Garments:
+  tier: B
+  hype: 3
+  quality: 4
+  fake: 0
+  status: Daiki Suzuki, americana-workwear. Sellpy 80 € (n=28).
+  good: Bedford, loiter-takit, kankaat.
+  bad: Ostajat odottavat alennusta.
+  buy: Bedford-takki, Fatigue-housut, Loiter.
+  avoid: '-'
+  tells: Made in USA.
+  kw:
+    bedford: 1.3
+    fatigue: 1.2
+    loiter: 1.2
+Nanamica:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Gore-Tex-kaupunkivaatteet. Sellpy 83 € (n=20).
+  good: Gore-Tex-kaupunkitakit, Cruiser ja Soutien Collar.
+  bad: Pieni kysyntä Euroopassa.
+  buy: Gore-Tex-takit alle 80 €.
+  avoid: '-'
+  tells: '-'
+  kw:
+    gore-tex: 1.2
+Orslow:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Fatigue-housut. Sellpy 106 € (n=35).
+  good: 'Japanilainen americana: Fatigue-housut, 105-farkut, US Navy -henki.'
+  bad: Sellpy hinnoittelee jo 106 €.
+  buy: Fatigue-housut alle 50 €.
+  avoid: '-'
+  tells: Koot 0–4 (3 ≈ L).
+  kw: {}
+Kaptain Sunshine:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Japanilainen americana.
+  good: Japanilainen americana, kankaat Japanissa.
+  bad: Pieni kysyntä Euroopassa.
+  buy: Takit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Auralee:
+  tier: B
+  hype: 4
+  quality: 5
+  fake: 0
+  status: Hiljaisen luksuksen japanilainen kärkimerkki (kankaat omat). Sellpy 74 € (n=2).
+  good: Super fine wool, cashmere-silk, laatu.
+  bad: Uutena kallis, mutta myy.
+  buy: Neuleet, takit, housut.
+  avoid: '-'
+  tells: Koot 3–5.
+  kw: {}
+Beams:
+  tier: D
+  hype: 2
+  quality: 3
+  fake: 0
+  status: Kauppaketju, Beams Plus parempi. Sellpy 31 € (n=76).
+  good: 'Beams Plus: japanilainen ivy-tyyli, hyvät flanellit ja takit.'
+  bad: Perus Beams on kauppaketjun omaa merkkiä (31 €).
+  buy: Beams Plus halvalla.
+  avoid: Perus Beams.
+  tells: '-'
+  kw:
+    plus: 1.3
+Porter:
+  tier: C
+  hype: 3
+  quality: 4
+  fake: 1
+  status: Yoshida Porter laukut. Sellpy 64 € (n=17).
+  good: 'Yoshida Porter laukut: Tanker kestää ikuisesti; collabit (Fragment, Neighborhood, Comme des Garçons).'
+  bad: Pieni kate.
+  buy: Tanker, collabit.
+  avoid: '-'
+  tells: Made in Japan.
+  kw:
+    tanker: 1.3
+Neighborhood:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 1
+  status: Tokio moottoripyöräkulttuuri. Sellpy 7 € (n=103) = nimitörmäys (sana 'neighborhood').
+  good: Tokio moottoripyöräkulttuuri, nahkatakit ja M-65.
+  bad: Sellpyn mediaani 7 € johtuu nimitörmäyksestä.
+  buy: Nahkatakit, M-65, collabit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+WTAPS:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 1
+  status: Military-street. Sellpy 33 € (n=12).
+  good: Military-street (Tet), Jungle-housut ja M-65.
+  bad: Pieni kysyntä Euroopassa.
+  buy: Jungle stock, M-65.
+  avoid: T-paidat.
+  tells: Koot 01–04 (03 ≈ L).
+  kw:
+    jungle: 1.2
+Wacko Maria:
+  tier: B
+  hype: 4
+  quality: 3
+  fake: 2
+  status: Hawaii-paidat. Kysyntä nousussa.
+  good: Hawaii-paidat ja leopard coach -takit, Japanissa kova.
+  bad: Väärennöksiä.
+  buy: Hawaiian shirt, leopard.
+  avoid: '-'
+  tells: '-'
+  kw:
+    hawaii: 1.3
+    leopard: 1.2
+Human Made:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 2
+  status: Nigon brändi. Sellpy 20 € (n=13).
+  good: Nigon vintage-americana, sydänlogo.
+  bad: Massaa, pieni kate.
+  buy: Varsity-takit.
+  avoid: T-paidat.
+  tells: '-'
+  kw:
+    varsity: 1.3
+A Bathing Ape:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 3
+  status: Hype laskenut huipusta. Sellpy 103 € (n=115).
+  good: Vintage 2000-luvun alun Bape (Nigo-aika).
+  bad: Valtavasti feikkejä.
+  buy: Nigo-aikaiset shark-hupparit.
+  avoid: Uudet logo-t-paidat.
+  tells: Vanhat Made in Japan.
+  kw:
+    shark: 1.3
+White Mountaineering:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Tekninen japanilainen.
+  good: Yosuke Aizawa, tekninen + kaupunki.
+  bad: Pieni kysyntä Euroopassa.
+  buy: Takit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Nonnative:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Japanilainen arkiklassikko.
+  good: Japanilainen arkiklassikko, kankaat ja istuvuus.
+  bad: Pieni kysyntä Euroopassa.
+  buy: Takit, housut.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Evisu:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 3
+  status: Y2K-nousu (taskupainatus). Sellpy 113 € (n=143).
+  good: Daicock-farkut.
+  bad: Feikkejä valtavasti.
+  buy: Vintage Made in Japan -farkut.
+  avoid: Uudet.
+  tells: Made in Japan = vanha/hyvä.
+  kw:
+    made in japan: 1.5
+    daicock: 1.3
+Goldwin:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Japanilainen tech. Sellpy 53 € (n=39).
+  good: Japanilainen tech (TNF Japanin lisenssin haltija), Gore-Tex.
+  bad: Pieni kysyntä.
+  buy: Takit alle 50 €.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Descente:
+  tier: B
+  hype: 3
+  quality: 5
+  fake: 0
+  status: Allterrain Mizusawa -untuvatakki on kova. Sellpy 23 € (n=72) koska suurin osa hiihtovaatteita.
+  good: Mizusawa (saumaton untuva).
+  bad: Hiihtovaatteet massaa.
+  buy: Mizusawa down.
+  avoid: Hiihtohousut.
+  tells: '-'
+  kw: {}
+Snow Peak:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Outdoor, Sellpy 38 € (n=46).
+  good: Japanilainen outdoor, TAKIBI-paloturvallinen kangas.
+  bad: Pieni kysyntä Euroopassa.
+  buy: TAKIBI-takit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+And Wander:
+  tier: C
+  hype: 3
+  quality: 4
+  fake: 0
+  status: Gorpcore-japanilainen.
+  good: Gorpcore-japanilainen, kevyet takit.
+  bad: Pieni kysyntä.
+  buy: Takit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Blue Blue Japan:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Indigo-japanilainen.
+  good: Indigo-japanilainen, käsinvärjätyt.
+  bad: Pieni kysyntä.
+  buy: Indigo-takit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Acronym:
+  tier: S
+  hype: 4
+  quality: 5
+  fake: 2
+  status: Errolson Hugh, techwear-huippu. JP mediaani 168 € (n=100). Takit 600–1500 €.
+  good: J1A, J28, P10 cargo, Nike ACG -collab.
+  bad: Koot pieniä, kalliita uutena.
+  buy: J-takit, P10/P23 cargot, Nike x ACRONYM Presto ja Blazer.
+  avoid: '-'
+  tells: Mallikoodit (J1A-GT, P10-E).
+  kw:
+    p10: 1.4
+    j1a: 1.5
+    j28: 1.4
+    presto: 1.3
+Arc'teryx Veilance:
+  tier: A
+  hype: 4
+  quality: 5
+  fake: 1
+  status: Arc'teryxin urbaani linja. JP 185 € (n=31).
+  good: Monitor, Node, Partition.
+  bad: Uutena kallis.
+  buy: Monitor coat, Node, Partition.
+  avoid: '-'
+  tells: VEILANCE logo.
+  kw:
+    partition: 1.2
+    field: 1.2
+Arc'teryx:
+  tier: B
+  hype: 5
+  quality: 5
+  fake: 3
+  status: Gorpcore-hype jatkuu. Sellpy mediaani 95 € (n=672).
+  good: Alpha SV, Beta, Atom, LEAF.
+  bad: Väärennöksiä Beta-takeissa.
+  buy: Alpha SV, Beta AR/LT, Atom LT, LEAF (military), vanhat Made in Canada.
+  avoid: Feikit.
+  tells: Made in Canada = vanha (ennen 2010-lukua).
+  kw:
+    made in canada: 1.4
+    atom: 1.2
+    theta: 1.3
+    sidewinder: 1.3
+Klättermusen:
+  tier: C
+  hype: 3
+  quality: 5
+  fake: 0
+  status: Ruotsalainen outdoor, Sellpy 86 € (n=178).
+  good: Ruotsalainen outdoor, kestävät ja ekologiset.
+  bad: Hinnoiteltu.
+  buy: Einride, Brage.
+  avoid: '-'
+  tells: '-'
+  kw:
+    einride: 1.3
+    brage: 1.2
+ROA:
+  tier: C
+  hype: 4
+  quality: 4
+  fake: 0
+  status: Vuorikengät, gorpcore. Sellpy 46 € (n=18).
+  good: Italialaiset vuorikengät, gorpcore.
+  bad: Pieni kysyntä.
+  buy: Andreas, Neal.
+  avoid: '-'
+  tells: '-'
+  kw:
+    andreas: 1.3
+    neal: 1.2
+Post Archive Faction:
+  tier: B
+  hype: 3
+  quality: 4
+  fake: 0
+  status: Korealainen techwear.
+  good: Korealainen techwear, rakenteelliset takit.
+  bad: Pieni kysyntä.
+  buy: Takit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Salomon:
+  tier: C
+  hype: 4
+  quality: 4
+  fake: 1
+  status: XT-6 gorpcore-hitti. Sellpy mediaani 58 € (n=3639), löydöissä 19.
+  good: XT-6, XT-4, ACS Pro.
+  bad: Valtavasti tarjontaa.
+  buy: XT-6, ACS Pro, Advanced-linja.
+  avoid: Hiihtotarvikkeet.
+  tells: '-'
+  kw:
+    acs pro: 1.3
+    advanced: 1.2
+Patagonia:
+  tier: C
+  hype: 3
+  quality: 4
+  fake: 1
+  status: Vintage nousussa. Sellpy mediaani 68 € (n=5104).
+  good: Vintage Retro-X, Snap-T, Synchilla.
+  bad: Massaa.
+  buy: 1990-luvun Retro-X, Snap-T, Das Parka.
+  avoid: Uudet fleecet.
+  tells: Made in USA = vanha.
+  kw:
+    made in usa: 1.4
+    synchilla: 1.3
+The North Face:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 3
+  status: Nuptse jatkuu. Sellpy mediaani 58 € (n=12016), löydöissä 37.
+  good: 1990-luvun Nuptse, Steep Tech, Himalayan.
+  bad: Feikkejä ja massaa.
+  buy: Steep Tech, Himalayan, vintage Nuptse, Summit Series.
+  avoid: Uudet fleecet.
+  tells: '-'
+  kw:
+    purple label: 1.3
+    mountain light: 1.3
+Oakley:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 2
+  status: Vintage Software ja Y2K lasit.
+  good: Y2K lasit, Software-takit.
+  bad: Massaa.
+  buy: Vintage Software, Juliet, Mars.
+  avoid: Uudet.
+  tells: '-'
+  kw:
+    juliet: 1.5
+    mars: 1.4
+    over the top: 1.4
+Canada Goose:
+  tier: B
+  hype: 2
+  quality: 4
+  fake: 3
+  status: Sellpy mediaani 165 € (n=216). Feikkejä erittäin paljon.
+  good: Lämmin.
+  bad: Hype laskenut.
+  buy: Expedition, Chilliwack.
+  avoid: Feikit.
+  tells: Hologrammilappu (2012→).
+  kw: {}
+Moncler:
+  tier: A
+  hype: 4
+  quality: 4
+  fake: 3
+  status: Vahva brändi. Sellpy mediaani 137 € (n=1604).
+  good: Maya, Grenoble, Genius.
+  bad: Feikkejä.
+  buy: Maya, Grenoble, Genius, vintage.
+  avoid: Feikit.
+  tells: QR-koodi lapussa (2013→).
+  kw: {}
+Moose Knuckles:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 2
+  status: Sellpy 118 € (n=59).
+  good: Lämmin kanadalainen untuvatakki, metallilogo tunnistettava.
+  bad: Brändi-imago 'nouveau riche', ei designer-uskottavuutta; Sellpy jo 118 € (n=59), joten diili vain alle 60 €.
+  buy: Ballistic bomber ja Stirling parka alle 60 €.
+  avoid: Kaikki ilman hologrammia (feikkejä).
+  tells: Lapussa hologrammi ja sarjanumero.
+  kw: {}
+Parajumpers:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 2
+  status: Sellpy 115 € (n=714).
+  good: Toimiva untuvatakki (Gobi, Right Hand).
+  bad: Mainstream-'statusparka', ostajat vertaavat outlet-hintoihin; Sellpy 115 € (n=714).
+  buy: Gobi/Right Hand alle 60 € kun koko L+.
+  avoid: Kuluneet hihansuut ja turkikset.
+  tells: '-'
+  kw: {}
+Mackage:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 1
+  status: Sellpy 120 € (n=55).
+  good: Hyvät nahkatakit (lampaannahka), naisten untuvat.
+  bad: Ei jälleenmyyntipreemiota, Sellpy 120 € (n=55).
+  buy: Nahkatakit alle 100 €.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Stutterheim:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Sadetakit. Sellpy 61 € (n=339).
+  good: Tukholman sadetakki (Arholma), kestää vuosia.
+  bad: 'Pieni kate: uutena alennusmyynneissä 150 €.'
+  buy: Arholma alle 40 €.
+  avoid: Tahmeat/halkeilleet kumipinnat.
+  tells: '-'
+  kw: {}
+Sunsea:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Japanilainen. JP 70 € (n=42), Sellpy saastunut.
+  good: Japanilainen räätälöity rentous (Teketeke-kangas), tunnetaan Japanissa.
+  bad: Euroopassa ostajia vähän; Sellpy 5 € = nimitörmäys.
+  buy: Takit ja housut.
+  avoid: '-'
+  tells: Koot 2–4.
+  kw: {}
+Aton:
+  tier: C
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Japanilainen kangas-luksus.
+  good: Japanilainen omien kankaiden luksus (Suvin-puuvilla, merino).
+  bad: Euroopassa tuntematon.
+  buy: Neuleet ja takit.
+  avoid: '-'
+  tells: Koot 02–06.
+  kw: {}
+Stone Island:
+  tier: B
+  hype: 4
+  quality: 4
+  fake: 3
+  status: Massimo Osti -aika (1982–1996) arvokkain. Sellpy mediaani 119 € (n=1569).
+  good: Materiaalit (reflective, ice), terrace-kulttuuri.
+  bad: Feikkejä.
+  buy: Osti-aika (Tela Stella, Raso Gommato), Shadow Project, Ice Jacket, reflective.
+  avoid: Feikit, perushupparit.
+  tells: Certilogo (2008→), badge.
+  kw:
+    tela stella: 1.6
+    raso gommato: 1.6
+    osti: 1.6
+    formula steel: 1.6
+C.P. Company:
+  tier: C
+  hype: 3
+  quality: 4
+  fake: 2
+  status: Goggle jacket. Sellpy 74 € (n=466).
+  good: Massimo Ostin perustama, garment dye -tekniikan isä; Goggle-takki (1988) on terrace-ikoni.
+  bad: Uudet perushupparit massaa; Sellpy 74 € (n=466).
+  buy: Goggle/Mille Miglia -takit, vintage 1980–1990 Osti-aika, Explorer-takit.
+  avoid: Undersixteen (lasten), perus-t-paidat.
+  tells: Vanhoissa 'C.P. Company Ideas from Massimo Osti' -lappu.
+  kw:
+    osti: 1.6
+Ten C:
+  tier: B
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Osti-kankaat, JP 233 € (n=88).
+  good: Ex-Stone Island/CP -kangasihmiset, OJJ (Original Japanese Jersey) -kangas joka patinoituu.
+  bad: Pieni tunnettuus; JP 233 € (n=88) näyttää että Japanissa arvostetaan.
+  buy: Anorakit, parkat, OJJ-takit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Nemen:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Italialainen, pieni markkina.
+  good: Italialainen garment dye -tech (Stone Islandin henkeä pienempänä).
+  bad: Pieni tunnettuus.
+  buy: Takit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Iceberg:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 1
+  status: Vintage cartoon-neuleet nousussa. Sellpy 16 € (n=253).
+  good: 1990-luvun intarsia-neuleet sarjakuvahahmoilla (Looney Tunes, Mikki) kysyttyjä vintage-piirissä 80–200 €.
+  bad: Uudet tuotteet massaa; Sellpy 16 € (n=253).
+  buy: 1990-luvun cartoon-intarsianeuleet, History-linja.
+  avoid: Uudet logopaidat.
+  tells: Made in Italy + 1990-luvun lappu.
+  kw:
+    looney tunes: 1.5
+    mickey: 1.3
+    bugs bunny: 1.5
+Supreme:
+  tier: B
+  hype: 3
+  quality: 3
+  fake: 3
+  status: VF-omistus (2020) ja Essilor (2024) laskivat hypeä; box logo ja isot collabit pitävät arvonsa. Sellpy mediaani 68 € (n=489).
+  good: Box logo, collabit (TNF, Stone Island, LV, Junya, Undercover), likvidi.
+  bad: Perustuotteet myyvät alle retailin; väärennöksiä valtavasti.
+  buy: Box logo -hupparit (FW), TNF-collabit, Stone Island, varhaiset 1990–2000 tuotteet.
+  avoid: Uudet t-paidat ja asusteet, tarrat.
+  tells: Lapussa fontti ja pesulaput; vanhat Made in USA/Canada.
+  kw:
+    made in usa: 1.3
+    made in canada: 1.2
+1017 Alyx 9SM:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 2
+  status: Hype laski kun Matthew Williams lähti Givenchyltä (2023). Sellpy 20 € (n=33, osin vääriä).
+  good: Rollercoaster-solki, buckle-vyöt.
+  bad: Kysyntä heikentynyt.
+  buy: Rollercoaster-vyöt, Moncler-collab.
+  avoid: T-paidat.
+  tells: '-'
+  kw:
+    rollercoaster: 1.3
+Vetements:
+  tier: B
+  hype: 2
+  quality: 3
+  fake: 3
+  status: Demna-aika (2014–2019) arvokkain. Sellpy mediaani 143 € (n=44).
+  good: Demna-ajan oversized hupparit ja Levi's-reworkit.
+  bad: Uudet ilman Demnaa heikkoja.
+  buy: 2016–2018 Champion-, Levi's- ja Reebok-collabit, DHL t-paita, Total Fucking Darkness.
+  avoid: Uudet kaudet.
+  tells: '-'
+  kw:
+    dhl: 1.4
+    total darkness: 1.3
+Martine Rose:
+  tier: B
+  hype: 4
+  quality: 3
+  fake: 1
+  status: Nike Shox -collab nosti. JP 73 € (n=75).
+  good: Lontoon brittiläinen subkulttuuri-tailoring (oversize olkapäät, kauluspaidat), Nike Shox MR4 -collab.
+  bad: Hyvin pieni tarjonta Pohjoismaissa.
+  buy: Shox MR4, oversize kauluspaidat, track-takit, Napapijri-collab.
+  avoid: '-'
+  tells: Koot S–L istuvat isoina.
+  kw:
+    shox: 1.3
+Kiko Kostadinov:
+  tier: B
+  hype: 4
+  quality: 4
+  fake: 1
+  status: Asics-yhteistyö teki tunnetuksi. JP 99 € (n=74).
+  good: Bulgarialais-lontoolainen tekninen räätälöinti, Asics Gel-Burz/Gel-Delva ja Camper.
+  bad: Kapea mitoitus, kysyntä keskittyy kenkiin.
+  buy: Asics-collab-kengät, worker-takit, Mackintosh-collab.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+OAMC:
+  tier: B
+  hype: 3
+  quality: 4
+  fake: 1
+  status: Luke Meier, laadukas streetwear. JP 61 € (n=100). Sellpy 16 € (n=19) nimitörmäyksiä.
+  good: 'Luke Meier (ex-Supreme, nyt Jil Sander): hyvät parkat ja takit, laadukas street.'
+  bad: Hinnat uutena kovat, käytetty 30 %; Sellpy 16 € = törmäyksiä.
+  buy: Parkat, peace-takit, Adidas-collab.
+  avoid: T-paidat.
+  tells: '-'
+  kw: {}
+A-Cold-Wall*:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 1
+  status: Samuel Ross, hype hiipunut. Sellpy 37 € (n=48).
+  good: Samuel Rossin teollinen estetiikka, varhaiset 2016–2018 kaudet.
+  bad: Hype hiipunut, Sellpy 37 € (n=48).
+  buy: Vain alle 40 €.
+  avoid: Logo-t-paidat.
+  tells: '-'
+  kw: {}
+Off-White:
+  tier: C
+  hype: 2
+  quality: 2
+  fake: 3
+  status: Virgilin kuoleman (2021) jälkeen kysyntä laski; varhaiset 2013–2017 kappaleet ja Nike 'The Ten' pitävät. Sellpy mediaani 116 € (n=551).
+  good: The Ten Nike, varhaiset kaudet.
+  bad: Feikkejä valtavasti.
+  buy: Nike x Off-White The Ten, Pyrex Vision (2012).
+  avoid: Perus diagonal t-paidat.
+  tells: '-'
+  kw:
+    the ten: 1.6
+    pyrex: 2.0
+Fear of God:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 3
+  status: Mainline ok, Essentials massaa. JP 34 € (n=100), Sellpy 55 € (n=36).
+  good: Mainline 4.–6. kokoelma.
+  bad: Essentials sotkee.
+  buy: Mainline takit.
+  avoid: Essentials.
+  tells: '-'
+  kw: {}
+Rhude:
+  tier: D
+  hype: 2
+  quality: 2
+  fake: 2
+  status: Sellpy 43 € (n=38).
+  good: LA-luksusstreet.
+  bad: Hype laskenut, laatu ei vastaa hintaa; Sellpy 43 € (n=38).
+  buy: Ei kannata metsästää.
+  avoid: Kaikki.
+  tells: '-'
+  kw: {}
+Entire Studios:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 1
+  status: Untuvatakit. Sellpy 81 € (n=43).
+  good: Oversize puffer- ja hupparit, TikTok-hitti.
+  bad: Trendisidonnainen; Sellpy 81 €.
+  buy: Puffer alle 80 €.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Saint Michael:
+  tier: B
+  hype: 4
+  quality: 3
+  fake: 2
+  status: Vintage-painatukset, Japanissa kova. JP 61 € (n=100).
+  good: Japanilainen (Readymade-tiimi) vintage-tyylinen kulutettu printti, Japanissa kova.
+  bad: Euroopassa pieni tunnettuus.
+  buy: T-paidat ja hupparit alle 80 €.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Gosha Rubchinskiy:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 2
+  status: Hype huipussa 2016–2018. Sellpy 64 € (n=47).
+  good: 'Post-Soviet street 2015–2018: Burberry-, Fila-, Kappa-collabit.'
+  bad: Hype mennyt; Sellpy 64 €.
+  buy: 2016–2018 Burberry-collab.
+  avoid: Uudet.
+  tells: '-'
+  kw:
+    burberry: 1.3
+Heron Preston:
+  tier: D
+  hype: 2
+  quality: 2
+  fake: 2
+  status: Sellpy 62 € (n=110).
+  good: NASA-collab (2017).
+  bad: Hype laskenut, Sellpy 62 € (n=110).
+  buy: NASA-collab alle 40 €.
+  avoid: Muut.
+  tells: '-'
+  kw: {}
+Thug Club:
+  tier: B
+  hype: 4
+  quality: 3
+  fake: 1
+  status: Korealainen, nousussa.
+  good: Korealainen nouseva (nahat, hupparit, metallit), nuoret ostajat Grailedissa.
+  bad: Pieni tarjonta.
+  buy: Nahkatakit, hupparit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Palm Angels:
+  tier: D
+  hype: 2
+  quality: 2
+  fake: 3
+  status: Sellpy 93 € (n=344), feikkejä.
+  good: Tunnettu logo.
+  bad: Massaa, feikkejä paljon, Sellpy 93 € (n=344) eli ei katetta.
+  buy: Ei kannata.
+  avoid: Kaikki.
+  tells: '-'
+  kw: {}
+Stüssy:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 2
+  status: Vintage 1980–1990 ja collabit (Our Legacy, Nike). Sellpy mediaani 61 € (n=1491).
+  good: Vintage Made in USA, collabit.
+  bad: Massaa.
+  buy: Vintage Made in USA, collabit.
+  avoid: Uudet t-paidat.
+  tells: '-'
+  kw:
+    made in usa: 1.5
+    nike: 1.2
+Acne Studios:
+  tier: B
+  hype: 3
+  quality: 3
+  fake: 1
+  status: 'Pohjoismaiden suurin designer second hand -volyymi: Sellpy 10279 kpl, mediaani 86 €, löydöissä 82. Myy, mutta katetta vain tietyistä.'
+  good: Velocite-nahkatakki, mohair-neuleet, farkut, kengät.
+  bad: Valtava tarjonta pudottaa hinnat.
+  buy: Velocite, Mock, Leather jackets, mohair, Jensen boots, varhaiset 2000-luvun farkut.
+  avoid: Face-t-paidat, Bla Konst.
+  tells: '-'
+  kw:
+    mock: 1.3
+    jensen: 1.3
+    bla konst: 0.6
+Our Legacy:
+  tier: B
+  hype: 3
+  quality: 4
+  fake: 0
+  status: Tukholma, kansainvälisesti kysytty. Sellpy mediaani 69 € (n=1159).
+  good: Work Shop -reworkit, Borrowed shirt, neuleet.
+  bad: Massaa Pohjoismaissa.
+  buy: Work Shop, Borrowed shirt, Third Cut -farkut, nahkatakit, Stüssy collab.
+  avoid: Perus-t-paidat.
+  tells: '-'
+  kw:
+    third cut: 1.2
+Studio Nicholson:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Sellpy 65 € (n=18).
+  good: Lontoon minimalistinen räätälöinti, väljät housut.
+  bad: Pieni kysyntä Pohjoismaissa.
+  buy: Housut alle 50 €.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Mfpen:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 0
+  status: Kööpenhamina. Sellpy 89 € (n=28).
+  good: Kööpenhaminan minimalisti, kierrätetyt kankaat.
+  bad: Sellpy 89 € (n=28), kate pieni.
+  buy: Takit alle 50 €.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Séfr:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 0
+  status: Sellpy 54 € (n=216).
+  good: Malmö, rentoa skandinaavista.
+  bad: Sellpy 54 € (n=216), kate pieni.
+  buy: '-'
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Bode:
+  tier: B
+  hype: 4
+  quality: 4
+  fake: 0
+  status: Vintage-kankaista käsityö, NY. JP 128 € (n=25). Sellpy 14 € (n=82) = nimitörmäys.
+  good: 'Emily Bode: vintage-kankaista käsin tehdyt takit ja paidat, uniikit.'
+  bad: Sellpy 14 € (n=82) = nimitörmäys; aidot harvinaisia.
+  buy: Quilt-takit, kirjotut paidat.
+  avoid: '-'
+  tells: Lappu BODE NEW YORK.
+  kw:
+    quilt: 1.3
+A.P.C.:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 1
+  status: Sellpy mediaani 43 € (n=1054).
+  good: Raw denim (Petit New Standard), Half Moon -laukku, collabit (JJJJound, Sacai, Supreme).
+  bad: Massaa, Sellpy 43 € (n=1054).
+  buy: Raw farkut, collabit, Half Moon.
+  avoid: Perus-t-paidat.
+  tells: '-'
+  kw:
+    half moon: 1.3
+Paraboot:
+  tier: B
+  hype: 3
+  quality: 5
+  fake: 0
+  status: Michael ja Chambord kysyttyjä. Sellpy 124 € (n=24).
+  good: Ranskalainen norwegian welt, Michael ja Chambord ovat ikoneja; kumipohja kestää, pohjattavissa.
+  bad: Raskas, levy-pohja ei kaikille.
+  buy: Michael, Chambord, Avignon, Thiers, Reims.
+  avoid: Kuluneet pohjat (uusinta 120 €).
+  tells: Koko UK tai EU, istuvat normaalisti; Michael ja Chambord myyvät 120–200 €.
+  kw:
+    michael: 1.3
+    chambord: 1.3
+    avignon: 1.2
+Tricker's:
+  tier: B
+  hype: 3
+  quality: 5
+  fake: 0
+  status: Kestävät brogue-saappaat.
+  good: Northamptonin maalaissaappaat (Stow, Bourton), Goodyear welt.
+  bad: Raskaat, sisäänajo.
+  buy: Stow, Bourton, Robert.
+  avoid: '-'
+  tells: Koko UK, leveys 5 (vakio).
+  kw:
+    stow: 1.3
+    bourton: 1.2
+Alden:
+  tier: A
+  hype: 3
+  quality: 5
+  fake: 0
+  status: Shell cordovan -kingi. Sellpy 210 € (n=12), JP 240 € (n=81).
+  good: Shell cordovan (Horween) on maailman kestävin kengännahka; Color 8 ja Indy-saappaat ovat kenkänörttien kultaa.
+  bad: Lesti (Barrie, Trubalance) vaikuttaa istuvuuteen, US-koot.
+  buy: Color 8 shell -LHS/990/Indy, Ravello, Cigar.
+  avoid: '-'
+  tells: 'US-koko: 10 ≈ EU 43–44.'
+  kw:
+    cordovan: 1.6
+    color 8: 1.4
+    indy: 1.3
+John Lobb:
+  tier: A
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Hermès-omistuksessa. JP 241 € (n=81).
+  good: Hermès-omistuksessa (ready-to-wear), käsityö Northamptonissa.
+  bad: Ostajakunta pieni ja hinnat tunnetaan.
+  buy: City II, William, Lopez, Philip II.
+  avoid: '-'
+  tells: UK-koot, 'E' vakio-leveys.
+  kw:
+    william: 1.3
+    city ii: 1.3
+    lopez: 1.3
+J.M. Weston:
+  tier: A
+  hype: 2
+  quality: 5
+  fake: 0
+  status: 180 Moccasin. JP 226 € (n=53).
+  good: Limogesin 180 Moccasin -loafer, Golf derby, oma parkitsemo.
+  bad: Kapea leveys (B/C/D tarkka).
+  buy: 180 Moccasin, Golf.
+  avoid: '-'
+  tells: Koot ranskalaiset + leveyskirjain.
+  kw:
+    '180': 1.3
+    golf: 1.2
+Crockett & Jones:
+  tier: B
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Sellpy 152 € (n=63), JP 139 € (n=84).
+  good: Northampton, laadukas ja kohtuuhintainen; Hand Grade -linja paras.
+  bad: Ei hype-preemiota.
+  buy: Hand Grade (Audley, Pembroke), Coniston-saappaat.
+  avoid: '-'
+  tells: '-'
+  kw:
+    hand grade: 1.3
+Edward Green:
+  tier: A
+  hype: 2
+  quality: 5
+  fake: 0
+  status: JP 282 € (n=79).
+  good: Englannin kenkien huippu, käsin viimeistelty Dover-split toe.
+  bad: Pieni ostajakunta, hinnat tunnetaan.
+  buy: Dover, Galway, Chelsea, Top Drawer.
+  avoid: '-'
+  tells: Lesti 82/202/888 sisällä.
+  kw:
+    dover: 1.3
+    galway: 1.3
+Church's:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Pradan omistuksessa 1999→. Sellpy 118 € (n=123).
+  good: Pradan omistuksessa 1999→; vanhat (ennen 1999) parempia, Shannon-polished binder on tunnettu.
+  bad: Uusien laatu laskenut, binder-nahka halkeilee.
+  buy: Vanhat 'Church's Famous English Shoes', Shannon, Consul.
+  avoid: Halkeilleet binder-nahat.
+  tells: 'Ennen 1999: ''3 cities'' -lappu (London, New York, Paris).'
+  kw:
+    shannon: 1.2
+    consul: 1.2
+Kansai Yamamoto:
+  tier: B
+  hype: 3
+  quality: 4
+  fake: 0
+  status: 1970–1980-luvun Bowie-puvut museoissa; vaatteet harvinaisia. JP mediaani 9 € (n=100) = haku osuu Kansai-tavaroihin, ei vaatteisiin. Vintage-takit 200–800 €.
+  good: Rohkeat graafiset neuleet ja takit, kabuki-kuviot, 1980-luvun Kansai Man.
+  bad: Valtaosa nimellä myytävästä on lisenssitavaraa (laukut, sukat, pyyhkeet).
+  buy: 1980-luvun graafiset neuleet ja paidat, Kansai Man -takit.
+  avoid: Lisenssitavarat (pyyhkeet, laukut, kalenterit).
+  tells: KANSAI YAMAMOTO + Made in Japan vanhoissa; lisenssit usein 'Kansai' ilman sukunimeä.
+  kw:
+    made in japan: 1.4
+    '1980': 1.3
+    kansai man: 1.3
+Matsuda:
+  tier: B
+  hype: 3
+  quality: 5
+  fake: 1
+  status: Mitsuhiro Matsuda (Nicole), 1980-luvun japanilainen kulttimerkki; laseissa (Matsuda Eyewear) kova kysyntä. JP 25 € (n=100).
+  good: Silmälasit (titaani, käsin kaiverretut), 1980-luvun vaatteet.
+  bad: Nimi yleinen Japanissa.
+  buy: Matsuda-silmälasit ja aurinkolasit (10xxx-mallit), vintage Nicole Club -takit.
+  avoid: '-'
+  tells: Laseissa 'MATSUDA' + mallinumero, Made in Japan.
+  kw:
+    sunglasses: 1.4
+    aurinkolasit: 1.4
+    silmälasit: 1.3
+Masnada:
+  tier: B
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Italialainen dark-avant (Masnada tutkii kaavoja). Sellpy 24 € (n=4).
+  good: Italialainen kaava-avant, villat ja nahat.
+  bad: Pieni ostajakunta, Sellpy 24 €.
+  buy: Takit, housut.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Pal Offner:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Ex-CCP-assistentti. JP 11 € (n=100, saastunut).
+  good: Ex-CCP-assistentti, kokeelliset nahkatyöt ja kengät.
+  bad: JP 11 € (n=100) saastunut, pieni ostajakunta.
+  buy: Nahkatakit, kengät.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+A Diciannoveventitre:
+  tier: B
+  hype: 2
+  quality: 5
+  fake: 0
+  status: A1923, Firenzen nahkataiturit (Carpe Diem -koulukunta).
+  good: A1923, Firenzen nahkataiturit (Carpe Diem -koulu), käsinparkitut nahat.
+  bad: Pieni ostajakunta.
+  buy: Nahkatakit, kengät.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Jurgi Persoons:
+  tier: B
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Antwerpen 1997–2003, hyvin harvinainen.
+  good: Antwerpen 1997–2003, erittäin harvinainen arkistoharvinaisuus.
+  bad: Tunnetaan vain archive-piirissä.
+  buy: Kaikki aidot kappaleet halvalla.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Lost & Found Ria Dunn:
+  tier: B
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Ria Dunnin kenkä- ja nahkamerkki. Sellpy 3.5 € (n=33) = 'lost & found' -nimitörmäys.
+  good: Kengät, saappaat.
+  bad: Nimitörmäys.
+  buy: Saappaat ja derbyt.
+  avoid: Muut lost & found -merkit.
+  tells: Ria Dunn mainittu lapussa.
+  kw:
+    ria dunn: 1.5
+Poème Bohémien:
+  tier: C
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Saksalainen archive. Sellpy 94 € (n=9).
+  good: Saksalainen archive, kankaat ja nahat.
+  bad: Pieni markkina.
+  buy: Takit, nahat.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Nostra Santissima:
+  tier: B
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Italialainen gothic archive.
+  good: Italialainen gothic archive, nahat ja korut.
+  bad: Pieni markkina.
+  buy: Nahkatakit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Andrea Ya'aqov:
+  tier: C
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Nahkalaukut ja kengät. JP 19 € (n=100).
+  good: Italialaiset nahkalaukut ja kengät.
+  bad: JP 19 € (n=100), pieni kysyntä.
+  buy: Laukut alle 50 €.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Isabel Benenato:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Italialainen dark-avant. Sellpy 65 € (n=5).
+  good: Italialainen dark-avant, kerrokset ja nahat.
+  bad: Pieni kysyntä.
+  buy: Nahkatakit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Barbara I Gongini:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 0
+  status: Tanskalais-färsaarelainen dark-avant. JP 9 € (n=100) saastunut.
+  good: Tanskalais-färsaarelainen dark-avant, kerrokset.
+  bad: JP 9 € (n=100) saastunut; pieni kysyntä.
+  buy: Vain halvalla.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Aleksandr Manamïs:
+  tier: B
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Latvialainen archive, JP 185 € (n=10).
+  good: Latvialainen archive, kankaat ja kerrokset; JP 185 € (n=10).
+  bad: Pieni markkina.
+  buy: Takit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Album di Famiglia:
+  tier: C
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Italialainen, JP 84 € (n=34).
+  good: Italialaiset käsinvärjätyt neuleet, JP 84 € (n=34).
+  bad: Pieni markkina.
+  buy: Neuleet.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Boboutic:
+  tier: C
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Italialainen, JP 63 € (n=13).
+  good: Italialaiset nahat, JP 63 € (n=13).
+  bad: Pieni markkina.
+  buy: Nahkatakit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Avant Toi:
+  tier: C
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Italialainen värjätty cashmere. Sellpy 93 € (n=32).
+  good: Italialaiset käsinvärjätyt cashmeret ja villat.
+  bad: Hinnoiteltu jo (93 €).
+  buy: Neuleet alle 60 €.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Hannes Roether:
+  tier: C
+  hype: 1
+  quality: 3
+  fake: 0
+  status: Saksalainen lagenlook. Sellpy 61 € (n=207).
+  good: Saksalainen lagenlook, villa ja pellava.
+  bad: Pieni kysyntä.
+  buy: Vain halvalla.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Annette Görtz:
+  tier: C
+  hype: 1
+  quality: 3
+  fake: 0
+  status: Saksalainen lagenlook. Sellpy 53 € (n=356).
+  good: Saksalainen lagenlook, villa ja pellava.
+  bad: Pieni kysyntä.
+  buy: Vain halvalla.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Thom Krom:
+  tier: D
+  hype: 1
+  quality: 2
+  fake: 0
+  status: Sellpy 46 € (n=89).
+  good: Halpa 'dark' perusvaate.
+  bad: Ei jälleenmyyntiarvoa, Sellpy 46 €.
+  buy: Ei kannata.
+  avoid: Kaikki.
+  tells: '-'
+  kw: {}
+Transit Par-Such:
+  tier: D
+  hype: 1
+  quality: 3
+  fake: 0
+  status: Sellpy 21 € (n=179).
+  good: Italialainen lagenlook.
+  bad: Ei jälleenmyyntiarvoa, Sellpy 21 €.
+  buy: Ei kannata.
+  avoid: Kaikki.
+  tells: '-'
+  kw: {}
+Dirk Schönberger:
+  tier: C
+  hype: 1
+  quality: 3
+  fake: 0
+  status: 1990-luvun belgialainen.
+  good: 1990-luvun Antwerpen-saksalainen, myöhemmin Adidas creative director.
+  bad: Pieni kysyntä.
+  buy: 1990-luvun kaudet.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Bless:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 0
+  status: Konseptuaalinen, Sellpy 4 € (n=42) = nimitörmäys ('bless').
+  good: Konseptuaalinen Berliini-Pariisi (Desirée Heiss & Ines Kaag).
+  bad: Sellpy 4 € = nimitörmäys.
+  buy: Konseptikappaleet.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Olivier Theyskens:
+  tier: B
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Rochas ja Nina Ricci 2000-luvulla. Sellpy 22 € (n=22, Theyskens' Theory sekoittaa).
+  good: Gothic romantiikka.
+  bad: Theory-linja halpa.
+  buy: Rochas-kaudet 2003–2006.
+  avoid: Theyskens' Theory.
+  tells: '-'
+  kw:
+    theory: 0.4
+Limi Feu:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Yohjin tytär. JP 39 € (n=61).
+  good: Yohjin tytär, Yohji-estetiikka naisille.
+  bad: JP 39 €, pieni kysyntä.
+  buy: Takit, housut.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Ground Y:
+  tier: D
+  hype: 2
+  quality: 3
+  fake: 0
+  status: Yohjin edullinen linja.
+  good: Yohjin edullinen sukupuolineutraali linja.
+  bad: Massaa.
+  buy: Vain alle 40 €.
+  avoid: T-paidat.
+  tells: '-'
+  kw: {}
+Tao Comme des Garçons:
+  tier: B
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Tao Kurihara 2005–2011, JP 96 € (n=62). Sellpy 3.5 € = nimitörmäys ('tao').
+  good: Tao Kurihara 2005–2011, romanttinen CdG.
+  bad: Sellpy 3.5 € = nimitörmäys ('tao').
+  buy: Mekot, takit.
+  avoid: '-'
+  tells: AD-vuosi.
+  kw: {}
+Martine Sitbon:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: 1990-luvun ranskalainen.
+  good: 1990-luvun ranskalainen (Chloé 1988–1996), Rue du Mail myöhemmin.
+  bad: Pieni kysyntä.
+  buy: 1990-luvun takit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Thierry Mugler:
+  tier: A
+  hype: 5
+  quality: 4
+  fake: 1
+  status: 1980–1990 vintage on kuumaa (Kardashian, Cardi B). Sellpy mediaani 84 € (n=305, paljon hajusteita). JP 97 € (n=97).
+  good: Vintage bleiserit ja jakkupuvut (vahvat olkapäät), korsetit.
+  bad: Hajusteet (Angel, Alien) valtaavat haun.
+  buy: 1980–1990-luvun vintage, olkapääbleiserit, korsetit.
+  avoid: Hajusteet.
+  tells: Thierry Mugler (koko nimi) = vanha; Mugler = uusi.
+  kw:
+    thierry: 1.4
+    angel: 0.3
+    alien: 0.3
+Claude Montana:
+  tier: B
+  hype: 3
+  quality: 4
+  fake: 0
+  status: 1980-luvun power shoulder. Sellpy 23 € (n=31).
+  good: 1980-luvun power shoulder, nahkatakit legendaarisia.
+  bad: Lisenssituotteita.
+  buy: Nahkatakit, vintage.
+  avoid: Lisenssit.
+  tells: '-'
+  kw:
+    nahkatakki: 1.3
+Romeo Gigli:
+  tier: B
+  hype: 2
+  quality: 4
+  fake: 0
+  status: 1980–1990-luvun romantiikka. Sellpy 24 € (n=44).
+  good: 1980–1990-luvun romantiikka, cocoon-takit.
+  bad: Lisenssituotteita; JP 17 € (n=100).
+  buy: 1990-luvun takit.
+  avoid: Lisenssit.
+  tells: '-'
+  kw: {}
+Jean Colonna:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 0
+  status: 1990-luvun ranskalainen.
+  good: 1990-luvun ranskalainen 'grunge chic'.
+  bad: Pieni kysyntä.
+  buy: Vintage.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Azzedine Alaïa:
+  tier: A
+  hype: 4
+  quality: 5
+  fake: 1
+  status: Body-con -legenda. Sellpy mediaani 184 € (n=78).
+  good: Body-con-legenda, neulemekot ja vyöt.
+  bad: Naisten koot.
+  buy: Neulemekot, vyöt, laukut.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Cecilie Bahnsen:
+  tier: B
+  hype: 4
+  quality: 4
+  fake: 0
+  status: Kööpenhamina, nousussa. Sellpy 120 € (n=80).
+  good: Kööpenhaminan puhvihihamekot, kova nousu.
+  bad: Naisten.
+  buy: Mekot.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Simone Rocha:
+  tier: B
+  hype: 4
+  quality: 4
+  fake: 0
+  status: Sellpy 59 € (n=90).
+  good: Helmet, tylli.
+  bad: Naisten.
+  buy: Mekot, kengät.
+  avoid: H&M-collab.
+  tells: '-'
+  kw: {}
+Molly Goddard:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 0
+  status: Sellpy 50 € (n=2).
+  good: Tyllimekot.
+  bad: Naisten, pieni markkina.
+  buy: Tyllimekot.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Wales Bonner:
+  tier: B
+  hype: 4
+  quality: 4
+  fake: 1
+  status: Adidas Samba -collab nosti. JP 84 € (n=91).
+  good: Adidas Samba/SL72 -collab nosti, neuleet ja track-takit.
+  bad: '-'
+  buy: Adidas-collab, neuleet.
+  avoid: '-'
+  tells: '-'
+  kw:
+    samba: 1.3
+Grace Wales Bonner:
+  tier: B
+  hype: 4
+  quality: 4
+  fake: 1
+  status: Sama kuin Wales Bonner.
+  good: Sama brändi kuin Wales Bonner.
+  bad: '-'
+  buy: Adidas-collab, neuleet.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Kiko Kostadinov x Asics:
+  tier: B
+  hype: 3
+  quality: 4
+  fake: 1
+  status: Asics-collab.
+  good: Gel-Burz, Gel-Delva.
+  bad: '-'
+  buy: Kengät koossa 43–45 alle 100 €.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Arela:
+  tier: C
+  hype: 1
+  quality: 5
+  fake: 0
+  status: Suomalainen cashmere. Sellpy 3.5 € = nimitörmäys.
+  good: Suomalainen cashmere, laadukas.
+  bad: Sellpy 3.5 € = nimitörmäys.
+  buy: Neuleet.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Chanel:
+  tier: S
+  hype: 4
+  quality: 4
+  fake: 3
+  status: Classic Flap hinnat nousseet ~2× 2019→. Sellpy mediaani 136 € (n=931, paljon kosmetiikkaa ja koruja). JP 84 € (n=91).
+  good: Classic Flap, 2.55, Boy, tweed-jakut, vintage CC-korut, Lagerfeld 1990-luku.
+  bad: Väärennöksiä erittäin paljon; kosmetiikkapussit (lahjat) eivät ole laukkuja.
+  buy: Classic Flap, 2.55, Boy, WOC, vintage CC-korvakorut, tweed-jakut, ballerinat.
+  avoid: Meikkipussit ja 'VIP gift' -tuotteet, korut ilman leimaa.
+  tells: Holo-tarra + sarjanumero (2021 → mikrosiru). Vintage-koruissa leima vuodella.
+  kw:
+    classic flap: 2.0
+    '2.55': 2.0
+    boy bag: 1.6
+    woc: 1.4
+    tweed: 1.3
+    vip: 0.3
+    gift: 0.4
+Goyard:
+  tier: A
+  hype: 4
+  quality: 4
+  fake: 3
+  status: Ei verkkokauppaa, hinnat nousevat. Sellpy mediaani 450 € (n=12), JP 386 € (n=78).
+  good: St. Louis, Saint Sulpice, Artois.
+  bad: Feikkejä valtavasti.
+  buy: St. Louis, Artois, Saint Sulpice -korttikotelo.
+  avoid: Ilman tarkkoja kuvia.
+  tells: Goyardine-kuvio käsinmaalattu, Y-kirjaimet.
+  kw:
+    st louis: 1.3
+    saint louis: 1.3
+    artois: 1.3
+    saint sulpice: 1.2
+Givenchy:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 3
+  status: Riccardo Tisci -aika (2005–2017) arvokkain, Rottweiler/Bambi. Sellpy 90 € (n=704).
+  good: Tisci-ajan printit, Antigona.
+  bad: Hajusteet.
+  buy: Tisci Rottweiler, Bambi, Antigona.
+  avoid: Hajusteet.
+  tells: '-'
+  kw:
+    rottweiler: 1.5
+    bambi: 1.4
+    antigona: 1.4
+    tisci: 1.4
+Valentino:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 3
+  status: Rockstud-kengät ja laukut. Sellpy 135 € (n=912).
+  good: Rockstud-kengät ja -laukut (2010→), vintage Garavani 1980-luvulta.
+  bad: Feikkejä Rockstudissa, Sellpy 135 € (n=912).
+  buy: Rockstud, VLTN-tennarit alle 80 €, vintage Garavani.
+  avoid: Feikki-Rockstudit.
+  tells: '-'
+  kw:
+    rockstud: 1.3
+Balmain:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 3
+  status: Sellpy 100 € (n=581).
+  good: Olivier Rousteing bleiserit.
+  bad: H&M-collab, feikkejä.
+  buy: Bleiserit.
+  avoid: H&M.
+  tells: '-'
+  kw: {}
+Courrèges:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 1
+  status: Vintage 1960-luku ja uusi Nicolas Di Felice nousussa. Sellpy 70 € (n=99).
+  good: 1960-luvun space age -vintage ja Nicolas Di Felicen uusi nousu (vinyylitakit).
+  bad: '-'
+  buy: Vinyylitakit, vintage.
+  avoid: '-'
+  tells: '-'
+  kw:
+    vinyl: 1.3
+Paco Rabanne:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 1
+  status: Metallimekot. Sellpy 54 € (n=267, paljon hajusteita).
+  good: Metal-chainmail.
+  bad: Hajusteet.
+  buy: Chainmail-mekot ja laukut.
+  avoid: Hajusteet.
+  tells: '-'
+  kw:
+    chainmail: 1.5
+    1 million: 0.3
+Missoni:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 1
+  status: Sellpy 130 € (n=1744).
+  good: Zigzag-neule.
+  bad: Kodin tekstiilit sotkevat.
+  buy: Vintage neuleet.
+  avoid: Kodin tekstiilit.
+  tells: '-'
+  kw:
+    pyyhe: 0.3
+    towel: 0.3
+    handduk: 0.3
+Etro:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Sellpy 71 € (n=1068).
+  good: Paisley-paidat ja -takit.
+  bad: Ei kovaa jälleenmyyntiä, Sellpy 71 €.
+  buy: Paisley-paidat alle 40 €.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Emilio Pucci:
+  tier: C
+  hype: 3
+  quality: 4
+  fake: 1
+  status: Vintage silkkiprintit. Sellpy 93 € (n=201).
+  good: Vintage 1960–70 silkkiprintit ovat museotasoa.
+  bad: '-'
+  buy: Vintage silkkipaidat ja -mekot.
+  avoid: '-'
+  tells: '''Emilio Pucci Florence'' = vanha.'
+  kw: {}
+Max Mara:
+  tier: B
+  hype: 3
+  quality: 4
+  fake: 2
+  status: 101801 ja Teddy -takit pitävät arvonsa. Sellpy mediaani 101 € (n=2699). Weekend ja Studio ovat halvempia linjoja.
+  good: Kamelinkarvatakit, Manuela, Teddy Bear Icon Coat.
+  bad: Weekend-, Studio-, S Max Mara -linjat ovat eri hintaluokkaa.
+  buy: 101801 (Wrap coat), Manuela, Teddy Bear Icon, Madame, valkoisella lapulla.
+  avoid: Weekend, Marina Rinaldi (plus-koko-linja).
+  tells: Valkoinen lappu = mainline. Weekend sininen lappu. Mallinumero sisätaskun lapussa.
+  kw:
+    madame: 1.4
+    marina rinaldi: 0.5
+    studio: 0.7
+    icon: 1.2
+Sportmax:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 0
+  status: Max Maran sivulinja, Sellpy 53 € (n=487).
+  good: Max Maran muotilinja, hyvät takit.
+  bad: Ei mainline-arvoa, Sellpy 53 €.
+  buy: Takit alle 40 €.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Brioni:
+  tier: B
+  hype: 2
+  quality: 5
+  fake: 1
+  status: Bond-puvut, JP 86 € (n=74).
+  good: Räätälöinti.
+  bad: Koko ratkaisee.
+  buy: Puvut, bleiserit.
+  avoid: Solmiot.
+  tells: '-'
+  kw:
+    solmio: 0.4
+    tie: 0.4
+Cesare Attolini:
+  tier: B
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Napoli. JP 218 € (n=36).
+  good: Napolin käsin tehty räätälöinti, JP 218 € (n=36).
+  bad: Koko ratkaisee, pieni ostajakunta.
+  buy: Puvut, bleiserit L+.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Boglioli:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Garment dyed bleiserit, Sellpy 100 € (n=122).
+  good: Garment dyed K-jacket, pehmeä bleiseri.
+  bad: Sellpy 100 €.
+  buy: Bleiserit alle 70 €.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Lardini:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Sellpy 67 € (n=83).
+  good: Italialainen bleiseri (kukkapinssi).
+  bad: Ei kovaa preemiota.
+  buy: Bleiserit alle 50 €.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Caruso:
+  tier: C
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Sellpy 121 € (n=42).
+  good: Parman räätälöintitehdas.
+  bad: Sellpy 121 € (n=42).
+  buy: '-'
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Tagliatore:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 0
+  status: Sellpy 108 € (n=133).
+  good: Italialainen bleiseri.
+  bad: Sellpy 108 €.
+  buy: '-'
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Canali:
+  tier: D
+  hype: 1
+  quality: 3
+  fake: 0
+  status: Sellpy 64 € (n=200).
+  good: Peruspuku.
+  bad: Ei jälleenmyyntipreemiota.
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Corneliani:
+  tier: D
+  hype: 1
+  quality: 3
+  fake: 0
+  status: Sellpy 57 € (n=357).
+  good: Peruspuku.
+  bad: Ei jälleenmyyntipreemiota.
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Eleventy:
+  tier: C
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Sellpy 38 € (n=90).
+  good: Italialainen casual-luksus.
+  bad: Pieni kysyntä.
+  buy: '-'
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Malo:
+  tier: C
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Cashmere. Sellpy 41 € (n=107).
+  good: Italialainen cashmere-neule.
+  bad: Pieni kysyntä.
+  buy: Neuleet alle 40 €.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Ralph Lauren Purple Label:
+  tier: B
+  hype: 2
+  quality: 5
+  fake: 1
+  status: RL:n huippulinja. Sellpy 101 € (n=49).
+  good: RL:n huippulinja, Italiassa tehty räätälöinti ja cashmere.
+  bad: '-'
+  buy: Bleiserit, cashmere-neuleet.
+  avoid: '-'
+  tells: Violetti lappu.
+  kw: {}
+Berluti:
+  tier: A
+  hype: 2
+  quality: 5
+  fake: 1
+  status: JP 404 € (n=49). Kengät ja nahat.
+  good: Venezia-nahka ja patina, Alessandro ja Andy loafer.
+  bad: Pieni ostajakunta.
+  buy: Alessandro, Andy loafer, nahkatakit.
+  avoid: '-'
+  tells: '-'
+  kw:
+    alessandro: 1.3
+    andy: 1.2
+Mulberry:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 2
+  status: Sellpy 102 € (n=520).
+  good: Bayswater ja Alexa -laukut, vintage 1990-luku.
+  bad: '-'
+  buy: Bayswater, Alexa, vintage.
+  avoid: '-'
+  tells: '-'
+  kw:
+    bayswater: 1.3
+    alexa: 1.3
+Johnstons of Elgin:
+  tier: C
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Skotlantilainen cashmere-tehdas (valmistaa myös luksusmerkeille). Sellpy 80 € (n=92).
+  good: Cashmere ja merino, kestävä.
+  bad: Huivit massaa.
+  buy: Cashmere-neuleet ja -takit L+.
+  avoid: Huivit yli 40 €.
+  tells: Made in Scotland.
+  kw:
+    huivi: 0.6
+    scarf: 0.6
+Drumohr:
+  tier: C
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Sellpy 36 € (n=33).
+  good: Skotlantilais-italialainen neule.
+  bad: '-'
+  buy: Neuleet halvalla.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+William Lockie:
+  tier: C
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Skotlantilainen neule. Sellpy 60 € (n=35).
+  good: Skotlantilainen lambswool ja cashmere, Hawick.
+  bad: '-'
+  buy: Neuleet L+ alle 40 €.
+  avoid: '-'
+  tells: Made in Scotland.
+  kw: {}
+Inverallan:
+  tier: C
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Käsinneulotut cardiganit.
+  good: Käsinneulotut cardiganit (Inverallan 3A).
+  bad: '-'
+  buy: Cardiganit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+John Smedley:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Sellpy 45 € (n=163).
+  good: Ohut merino ja Sea Island cotton, Made in England.
+  bad: '-'
+  buy: Neuleet alle 30 €.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Pringle of Scotland:
+  tier: D
+  hype: 1
+  quality: 3
+  fake: 0
+  status: Sellpy 12 € (n=430).
+  good: Vintage cashmere.
+  bad: Massaa.
+  buy: Vintage Made in Scotland cashmere.
+  avoid: Uudet.
+  tells: '-'
+  kw:
+    cashmere: 1.3
+Sunspel:
+  tier: D
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Sellpy 46 € (n=228).
+  good: Englantilaiset t-paidat ja pikeet.
+  bad: Ei katetta.
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Margaret Howell:
+  tier: C
+  hype: 3
+  quality: 4
+  fake: 0
+  status: Sellpy 54 € (n=54).
+  good: Englantilainen minimalismi, Japanissa suosittu, hyvät takit.
+  bad: MHL-linja heikompi.
+  buy: Mainline-takit.
+  avoid: MHL perus.
+  tells: '-'
+  kw: {}
+Barbour:
+  tier: C
+  hype: 3
+  quality: 4
+  fake: 1
+  status: Vahaputkitakit pitävät. Sellpy mediaani 108 € (n=3574), löydöissä 12.
+  good: Beaufort, Bedale, A7 Made in England.
+  bad: Massaa, uudet Made in Asia.
+  buy: Made in England vintage Beaufort/Bedale/Border, Gold Label, collabit (Engineered Garments, Noah).
+  avoid: Uudet International-perusvaatteet.
+  tells: Royal Warrant -lappuja 1–3 = vintage.
+  kw:
+    engineered garments: 1.4
+    three warrants: 1.4
+    gamefair: 1.3
+Grenfell:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Sellpy 38 € (n=2).
+  good: Grenfell cloth, englantilaiset takit.
+  bad: '-'
+  buy: Takit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Private White V.C.:
+  tier: B
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Manchester. Sellpy 156 € (n=7).
+  good: Manchesterin tehdas, Ventile-takit.
+  bad: '-'
+  buy: Takit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Mackintosh:
+  tier: B
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Kumitetut takit. Sellpy 128 € (n=14).
+  good: Kumitettu puuvilla (rubberised cotton) 1823 alkaen; Dunkeld ja Dunoon.
+  bad: '-'
+  buy: Dunkeld, Dunoon, collabit.
+  avoid: '-'
+  tells: '-'
+  kw:
+    dunkeld: 1.3
+    dunoon: 1.3
+Aquascutum:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Sellpy 43 € (n=122).
+  good: Vintage trenssit ja takit, Made in England.
+  bad: '-'
+  buy: Trenssit.
+  avoid: '-'
+  tells: '-'
+  kw:
+    trench: 1.4
+    trenssi: 1.4
+Burberry:
+  tier: B
+  hype: 3
+  quality: 4
+  fake: 3
+  status: Trenssit pitävät arvonsa. Sellpy mediaani 138 € (n=3440).
+  good: Kensington, Westminster, vintage Made in England.
+  bad: Burberry London ja Blue Label (Japani) heikompia.
+  buy: Made in England trenssit.
+  avoid: Blue Label, Burberry Golf.
+  tells: '''Burberrys'' (s) = ennen 1999.'
+  kw:
+    blue label: 0.5
+    golf: 0.6
+Nigel Cabourn:
+  tier: B
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Sellpy 110 € (n=18), JP 79 € (n=56).
+  good: Military- ja vuorikiipeilyreprot (Cameraman, Everest Parka).
+  bad: '-'
+  buy: Cameraman, Everest parka.
+  avoid: '-'
+  tells: '-'
+  kw:
+    cameraman: 1.3
+    everest: 1.3
+YMC:
+  tier: D
+  hype: 1
+  quality: 3
+  fake: 0
+  status: Sellpy 12.5 € (n=51).
+  good: Lontoon rento perus.
+  bad: Ei katetta.
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Universal Works:
+  tier: D
+  hype: 1
+  quality: 3
+  fake: 0
+  status: Sellpy 50 € (n=101).
+  good: Englantilainen workwear.
+  bad: Ei katetta.
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Norse Projects:
+  tier: D
+  hype: 2
+  quality: 3
+  fake: 0
+  status: Sellpy 30 € (n=440).
+  good: Tanskalainen perus.
+  bad: Ei katetta, Sellpy 30 €.
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Wood Wood:
+  tier: D
+  hype: 1
+  quality: 2
+  fake: 0
+  status: Sellpy 19 € (n=2304).
+  good: Tanskalainen street.
+  bad: Ei katetta, Sellpy 19 €.
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Han Kjøbenhavn:
+  tier: D
+  hype: 1
+  quality: 2
+  fake: 0
+  status: Sellpy 20 € (n=909).
+  good: Tanskalainen street.
+  bad: Ei katetta, Sellpy 20 €.
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+A Kind of Guise:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Sellpy 60 € (n=71).
+  good: Saksalainen, hyvät kankaat.
+  bad: '-'
+  buy: '-'
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Comoli:
+  tier: A
+  hype: 4
+  quality: 5
+  fake: 0
+  status: JP mediaani 419 € (n=70).
+  good: Japanin hiljaisen luksuksen ykkönen, JP 419 € (n=70).
+  bad: '-'
+  buy: Paidat, takit, housut.
+  avoid: '-'
+  tells: Koot 1–4 (3 ≈ L).
+  kw: {}
+Graphpaper:
+  tier: C
+  hype: 3
+  quality: 4
+  fake: 0
+  status: JP 73 € (n=100).
+  good: Japanilainen minimalismi, väljät leikkaukset.
+  bad: '-'
+  buy: Housut, paidat.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Porter Classic:
+  tier: B
+  hype: 3
+  quality: 5
+  fake: 0
+  status: JP 106 € (n=42).
+  good: Sashiko-takit, laukut, japanilainen käsityö.
+  bad: '-'
+  buy: Sashiko-takit.
+  avoid: '-'
+  tells: '-'
+  kw:
+    sashiko: 1.4
+Arts & Science:
+  tier: C
+  hype: 2
+  quality: 5
+  fake: 0
+  status: JP 66 € (n=41).
+  good: Tokion hiljainen luksus.
+  bad: '-'
+  buy: Takit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Evan Kinori:
+  tier: C
+  hype: 3
+  quality: 4
+  fake: 0
+  status: SF, pienet erät.
+  good: San Franciscon pienet erät, hyvät kankaat.
+  bad: '-'
+  buy: Paidat, housut.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Yaeca:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: '-'
+  good: Japanilainen arkiperus, hyvät kankaat.
+  bad: '-'
+  buy: Paidat.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Casey Casey:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: JP 107 € (n=100).
+  good: Pariisilainen käsityö, rypistyneet kankaat.
+  bad: '-'
+  buy: Paidat, takit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Ann-Sofie Back:
+  tier: D
+  hype: 1
+  quality: 2
+  fake: 0
+  status: Sellpy 6 € (n=418).
+  good: Ruotsalainen konseptuaalinen (2000-luvun alku).
+  bad: Ei katetta, Sellpy 6 € (n=418) = nimitörmäyksiä ('back').
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Hope:
+  tier: D
+  hype: 1
+  quality: 3
+  fake: 0
+  status: Sellpy 37 € (n=7846).
+  good: Ruotsalainen minimalismi.
+  bad: Ei katetta, Sellpy 37 € (n=7846).
+  buy: Vain nahkatakit alle 40 €.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Filippa K:
+  tier: D
+  hype: 1
+  quality: 3
+  fake: 0
+  status: Sellpy 33 € (n=29833).
+  good: Skandinaavinen minimalismi.
+  bad: Ei katetta, Sellpy 33 € (n=29833).
+  buy: Vain villatakit alle 25 €.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Tiger of Sweden:
+  tier: D
+  hype: 1
+  quality: 3
+  fake: 0
+  status: Sellpy 27 € (n=17628).
+  good: Ruotsalainen räätälöinti.
+  bad: Ei katetta, Sellpy 27 € (n=17628).
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Whyred:
+  tier: D
+  hype: 1
+  quality: 2
+  fake: 0
+  status: Sellpy 18 € (n=4756).
+  good: Ruotsalainen.
+  bad: Ei katetta, Sellpy 18 € (n=4756).
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+House of Dagmar:
+  tier: D
+  hype: 1
+  quality: 3
+  fake: 0
+  status: Sellpy 48 € (n=4640).
+  good: Ruotsalainen neule.
+  bad: Ei katetta, Sellpy 48 €.
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Stine Goya:
+  tier: D
+  hype: 2
+  quality: 3
+  fake: 0
+  status: Sellpy 109 € (n=2691).
+  good: Tanskalainen naisten.
+  bad: Sellpy 109 € (n=2691), ei katetta.
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Ganni:
+  tier: D
+  hype: 3
+  quality: 2
+  fake: 0
+  status: Sellpy 90 € (n=11744).
+  good: Tanskalainen naisten trendi.
+  bad: Sellpy 90 € (n=11744), ei katetta.
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Samuji:
+  tier: D
+  hype: 1
+  quality: 3
+  fake: 0
+  status: Sellpy 27 € (n=19).
+  good: Suomalainen minimalismi.
+  bad: Ei katetta, Sellpy 27 €.
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Ivana Helsinki:
+  tier: D
+  hype: 1
+  quality: 2
+  fake: 0
+  status: Sellpy 17 € (n=62).
+  good: Suomalainen naisten.
+  bad: Ei katetta.
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Marimekko:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 0
+  status: Sellpy 67 € (n=4343).
+  good: 1960–70-luvun vintage (Jokapoika, Unikko, Annika Rimala) on keräilyarvoista.
+  bad: Uudet massaa, Sellpy 67 € (n=4343).
+  buy: Vintage Jokapoika, Rimala-mekot.
+  avoid: Uudet.
+  tells: 'Vintage: Marimekko + Made in Finland.'
+  kw: {}
+Paul Smith:
+  tier: D
+  hype: 1
+  quality: 3
+  fake: 0
+  status: Sellpy 35 € (n=1738).
+  good: Raidat ja printit.
+  bad: Ei katetta, Sellpy 35 €.
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Lemaire x Uniqlo:
+  tier: D
+  hype: 1
+  quality: 3
+  fake: 0
+  status: Massaa.
+  good: Lemaire-henki halvalla.
+  bad: Massaa.
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Momotaro:
+  tier: B
+  hype: 3
+  quality: 5
+  fake: 1
+  status: Kojiman denim-kingi, uutena 250–350 €. Sellpy 144 € (n=7). JP 43 € (n=100) on haun saastumaa (momotaro = yleinen sana).
+  good: Zimbabwe-puuvilla, käsinkudottu selvedge, Going to Battle -raidat.
+  bad: Raskas (15.7 oz), koko kutistuu jos sanforoimaton.
+  buy: 0405 / 0605 -leikkaukset, Going to Battle (GTB), Copper label, farkkutakit.
+  avoid: Yli 120 € kuluneena.
+  tells: Persikka-nappi ja GTB-raidat taskussa. W36–W38 harvinaisempia.
+  kw:
+    going to battle: 1.3
+    gtb: 1.3
+    copper label: 1.2
+Pure Blue Japan:
+  tier: B
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Slubby-indigo, JP 41 € (n=45). Grailed 100–180 €.
+  good: Tekstuuri ja fade.
+  bad: Kapea ostajakunta (denim-nörtit).
+  buy: XX-019, XX-013, farkkutakit.
+  avoid: '-'
+  tells: Mallinumero XX-0xx.
+  kw: {}
+Iron Heart:
+  tier: B
+  hype: 2
+  quality: 5
+  fake: 0
+  status: 21 oz superraskas denim, kestävin farkku. Sellpy 163 € (n=4), JP 112 € (n=53).
+  good: 21 oz superraskas denim, kestävin farkku; flanellit.
+  bad: Raskas.
+  buy: 634S, 666S, flanellit.
+  avoid: '-'
+  tells: '-'
+  kw:
+    '634': 1.2
+    '666': 1.2
+    flannel: 1.2
+Samurai Jeans:
+  tier: B
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Osaka 5 -perhe. JP 73 € (n=100). Sellpy 11 € (n=12) = 'samurai' nimitörmäys.
+  good: Raskas denim, Zero-sarja.
+  bad: Nimitörmäys.
+  buy: S710XX, S0500XX.
+  avoid: Kaikki muut 'samurai'-merkit.
+  tells: '-'
+  kw: {}
+Studio D'Artisan:
+  tier: C
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Osaka 5 -pioneeri (1979).
+  good: Osaka 5 -pioneeri (1979), possulogo.
+  bad: Pieni kysyntä Euroopassa.
+  buy: D1767, G3.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+The Flat Head:
+  tier: B
+  hype: 2
+  quality: 5
+  fake: 0
+  status: JP 37 € (n=84). Grailed 120–200 € farkut.
+  good: Käsin ommellut farkut ja nahkatakit.
+  bad: '-'
+  buy: 3005, 1001, nahkatakit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Warehouse & Co:
+  tier: B
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Historiallisten Levi'sien tarkat repliikit.
+  good: Historiallisten Levi'sien tarkat repliikit.
+  bad: '-'
+  buy: Lot 1001, 800-sarja.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Sugar Cane:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Toyon repro-brändi. Sellpy 71 € (n=2).
+  good: Toyon repro, sokeriruokokuitu.
+  bad: '-'
+  buy: 1947-mallit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Levi's Vintage Clothing:
+  tier: B
+  hype: 2
+  quality: 4
+  fake: 0
+  status: LVC repro (Cone Mills, Made in USA/Japan 2000–2017 arvokkaimmat).
+  good: Historialliset repro-mallit.
+  bad: Uudet Turkki/Kiina-valmistus heikompi.
+  buy: Made in USA (Cone White Oak, ennen 2017) 1947/1955/1966 501XX, Type I/II -takit.
+  avoid: Uudet ilman Made in USA/Japan.
+  tells: Made in USA + Cone Mills = paras.
+  kw:
+    made in usa: 1.4
+    made in japan: 1.3
+    cone: 1.2
+Levi's:
+  tier: D
+  hype: 3
+  quality: 3
+  fake: 2
+  status: 'Normaali Levi''s on halpaa (Sellpy 12 €, n=95 kuvaustettuna), mutta vintage on kova: Big E ja 1950–1970-luvun kappaleet 200–2000 €.'
+  good: Big E (ennen 1971), redline selvedge (ennen 1983), Type I/II -takit, Made in USA 501 (ennen 2003).
+  bad: Massaa; repro- ja feikki-Big E -lappuja.
+  buy: Big E, Type I/II/III -takit 'big e' tai 'XX' -merkinnöillä, 501 redline, Made in USA, orange tab 1970-luku.
+  avoid: Uudet 501:t.
+  tells: 'Big E: punainen lippu ''LEVI''S'' isolla E:llä. Napin takaleima (555 = Valencia, 524 = El Paso). Redline selvedge sisäsaumoissa.'
+  kw:
+    redline: 1.8
+    selvedge: 1.5
+    '555': 1.6
+Red Wing:
+  tier: C
+  hype: 3
+  quality: 4
+  fake: 1
+  status: Sellpy 151 € (n=40) = hinnoiteltu.
+  good: Iron Ranger, Moc Toe (875), Beckman.
+  bad: Raskaat.
+  buy: 875 Moc Toe, 8111 Iron Ranger, Beckman, Irish Setter (vanhat).
+  avoid: '-'
+  tells: Made in USA.
+  kw:
+    '875': 1.3
+    iron ranger: 1.3
+    beckman: 1.3
+    irish setter: 1.3
+    moc toe: 1.3
+Viberg:
+  tier: A
+  hype: 3
+  quality: 5
+  fake: 0
+  status: Kanadalainen huippusaapas. JP 277 € (n=21).
+  good: Kanadalainen huippusaapas, Service Boot ja 2030-lesti.
+  bad: '-'
+  buy: Service Boot, Scout.
+  avoid: '-'
+  tells: '-'
+  kw:
+    service boot: 1.3
+    cordovan: 1.4
+Yuketen:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: JP 56 € (n=86).
+  good: Mokkasiinit ja Maine Guide -saappaat.
+  bad: '-'
+  buy: Maine Guide, mokkasiinit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Common Projects:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 2
+  status: Achilles Low. Sellpy 88 € (n=109).
+  good: Minimalistinen, Italia.
+  bad: Hype laskenut.
+  buy: Achilles Low, Chelsea.
+  avoid: Kuluneet.
+  tells: Kultainen sarjanumero kantapäässä.
+  kw:
+    achilles: 1.2
+Diemme:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Sellpy 63 € (n=59).
+  good: Italialaiset vaelluskengät (Roccia Vet).
+  bad: '-'
+  buy: Roccia Vet.
+  avoid: '-'
+  tells: '-'
+  kw:
+    roccia: 1.3
+Buttero:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Sellpy 43 € (n=57).
+  good: Italialainen Tanino-tennari.
+  bad: '-'
+  buy: Tanino.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Santoni:
+  tier: C
+  hype: 2
+  quality: 5
+  fake: 0
+  status: Sellpy 103 € (n=242).
+  good: Käsin maalattu nahka, kaksoissolki.
+  bad: '-'
+  buy: Kaksoissolkikengät.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Del Carlo:
+  tier: C
+  hype: 1
+  quality: 4
+  fake: 0
+  status: '-'
+  good: Italialaiset käsin tehdyt saappaat.
+  bad: Sellpy 6 € = nimitörmäys.
+  buy: Saappaat.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Premiata:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 0
+  status: Sellpy 37 € (n=62).
+  good: Italialaiset tennarit.
+  bad: Sellpy 37 €.
+  buy: '-'
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Moma:
+  tier: C
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Sellpy 42 € (n=94).
+  good: Italialaiset saappaat.
+  bad: Sellpy 42 €.
+  buy: Saappaat.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Grenson:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Sellpy 48 € (n=30).
+  good: Northamptonin Goodyear welt.
+  bad: '-'
+  buy: Fred, Stanley.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Norrøna:
+  tier: C
+  hype: 3
+  quality: 5
+  fake: 0
+  status: Sellpy 72 € (n=578).
+  good: Norjalainen huippu-outdoor (Lofoten, Trollveggen).
+  bad: '-'
+  buy: Lofoten Gore-Tex Pro.
+  avoid: '-'
+  tells: '-'
+  kw:
+    gore-tex pro: 1.3
+Haglöfs:
+  tier: D
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Sellpy 67 € (n=4261).
+  good: Ruotsalainen outdoor.
+  bad: Massaa, Sellpy 67 € (n=4261).
+  buy: Vain Spitz/Roc Gore-Tex alle 50 €.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Houdini:
+  tier: D
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Sellpy 67 € (n=2271).
+  good: Ruotsalainen outdoor, Power-fleecet.
+  bad: Sellpy 67 € (n=2271).
+  buy: '-'
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Mammut:
+  tier: D
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Sellpy 49 € (n=1218).
+  good: Sveitsiläinen outdoor.
+  bad: Sellpy 49 € (n=1218).
+  buy: '-'
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Montbell:
+  tier: C
+  hype: 3
+  quality: 4
+  fake: 0
+  status: Sellpy 41 € (n=24).
+  good: Japanilainen outdoor, kevyt untuva.
+  bad: '-'
+  buy: Untuvatakit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Satisfy:
+  tier: C
+  hype: 3
+  quality: 4
+  fake: 0
+  status: Sellpy 79 € (n=11).
+  good: Pariisilainen juoksu-luksus.
+  bad: Sellpy 79 €.
+  buy: Mothtech-paidat.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+District Vision:
+  tier: C
+  hype: 3
+  quality: 4
+  fake: 0
+  status: Sellpy 70 € (n=12).
+  good: Juoksu-luksus, aurinkolasit.
+  bad: Sellpy 70 €.
+  buy: Aurinkolasit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Gramicci:
+  tier: D
+  hype: 2
+  quality: 3
+  fake: 0
+  status: Sellpy 62 € (n=149).
+  good: Kiipeilyhousut.
+  bad: Sellpy 62 € (n=149).
+  buy: '-'
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Aimé Leon Dore:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 1
+  status: Sellpy 61 € (n=118).
+  good: NY-ivy, New Balance -collabit.
+  bad: Sellpy 61 €.
+  buy: New Balance -collabit.
+  avoid: '-'
+  tells: '-'
+  kw:
+    new balance: 1.3
+Noah:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 0
+  status: Sellpy 21 € (n=64).
+  good: Brendon Babenzien (ex-Supreme).
+  bad: Sellpy 21 €.
+  buy: '-'
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Kith:
+  tier: D
+  hype: 2
+  quality: 3
+  fake: 1
+  status: Sellpy 22 € (n=124).
+  good: NY street.
+  bad: Sellpy 22 €.
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Palace:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 2
+  status: Sellpy 49 € (n=195).
+  good: Lontoon skate, collabit (Adidas, Ralph Lauren).
+  bad: Sellpy 49 €.
+  buy: Collabit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Brain Dead:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 0
+  status: Sellpy 35 € (n=19).
+  good: LA, graafiset printit.
+  bad: Sellpy 35 €.
+  buy: '-'
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Cav Empt:
+  tier: B
+  hype: 3
+  quality: 3
+  fake: 1
+  status: Sellpy 168 € (n=3).
+  good: Tokio, cyberpunk-printit (Toby Feltwell, Sk8thing).
+  bad: '-'
+  buy: Hupparit, takit.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Carhartt WIP:
+  tier: D
+  hype: 2
+  quality: 3
+  fake: 0
+  status: Sellpy 41 € (n=6920).
+  good: Workwear-perus.
+  bad: Massaa, Sellpy 41 € (n=6920).
+  buy: Vain Detroit- ja Active-takit alle 40 €.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Corteiz:
+  tier: C
+  hype: 4
+  quality: 2
+  fake: 3
+  status: Sellpy 47 € (n=97).
+  good: Lontoon hype-street.
+  bad: Feikkejä, Sellpy 47 €.
+  buy: '-'
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Cole Buxton:
+  tier: D
+  hype: 2
+  quality: 3
+  fake: 0
+  status: Sellpy 39 € (n=27).
+  good: Lontoon raskas jersey.
+  bad: Sellpy 39 €.
+  buy: '-'
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Tod's:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 1
+  status: Gommino-ajokengät, Sellpy 122 € (n=1645).
+  good: Gommino (kumi-nypyt), laukut.
+  bad: Pohjat kuluvat nopeasti, ei pohjattavissa.
+  buy: Gommino alle 60 €.
+  avoid: Kuluneet nypyt.
+  tells: '-'
+  kw:
+    gommino: 1.2
+Giorgio Armani:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 1
+  status: Black Label ja 1980–1990 mainline vintage nousussa. Sellpy 58 € (n=1188).
+  good: 1980–1990 slouchy-puvut, Black Label, Borgonuovo.
+  bad: Emporio, Armani Jeans, Armani Exchange halpoja.
+  buy: Black Label -puvut ja -takit, 1990-luvun vintage.
+  avoid: Emporio, Armani Exchange.
+  tells: Musta lappu = Black Label (paras); valkoinen = Collezioni.
+  kw:
+    collezioni: 0.7
+    emporio: 0.4
+    exchange: 0.3
+Bally:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 1
+  status: Vintage-tennarit ja Scribe-kengät. Sellpy 83 € (n=964).
+  good: Scribe-kengät, vintage 1980-luvun laukut.
+  bad: '-'
+  buy: Scribe, vintage.
+  avoid: '-'
+  tells: '-'
+  kw:
+    scribe: 1.4
+Roberto Cavalli:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 2
+  status: Y2K-buumi. Sellpy 75 € (n=617).
+  good: 1990–2000 eläinprintit, Y2K-mekot.
+  bad: Just Cavalli -linja halpa.
+  buy: Vintage 1999–2005 mainline.
+  avoid: Just Cavalli.
+  tells: '-'
+  kw:
+    just cavalli: 0.5
+Casablanca:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 2
+  status: Silkkipaidat. JP 24 € (n=90), Sellpy 13 € = nimitörmäys ('casablanca').
+  good: Silkkipaidat, tennarit.
+  bad: Nimitörmäys.
+  buy: Silkkipaidat alle 80 €.
+  avoid: '-'
+  tells: '-'
+  kw:
+    silkki: 1.2
+    silk: 1.2
+Isabel Marant:
+  tier: C
+  hype: 3
+  quality: 3
+  fake: 2
+  status: Sellpy 126 € (n=1571).
+  good: Dicker-saappaat, Étoile.
+  bad: '-'
+  buy: Dicker-saappaat.
+  avoid: '-'
+  tells: '-'
+  kw:
+    dicker: 1.3
+Eytys:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 0
+  status: Sellpy 67 € (n=2151).
+  good: Mother-tennarit, Benz-farkut.
+  bad: '-'
+  buy: '-'
+  avoid: H&M.
+  tells: '-'
+  kw: {}
+Jacob Cohen:
+  tier: D
+  hype: 1
+  quality: 3
+  fake: 1
+  status: Sellpy 94 € (n=1083).
+  good: '-'
+  bad: Ei katetta.
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Gran Sasso:
+  tier: D
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Sellpy 47 € (n=349).
+  good: Italialainen neule.
+  bad: Ei katetta.
+  buy: '-'
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Alan Paine:
+  tier: D
+  hype: 1
+  quality: 3
+  fake: 0
+  status: Sellpy 41 € (n=290).
+  good: Englantilainen neule.
+  bad: Ei katetta.
+  buy: '-'
+  avoid: '-'
+  tells: '-'
+  kw: {}
+R.M. Williams:
+  tier: B
+  hype: 3
+  quality: 5
+  fake: 0
+  status: Comfort Craftsman -chelsea. Sellpy 118 € (n=228).
+  good: Yhdestä nahkapalasta tehty chelsea, pohjattavissa.
+  bad: '-'
+  buy: Comfort Craftsman, Gardener.
+  avoid: '-'
+  tells: Koko UK + leveys (G = vakio).
+  kw:
+    craftsman: 1.3
+Allen Edmonds:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Sellpy 123 € (n=57).
+  good: Park Avenue.
+  bad: '-'
+  buy: Park Avenue.
+  avoid: '-'
+  tells: '-'
+  kw:
+    park avenue: 1.2
+Loake:
+  tier: D
+  hype: 1
+  quality: 3
+  fake: 0
+  status: Sellpy 103 € (n=115).
+  good: 1880-linja.
+  bad: '-'
+  buy: '-'
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Pertti Palmroth:
+  tier: C
+  hype: 2
+  quality: 4
+  fake: 0
+  status: Suomalainen kenkälegenda. Sellpy 11 € (n=87).
+  good: Vintage saappaat.
+  bad: '-'
+  buy: Vintage saappaat.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Stenströms:
+  tier: D
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Sellpy 37 € (n=4414).
+  good: Paidat.
+  bad: Ei katetta.
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Eton:
+  tier: D
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Sellpy 24 € (n=4519).
+  good: Paidat.
+  bad: Ei katetta.
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Oscar Jacobson:
+  tier: D
+  hype: 1
+  quality: 3
+  fake: 0
+  status: Sellpy 39 € (n=4872).
+  good: Räätälöinti.
+  bad: Ei katetta.
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Asket:
+  tier: D
+  hype: 1
+  quality: 3
+  fake: 0
+  status: Sellpy 54 € (n=1081).
+  good: Perus.
+  bad: Ei katetta.
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+66 North:
+  tier: C
+  hype: 3
+  quality: 4
+  fake: 0
+  status: Sellpy 50 € (n=312).
+  good: Islantilainen outdoor.
+  bad: '-'
+  buy: Jökla, Dyngja.
+  avoid: '-'
+  tells: '-'
+  kw:
+    jokla: 1.3
+    dyngja: 1.3
+Lundhags:
+  tier: D
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Sellpy 72 € (n=1520).
+  good: Outdoor.
+  bad: Ei katetta.
+  buy: '-'
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Woolpower:
+  tier: D
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Sellpy 52 € (n=155).
+  good: Villakerrasto.
+  bad: Ei katetta.
+  buy: '-'
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Ulvang:
+  tier: D
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Sellpy 21 € (n=217).
+  good: Villa.
+  bad: Ei katetta.
+  buy: '-'
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Devold:
+  tier: D
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Sellpy 34 € (n=244).
+  good: Villaneule.
+  bad: Ei katetta.
+  buy: '-'
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Hestra:
+  tier: D
+  hype: 1
+  quality: 4
+  fake: 0
+  status: Sellpy 34 € (n=578).
+  good: Hanskat.
+  bad: Ei katetta.
+  buy: '-'
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Edwin:
+  tier: D
+  hype: 2
+  quality: 3
+  fake: 0
+  status: Sellpy 25 € (n=421).
+  good: Made in Japan vanhat.
+  bad: '-'
+  buy: Made in Japan.
+  avoid: '-'
+  tells: '-'
+  kw:
+    made in japan: 1.6
+Carhartt:
+  tier: C
+  hype: 3
+  quality: 4
+  fake: 1
+  status: Vintage Detroit ja Active jacket ovat kuumia. Sellpy 43 € (n=2358).
+  good: Vintage Made in USA Detroit, Active, Chore, Double Knee.
+  bad: Uudet massaa.
+  buy: Made in USA vintage.
+  avoid: Uudet.
+  tells: Made in USA = vintage.
+  kw:
+    blanket: 1.2
+    santa fe: 1.4
+Lyle & Scott Vintage:
+  tier: D
+  hype: 1
+  quality: 2
+  fake: 0
+  status: Sellpy 7 €.
+  good: '-'
+  bad: Ei katetta.
+  buy: Ei kannata.
+  avoid: '-'
+  tells: '-'
+  kw: {}
+Fred Perry:
+  tier: C
+  hype: 2
+  quality: 3
+  fake: 1
+  status: Sellpy 44 € (n=2524).
+  good: Made in England M12, Raf Simons- ja CdG-collabit.
+  bad: Massaa.
+  buy: Made in England M12, collabit.
+  avoid: '-'
+  tells: '-'
+  kw: {}

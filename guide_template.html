@@ -1,0 +1,153 @@
+<title>Grail Brändiopas</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;800&family=Archivo+Narrow:wght@500;700&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: hang-tag cards in a single reading column; sticky filter bar; tier = stamped label */
+:root{
+  --bg:#f3f3f1; --paper:#ffffff; --ink:#17181b; --mute:#5d6068; --line:#dcdcd8;
+  --accent:#2b3a8f; --accent-soft:#e6e9f7;
+  --tS:#7a1f2b; --tA:#2b3a8f; --tB:#2f6b4f; --tC:#7a6a2b; --tD:#7d7f86;
+  --good:#2f6b4f; --bad:#a3342c;
+  --display:"Archivo Narrow","Arial Narrow",Arial,sans-serif;
+  --body:"Archivo",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#121317; --paper:#1b1d22; --ink:#ececea; --mute:#a2a5ad; --line:#2d3037;
+  --accent:#9aa8ff; --accent-soft:#252a45;
+  --tS:#ff8a97; --tA:#9aa8ff; --tB:#79c9a2; --tC:#d6c27a; --tD:#9a9ca3;
+  --good:#79c9a2; --bad:#ff8f86; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121317; --paper:#1b1d22; --ink:#ececea; --mute:#a2a5ad; --line:#2d3037;
+  --accent:#9aa8ff; --accent-soft:#252a45;
+  --tS:#ff8a97; --tA:#9aa8ff; --tB:#79c9a2; --tC:#d6c27a; --tD:#9a9ca3;
+  --good:#79c9a2; --bad:#ff8f86; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:15px/1.55 var(--body);margin:0}
+.wrap{max-width:860px;margin:0 auto;padding-block:28px 64px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+h1{font:700 clamp(34px,7vw,56px)/1 var(--display);letter-spacing:-.01em;margin:0 0 10px;text-wrap:balance}
+.lede{color:var(--mute);max-width:65ch;margin:0 0 18px}
+.legend{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px;margin:0 0 18px}
+.legend div{background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:8px 10px;font-size:13px;color:var(--mute)}
+.legend b{font:700 15px var(--display);color:var(--ink);display:block}
+.note{background:var(--accent-soft);border-radius:6px;padding:12px 14px;margin:0 0 22px;font-size:14px;max-width:none}
+.note b{color:var(--accent)}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding:10px 0;display:flex;flex-wrap:wrap;gap:8px;align-items:center;border-bottom:1px solid var(--line);margin-bottom:14px}
+.bar input,.bar select{font:inherit;color:var(--ink);background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:8px 10px}
+.bar input{flex:1 1 220px;min-width:0}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{font:700 14px var(--display);border:1px solid var(--line);background:var(--paper);color:var(--ink);border-radius:999px;padding:6px 12px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip:focus-visible,.bar input:focus-visible,.bar select:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.count{color:var(--mute);font-size:13px;margin:0 0 10px;font-variant-numeric:tabular-nums}
+.list{display:grid;gap:10px}
+.card{background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:14px 16px;display:grid;gap:8px;min-width:0}
+.top{display:flex;gap:12px;align-items:flex-start}
+.stamp{flex:none;width:40px;height:40px;border:2px solid currentColor;border-radius:50%;display:grid;place-items:center;font:700 20px var(--display);transform:rotate(-8deg)}
+.tS{color:var(--tS)}.tA{color:var(--tA)}.tB{color:var(--tB)}.tC{color:var(--tC)}.tD{color:var(--tD)}
+.name{font:700 22px/1.15 var(--display);margin:0;text-wrap:balance}
+.meta{display:flex;flex-wrap:wrap;gap:4px 14px;font:12px var(--mono);color:var(--mute);margin-top:4px;font-variant-numeric:tabular-nums}
+.meta b{color:var(--ink);font-weight:600}
+.meters{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:12px;color:var(--mute)}
+.dots{letter-spacing:1px;color:var(--ink)}
+.status{margin:0}
+.k{font:700 11px var(--display);text-transform:uppercase;letter-spacing:.08em;color:var(--mute);display:block}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+@media (max-width:560px){.row{grid-template-columns:1fr}}
+.good .k{color:var(--good)}.bad .k{color:var(--bad)}
+.buy{background:var(--accent-soft);border-radius:6px;padding:8px 10px}
+details summary{cursor:pointer;color:var(--accent);font-size:13px;font-weight:600}
+details[open] summary{margin-bottom:8px}
+.det{display:grid;gap:8px}
+.kw{display:flex;flex-wrap:wrap;gap:4px}
+.kw span{font:11px var(--mono);border:1px solid var(--line);border-radius:4px;padding:1px 6px}
+.kw .up{color:var(--good)}.kw .dn{color:var(--bad)}
+.tag{font:600 11px var(--mono);border-radius:4px;padding:1px 6px;background:var(--accent-soft);color:var(--accent)}
+p{margin:0}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+<div class="wrap">
+  <h1>Grail Brändiopas</h1>
+  <p class="lede">Jokainen grail-skannerin brändi auki: mikä tekee siitä hyvän tai huonon, onko kyse hypestä vai laadusta, mitä kannattaa etsiä ja mitä välttää, nykytila, jälleenmyyntiarvo, aikakausi- ja lappumerkit sekä väärennösriski. Luvut: arvo = skannerin <code>value</code>, Sellpy = mediaani (kpl), JP = Yahoo! Auctions Japan myyty mediaani (kpl), löydöt = skannerin hälytykset.</p>
+  <div class="legend" id="legend"></div>
+  <p class="note"><b>Mitä filtteri tästä oppi:</b> 1) yli 450 malli-, linja- ja aikakausisanaa (esim. Raf <i>Virginia Creeper</i> ×2.0, Westwood <i>Seditionaries</i> ×2.5, Hermès <i>solmio</i> ×0.4) kertovat nyt arvon tarkemmin. 2) D-tason brändit (ei katetta edes puoleen hintaan) hälyttävät vasta pisteillä 3.0. 3) Väärennösriski 3/3 → yksityismyyjiltä vaaditaan uskottava hinta.</p>
+  <div class="bar">
+    <input id="q" type="search" placeholder="Hae brändiä, mallia tai sanaa (esim. tabi, made in italy)" aria-label="Haku">
+    <div class="chips" id="chips"></div>
+    <select id="sort" aria-label="Järjestys">
+      <option value="tier">Taso</option>
+      <option value="list">Listan järjestys</option>
+      <option value="hype">Hype</option>
+      <option value="quality">Laatu</option>
+      <option value="value">Arvo €</option>
+      <option value="finds">Löydöt</option>
+      <option value="name">A–Ö</option>
+    </select>
+  </div>
+  <p class="count" id="count"></p>
+  <div class="list" id="list"></div>
+</div>
+<script>
+const D = /*DATA*/[];
+const TIERS = {S:"Grail, likvidi", A:"Vahva jälleenmyynti", B:"Hyvä, malli ratkaisee", C:"Vain halvalla", D:"Ei katetta"};
+const order = {S:0,A:1,B:2,C:3,D:4};
+let tierOn = new Set(["S","A","B","C","D"]);
+try { const s = JSON.parse(localStorage.getItem("bg-tiers")||"null"); if (Array.isArray(s) && s.length) tierOn = new Set(s); } catch(e) {}
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const has = s => s && String(s).trim() && String(s).trim() !== "-";
+const dots = (n, max=5) => "●".repeat(n) + "○".repeat(Math.max(0, max-n));
+const cnt = {}; D.forEach(b => cnt[b.t] = (cnt[b.t]||0)+1);
+document.getElementById("legend").innerHTML = Object.keys(TIERS).map(t =>
+  `<div><b class="t${t}">${t} · ${cnt[t]||0} brändiä</b>${TIERS[t]}</div>`).join("");
+const chips = document.getElementById("chips");
+chips.innerHTML = Object.keys(TIERS).map(t => `<button class="chip" data-t="${t}" aria-pressed="${tierOn.has(t)}">${t}</button>`).join("");
+chips.addEventListener("click", e => {
+  const b = e.target.closest(".chip"); if (!b) return;
+  const t = b.dataset.t; tierOn.has(t) ? tierOn.delete(t) : tierOn.add(t);
+  b.setAttribute("aria-pressed", tierOn.has(t));
+  try { localStorage.setItem("bg-tiers", JSON.stringify([...tierOn])); } catch(e) {}
+  render();
+});
+D.forEach(b => b._s = [b.n, ...b.al, b.st, b.good, b.bad, b.buy, b.avoid, b.tells, ...Object.keys(b.kw)].join(" ").toLowerCase());
+function card(b){
+  const kw = Object.entries(b.kw).map(([k,v]) => `<span class="${v>=1?'up':'dn'}">${esc(k)} ×${v}</span>`).join("");
+  const meta = [
+    `arvo <b>${b.v} €</b>`,
+    b.sm != null ? `Sellpy <b>${Math.round(b.sm)} €</b> (${b.sn})` : (b.sn ? `Sellpy ${b.sn} kpl` : ""),
+    b.jm != null ? `JP <b>${b.jm} €</b> (${b.jn})` : "",
+    b.fc ? `löydöt <b>${b.fc}</b>` : ""
+  ].filter(Boolean).join("</span><span>");
+  const block = (cls, k, v) => has(v) ? `<div class="${cls}"><span class="k">${k}</span><p>${esc(v)}</p></div>` : "";
+  return `<article class="card">
+    <div class="top"><div class="stamp t${b.t}" title="${TIERS[b.t]}">${b.t}</div>
+      <div style="min-width:0"><h2 class="name">${esc(b.n)} ${b.rare ? '<span class="tag">harvinainen</span>' : ''}</h2>
+      <div class="meta"><span>${meta}</span></div></div></div>
+    <div class="meters"><span>hype <span class="dots">${dots(b.h)}</span></span><span>laatu <span class="dots">${dots(b.q)}</span></span><span>feikkiriski <span class="dots">${dots(b.f,3)}</span></span></div>
+    ${has(b.st) ? `<p class="status">${esc(b.st)}</p>` : ""}
+    ${has(b.buy) ? `<div class="buy"><span class="k">Osta / ihmiset suosittelevat</span><p>${esc(b.buy)}</p></div>` : ""}
+    <div class="row">${block("good","Hyvää",b.good)}${block("bad","Huonoa",b.bad)}</div>
+    ${(has(b.avoid)||has(b.tells)||kw) ? `<details><summary>Vältä, tunnistus ja filtterisanat</summary><div class="det">
+      ${block("","Vältä",b.avoid)}${block("","Aikakausi, lappu, koko, feikit",b.tells)}
+      ${kw ? `<div><span class="k">Filtterin kertoimet</span><div class="kw">${kw}</div></div>` : ""}</div></details>` : ""}
+  </article>`;
+}
+const list = document.getElementById("list"), q = document.getElementById("q"), sortSel = document.getElementById("sort");
+function render(){
+  const s = q.value.trim().toLowerCase();
+  let r = D.filter(b => tierOn.has(b.t) && (!s || b._s.includes(s)));
+  const k = sortSel.value;
+  const cmp = {
+    tier: (a,b) => order[a.t]-order[b.t] || b.v-a.v,
+    list: (a,b) => a.i-b.i, hype: (a,b) => b.h-a.h || order[a.t]-order[b.t],
+    quality: (a,b) => b.q-a.q || order[a.t]-order[b.t], value: (a,b) => b.v-a.v,
+    finds: (a,b) => b.fc-a.fc, name: (a,b) => a.n.localeCompare(b.n, "fi")
+  }[k];
+  r.sort(cmp);
+  document.getElementById("count").textContent = `${r.length} / ${D.length} brändiä`;
+  list.innerHTML = r.map(card).join("");
+}
+q.addEventListener("input", render); sortSel.addEventListener("change", render);
+render();
+</script>

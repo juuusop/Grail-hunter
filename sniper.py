@@ -124,6 +124,8 @@ class Brand:
     rare: bool = False
     max_price: float | None = None
     min_price: float | None = None
+    tier: str = ""      # brand_guide.yaml: S/A/B/C/D resale tier
+    fake: int = 0       # brand_guide.yaml: 0–3 counterfeit risk
 
 
 def load_yaml(name: str) -> dict:
@@ -136,16 +138,30 @@ def brands_hash() -> str:
     return hashlib.sha1((ROOT / "brands.yaml").read_bytes()).hexdigest()[:12]
 
 
+def load_guide() -> dict:
+    """brand_guide.yaml: per-brand tier, fake risk and model/era keywords (kw)."""
+    try:
+        return load_yaml("brand_guide.yaml")
+    except FileNotFoundError:
+        return {}
+
+
 def load_brands() -> list[Brand]:
+    guide = load_guide()
     out = []
     for b in load_yaml("brands.yaml").get("brands", []):
+        g = guide.get(str(b["name"])) or {}
+        boost = {str(k): float(v) for k, v in (g.get("kw") or {}).items()}
+        boost.update({str(k): float(v) for k, v in (b.get("boost") or {}).items()})  # brands.yaml wins
         out.append(Brand(
             name=str(b["name"]), value=float(b["value"]),
             aliases=[str(a) for a in (b.get("aliases") or [])],
-            boost={str(k): float(v) for k, v in (b.get("boost") or {}).items()},
+            boost=boost,
             rare=bool(b.get("rare", False)),
             max_price=b.get("max_price"),
             min_price=b.get("min_price"),
+            tier=str(g.get("tier") or ""),
+            fake=int(g.get("fake") or 0),
         ))
     return out
 
@@ -373,6 +389,8 @@ class Evaluator:
         self.market = market
         self.min_score = float(self.st.get("min_score", 2.0))
         self.rare_min = float(self.st.get("rare_min_score", 0.9))
+        # brand_guide.yaml tiers: low-resale tiers (D = no margin even at half price) need a deeper discount
+        self.tier_min = {str(k): float(v) for k, v in (self.st.get("tier_min_score") or {}).items()}
         self.max_price = self.st.get("max_price")
         self.excl = [w for w in cfg.get("exclude_words", [])]
         self.rare_words = cfg.get("rare_words", [])
@@ -477,6 +495,8 @@ class Evaluator:
             rare = brand.rare
             if rare:
                 reasons.append("harvinainen brändi")
+            if brand.tier:
+                reasons.append(f"taso {brand.tier}")
             if brand.max_price is not None and price > float(brand.max_price):
                 return None
             floor = brand.min_price if brand.min_price is not None else self.st.get("min_price", 0)
@@ -528,11 +548,14 @@ class Evaluator:
         score = est / price
         if self.max_price is not None and price > float(self.max_price):
             return None
+        ms = self.min_score
+        if not hunt and brand is not None and brand.tier in self.tier_min:
+            ms = max(ms, self.tier_min[brand.tier])
         if score >= 4:
             label = "🚨 INSANE"
-        elif score >= max(self.min_score, 2.5):
+        elif score >= max(ms, 2.5):
             label = "🔥 KOVA DIILI"
-        elif score >= self.min_score:
+        elif score >= ms:
             label = "✅ DIILI"
         elif rare and score >= self.rare_min:
             label = "💎 HARVINAINEN"
