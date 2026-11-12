@@ -1,5 +1,378 @@
 [
  {
+  "id": "tori-49820639",
+  "brand": "Miu Miu · Tori",
+  "title": "Miu Miu Shopping -laukku",
+  "price": 85.0,
+  "value": 182,
+  "score": 2.15,
+  "label": "✅ DIILI",
+  "category": "laukku",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49820639",
+  "image": "https://img.tori.net/dynamic/default/item/49820639/2f4c2005-a6f5-4fda-b38b-f4fef0587e0b",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 150 €",
+   "Japanissa myyty (laukku) mediaani 155 € (n=19)",
+   "kate ~2 € (ROI 3%, myy vestiaire ~139 €; Yahoo JP toteutuneet (laukku): mediaani 155 €, p25 99 € (n=19) → geneerinen ~127 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794527861,
+  "resale": 139,
+  "profit": 2,
+  "roi": 0.03,
+  "exit": "vestiaire",
+  "resale_why": [
+   "Yahoo JP toteutuneet (laukku): mediaani 155 €, p25 99 € (n=19) → geneerinen ~127 € × 1.15 EU-taso",
+   "myynti vestiaire ~139 € → käteen ~94 € kulujen ja tinkimisen jälkeen",
+   "osto 85 € + toimitus = 92 €"
+  ],
+  "risk": {
+   "fake": 64,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "laukku: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-759159478",
+  "brand": "Momotaro · Tradera 🇸🇪",
+  "title": "Momotaro Hoodie L Svart GTB stripes",
+  "price": 60.81,
+  "value": 139,
+  "score": 2.28,
+  "label": "✅ DIILI",
+  "category": "huppari",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/343991/759159478/momotaro-hoodie-l-svart-gtb-stripes",
+  "image": "https://img.tradera.net/images/314/666802314_cf43c736-3a52-4dca-8400-24abfb906bad.jpg",
+  "reasons": [
+   "taso B",
+   "gtb ×1.3",
+   "Japanissa myyty mediaani 43 € (n=100)",
+   "⚠️ kate ~-4 € (ROI -6%, myy grailed ~104 €; brändiarvio ~104 € (ei mallivertailua eikä Yahoo-dataa))",
+   "699 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794527862,
+  "resale": 104,
+  "profit": -4,
+  "roi": -0.06,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~104 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~104 € → käteen ~72 € kulujen ja tinkimisen jälkeen",
+   "osto 61 € + toimitus = 77 €"
+  ],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-714883576",
+  "brand": "Sportmax · Tradera 🇸🇪",
+  "title": "Sportmax vintage black and white chunky-knit ladies beret-Size Small to Medium",
+  "price": 26.01,
+  "value": 66,
+  "score": 2.56,
+  "label": "🔥 KOVA DIILI",
+  "category": "neule",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1001005/714883576/sportmax-vintage-black-and-white-chunky-knit-ladies-beret-size-small-to-medium",
+  "image": "https://img.tradera.net/images/441/632378441_2e2d8131-24e8-4767-b6eb-751974351984.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 53 €",
+   "⚠️ kate ~-11 € (ROI -26%, myy vinted ~35 €; brändiarvio ~50 € (ei mallivertailua eikä Yahoo-dataa))",
+   "299 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794527862,
+  "resale": 35,
+  "profit": -11,
+  "roi": -0.26,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~50 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~35 € → käteen ~31 € kulujen ja tinkimisen jälkeen",
+   "osto 26 € + toimitus = 42 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-754785916",
+  "brand": "R.M. Williams · Tradera 🇸🇪",
+  "title": "R.M. Williams Chelsea Boots – Sand/Taupe – Stl 8,5 – Originalsula – Made in Aust",
+  "price": 84.22,
+  "value": 200,
+  "score": 2.37,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340304/754785916/r-m-williams-chelsea-boots-sand-taupe-stl-8-5-originalsula-made-in-aust",
+  "image": "https://img.tradera.net/images/242/663367242_3ec6d13c-8e03-4918-9140-c107401a2f14.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 118 €",
+   "Japanissa myyty (kengät) mediaani 45 € (n=14)",
+   "⚠️ kate ~-71 € (ROI -71%, myy grailed ~43 €; Yahoo JP toteutuneet (kengät): mediaani 45 €, p25 33 € (n=14) → geneerinen ~39 € × 1.15 EU-taso)",
+   "968 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794527862,
+  "resale": 43,
+  "profit": -71,
+  "roi": -0.71,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 45 €, p25 33 € (n=14) → geneerinen ~39 € × 1.15 EU-taso",
+   "myynti grailed ~43 € → käteen ~29 € kulujen ja tinkimisen jälkeen",
+   "osto 84 € + toimitus = 100 €"
+  ],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-757717189",
+  "brand": "R.M. Williams · Tradera 🇸🇪",
+  "title": "R.M. Williams Kängor i brunt",
+  "price": 17.31,
+  "value": 200,
+  "score": 11.53,
+  "label": "🚨 INSANE",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340303/757717189/r-m-williams-kangor-i-brunt",
+  "image": "https://img.tradera.net/images/034/665689034_d51d7401-88c1-44e7-94ff-47773f96f585.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 118 €",
+   "Japanissa myyty (kengät) mediaani 45 € (n=14)",
+   "⚠️ kate ~-4 € (ROI -12%, myy grailed ~43 €; Yahoo JP toteutuneet (kengät): mediaani 45 €, p25 33 € (n=14) → geneerinen ~39 € × 1.15 EU-taso)",
+   "199 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794527862,
+  "resale": 43,
+  "profit": -4,
+  "roi": -0.12,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 45 €, p25 33 € (n=14) → geneerinen ~39 € × 1.15 EU-taso",
+   "myynti grailed ~43 € → käteen ~29 € kulujen ja tinkimisen jälkeen",
+   "osto 17 € + toimitus = 33 €"
+  ],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-755543673",
+  "brand": "R.M. Williams · Tradera 🇸🇪",
+  "title": "R.M. Williams Chelsea Boots Svarta",
+  "price": 95.7,
+  "value": 200,
+  "score": 2.08,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340303/755543673/r-m-williams-chelsea-boots-svarta",
+  "image": "https://img.tradera.net/images/493/663968493_12aec3ca-f126-457d-825c-aff64380e95d.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 118 €",
+   "Japanissa myyty (kengät) mediaani 45 € (n=14)",
+   "⚠️ kate ~-82 € (ROI -74%, myy grailed ~43 €; Yahoo JP toteutuneet (kengät): mediaani 45 €, p25 33 € (n=14) → geneerinen ~39 € × 1.15 EU-taso)",
+   "1100 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794527862,
+  "resale": 43,
+  "profit": -82,
+  "roi": -0.74,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 45 €, p25 33 € (n=14) → geneerinen ~39 € × 1.15 EU-taso",
+   "myynti grailed ~43 € → käteen ~29 € kulujen ja tinkimisen jälkeen",
+   "osto 96 € + toimitus = 112 €"
+  ],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-760277892",
+  "brand": "R.M. Williams · Tradera 🇸🇪",
+  "title": "R.M. Williams skor strl 3 1/2",
+  "price": 17.4,
+  "value": 200,
+  "score": 11.47,
+  "label": "🚨 INSANE",
+  "category": "kengät",
+  "condition": "-",
+  "size": "MEN-INT-L",
+  "link": "https://www.tradera.com/item/340303/760277892/r-m-williams-skor-strl-3-1-2",
+  "image": "https://img.tradera.net/images/713/667671713_5dc5c2fc-9613-44c4-836b-30a2f9a59e7b.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 118 €",
+   "Japanissa myyty (kengät) mediaani 45 € (n=14)",
+   "⚠️ kate ~-4 € (ROI -12%, myy grailed ~43 €; Yahoo JP toteutuneet (kengät): mediaani 45 €, p25 33 € (n=14) → geneerinen ~39 € × 1.15 EU-taso)",
+   "200 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794527862,
+  "resale": 43,
+  "profit": -4,
+  "roi": -0.12,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 45 €, p25 33 € (n=14) → geneerinen ~39 € × 1.15 EU-taso",
+   "myynti grailed ~43 € → käteen ~29 € kulujen ja tinkimisen jälkeen",
+   "osto 17 € + toimitus = 33 €"
+  ],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-753360041",
+  "brand": "R.M. Williams · Tradera 🇸🇪",
+  "title": "R.M. Williams marinblå, vit, brun kavaj, storlek 10",
+  "price": 27.4,
+  "value": 228,
+  "score": 8.32,
+  "label": "🚨 INSANE",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1000679/753360041/r-m-williams-marinbla-vit-brun-kavaj-storlek-10",
+  "image": "https://img.tradera.net/images/126/662256126_3d1d4725-954e-4d0d-81a0-753d8cb95ff2.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 118 €",
+   "Japanissa myyty mediaani 25 € (n=29)",
+   "💰 kate ~76 € (ROI 175%, myy grailed ~171 €; brändiarvio ~171 € (ei mallivertailua eikä Yahoo-dataa))",
+   "315 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794527862,
+  "resale": 171,
+  "profit": 76,
+  "roi": 1.75,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~171 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~171 € → käteen ~119 € kulujen ja tinkimisen jälkeen",
+   "osto 27 € + toimitus = 43 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "blocket-28181793",
+  "brand": "Louis Vuitton · Blocket 🇸🇪",
+  "title": "Louis Vuitton Jacka S",
+  "price": 105.39,
+  "value": 456,
+  "score": 4.33,
+  "label": "🚨 INSANE",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.blocket.se/recommerce/forsale/item/28181793",
+  "image": "https://images.blocketcdn.se/dynamic/default/item/28181793/8164a9e2-c84e-4f34-b358-267a1ca93211",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 200 €",
+   "Japanissa myyty mediaani 75 € (n=73)",
+   "💰 kate ~62 € (ROI 59%, myy grailed ~239 €; brändiarvio ~342 € (ei mallivertailua eikä Yahoo-dataa))",
+   "1000 SEK + ~15 € posti = 105 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "blocket",
+  "old_price": null,
+  "ts": 1794527862,
+  "resale": 239,
+  "profit": 62,
+  "roi": 0.59,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~342 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~239 € → käteen ~167 € kulujen ja tinkimisen jälkeen",
+   "osto 105 € + toimitus = 105 €"
+  ],
+  "risk": {
+   "fake": 50,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
   "id": "tradera-759738228",
   "brand": "Valentino · Tradera 🇸🇪",
   "title": "Valentino Sneakers",
