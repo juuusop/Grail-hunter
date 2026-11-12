@@ -166,6 +166,8 @@ Katso erityisesti merkkilappu- ja hoito-ohjelappukuvat. Vastaa VAIN JSON-objekti
 {{"label_brand": "lapussa lukeva brändi tai null", "is_designer": true/false,
   "designer": "todennäköinen designer-brändi tai null", "confidence": 0-1,
   "resale_eur": "arvioitu jälleenmyyntihinta euroina (numero) tai null",
+  "fake_signs": "näkyvät väärennöksen merkit (lapun fontti/ompeleet, logo, laatu) lyhyesti tai null",
+  "defects": "näkyvät viat (tahrat, reiät, nyppyyntyminen, kuluneet pohjat/kulmat) lyhyesti tai null",
   "reason": "yksi lyhyt lause suomeksi"}}"""
 
 
@@ -300,6 +302,10 @@ def run(cfg):
         reasons = f["why"] + [f"kuva muistuttaa: {f['clip_guess']} ({f['clip_sim']})"]
         if v:
             reasons.insert(0, f"Claude: {v.get('reason', '')}")
+            if v.get("fake_signs"):
+                reasons.insert(1, f"⚠️ feikkimerkit kuvissa: {v['fake_signs']}")
+            if v.get("defects"):
+                reasons.insert(1, f"🩹 viat kuvissa: {v['defects']}")
         nf = S.Find(id=f["id"], brand=f"{brand} (Sellpy: {f['raw_brand'] or '-'})", title=f["type"], price=f["price"],
                     value=round(resale) if resale else 0, score=round(resale / f["price"], 2) if resale else f["combined"],
                     label="🔎 VÄÄRIN LISTATTU" if v else "🔎 KUVAEHDOKAS", category=f["type"] or "-",

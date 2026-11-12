@@ -5,7 +5,7 @@ on:
     - cron: "*/10 * * * *"   # GitHub may delay scheduled runs by a few minutes
   workflow_dispatch:
   push:                      # run right away when settings or code change
-    paths: [brands.yaml, config.yaml, sniper.py, .github/workflows/sniper.yml]
+    paths: [brands.yaml, config.yaml, sniper.py, risk.py, .github/workflows/sniper.yml]
 
 permissions:
   contents: write
@@ -36,6 +36,8 @@ jobs:
         run: python sniper.py run
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Risk report
+        run: python risk.py report || true
       - name: Save memory
         if: always() && hashFiles('data/state.json') != ''
         uses: actions/cache/save@v4

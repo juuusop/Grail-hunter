@@ -45,3 +45,6 @@ realistinen myyntihinta (mallitaulukko `resale.yaml` → Huuto.netin toteutuneet
 paras myyntikanava (Grailed / Vinted / Tori) palkkioiden ja tinkimisen jälkeen, ja kate = netto − (hinta + toimitus).
 Perustelut näkyvät löydön tiedoissa. Hälytykset järjestetään katteen mukaan.
 Koko lista katteen mukaan: [data/PROFIT.md](data/PROFIT.md) (päivittyy päivittäin).
+
+## Feikki- ja kuntoriski (risk.py)
+Jokainen löytö saa `risk`-kentän: feikkiriski 0–100 (brändin väärennösmarkkina × tuotetyyppi × alusta × hinta/arvo × tekstivihjeet) ja kuntolipun (Sellpyn kuntoluokasta). Hälytyksissä ⚠️/🟡 feikkiriski ja 🩹 kulunut. `python risk.py report` → data/RISK.md (osuudet alustoittain, kategorioittain, brändeittäin). Painot: config.yaml `risk:`.

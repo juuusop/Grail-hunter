@@ -63,11 +63,13 @@ default_category_mult: 0.8
 
 # Kunto (Sellpyn kuntoluokat).
 conditions:
-  - {words: [uusi, ny, nytt, new, uusi lapuilla, oanvänd], mult: 1.05}
-  - {words: [erittäin hyvä, mycket bra, very good, excellent], mult: 1.0}
-  - {words: [hyvä, bra, good], mult: 0.9}
-  - {words: [kohtalainen, tyydyttävä, acceptabelt, acceptable, fair], mult: 0.7}
-  - {words: [huono, dåligt, poor], mult: 0.4}
+# HUOM: "Hyväksyttävä" (Sellpy = "käytetty paljon, vikoja esiintyy") puuttui aiemmin listasta ja sai
+# oletuskertoimen 0.95 eli PAREMMAN kuin "Hyvä" (0.9). 39 % Sellpy-löydöistä oli tätä kuntoluokkaa.
+  - {words: [uusi, ny, nytt, new, uusi lapuilla, oanvänd, nieuw, nieuw met kaartje], mult: 1.05}
+  - {words: [erittäin hyvä, mycket bra, very good, excellent, zo goed als nieuw, som ny, meget god, mycket gott skick], mult: 1.0}
+  - {words: [hyvä, bra, good, goed, god, gott skick, pent brukt], mult: 0.9}
+  - {words: [hyväksyttävä, kohtalainen, tyydyttävä, acceptabelt, acceptable, fair, gedragen, gebruikt, brugt, brukt, använd], mult: 0.7}
+  - {words: [huono, dåligt, poor, slecht, dårlig], mult: 0.4}
 
 # Nämä kertoimet koskevat kaikkia brändejä.
 global_boost:
@@ -168,3 +170,21 @@ markets:
               Valentino, Alexander McQueen, Vivienne Westwood, Enfants Riches Déprimés, Arc'teryx]
   # samannimiset muut merkit / väärät osumat vapaatekstissä
   text_block: [eagle creek, globe hope, piero guidi, laura guidi, 45rpm, 45 rpm, coco chanel, hope solo]
+
+# Feikki- ja kuntoriski (risk.py). Pisteet 0-100 = brändin pohja × kategoria × alusta × hinta × teksti.
+# korkea >= 45, keski >= 20. Kova lista = markets.fake_risk + tier_high + markets_eu.FAKE_RISK_EXTRA.
+risk:
+  base_high: 40
+  base_mid: 18
+  base_low: 3
+  tier_high: [Goyard, Miu Miu, Cartier, Rolex, Van Cleef & Arpels, Bvlgari, Tiffany & Co., Dolce & Gabbana,
+              Philipp Plein, Dsquared2, Yeezy, Trapstar, Corteiz, Hellstar, Gallery Dept]
+  tier_mid: [Ralph Lauren, Polo Ralph Lauren, Lacoste, C.P. Company, CP Company, Tom Ford, Ray-Ban, Kenzo,
+             Comme des Garçons, Comme des Garcons Play, Nike, Jordan, Jacquemus, Ami Paris, Marc Jacobs, Michael Kors, Coach,
+             Mulberry, Longchamp, Hugo Boss, Diesel, Tommy Hilfiger, Calvin Klein, Stüssy, Stussy, Carhartt WIP,
+             The North Face, Barbour, Belstaff, Parajumpers, Woolrich, Emporio Armani, Armani, Giorgio Armani,
+             Salvatore Ferragamo, Ferragamo, Tod's, Jimmy Choo, Christian Louboutin, Alexander Wang, Kith,
+             Undercover, Sacai, Issey Miyake, Pleats Please, Raf Simons, Vetements, Represent]
+  # kerroin feikkiriskille tuotetyypin mukaan (laukut, pienet nahkatuotteet, lasit ja korut väärennetyimpiä)
+  category_mult: {laukku: 1.6, asuste: 1.5, korut: 1.5, aurinkolasit: 1.5, kengät: 1.3, t-paita: 1.2, huppari: 1.2,
+                  takki: 1.0, nahkatakki: 0.9, muu: 1.0, neule: 0.7, housut: 0.7, kauluspaita: 0.6, bleiseri: 0.4}
