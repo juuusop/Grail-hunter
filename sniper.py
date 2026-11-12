@@ -341,6 +341,12 @@ class Find:
     source: str
     old_price: float | None = None
     ts: int = 0
+    # resale.py: realistic sale price, best exit platform and expected profit after fees
+    resale: float | None = None
+    profit: float | None = None
+    roi: float | None = None
+    exit: str = ""
+    resale_why: list[str] = field(default_factory=list)
 
     def to_dict(self):
         return self.__dict__.copy()
@@ -359,6 +365,9 @@ class Evaluator:
         self.excl = [w for w in cfg.get("exclude_words", [])]
         self.rare_words = cfg.get("rare_words", [])
         self.gboost = {k: float(v) for k, v in (cfg.get("global_boost") or {}).items()}
+        self.buy_source = "sellpy"   # markets.py sets this per listing (delivery cost differs)
+        # real sold prices from Japan (comps.py); shown in reasons, not used for scoring
+        self.comps = (load_json(DATA / "comps.json", {}) or {}).get("brands", {})
         # Name collisions: if Sellpy's own median for a brand is under 10 % of the value we
         # assume (e.g. "Casablanca", "Bless", "Tao"), most of its stock is a different,
         # cheap label. Cap the value at 3x the Sellpy median so those stop looking like deals.
@@ -481,6 +490,12 @@ class Evaluator:
             reasons.append(f"sesonkikoodi {SEASON_RE.search(text).group(0).upper()}")
 
         est = value * cmult * kmult * bmult
+        if not hunt:
+            import resale
+            mv = resale.model_value(name, text, kmult, cat)
+            if mv:  # a known model has its own resale level (Kelly vs. scarf, Geobasket vs. tee)
+                est = mv[0]
+                reasons.append(f"malli '{mv[1]['_hit']}' ~{mv[1]['price']:.0f} €")
         stats = self.resolved.get(name) if not hunt else None
         if stats and stats.get("median") and stats.get("count", 0) >= 30:
             # Sellpy prices common brands sensibly, so a deal must also be cheap
@@ -489,6 +504,13 @@ class Evaluator:
             if price > cap and not rare:
                 return None
             reasons.append(f"Sellpyn mediaani tälle brändille {stats['median']:.0f} €")
+        comp = self.comps.get(name) if not hunt else None
+        if comp:
+            cc = (comp.get("cats") or {}).get(cat)
+            if cc:
+                reasons.append(f"Japanissa myyty ({cat}) mediaani {cc['median']} € (n={cc['n']})")
+            else:
+                reasons.append(f"Japanissa myyty mediaani {comp['median']} € (n={comp['n']})")
         score = est / price
         if self.max_price is not None and price > float(self.max_price):
             return None
@@ -501,12 +523,21 @@ class Evaluator:
         elif rare and score >= self.rare_min:
             label = "💎 HARVINAINEN"
         else:
-            return None
-        return Find(id=oid, brand=name, title=title, price=round(price, 2), value=round(est),
-                    score=round(score, 2), label=label, category=cat, condition=cond or "-",
-                    size=size or "-", link=f"https://www.sellpy.{self.market}/item/{oid}",
-                    image=self._image(hit, oid), reasons=reasons,
-                    source="haku" if hunt else "brändi", ts=now_ts())
+            # expensive pieces (Kelly at auction) can leave real money at a low value/price ratio
+            import resale
+            rp = None if hunt else resale.evaluate(name, cat, price, est, text, kmult, self.buy_source)
+            if not rp or not resale.big_profit(rp):
+                return None
+            label = "💰 KATE"
+        f = Find(id=oid, brand=name, title=title, price=round(price, 2), value=round(est),
+                 score=round(score, 2), label=label, category=cat, condition=cond or "-",
+                 size=size or "-", link=f"https://www.sellpy.{self.market}/item/{oid}",
+                 image=self._image(hit, oid), reasons=reasons,
+                 source="haku" if hunt else "brändi", ts=now_ts())
+        if not hunt:
+            import resale
+            resale.annotate(f, text, kmult, self.buy_source)
+        return f
 
 
 # ---------------------------------------------------------------- notifications (GitHub issue)
@@ -573,7 +604,8 @@ def find_md(f: Find) -> str:
     return (f"<a href=\"{f.link}\"><img src=\"{f.image}\" width=\"140\" align=\"left\"></a>\n\n"
             f"**{f.label} · [{f.brand}]({f.link})**  \n"
             f"{f.title}  \n"
-            f"**{f.price:.0f} €**{drop} · arvio ~{f.value} € · pisteet {f.score}  \n"
+            f"**{f.price:.0f} €**{drop} · arvio ~{f.value} € · pisteet {f.score}"
+            + (f" · **kate ~{f.profit:.0f} €** ({f.exit})" if f.profit is not None else "") + "  \n"
             f"{f.category} · koko {f.size} · {f.condition}"
             + (f"  \n_{why}_" if why else "") + "<br clear=\"left\">")
 
@@ -589,7 +621,8 @@ def write_finds_md(finds: list[dict]):
         title = (f.get("title") or "").replace("|", "/")[:60]
         return (f"| <a href=\"{f['link']}\"><img src=\"{f['image']}\" width=\"90\"></a> | "
                 f"{f['label']}<br>**[{f['brand']}]({f['link']})**<br>{title} | "
-                f"**{f['price']:.0f} €**{drop}<br>arvio ~{f['value']} € | {f['score']} | "
+                f"**{f['price']:.0f} €**{drop}<br>arvio ~{f['value']} €"
+                + (f"<br>kate ~{f['profit']:.0f} €" if f.get("profit") is not None else "") + f" | {f['score']} | "
                 f"{f['category']}<br>{f['size']} | {t} |")
 
     head = "| | Löytö | Hinta | Pisteet | Tyyppi / koko | Löydetty (UTC) |\n|---|---|---|---|---|---|"
@@ -798,7 +831,8 @@ def run(cfg: dict):
     if alerts or not FINDS_MD.exists():
         write_finds_md(finds)
 
-    alerts.sort(key=lambda f: -f.score)
+    import resale
+    alerts.sort(key=resale.rank_key)   # expected profit first, then score
     notifier = GitHubNotifier(st.get("notify_issue_title", "🦅 Löydöt"), state)
     if first_run:
         if alerts:

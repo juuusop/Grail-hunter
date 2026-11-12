@@ -316,6 +316,7 @@ def run(cfg: dict):
             # cheap "luxury" from private sellers is almost always fake
             if S.norm(b.name) in fake_risk and L.price < float(mk.get("fake_risk_floor", 0.3)) * b.value:
                 continue
+        ev.buy_source = L.source
         landed_note = ""
         if L.source in EU.FLAG:  # score the price delivered to Finland, not the sticker price
             L.price, landed_note = EU.landed(L.source, L.price, mk.get("ship_eur"))
@@ -366,7 +367,8 @@ def run(cfg: dict):
             top = sorted(new, key=lambda f: -f.score)[:15]
             notifier.send(f"### 🌍 Muut alustat mukana: {len(new)} löytöä ensimmäisellä kierroksella, top {len(top)}", top)
         else:
-            notifier.send(f"### 🌍 {len(new)} uutta muilta alustoilta", sorted(new, key=lambda f: -f.score)[:30])
+            import resale
+            notifier.send(f"### 🌍 {len(new)} uutta muilta alustoilta", sorted(new, key=resale.rank_key)[:30])
     S.save_json(STATE, state)
     S.log(f"markets: {len(listings)} listings, {len(found)} deals, {len(new)} new")
 

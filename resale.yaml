@@ -1,0 +1,173 @@
+# Jälleenmyyntiarvo + kate (resale.py).
+#
+# Idea: "pisteet" (arvo / hinta) kertoo onko hinta halpa, mutta ei sitä, jääkö käteen rahaa.
+# Tämä kerros laskee jokaiselle löydölle:
+#   myyntihinta  = mallin vertailuhinta (models) tai brändin arvo × kategoria × kunto
+#   netto        = paras myyntikanava: hinta × kanavan hintataso × likviditeetti − palkkiot − postikulut
+#   kate         = netto − (ostohinta + ostopuolen toimituskulu)
+# ja kirjoittaa jokaiseen löytöön perustelut (mistä hinta tuli, mikä kanava, kulut).
+#
+# Lähde-merkinnät perusteluissa:
+#   "malli"     = alla olevasta mallitaulukosta (Grailed/Vestiaire-tyyppihinnat, käsin koottu arvio, EI live-dataa)
+#   "huuto-myyty" = oikeat päättyneet Huuto.net-kaupat (data/huuto_comps.json, päivitetään päivittäin)
+#   "brändiarvo" = brands.yaml value × kategoria × kunto (karkein)
+
+# Hälytykseen "💰"-merkintä kun odotettu kate on vähintään tämä (EUR) ja ROI vähintään min_roi.
+min_profit: 60
+min_roi: 0.5
+# Hälytys pelkän katteen perusteella (vaikka pisteet < min_score): kalliit kappaleet, esim. Kelly huutokaupassa.
+alert_profit: 300
+alert_roi: 0.25
+
+# Myyntikanavat. price = hintataso suhteessa kansainväliseen vertailuhintaan (Grailed-taso = 1.0).
+# fee = prosenttipalkkio, fixed = kiinteä per kauppa, ship = myyjän postikulu, liquidity = kuinka
+# todennäköisesti/nopeasti menee tällä hinnalla (alennus neuvotteluun ja odotukseen).
+# Lähteet (11/2026, tarkista ajoittain): Grailed 9 % + maksunvälitys ~3,5 %; Vinted myyjälle 0 €
+# (ostaja maksaa suojan + postin); Tori/Huuto: yksityismyynti ilman palkkiota, Huuto myyntipalkkio ~5-8 %.
+exits:
+  grailed:   {price: 1.00, fee: 0.125, fixed: 0.5, ship: 0,  liquidity: 0.80, only_tiers: [archive, designer], not_categories: [laukku, korut]}  # Grailed = miesten vaatteet/kengät
+  vinted:    {price: 0.70, fee: 0.0,   fixed: 0,   ship: 0,  liquidity: 0.90}
+  # Vestiaire: luksuslaukkujen päämarkkina; myyjän palkkio ~15–25 % (käytetään 20 %), aitoustarkastus nostaa hintaa
+  vestiaire: {price: 1.00, fee: 0.20,  fixed: 0,   ship: 0,  liquidity: 0.85, only_tiers: [archive, designer], only_categories: [laukku, kengät, asuste, korut]}
+  tori:      {price: 0.60, fee: 0.0,   fixed: 0,   ship: 0,  liquidity: 0.95}
+
+# Ostopuolen toimituskulu per lähde (EUR). Sellpy: toimitus pakettiautomaattiin.
+buy_costs:
+  sellpy: 5.9
+  brändi: 5.9
+  haku: 5.9
+  emmy: 5.9
+  tori: 7.0
+  huuto: 8.0
+  tradera: 16.0     # Ruotsista, jos myyjä postittaa Suomeen
+  # markets_eu.py laskee näille jo hinnan perillä (posti, Auctionetin ~25 % provisio, Norjan ALV) → 0 tässä
+  auctionet: 0
+  finn: 0
+  blocket: 0
+  dba: 0
+  marktplaats: 0
+  2dehands: 0
+
+# Ilman mallivertailua brändiarvio on optimistinen (geneerinen kappale myy hitaammin ja halvemmalla).
+generic_factor: 0.75
+
+# Massakollaboraatiot ja diffuusiolinjat: kerroin brändiarvioon, jos sana löytyy eikä mallitaulukko osu.
+# Esim. "Raf Simons x Calvin Klein", "Y-3", "Nike x Acronym" myyvät murto-osalla mainline-hinnasta.
+collab_words: {nike: 0.35, adidas: 0.35, "h&m": 0.2, "h & m": 0.2, uniqlo: 0.15, gu: 0.15, "calvin klein": 0.35,
+               converse: 0.3, puma: 0.35, asics: 0.4, fila: 0.3, eastpak: 0.35, fred perry: 0.4, "y-3": 0.35,
+               vans: 0.35, "the north face": 0.6, moncler genius: 0.7, champion: 0.3, lacoste: 0.4}
+
+# Brändi mainittu vain materiaalina ("tyg Loro Piana", "fabric by ...") → ei brändin tuote.
+fabric_words: [tyg, fabric, kangas, cloth, stoff, fabrics, tissu, kankaasta, lanka, garn, yarn, "tyg från", "ull från"]
+
+# Yahoo! Auctions Japan -toteutuneet (data/comps.json, comps.py): Japani on lattiahinta, EU/Grailed-taso
+# arvioidaan kertoimella. Japanilaiset kotimaiset brändit ovat siellä halvempia → isompi kerroin.
+# Käytetään kun mallitaulukko ei osu ja brändi+kategoria-yhdistelmällä on vähintään min_yahoo_comps kauppaa.
+min_yahoo_comps: 5
+jp_to_eu: 1.15
+jp_domestic_to_eu: 1.4
+# Feikkiriskibrändit (config.yaml markets.fake_risk) yksityismyyjiltä: myyntiarvio × tämä.
+fake_risk_mult: 0.7
+extra_fake_risk: [Goyard, Hermès, Bottega Veneta, Golden Goose, Palm Angels, Amiri, Gallery Dept]
+jp_domestic: [Kapital, Undercover, Yohji Yamamoto, Comme des Garçons, Comme des Garçons Homme, Comme des Garçons Homme Plus,
+              Junya Watanabe, Issey Miyake, Homme Plissé Issey Miyake, Pleats Please, Visvim, Number (N)ine, 45R,
+              Takahiromiyashita The Soloist, Sacai, Kolor, Neighborhood, WTAPS, Hysteric Glamour, Needles, Noir Kei Ninomiya]
+
+# Brändin "taso": archive/designer myyvät kansainvälisesti (Grailed), muut lähinnä Vinted/Tori.
+# Brändit joita ei ole listattu: value >= 200 → archive, >= 90 → designer, muuten mainstream.
+tier_thresholds: {archive: 200, designer: 90}
+
+# Kategoriat, joissa jälleenmyynti toimii huonosti kulujen jälkeen (halpa tuote, paljon tarjontaa).
+low_margin_categories: [t-paita, asuste]
+
+# Mallikohtaiset vertailuhinnat: tyypillinen toteutunut myyntihinta (EUR) käytetylle hyväkuntoiselle
+# kappaleelle Grailedissa/Vestiairessa. Käsin koottu arvio markkinatasosta 2024–2026, ei live-dataa.
+# cats = (valinnainen) vain näissä kategorioissa (laukkumalli ei osu kenkiin).
+# brand = brands.yaml nimi, words = kaikki sanat löydyttävä tuotteen tiedoista (any_words = yksikin riittää).
+# Tarkempi (pidempi) osuma voittaa. why = miksi tämä kannattaa.
+models:
+  - {brand: Rick Owens, words: [geobasket], price: 420, why: "ikoninen malli, myy aina; tarkista feikit (pohjan logo, kielen merkki)"}
+  - {brand: Rick Owens, words: [ramones], price: 240, why: "volyymimalli, nopea myynti"}
+  - {brand: Rick Owens, words: [dunk], price: 380, why: "Dunk-sneakers, kysytty"}
+  - {brand: Rick Owens, any_words: [nahkatakki, leather jacket, skinnjacka, stooges, intarsia leather], price: 900, why: "mainline-nahkatakit ovat Rickin arvokkain kategoria"}
+  - {brand: Rick Owens, any_words: [kiss boots, creatch, army boots, bauhaus], price: 450, why: "mainline-saappaat"}
+  - {brand: Rick Owens, any_words: [drkshdw], price: 110, why: "DRKSHDW on diffuusiolinja, matalampi taso"}
+  - {brand: Maison Margiela, any_words: [tabi], price: 380, why: "Tabi on Margielan likvidein tuote, kengät ja saappaat"}
+  - {brand: Maison Margiela, any_words: [gat, german army trainer, replica], price: 170, why: "Replica/GAT myy hyvin mutta tarjontaa paljon"}
+  - {brand: Maison Margiela, any_words: [artisanal], price: 700, why: "Artisanal = käsityölinja, harvinainen"}
+  - {brand: MM6 Maison Margiela, any_words: [tabi], price: 200}
+  - {brand: Guidi, any_words: ["788z", "988", "995", back zip], price: 520, why: "Guidin back-zip saappaat, kysytyin malli"}
+  - {brand: Guidi, any_words: [pl1, pl2, derby], price: 380}
+  - {brand: Carol Christian Poell, any_words: [object dyed, drip, kengät, boots, saappaat], price: 900, why: "CCP-jalkineet ja object dyed -nahka ovat grail-tasoa"}
+  - {brand: Paul Harnden, any_words: [kengät, shoes, boots, saappaat, derby, oxford], price: 1100, why: "käsintehdyt kengät, pieni tuotanto"}
+  - {brand: Paul Harnden, any_words: [takki, coat, jacket], price: 1300}
+  - {brand: Number (N)ine, any_words: [marlboro, kurt, cobain, "touch me i'm sick", the high streets], price: 900, why: "kulttikokoelmat (AW04-AW06), harvinaisia"}
+  - {brand: Undercover, any_words: [scab, but beautiful, arts & crafts, languid, 85 bear], price: 1000, why: "archive-kokoelmat 1999–2005, korkea kysyntä"}
+  - {brand: Undercover, any_words: [gu, uniqlo, nike, sacai], price: 60, why: "massakollaboraatio, ei arvoa"}
+  - {brand: Helmut Lang, any_words: [bondage, astro, painter, reflective, flak], price: 450, why: "1997–2004 archive-kappaleet"}
+  - {brand: Raf Simons, any_words: [riot, virginia creeper, consumed, peter saville, nebraska, poltergeist], price: 1500, why: "Rafin legendaariset kokoelmat"}
+  - {brand: Raf Simons, any_words: [ozweego, response trail, adidas], price: 90, why: "adidas-kollaboraatio, matala jälleenmyynti"}
+  - {brand: Comme des Garçons, any_words: [converse, play], price: 45, why: "massatuote"}
+  - {brand: Junya Watanabe, any_words: [patchwork, the north face, carhartt, levi's], price: 380, why: "Junyan collab/patchwork myy hyvin"}
+  - {brand: Kapital, any_words: [ring coat, century denim, boro, kountry], price: 450, why: "Kapitalin tunnusmallit"}
+  - {brand: Visvim, any_words: [fbt, christo, virgil boots], price: 400, why: "Visvimin kenkämallit pitävät arvonsa"}
+  - {brand: Jean Paul Gaultier, any_words: [mesh, verkko, tattoo, cyber], price: 320, why: "90-luvun mesh/tattoo-kappaleet ovat viraaleja"}
+  - {brand: Yohji Yamamoto, any_words: [pour homme, gabardine], price: 350}
+  - {brand: Issey Miyake, any_words: [bao bao], price: 180, why: "Bao Bao -laukut, tasainen kysyntä"}
+  - {brand: Issey Miyake, any_words: [homme plisse], price: 160}
+  - {brand: Chrome Hearts, any_words: [sormus, ring, ketju, chain, cross], price: 500, why: "aidot myy hyvin, MUTTA feikkiriski erittäin korkea"}
+  - {brand: Ann Demeulemeester, any_words: [saappaat, boots], price: 380, why: "Annin saappaat ovat brändin likvidein tuote"}
+
+  # ---------- Luksuslaukut (Auctionet, Tradera, Sellpy) ----------
+  # Hinnat: käytetty, hyvä kunto, toteutunut taso Vestiaire/Rebelle/huutokaupat 2024–2026 (käsin koottu arvio).
+  # Laukut ovat ainoa luksuskategoria, jossa käytetyn hinta pysyy lähellä uutta tai yli (Hermès, Chanel Classic Flap),
+  # koska uusia ei saa kaupasta vapaasti ja hinnat nousevat vuosittain. LV/Gucci-volyymimallit: tarjontaa paljon,
+  # kate tulee vain selvästi alle markkinan ostetusta. Feikkiriski on kaikissa korkea: osta vain huutokamarilta
+  # tai aitoustodistuksen kanssa. liquidity 0.95 = myy nopeasti lähes pyyntihintaan (jonotuotteet).
+  - {cats: [laukku], brand: Hermès, words: [birkin], not_words: [lompakko, plånbok, wallet, charm, kello, klocka, watch], liquidity: 0.95, price: 11000, why: "Birkin: käytetty usein uuden hinnan yli, jonotuotteena likvidein luksuslaukku"}
+  - {cats: [laukku], brand: Hermès, words: [kelly], any_words: [väska, laukku, bag, handväska, handbag, sac, käsilaukku, "25", "28", "32", "35"], not_words: [lompakko, plånbok, wallet, pochette, kello, klocka, watch, armband, rannekoru, bracelet, vyö, bälte, belt, cut, depeches], liquidity: 0.95, price: 8500, why: "Kelly: Birkinin rinnalla vahvin arvonsäilyttäjä"}
+  - {cats: [laukku], brand: Hermès, words: [constance], not_words: [lompakko, plånbok, wallet, vyö, bälte, belt], liquidity: 0.95, price: 7000, why: "Constance: jonotuote, käytetty lähellä uutta"}
+  - {cats: [laukku], brand: Hermès, any_words: [lindy], price: 4500}
+  - {cats: [laukku], brand: Hermès, any_words: [bolide], price: 3200, why: "vintage-Bolide, tasainen kysyntä"}
+  - {cats: [laukku], brand: Hermès, any_words: [picotin], price: 2600, why: "Picotin: nopea myynti, käytetty ~uuden hinnan tasolla"}
+  - {cats: [laukku], brand: Hermès, any_words: [evelyne], price: 2100, why: "Evelyne: suosituin 'aloitus-Hermès'"}
+  - {cats: [laukku], brand: Hermès, any_words: [garden party], price: 2000}
+  - {cats: [laukku], brand: Hermès, any_words: [herbag], price: 1700}
+  - {cats: [laukku], brand: Hermès, any_words: [jypsiere], price: 3300}
+  - {cats: [laukku], brand: Hermès, any_words: [kelly depeches, sac a depeches], price: 2500}
+  - {brand: Hermès, any_words: [carre, carré, huivi, scarf, sjal, scarves, twilly], price: 220, why: "silkkihuivi: paljon tarjontaa, huutokaupoissa 150–300 €"}
+  - {cats: [laukku], brand: Chanel, any_words: [classic flap, timeless, "11.12", double flap, medium flap, jumbo], not_words: [lompakko, plånbok, wallet, woc], liquidity: 0.95, price: 6000, why: "Classic Flap: Chanel nostaa uushintaa vuosittain, käytetty seuraa perässä"}
+  - {cats: [laukku], brand: Chanel, any_words: ["2.55", reissue], not_words: [lompakko, plånbok, wallet], price: 4500}
+  - {cats: [laukku], brand: Chanel, any_words: [boy bag, le boy, boy flap], price: 3300}
+  - {cats: [laukku], brand: Chanel, any_words: [wallet on chain, woc], price: 2000, why: "WOC: halvin tie Chaneliin, myy nopeasti"}
+  - {cats: [laukku], brand: Chanel, any_words: [vintage flap, mademoiselle, cc flap, quilted flap, matelassé, matelasse], price: 2800, why: "vintage-flapit (80–90-l.) ovat kysyttyjä"}
+  - {cats: [laukku], brand: Chanel, any_words: [gabrielle, deauville, "19 bag", chanel 19], price: 2300}
+  - {cats: [laukku], brand: Louis Vuitton, any_words: [capucines], price: 2800}
+  - {cats: [laukku], brand: Louis Vuitton, any_words: [petite malle], price: 2800}
+  - {cats: [laukku], brand: Louis Vuitton, any_words: [twist], price: 1700}
+  - {cats: [laukku], brand: Louis Vuitton, any_words: [neverfull], price: 850, why: "Neverfull: suurin volyymi, myy aina mutta kate vain alle ~500 € ostetusta"}
+  - {cats: [laukku], brand: Louis Vuitton, any_words: [keepall], price: 700}
+  - {cats: [laukku], brand: Louis Vuitton, any_words: [alma], price: 700}
+  - {cats: [laukku], brand: Louis Vuitton, any_words: [noe, noé], price: 600}
+  - {cats: [laukku], brand: Louis Vuitton, any_words: [speedy], price: 520, why: "Speedy: hyvin yleinen, vintage-Speedy myy 350–700 €"}
+  - {cats: [laukku], brand: Louis Vuitton, any_words: [pochette accessoires, pochette metis, métis, multi pochette], price: 600}
+  - {cats: [laukku], brand: Louis Vuitton, any_words: [favorite, eva, pochette], price: 450}
+  - {cats: [laukku], brand: Dior, any_words: [lady dior], price: 2400}
+  - {cats: [laukku], brand: Dior, any_words: [saddle], price: 1500, why: "Saddle: Y2K-buumi, galliano-ajan vintage erityisesti"}
+  - {cats: [laukku], brand: Dior, any_words: [book tote], price: 1700}
+  - {cats: [laukku], brand: Gucci, any_words: [jackie], price: 900, why: "vintage Jackie kysytty"}
+  - {cats: [laukku], brand: Gucci, any_words: [horsebit 1955, dionysus, marmont], price: 850}
+  - {cats: [laukku], brand: Gucci, any_words: [bamboo], price: 700}
+  - {cats: [laukku], brand: Prada, any_words: [galleria], price: 1000}
+  - {cats: [laukku], brand: Prada, any_words: [re-edition, re edition, cleo], price: 650}
+  - {cats: [laukku], brand: Bottega Veneta, any_words: [cassette, jodie, the pouch, pouch, arco, sardine], price: 1300, why: "Daniel Lee -ajan mallit pitävät arvonsa"}
+  - {cats: [laukku], brand: Bottega Veneta, any_words: [intrecciato], price: 500}
+  - {cats: [laukku], brand: Celine, any_words: [luggage, belt bag, triomphe, classic box, box bag], price: 1300, why: "Phoebe Philo -ajan Luggage/Box/Belt ovat kysyttyjä"}
+  - {cats: [laukku], brand: Fendi, any_words: [baguette], price: 950, why: "Baguette: Y2K-kysyntä"}
+  - {cats: [laukku], brand: Fendi, any_words: [peekaboo], price: 1900}
+  - {cats: [laukku], brand: Loewe, any_words: [puzzle], price: 1200}
+  - {cats: [laukku], brand: Loewe, any_words: [hammock, flamenco], price: 1000}
+  - {cats: [laukku], brand: Saint Laurent, any_words: [sac de jour], price: 950}
+  - {cats: [laukku], brand: Saint Laurent, any_words: [loulou, kate, niki, college], price: 750}
+  - {cats: [laukku], brand: Goyard, any_words: [saint louis, st louis, st. louis], price: 950, why: "Goyardia ei myydä verkossa uutena → käytetty kysytty, mutta feikkejä paljon"}
+  - {cats: [laukku], brand: Goyard, any_words: [artois, anjou, belvedere, saigon], price: 1400}

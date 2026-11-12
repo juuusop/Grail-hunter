@@ -37,3 +37,11 @@ Mitään avaimia ei tarvitse asettaa. Skripti lukee Sellpyn julkisen hakuavaimen
 | `tests/` | offline-testit |
 
 Vanha FastAPI/Tauri-versio löytyy git-historiasta.
+
+## 💰 Kate (resale.py)
+
+Pisteet kertovat onko hinta halpa; kate kertoo jääkö rahaa käteen. Jokaiseen löytöön lasketaan
+realistinen myyntihinta (mallitaulukko `resale.yaml` → Huuto.netin toteutuneet kaupat → brändiarvio),
+paras myyntikanava (Grailed / Vinted / Tori) palkkioiden ja tinkimisen jälkeen, ja kate = netto − (hinta + toimitus).
+Perustelut näkyvät löydön tiedoissa. Hälytykset järjestetään katteen mukaan.
+Koko lista katteen mukaan: [data/PROFIT.md](data/PROFIT.md) (päivittyy päivittäin).
