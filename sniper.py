@@ -423,7 +423,9 @@ class Evaluator:
         brand = self.matcher.match(raw_brand)
         cats = hit.get("categories") or {}
         cat_text = norm(" ".join(flatten_text(cats)) + " " + first_str(hit.get("title"), dig(hit, "metadata.type"), hit.get("type")))
-        text = norm(" ".join(flatten_text(hit)))
+        # brandClassification/brandGroups describe the brand, not this item: their style words
+        # ("rock", "knitwear"...) made ~360 dresses, caps and sunglasses score as a coat (×1.6)
+        text = norm(" ".join(flatten_text(hit, skip=("images", "objectID", "brandClassification", "brandGroups"))))
         title = first_str(hit.get("title"), hit.get("name")) or " ".join(
             x for x in [raw_brand, first_str(dig(hit, "metadata.type"), hit.get("type")),
                         first_str(dig(hit, "metadata.model"), hit.get("model"))] if x)
