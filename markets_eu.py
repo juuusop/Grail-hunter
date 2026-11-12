@@ -85,7 +85,7 @@ _SIZE_WORD = re.compile(r"\b(?:size|str|stl|strl|storlek|størrelse|maat|mt|koko
 _SIZE_BARE = re.compile(r"(?<![\w-])(XXS|XS|XL|XXL|XXXL|[2-4]XL)(?![\w-])")
 
 
-_SHOE_WORDS = re.compile(r"sko|skor|shoe|sneaker|boot|støvl|stövl|laars|laarz|schoen|kengä|nike|adidas|salomon|"
+_SHOE_WORDS = re.compile(r"sko|skor|shoe|sneaker|boot|støvl|stövl|laars|laarz|schoen|kengä|kenkä|tennar|lenkkar|saapa|nilkkur|nike|adidas|salomon|"
                          r"loafer|derby|sandal|trainer|runner|vapormax|blazer low|dunk|air max|air force", re.I)
 _UK = re.compile(r"\bUK\s?(\d{1,2}(?:[.,]5)?)\b", re.I)
 

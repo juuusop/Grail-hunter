@@ -74,9 +74,12 @@ def thumb(session, url):
         if r.status_code != 200:
             return None
         im = Image.open(io.BytesIO(r.content)).convert("RGB")
-        im.thumbnail((150, 150))
+        w, h = im.size  # centre-crop to square: the Atlas shows square tiles
+        m = min(w, h)
+        im = im.crop(((w - m) // 2, (h - m) // 2, (w - m) // 2 + m, (h - m) // 2 + m))
+        im.thumbnail((120, 120))
         buf = io.BytesIO()
-        im.save(buf, "JPEG", quality=58, optimize=True)
+        im.save(buf, "JPEG", quality=55, optimize=True, progressive=True)
         return "data:image/jpeg;base64," + base64.b64encode(buf.getvalue()).decode()
     except Exception:
         return None
@@ -171,7 +174,9 @@ def deep(cfg):
         out.append(d)
     out.sort(key=lambda d: -d["score"])
     S.log(f"deep: {len(out)} candidates in total")
-    nthumb = int(st.get("scan_thumbs", 3000))
+    # every candidate gets a thumbnail: the Atlas can filter down to any of them,
+    # and the artifact cannot load remote images (CSP), so a missing thumb = no picture
+    nthumb = int(st.get("scan_thumbs") or len(out))
     S.log(f"deep: {len(out)} candidates, fetching thumbnails")
     with ThreadPoolExecutor(8) as pool:
         thumbs = list(pool.map(lambda d: thumb(sp.s, d["image"]), out[:nthumb]))

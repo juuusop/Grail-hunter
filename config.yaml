@@ -48,8 +48,9 @@ settings:
 # Sanat haetaan tuotteen otsikosta, kategoriasta ja kuvauksesta (fi/sv/en).
 categories:
   - {name: nahkatakki, mult: 2.0, words: [nahkatakki, leather jacket, skinnjacka, biker, rider jacket, lammasnahkatakki, shearling]}
+  # kengät ennen takkia: "Nike Blazer Low" (Sacai, Acronym) on kenkä, ei bleiseri
+  - {name: kengät, mult: 1.4, words: [kengät, kenkä, saappaat, saapas, nilkkurit, maiharit, boots, boot, skor, kängor, stövlar, sneakers, tennarit, lenkkarit, loafers, derby, oxford, blazer low, blazer mid]}
   - {name: takki, mult: 1.6, words: [takki, takit, jacket, jacka, parka, coat, kappa, rock, anorakki, anorak, bomber, blazer, bleiseri, untuvatakki, toppatakki, dunjacka, kavaj, trenssi, trench]}
-  - {name: kengät, mult: 1.4, words: [kengät, kenkä, saappaat, saapas, nilkkurit, maiharit, boots, boot, skor, kängor, stövlar, sneakers, tennarit, lenkkarit, loafers, derby, oxford]}
   - {name: laukku, mult: 1.2, words: [laukku, reppu, bag, väska, ryggsäck, backpack, tote, olkalaukku]}
   - {name: neule, mult: 1.0, words: [neule, neuletakki, villapaita, sweater, tröja, stickad, cardigan, knit, pusero]}
   - {name: housut, mult: 0.9, words: [housut, farkut, byxor, jeans, trousers, pants, cargo, shortsit, shorts]}

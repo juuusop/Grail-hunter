@@ -138,3 +138,10 @@ def test_jp_category_mapping():
     assert comps.jp_category(it("その他")) == "muu"
     items = [{"brandId": 1}] * 6 + [{"brandId": 2}] * 2
     assert len(comps.same_brand(items)) == 6
+
+
+def test_title_size_finnish_shoes_and_small_tops():
+    import markets_eu
+    assert markets_eu.title_size("Maison Margiela tennarit koko 45") == "SHOES-EU-45"
+    assert markets_eu.title_size("Puma Hussein Chalayan tunn jacka storlek XS 34") == "MEN-INT-XS"
+    assert not sniper.size_fits(markets_eu.title_size("Nike Blazer Low Acronym str. 37"), {"shoes-eu": [43, 45]})
