@@ -55,9 +55,57 @@
    "title": "3MUSTAPHAS3   – BAM!    orig. EU  1985   EP 12'' 45rpm   BDL",
    "closed": "2026-09-20T20:19:00+0300",
    "ts": 1794441006
+  },
+  "653232778": {
+   "brand": "Colombo",
+   "cat": "muu",
+   "price": 1.5,
+   "title": "Colombo - Rakastunut pari - vanha kortti",
+   "closed": "2026-10-04T10:09:00+0300",
+   "ts": 1794469785
+  },
+  "653190363": {
+   "brand": "Givenchy",
+   "cat": "muu",
+   "price": 1.4,
+   "title": "Hajuvesinäyte  Givenchy Irresistible",
+   "closed": "2026-11-08T14:38:56+0200",
+   "ts": 1794469823
+  },
+  "653190274": {
+   "brand": "Givenchy",
+   "cat": "muu",
+   "price": 1.4,
+   "title": "Hajuvesinäyte Givenchy L'Interdit",
+   "closed": "2026-10-15T01:06:54+0300",
+   "ts": 1794469823
+  },
+  "654327343": {
+   "brand": "Valentino",
+   "cat": "muu",
+   "price": 2.5,
+   "title": "Purkkakuva Pnda CATERINA VALENTE/Oh Valentino",
+   "closed": "2026-11-06T17:43:00+0200",
+   "ts": 1794469825
+  },
+  "653080452": {
+   "brand": "Valentino",
+   "cat": "muu",
+   "price": 1.4,
+   "title": "Hajuvesinäyte Valentino Donna Born in Roma Intense",
+   "closed": "2026-10-08T20:12:10+0300",
+   "ts": 1794469825
+  },
+  "653079951": {
+   "brand": "Valentino",
+   "cat": "muu",
+   "price": 1.2,
+   "title": "Hajuvesinäyte Valentino Born in Roma miehille",
+   "closed": "2026-10-18T05:15:59+0300",
+   "ts": 1794469825
   }
  },
- "i": 120,
+ "i": 160,
  "groups": {
   "Carpe Diem|muu": {
    "n": 1,
@@ -94,7 +142,25 @@
    "median": 5.0,
    "p25": 5.0,
    "p75": 5.0
+  },
+  "Colombo|muu": {
+   "n": 1,
+   "median": 1.5,
+   "p25": 1.5,
+   "p75": 1.5
+  },
+  "Givenchy|muu": {
+   "n": 2,
+   "median": 1.4,
+   "p25": 1.4,
+   "p75": 1.4
+  },
+  "Valentino|muu": {
+   "n": 3,
+   "median": 1.4,
+   "p25": 1.2,
+   "p75": 2.5
   }
  },
- "generated": 1794441022
+ "generated": 1794469857
 }
