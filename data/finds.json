@@ -1,5 +1,124 @@
 [
  {
+  "id": "ysDrjeC331",
+  "brand": "Tom Ford",
+  "title": "Tom Ford Silmälasit TF5042",
+  "price": 65.0,
+  "value": 180,
+  "score": 2.77,
+  "label": "🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "Hyvä",
+  "size": "-",
+  "link": "https://www.sellpy.fi/item/ysDrjeC331",
+  "image": "https://prod.images.sellpy.net/photoRobot-manual-7-k-21/s9ZUjXGt6v-11d0-single.jpg",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 125 €",
+   "Japanissa myyty (muu) mediaani 73 € (n=61)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794512892,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": []
+ },
+ {
+  "id": "joQyAxH0dA",
+  "brand": "Patagonia",
+  "title": "Patagonia Shortsit",
+  "price": 14.0,
+  "value": 54,
+  "score": 3.86,
+  "label": "🔥 KOVA DIILI",
+  "category": "housut",
+  "condition": "Erittäin hyvä",
+  "size": "WMN-INT-XL",
+  "link": "https://www.sellpy.fi/item/joQyAxH0dA",
+  "image": "https://prod.images.sellpy.net/photoRobot-hanging-8-k-3/vlMFUjLNtb-8152-0.jpg",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 68 €",
+   "kate ~6 € (ROI 28%, myy vinted ~28 €; brändiarvio ~40 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794512892,
+  "resale": 28,
+  "profit": 6,
+  "roi": 0.28,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~40 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~28 € → käteen ~26 € kulujen ja tinkimisen jälkeen",
+   "osto 14 € + toimitus = 20 €"
+  ]
+ },
+ {
+  "id": "u7YcEldYCr",
+  "brand": "Santoni",
+  "title": "Santoni Loafers",
+  "price": 83.0,
+  "value": 193,
+  "score": 2.33,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "Hyväksyttävä",
+  "size": "SHOES-EU-43.5",
+  "link": "https://www.sellpy.fi/item/u7YcEldYCr",
+  "image": "https://prod.images.sellpy.net/photoRobot-case-14-k-12/PvlOIlrqz1-b9a9-0.jpg",
+  "reasons": [
+   "nahka ×1.1",
+   "leather ×1.1",
+   "Sellpyn mediaani tälle brändille 102 €",
+   "kate ~12 € (ROI 13%, myy grailed ~145 €; brändiarvio ~145 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794512892,
+  "resale": 145,
+  "profit": 12,
+  "roi": 0.13,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~145 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~145 € → käteen ~101 € kulujen ja tinkimisen jälkeen",
+   "osto 83 € + toimitus = 89 €"
+  ]
+ },
+ {
+  "id": "UufMHKauVm",
+  "brand": "Stenströms",
+  "title": "Stenströms Kauluspaita",
+  "price": 11.0,
+  "value": 38,
+  "score": 3.45,
+  "label": "🔥 KOVA DIILI",
+  "category": "kauluspaita",
+  "condition": "Hyväksyttävä",
+  "size": "MEN-INT-L",
+  "link": "https://www.sellpy.fi/item/UufMHKauVm",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-9/UufMHKauVm-c7d8-0.jpg",
+  "reasons": [
+   "Sellpyn mediaani tälle brändille 37 €",
+   "kate ~1 € (ROI 6%, myy vinted ~20 €; brändiarvio ~28 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794512892,
+  "resale": 20,
+  "profit": 1,
+  "roi": 0.06,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~28 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~20 € → käteen ~18 € kulujen ja tinkimisen jälkeen",
+   "osto 11 € + toimitus = 17 €"
+  ]
+ },
+ {
   "id": "Gtqwuc4vqV",
   "brand": "Heron Preston",
   "title": "Heron Preston Vaelluskengät",
