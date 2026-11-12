@@ -366,6 +366,8 @@ class Evaluator:
         self.rare_words = cfg.get("rare_words", [])
         self.gboost = {k: float(v) for k, v in (cfg.get("global_boost") or {}).items()}
         self.buy_source = "sellpy"   # markets.py sets this per listing (delivery cost differs)
+        # real sold prices from Japan (comps.py); shown in reasons, not used for scoring
+        self.comps = (load_json(DATA / "comps.json", {}) or {}).get("brands", {})
         # Name collisions: if Sellpy's own median for a brand is under 10 % of the value we
         # assume (e.g. "Casablanca", "Bless", "Tao"), most of its stock is a different,
         # cheap label. Cap the value at 3x the Sellpy median so those stop looking like deals.
@@ -502,6 +504,13 @@ class Evaluator:
             if price > cap and not rare:
                 return None
             reasons.append(f"Sellpyn mediaani tälle brändille {stats['median']:.0f} €")
+        comp = self.comps.get(name) if not hunt else None
+        if comp:
+            cc = (comp.get("cats") or {}).get(cat)
+            if cc:
+                reasons.append(f"Japanissa myyty ({cat}) mediaani {cc['median']} € (n={cc['n']})")
+            else:
+                reasons.append(f"Japanissa myyty mediaani {comp['median']} € (n={comp['n']})")
         score = est / price
         if self.max_price is not None and price > float(self.max_price):
             return None

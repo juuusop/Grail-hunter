@@ -124,3 +124,17 @@ def test_size_fits():
     assert sniper.size_fits("SHOES-EU-44.5", rules) and not sniper.size_fits("SHOES-EU-41", rules)
     assert not sniper.size_fits("PANTS-INCH-32", rules) and sniper.size_fits("PANTS-INCH-38", rules)
     assert sniper.size_fits("ONE SIZE", rules) and sniper.size_fits("-", rules) and sniper.size_fits("", rules)
+
+
+def test_jp_category_mapping():
+    import comps
+    def it(*names):
+        return {"categoryPath": [{"name": n} for n in names]}
+    assert comps.jp_category(it("ファッション", "男性用", "レザージャケット")) == "nahkatakki"
+    assert comps.jp_category(it("男性用", "Tシャツ、カットソー", "半袖")) == "t-paita"
+    assert comps.jp_category(it("男性用", "長袖シャツ")) == "kauluspaita"
+    assert comps.jp_category(it("男性用", "帽子", "ニット帽")) == "asuste"
+    assert comps.jp_category(it("男性用", "スニーカー")) == "kengät"
+    assert comps.jp_category(it("その他")) == "muu"
+    items = [{"brandId": 1}] * 6 + [{"brandId": 2}] * 2
+    assert len(comps.same_brand(items)) == 6

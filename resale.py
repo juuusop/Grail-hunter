@@ -170,7 +170,7 @@ def evaluate(brand: str, category: str, price: float, value: float, text: str,
         if not yc:
             head = f"brändiarvio ~{intl:.0f} € (ei mallivertailua eikä Yahoo-dataa)"
         why.insert(0, head)
-    if buy_source in ("tori", "huuto", "tradera") and \
+    if buy_source in ("tori", "huuto", "tradera", "blocket", "finn", "dba", "marktplaats", "2dehands") and \
             S.norm(brand) in {S.norm(x) for x in ((core_cfg().get("markets") or {}).get("fake_risk") or [])
                               + (c.get("extra_fake_risk") or [])}:
         fr = float(c.get("fake_risk_mult", 0.7))
