@@ -1,5 +1,269 @@
 [
  {
+  "id": "tradera-760862238",
+  "brand": "Maison Margiela · Tradera 🇸🇪",
+  "title": "Maison Margiela 5AC Bucket Bag – Vit",
+  "price": 96.22,
+  "value": 370,
+  "score": 3.85,
+  "label": "🔥 KOVA DIILI",
+  "category": "laukku",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/302662/760862238/maison-margiela-5ac-bucket-bag-vit",
+  "image": "https://img.tradera.net/images/950/668135950_76c21217-b76d-4e9d-8129-933b62cedfd3.jpg",
+  "reasons": [
+   "taso A",
+   "5ac ×1.3",
+   "Sellpyn mediaani tälle brändille 120 €",
+   "Japanissa myyty mediaani 112 € (n=44)",
+   "kate ~20 € (ROI 18%, myy vestiaire ~194 €; brändiarvio ~278 € (ei mallivertailua eikä Yahoo-dataa))",
+   "1106 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794605419,
+  "resale": 194,
+  "profit": 20,
+  "roi": 0.18,
+  "exit": "vestiaire",
+  "resale_why": [
+   "brändiarvio ~278 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti vestiaire ~194 € → käteen ~132 € kulujen ja tinkimisen jälkeen",
+   "osto 96 € + toimitus = 112 €"
+  ],
+  "risk": {
+   "fake": 64,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "laukku: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761009956",
+  "brand": "MM6 Maison Margiela · Tradera 🇸🇪",
+  "title": "Supreme / MM6 Maison Margiela T-shirt",
+  "price": 26.1,
+  "value": 68,
+  "score": 2.62,
+  "label": "🔥 KOVA DIILI",
+  "category": "kauluspaita",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1000652/761009956/supreme-mm6-maison-margiela-t-shirt",
+  "image": "https://img.tradera.net/images/893/668252893_24c4ed3a-4747-43bb-92c9-5787002b8961.jpg",
+  "reasons": [
+   "taso C",
+   "⚠️ kate ~-7 € (ROI -16%, myy grailed ~51 €; brändiarvio ~51 € (ei mallivertailua eikä Yahoo-dataa))",
+   "300 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794605419,
+  "resale": 51,
+  "profit": -7,
+  "roi": -0.16,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~51 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~51 € → käteen ~35 € kulujen ja tinkimisen jälkeen",
+   "osto 26 € + toimitus = 42 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-755966541",
+  "brand": "Bottega Veneta · Tradera 🇸🇪",
+  "title": "Bottega Veneta kängor (stlk 43)",
+  "price": 174.0,
+  "value": 399,
+  "score": 2.29,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340304/755966541/bottega-veneta-kangor-stlk-43-",
+  "image": "https://img.tradera.net/images/610/664300610_61ed21af-2a66-4bc7-a02b-a766f8b9687f.jpg",
+  "reasons": [
+   "taso A",
+   "veneta ×1.2",
+   "Sellpyn mediaani tälle brändille 159 €",
+   "Japanissa myyty (kengät) mediaani 61 € (n=6)",
+   "⚠️ kate ~-167 € (ROI -88%, myy grailed ~34 €; Yahoo JP toteutuneet (kengät): mediaani 61 €, p25 27 € (n=6) → geneerinen ~44 € × 1.15 EU-taso)",
+   "2000 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794605419,
+  "resale": 34,
+  "profit": -167,
+  "roi": -0.88,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 61 €, p25 27 € (n=6) → geneerinen ~44 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~34 € → käteen ~23 € kulujen ja tinkimisen jälkeen",
+   "osto 174 € + toimitus = 190 €"
+  ],
+  "risk": {
+   "fake": 42,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-760948647",
+  "brand": "Tom Ford · Tradera 🇸🇪",
+  "title": "Sneakers, Tom Ford vit/blå stlk 10,5 , 44,5",
+  "price": 87.0,
+  "value": 332,
+  "score": 3.82,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340304/760948647/sneakers-tom-ford-vit-bla-stlk-10-5-44-5",
+  "image": "https://img.tradera.net/images/885/668203885_26b14d72-a2f5-40cc-9dcf-6f937a0c420c.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 125 €",
+   "Japanissa myyty mediaani 73 € (n=73)",
+   "💰 kate ~71 € (ROI 69%, myy grailed ~249 €; brändiarvio ~249 € (ei mallivertailua eikä Yahoo-dataa))",
+   "1000 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794605419,
+  "resale": 249,
+  "profit": 71,
+  "roi": 0.69,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~249 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~249 € → käteen ~174 € kulujen ja tinkimisen jälkeen",
+   "osto 87 € + toimitus = 103 €"
+  ],
+  "risk": {
+   "fake": 23,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-759082758",
+  "brand": "Brunello Cucinelli · Tradera 🇸🇪",
+  "title": "Brunello Cucinelli cashmere tröja",
+  "price": 86.91,
+  "value": 285,
+  "score": 3.28,
+  "label": "🔥 KOVA DIILI",
+  "category": "neule",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1000727/759082758/brunello-cucinelli-cashmere-troja",
+  "image": "https://img.tradera.net/images/639/666741639_d7a32e1c-ace5-4bb4-ada6-9e2dbb479c14.jpg",
+  "reasons": [
+   "taso A",
+   "cashmere ×1.2",
+   "Sellpyn mediaani tälle brändille 120 €",
+   "Japanissa myyty mediaani 184 € (n=60)",
+   "kate ~46 € (ROI 45%, myy grailed ~214 €; brändiarvio ~214 € (ei mallivertailua eikä Yahoo-dataa))",
+   "999 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794605419,
+  "resale": 214,
+  "profit": 46,
+  "roi": 0.45,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~214 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~214 € → käteen ~149 € kulujen ja tinkimisen jälkeen",
+   "osto 87 € + toimitus = 103 €"
+  ],
+  "risk": {
+   "fake": 22,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "dba-26296802",
+  "brand": "Celine · DBA 🇩🇰",
+  "title": "Lille Celine taske",
+  "price": 84.89,
+  "value": 201,
+  "score": 2.36,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.dba.dk/recommerce/forsale/item/26296802",
+  "image": "https://images.dbastatic.dk/dynamic/default/item/26296802/791d3c60-5db8-4fb9-bd4d-73f5fdd9ea0d",
+  "reasons": [
+   "taso A",
+   "céline ×1.2",
+   "Sellpyn mediaani tälle brändille 157 €",
+   "Japanissa myyty (muu) mediaani 74 € (n=15)",
+   "⚠️ kate ~-62 € (ROI -73%, myy grailed ~34 €; Yahoo JP toteutuneet (muu): mediaani 74 €, p25 14 € (n=15) → geneerinen ~44 € × 1.15 EU-taso)",
+   "500 DKK + ~18 € posti = 85 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "dba",
+  "old_price": null,
+  "ts": 1794605419,
+  "resale": 34,
+  "profit": -62,
+  "roi": -0.73,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 74 €, p25 14 € (n=15) → geneerinen ~44 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~34 € → käteen ~23 € kulujen ja tinkimisen jälkeen",
+   "osto 85 € + toimitus = 85 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
   "id": "x5XegdN3id",
   "brand": "Raf Simons",
   "title": "Raf Simons T-paita",
