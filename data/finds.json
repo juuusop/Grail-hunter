@@ -1,5 +1,593 @@
 [
  {
+  "id": "tradera-760891614",
+  "brand": "The Row · Tradera 🇸🇪",
+  "title": "The Row-sneakers",
+  "price": 93.96,
+  "value": 399,
+  "score": 4.25,
+  "label": "🚨 INSANE",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340303/760891614/the-row-sneakers",
+  "image": "https://img.tradera.net/images/559/668160559_9661cfee-abb3-4d46-bdee-4549cb5fd74b.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 167 €",
+   "Japanissa myyty (kengät) mediaani 94 € (n=6)",
+   "⚠️ kate ~-53 € (ROI -48%, myy grailed ~82 €; Yahoo JP toteutuneet (kengät): mediaani 94 €, p25 56 € (n=6) → geneerinen ~75 € × 1.15 EU-taso)",
+   "1080 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794581914,
+  "resale": 82,
+  "profit": -53,
+  "roi": -0.48,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 94 €, p25 56 € (n=6) → geneerinen ~75 € × 1.15 EU-taso",
+   "myynti grailed ~82 € → käteen ~57 € kulujen ja tinkimisen jälkeen",
+   "osto 94 € + toimitus = 110 €"
+  ],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "blocket-28176804",
+  "brand": "Canada Goose · Blocket 🇸🇪",
+  "title": "Canada goose jacka",
+  "price": 173.18,
+  "value": 380,
+  "score": 2.19,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.blocket.se/recommerce/forsale/item/28176804",
+  "image": "https://images.blocketcdn.se/dynamic/default/item/28176804/63bd3a92-9ccf-42e7-9f41-3877de3e058f",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 164 €",
+   "Japanissa myyty (takki) mediaani 220 € (n=30)",
+   "⚠️ kate ~-69 € (ROI -40%, myy grailed ~150 €; Yahoo JP toteutuneet (takki): mediaani 220 €, p25 172 € (n=30) → geneerinen ~196 € × 1.15 EU-taso)",
+   "1750 SEK + ~15 € posti = 173 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "blocket",
+  "old_price": null,
+  "ts": 1794581915,
+  "resale": 150,
+  "profit": -69,
+  "roi": -0.4,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 220 €, p25 172 € (n=30) → geneerinen ~196 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~150 € → käteen ~104 € kulujen ja tinkimisen jälkeen",
+   "osto 173 € + toimitus = 173 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2465131975",
+  "brand": "Tom Ford · Marktplaats 🇳🇱",
+  "title": "Tom Ford Quad Nr 42 Hazy Sensuality",
+  "price": 60.0,
+  "value": 210,
+  "score": 3.5,
+  "label": "🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/uiterlijk-cosmetica-en-make-up/m2465131975-tom-ford-quad-nr-42-hazy-sensuality",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/7af7671a-9936-425a-b4bf-811437a62459?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 125 €",
+   "Japanissa myyty (muu) mediaani 73 € (n=61)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "40 EUR + ~20 € posti = 60 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794581915,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 22,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2465061289",
+  "brand": "Tom Ford · Marktplaats 🇳🇱",
+  "title": "Tom Ford - Soleil Neige edp 50 ml",
+  "price": 70.0,
+  "value": 200,
+  "score": 2.86,
+  "label": "🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/uiterlijk-parfum/m2465061289-tom-ford-soleil-neige-edp-50-ml",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/514902be-03f6-4b3f-b546-716b518f5edd?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 125 €",
+   "Japanissa myyty (muu) mediaani 73 € (n=61)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "50 EUR + ~20 € posti = 70 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794581915,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 18,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2464397701",
+  "brand": "Canada Goose · Marktplaats 🇳🇱",
+  "title": "Canada goose MacMillan",
+  "price": 150.0,
+  "value": 400,
+  "score": 2.67,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/jassen-winter/m2464397701-canada-goose-macmillan",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/c633f806-3154-46b7-8474-9237d82d7759?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 164 €",
+   "Japanissa myyty (takki) mediaani 220 € (n=30)",
+   "⚠️ kate ~-40 € (ROI -27%, myy grailed ~158 €; Yahoo JP toteutuneet (takki): mediaani 220 €, p25 172 € (n=30) → geneerinen ~196 € × 1.15 EU-taso)",
+   "130 EUR + ~20 € posti = 150 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794581915,
+  "resale": 158,
+  "profit": -40,
+  "roi": -0.27,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 220 €, p25 172 € (n=30) → geneerinen ~196 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~158 € → käteen ~110 € kulujen ja tinkimisen jälkeen",
+   "osto 150 € + toimitus = 150 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2465372915",
+  "brand": "Canada Goose · Marktplaats 🇳🇱",
+  "title": "Canada Goose MacMillan Parka Zwart Maat L Nieuw",
+  "price": 100.0,
+  "value": 420,
+  "score": 4.2,
+  "label": "🚨 INSANE",
+  "category": "takki",
+  "condition": "Nieuw",
+  "size": "MEN-INT-L",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/jassen-winter/m2465372915-canada-goose-macmillan-parka-zwart-maat-l-nieuw",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/5fb8ed06-8e9f-4d0d-9947-46876ab15052?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 164 €",
+   "Japanissa myyty (takki) mediaani 220 € (n=30)",
+   "kate ~15 € (ROI 15%, myy grailed ~166 €; Yahoo JP toteutuneet (takki): mediaani 220 €, p25 172 € (n=30) → geneerinen ~196 € × 1.15 EU-taso)",
+   "80 EUR + ~20 € posti = 100 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794581915,
+  "resale": 166,
+  "profit": 15,
+  "roi": 0.15,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 220 €, p25 172 € (n=30) → geneerinen ~196 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~166 € → käteen ~115 € kulujen ja tinkimisen jälkeen",
+   "osto 100 € + toimitus = 100 €"
+  ],
+  "risk": {
+   "fake": 50,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2465099252",
+  "brand": "Thierry Mugler · Marktplaats 🇳🇱",
+  "title": "Thierry Mugler Aktetas - Zwart, Nieuw",
+  "price": 35.0,
+  "value": 294,
+  "score": 8.4,
+  "label": "🚨 INSANE",
+  "category": "muu",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/tassen-rugtassen/m2465099252-thierry-mugler-aktetas-zwart-nieuw",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/2b2cd977-12be-4dc5-bb7c-3167fd2b4501?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "thierry ×1.4",
+   "Sellpyn mediaani tälle brändille 84 €",
+   "Japanissa myyty (muu) mediaani 135 € (n=57)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "15 EUR + ~20 € posti = 35 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794581915,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "marktplaats-m2464976759",
+  "brand": "Thierry Mugler · Marktplaats 🇳🇱",
+  "title": "Aktentas/laptop tas  merk Thierry Mugler  compleet.",
+  "price": 40.0,
+  "value": 280,
+  "score": 7.0,
+  "label": "🚨 INSANE",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/tassen-schoudertassen/m2464976759-aktentas-laptop-tas-merk-thierry-mugler-compleet",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/5c45b650-9fc1-47d8-aa9f-87e365a5ef43?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "thierry ×1.4",
+   "Sellpyn mediaani tälle brändille 84 €",
+   "Japanissa myyty (muu) mediaani 135 € (n=57)",
+   "kate ~34 € (ROI 84%, myy grailed ~106 €; Yahoo JP toteutuneet (muu): mediaani 135 €, p25 49 € (n=57) → geneerinen ~92 € × 1.15 EU-taso)",
+   "20 EUR + ~20 € posti = 40 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794581915,
+  "resale": 106,
+  "profit": 34,
+  "roi": 0.84,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 135 €, p25 49 € (n=57) → geneerinen ~92 € × 1.15 EU-taso",
+   "myynti grailed ~106 € → käteen ~74 € kulujen ja tinkimisen jälkeen",
+   "osto 40 € + toimitus = 40 €"
+  ],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "2dehands-m2464653032",
+  "brand": "Canada Goose · 2dehands 🇧🇪",
+  "title": "Canada goose L",
+  "price": 100.0,
+  "value": 200,
+  "score": 2.0,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/kleding-heren/jassen-winter/m2464653032-canada-goose-l",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/3574081d-62f8-42d1-92e1-c9ca4edfa4c0?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 164 €",
+   "Japanissa myyty (muu) mediaani 218 € (n=52)",
+   "⚠️ kate ~-3 € (ROI -3%, myy grailed ~139 €; Yahoo JP toteutuneet (muu): mediaani 218 €, p25 128 € (n=52) → geneerinen ~173 € × 1.15 EU-taso)",
+   "80 EUR + ~20 € posti = 100 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1794581915,
+  "resale": 139,
+  "profit": -3,
+  "roi": -0.03,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 218 €, p25 128 € (n=52) → geneerinen ~173 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~139 € → käteen ~97 € kulujen ja tinkimisen jälkeen",
+   "osto 100 € + toimitus = 100 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2465174679",
+  "brand": "Canada Goose · 2dehands 🇧🇪",
+  "title": "canada goose gewateerde jas",
+  "price": 100.0,
+  "value": 200,
+  "score": 2.0,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/kleding-heren/jassen-winter/m2465174679-canada-goose-gewateerde-jas",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/f2a853d6-03e0-4a1e-bb15-f62c5873cb22?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 164 €",
+   "Japanissa myyty (muu) mediaani 218 € (n=52)",
+   "⚠️ kate ~-3 € (ROI -3%, myy grailed ~139 €; Yahoo JP toteutuneet (muu): mediaani 218 €, p25 128 € (n=52) → geneerinen ~173 € × 1.15 EU-taso)",
+   "80 EUR + ~20 € posti = 100 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1794581915,
+  "resale": 139,
+  "profit": -3,
+  "roi": -0.03,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 218 €, p25 128 € (n=52) → geneerinen ~173 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~139 € → käteen ~97 € kulujen ja tinkimisen jälkeen",
+   "osto 100 € + toimitus = 100 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2465029485",
+  "brand": "Canada Goose · 2dehands 🇧🇪",
+  "title": "canada goose",
+  "price": 95.0,
+  "value": 210,
+  "score": 2.21,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/kleding-heren/jassen-winter/m2465029485-canada-goose",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/5b54aeee-1646-41b9-88dc-7187bf505957?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 164 €",
+   "Japanissa myyty (muu) mediaani 218 € (n=52)",
+   "kate ~7 € (ROI 7%, myy grailed ~146 €; Yahoo JP toteutuneet (muu): mediaani 218 €, p25 128 € (n=52) → geneerinen ~173 € × 1.15 EU-taso)",
+   "75 EUR + ~20 € posti = 95 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1794581915,
+  "resale": 146,
+  "profit": 7,
+  "roi": 0.07,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 218 €, p25 128 € (n=52) → geneerinen ~173 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~146 € → käteen ~102 € kulujen ja tinkimisen jälkeen",
+   "osto 95 € + toimitus = 95 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2464255283",
+  "brand": "Canada Goose · 2dehands 🇧🇪",
+  "title": "Canada goose bodywarmer",
+  "price": 95.0,
+  "value": 210,
+  "score": 2.21,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/kleding-heren/bodywarmers/m2464255283-canada-goose-bodywarmer",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/aaf8b931-2c10-462e-b9be-cc0463d3f0f1?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 164 €",
+   "Japanissa myyty (muu) mediaani 218 € (n=52)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "75 EUR + ~20 € posti = 95 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1794581915,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2462978995",
+  "brand": "Canada Goose · 2dehands 🇧🇪",
+  "title": "Canada goose jacket",
+  "price": 180.0,
+  "value": 400,
+  "score": 2.22,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/kleding-heren/bodywarmers/m2462978995-canada-goose-jacket",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/587a0686-5b80-47a9-86ba-b0548da6d1d2?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 164 €",
+   "Japanissa myyty (takki) mediaani 220 € (n=30)",
+   "⚠️ kate ~-70 € (ROI -39%, myy grailed ~158 €; Yahoo JP toteutuneet (takki): mediaani 220 €, p25 172 € (n=30) → geneerinen ~196 € × 1.15 EU-taso)",
+   "160 EUR + ~20 € posti = 180 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1794581915,
+  "resale": 158,
+  "profit": -70,
+  "roi": -0.39,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 220 €, p25 172 € (n=30) → geneerinen ~196 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~158 € → käteen ~110 € kulujen ja tinkimisen jälkeen",
+   "osto 180 € + toimitus = 180 €"
+  ],
+  "risk": {
+   "fake": 80,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "tekstissä 'replica'",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2462377246",
+  "brand": "Canada Goose · 2dehands 🇧🇪",
+  "title": "Canada Goose zwarte jas zonder mouwen",
+  "price": 100.0,
+  "value": 200,
+  "score": 2.0,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/kleding-heren/bodywarmers/m2462377246-canada-goose-zwarte-jas-zonder-mouwen",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/e5edd850-c3ff-4c68-8b39-786dc7d50f3b?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 164 €",
+   "Japanissa myyty (muu) mediaani 218 € (n=52)",
+   "⚠️ kate ~-3 € (ROI -3%, myy grailed ~139 €; Yahoo JP toteutuneet (muu): mediaani 218 €, p25 128 € (n=52) → geneerinen ~173 € × 1.15 EU-taso)",
+   "80 EUR + ~20 € posti = 100 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1794581915,
+  "resale": 139,
+  "profit": -3,
+  "roi": -0.03,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 218 €, p25 128 € (n=52) → geneerinen ~173 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~139 € → käteen ~97 € kulujen ja tinkimisen jälkeen",
+   "osto 100 € + toimitus = 100 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "Z8jFPSef6n",
   "brand": "Kolor",
   "title": "Kolor Varastointi",
