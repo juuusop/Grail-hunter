@@ -1,0 +1,45 @@
+name: Atlas images
+
+# Sharp (360 px) pictures for the Grail Atlas artifact: every other-marketplace find + best Sellpy finds.
+# Result is force-pushed to the orphan branch `atlas-images` (single commit, keeps main small).
+on:
+  workflow_run:
+    workflows: ["Deep scan"]
+    types: [completed]
+  schedule:
+    - cron: "50 5 * * *"   # daily, picks up new marketplace finds
+  push:
+    branches: [claude/designer-thrift-scraper-KF3Wi]
+    paths: [hires.py, .github/workflows/atlas-images.yml]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atlas-images
+  cancel-in-progress: true
+
+jobs:
+  images:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: claude/designer-thrift-scraper-KF3Wi
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt Pillow
+      - run: python hires.py "$RUNNER_TEMP/atlas-images"
+      - name: Push orphan branch
+        run: |
+          cd "$RUNNER_TEMP/atlas-images"
+          git init -q -b atlas-images
+          git config user.name "grail-hunter-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Atlas images [skip ci]"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" atlas-images
