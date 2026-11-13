@@ -1,6 +1,6 @@
 # 🦅 Grail Hunter: löydöt
 
-Päivitetty 12.11.2026 23:57 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi olla jo myyty.
+Päivitetty 13.11.2026 00:41 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi olla jo myyty.
 
 ## 🔥 Viikon parhaat
 
@@ -51,6 +51,7 @@ Päivitetty 12.11.2026 23:57 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi oll
 
 | | Löytö | Hinta | Pisteet | Tyyppi / koko | Löydetty (UTC) |
 |---|---|---|---|---|---|
+| <a href="https://www.sellpy.fi/item/PKfY599TRA"><img src="https://prod.images.sellpy.net/photoRobot-case-14-l-2/E7GeOlSMW8-a3a1-0.jpg" width="90"></a> | ✅ DIILI<br>**[Jean Paul Gaultier](https://www.sellpy.fi/item/PKfY599TRA)**<br>Jean Paul Gaultier Käsilaukku | **65 €**<br>arvio ~162 €<br>kate ~-36 € | 2.49 | laukku<br>- | 13.11. 00:41 |
 | <a href="https://www.tradera.com/item/343991/759159478/momotaro-hoodie-l-svart-gtb-stripes"><img src="https://img.tradera.net/images/314/666802314_cf43c736-3a52-4dca-8400-24abfb906bad.jpg" width="90"></a> | ✅ DIILI<br>**[Momotaro · Tradera 🇸🇪](https://www.tradera.com/item/343991/759159478/momotaro-hoodie-l-svart-gtb-stripes)**<br>Momotaro Hoodie L Svart GTB stripes | **61 €**<br>arvio ~139 €<br>kate ~-4 € | 2.28 | huppari<br>- | 12.11. 23:57 |
 | <a href="https://www.tradera.com/item/1001005/714883576/sportmax-vintage-black-and-white-chunky-knit-ladies-beret-size-small-to-medium"><img src="https://img.tradera.net/images/441/632378441_2e2d8131-24e8-4767-b6eb-751974351984.jpg" width="90"></a> | 🔥 KOVA DIILI<br>**[Sportmax · Tradera 🇸🇪](https://www.tradera.com/item/1001005/714883576/sportmax-vintage-black-and-white-chunky-knit-ladies-beret-size-small-to-medium)**<br>Sportmax vintage black and white chunky-knit ladies beret-Si | **26 €**<br>arvio ~66 €<br>kate ~-11 € | 2.56 | neule<br>- | 12.11. 23:57 |
 | <a href="https://www.tradera.com/item/340304/754785916/r-m-williams-chelsea-boots-sand-taupe-stl-8-5-originalsula-made-in-aust"><img src="https://img.tradera.net/images/242/663367242_3ec6d13c-8e03-4918-9140-c107401a2f14.jpg" width="90"></a> | ✅ DIILI<br>**[R.M. Williams · Tradera 🇸🇪](https://www.tradera.com/item/340304/754785916/r-m-williams-chelsea-boots-sand-taupe-stl-8-5-originalsula-made-in-aust)**<br>R.M. Williams Chelsea Boots – Sand/Taupe – Stl 8,5 – Origina | **84 €**<br>arvio ~200 €<br>kate ~-71 € | 2.37 | kengät<br>- | 12.11. 23:57 |
@@ -110,4 +111,3 @@ Päivitetty 12.11.2026 23:57 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi oll
 | <a href="https://www.sellpy.fi/item/PnmKvd37qR"><img src="https://prod.images.sellpy.net/photoRobot-fixed-11-k-11/xXV8JdBhsi-a157-0-timed-sequence.jpg" width="90"></a> | ✅ DIILI<br>**[Missoni](https://www.sellpy.fi/item/PnmKvd37qR)**<br>Missoni Pyyhe | **29 €**<br>arvio ~65 € | 2.23 | muu<br>- | 12.11. 22:42 |
 | <a href="https://www.sellpy.fi/item/BgOFfyHrnK"><img src="https://prod.images.sellpy.net/photoRobot-standard-7-k-7/6aDc8Pl1aW-a1fe-0.jpg" width="90"></a> | 🔥 KOVA DIILI<br>**[The North Face](https://www.sellpy.fi/item/BgOFfyHrnK)**<br>The North Face Fleece-paita | **14 €**<br>arvio ~45 €<br>kate ~1 € | 3.21 | neule<br>WMN-INT-XL | 12.11. 22:42 |
 | <a href="https://www.sellpy.fi/item/8bI1IBtmoS"><img src="https://prod.images.sellpy.net/photoRobot-standard-3-k-9/53GDwtuSrt-0f4d-0.jpg" width="90"></a> | ✅ DIILI<br>**[The North Face](https://www.sellpy.fi/item/8bI1IBtmoS)**<br>The North Face Collegepaita | **11 €**<br>arvio ~26 €<br>kate ~-5 €<br>🩹 kunto: kulunut | 2.39 | huppari<br>MEN-INT-XXL | 12.11. 22:42 |
-| <a href="https://www.sellpy.fi/item/jEnTGr3Qel"><img src="https://prod.images.sellpy.net/photoRobot-standard-1-k-6/d3IkZirFZS-f4b2-0.jpg" width="90"></a> | 🚨 INSANE<br>**[C.P. Company](https://www.sellpy.fi/item/jEnTGr3Qel)**<br>C.P. Company Poolopaita | **16 €**<br>arvio ~99 €<br>kate ~30 € | 6.19 | neule<br>WMN-EU-48 | 12.11. 22:42 |

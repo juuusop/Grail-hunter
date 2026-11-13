@@ -1,5 +1,43 @@
 [
  {
+  "id": "PKfY599TRA",
+  "brand": "Jean Paul Gaultier",
+  "title": "Jean Paul Gaultier Käsilaukku",
+  "price": 65.0,
+  "value": 162,
+  "score": 2.49,
+  "label": "✅ DIILI",
+  "category": "laukku",
+  "condition": "Hyvä",
+  "size": "-",
+  "link": "https://www.sellpy.fi/item/PKfY599TRA",
+  "image": "https://prod.images.sellpy.net/photoRobot-case-14-l-2/E7GeOlSMW8-a3a1-0.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 103 €",
+   "Japanissa myyty (laukku) mediaani 75 € (n=11)",
+   "⚠️ kate ~-36 € (ROI -50%, myy vestiaire ~52 €; Yahoo JP toteutuneet (laukku): mediaani 75 €, p25 25 € (n=11) → geneerinen ~50 € × 1.15 EU-taso)"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794530497,
+  "resale": 52,
+  "profit": -36,
+  "roi": -0.5,
+  "exit": "vestiaire",
+  "resale_why": [
+   "Yahoo JP toteutuneet (laukku): mediaani 75 €, p25 25 € (n=11) → geneerinen ~50 € × 1.15 EU-taso",
+   "myynti vestiaire ~52 € → käteen ~35 € kulujen ja tinkimisen jälkeen",
+   "osto 65 € + toimitus = 71 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
   "id": "tori-49820639",
   "brand": "Miu Miu · Tori",
   "title": "Miu Miu Shopping -laukku",
