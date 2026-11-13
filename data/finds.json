@@ -1,5 +1,151 @@
 [
  {
+  "id": "Z8jFPSef6n",
+  "brand": "Kolor",
+  "title": "Kolor Varastointi",
+  "price": 20.0,
+  "value": 128,
+  "score": 6.4,
+  "label": "🚨 INSANE",
+  "category": "muu",
+  "condition": "Erittäin hyvä",
+  "size": "-",
+  "link": "https://www.sellpy.fi/item/Z8jFPSef6n",
+  "image": "https://prod.images.sellpy.net/photoRobot-fixed-11-k-3/Z8jFPSef6n-18a8-0-timed-sequence.jpg",
+  "reasons": [
+   "taso B",
+   "Japanissa myyty (muu) mediaani 22 € (n=22)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794554669,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "oHb7Ot69Fl",
+  "brand": "The North Face",
+  "title": "The North Face Huppari",
+  "price": 15.0,
+  "value": 47,
+  "score": 3.15,
+  "label": "🔥 KOVA DIILI",
+  "category": "huppari",
+  "condition": "Hyväksyttävä",
+  "size": "MEN-INT-L",
+  "link": "https://www.sellpy.fi/item/oHb7Ot69Fl",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-7-k-2/oHb7Ot69Fl-f4cf-0.jpg",
+  "reasons": [
+   "taso C",
+   "steep tech ×1.8",
+   "harvinainen: steep tech",
+   "Sellpyn mediaani tälle brändille 58 €",
+   "kate ~1 € (ROI 6%, myy vinted ~25 €; brändiarvio ~35 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794554669,
+  "resale": 25,
+  "profit": 1,
+  "roi": 0.06,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~35 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~25 € → käteen ~22 € kulujen ja tinkimisen jälkeen",
+   "osto 15 € + toimitus = 21 €"
+  ],
+  "risk": {
+   "fake": 10,
+   "fake_level": "matala",
+   "cond": "kulunut",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv",
+    "selviä käytön jälkiä/vikoja"
+   ]
+  }
+ },
+ {
+  "id": "5IX9nXD6E1",
+  "brand": "Tiger of Sweden",
+  "title": "Tiger of Sweden Bleiseri",
+  "price": 12.0,
+  "value": 50,
+  "score": 4.2,
+  "label": "🚨 INSANE",
+  "category": "takki",
+  "condition": "Hyväksyttävä",
+  "size": "MEN-EU-56",
+  "link": "https://www.sellpy.fi/item/5IX9nXD6E1",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-l-5/5IX9nXD6E1-23d0-0.jpg",
+  "reasons": [
+   "taso D",
+   "Sellpyn mediaani tälle brändille 27 €",
+   "kate ~6 € (ROI 32%, myy vinted ~26 €; brändiarvio ~38 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794554669,
+  "resale": 26,
+  "profit": 6,
+  "roi": 0.32,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~38 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~26 € → käteen ~24 € kulujen ja tinkimisen jälkeen",
+   "osto 12 € + toimitus = 18 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "kulunut",
+   "why": [
+    "selviä käytön jälkiä/vikoja"
+   ]
+  }
+ },
+ {
+  "id": "aahVisMwmX",
+  "brand": "Suicoke (haku: tabi)",
+  "title": "Suicoke Puukengät",
+  "price": 44.0,
+  "value": 214,
+  "score": 4.87,
+  "label": "🚨 INSANE",
+  "category": "kengät",
+  "condition": "Hyvä",
+  "size": "SHOES-EU-43",
+  "link": "https://www.sellpy.fi/item/aahVisMwmX",
+  "image": "https://prod.images.sellpy.net/photoRobot-case-21-l-5/aahVisMwmX-41cb-0.jpg",
+  "reasons": [
+   "tiedoissa 'tabi', brändiksi listattu 'Suicoke'"
+  ],
+  "source": "haku",
+  "old_price": null,
+  "ts": 1794554672,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
   "id": "dba-26696409",
   "brand": "Maison Margiela · DBA 🇩🇰",
   "title": "Maison Margiela sneakers str 44",
