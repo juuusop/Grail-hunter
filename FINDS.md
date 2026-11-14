@@ -1,6 +1,6 @@
 # 🦅 Grail Hunter: löydöt
 
-Päivitetty 13.11.2026 21:36 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi olla jo myyty.
+Päivitetty 14.11.2026 01:46 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi olla jo myyty.
 
 ## 🔥 Viikon parhaat
 
@@ -51,6 +51,7 @@ Päivitetty 13.11.2026 21:36 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi oll
 
 | | Löytö | Hinta | Pisteet | Tyyppi / koko | Löydetty (UTC) |
 |---|---|---|---|---|---|
+| <a href="https://www.sellpy.fi/item/89fokDEUKb"><img src="https://prod.images.sellpy.net/photoRobot-manual-7-k-21/rrlCDoxlMF-e525-single.jpg" width="90"></a> | ✅ DIILI<br>**[Dolce & Gabbana](https://www.sellpy.fi/item/89fokDEUKb)**<br>Dolce & Gabbana Sormus | **31 €**<br>arvio ~65 €<br>🟡 feikkiriski 27 | 2.09 | korut<br>RINGS-MM-17.25 | 14.11. 01:46 |
 | <a href="https://www.sellpy.fi/item/gGR9dXDnXC"><img src="https://prod.images.sellpy.net/photoRobot-case-14-l-1/gGR9dXDnXC-0e7f-0.jpg" width="90"></a> | 💎 HARVINAINEN<br>**[New Balance (haku: made in usa new balance)](https://www.sellpy.fi/item/gGR9dXDnXC)**<br>New Balance Urheilukengät 993 | **82 €**<br>arvio ~129 € | 1.57 | kengät<br>SHOES-EU-44 | 13.11. 21:36 |
 | <a href="https://www.sellpy.fi/item/gdklbUDrPM"><img src="https://prod.images.sellpy.net/photoRobot-fixed-22-l-5/gdklbUDrPM-72f8-0-timed-sequence.jpg" width="90"></a> | 🔥 KOVA DIILI<br>**[C.P.Twentynine (haku: kashmir)](https://www.sellpy.fi/item/gdklbUDrPM)**<br>C.P.Twentynine Pipo | **9 €**<br>arvio ~23 € | 2.61 | asuste<br>ONE SIZE | 13.11. 21:36 |
 | <a href="https://www.sellpy.fi/item/RNUYBQuMiR"><img src="https://prod.images.sellpy.net/photoRobot-standard-11-l-2/RNUYBQuMiR-d66d-0.jpg" width="90"></a> | 🔥 KOVA DIILI<br>**[C&A (haku: kashmir)](https://www.sellpy.fi/item/RNUYBQuMiR)**<br>C&A Neulepaita | **15 €**<br>arvio ~53 € | 3.52 | neule<br>MEN-INT-XL | 13.11. 21:36 |
@@ -110,4 +111,3 @@ Päivitetty 13.11.2026 21:36 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi oll
 | <a href="https://www.sellpy.fi/item/D9pJPD2Vad"><img src="https://prod.images.sellpy.net/photoRobot-standard-12-l-2/DID5wZMWhy-a502-0.jpg" width="90"></a> | ✅ DIILI<br>**[Moncler](https://www.sellpy.fi/item/D9pJPD2Vad)**<br>Moncler Takki | **152 €**<br>arvio ~352 €<br>kate ~109 € | 2.32 | takki<br>WMN-INT-XL | 13.11. 15:36 |
 | <a href="https://www.sellpy.fi/item/SXvZa7Pdj9"><img src="https://prod.images.sellpy.net/photoRobot-standard-4-k-14/gVtNF9VDS3-dc73-0.jpg" width="90"></a> | 🚨 INSANE<br>**[The North Face](https://www.sellpy.fi/item/SXvZa7Pdj9)**<br>The North Face Fleece-takki | **11 €**<br>arvio ~56 €<br>kate ~10 €<br>🩹 kunto: kulunut | 5.09 | takki<br>MEN-INT-L | 13.11. 15:36 |
 | <a href="https://www.blocket.se/recommerce/forsale/item/28176804"><img src="https://images.blocketcdn.se/dynamic/default/item/28176804/63bd3a92-9ccf-42e7-9f41-3877de3e058f" width="90"></a> | ✅ DIILI<br>**[Canada Goose · Blocket 🇸🇪](https://www.blocket.se/recommerce/forsale/item/28176804)**<br>Canada goose jacka | **173 €**<br>arvio ~380 €<br>kate ~-69 €<br>🟡 feikkiriski 40 | 2.19 | takki<br>- | 13.11. 14:58 |
-| <a href="https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/uiterlijk-cosmetica-en-make-up/m2465131975-tom-ford-quad-nr-42-hazy-sensuality"><img src="https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/7af7671a-9936-425a-b4bf-811437a62459?rule=ecg_mp_eps$_83.jpg" width="90"></a> | 🔥 KOVA DIILI<br>**[Tom Ford · Marktplaats 🇳🇱](https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/uiterlijk-cosmetica-en-make-up/m2465131975-tom-ford-quad-nr-42-hazy-sensuality)**<br>Tom Ford Quad Nr 42 Hazy Sensuality | **60 €**<br>arvio ~210 €<br>🟡 feikkiriski 22 | 3.5 | muu<br>- | 13.11. 14:58 |

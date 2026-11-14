@@ -1,5 +1,42 @@
 [
  {
+  "id": "89fokDEUKb",
+  "brand": "Dolce & Gabbana",
+  "title": "Dolce & Gabbana Sormus",
+  "price": 31.0,
+  "value": 65,
+  "score": 2.09,
+  "label": "✅ DIILI",
+  "category": "korut",
+  "condition": "Hyvä",
+  "size": "RINGS-MM-17.25",
+  "link": "https://www.sellpy.fi/item/89fokDEUKb",
+  "image": "https://prod.images.sellpy.net/photoRobot-manual-7-k-21/rrlCDoxlMF-e525-single.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 107 €",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794620778,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 27,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "korut: väärennetyimpiä tuotetyyppejä",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv"
+   ]
+  }
+ },
+ {
   "id": "ZOp6qhkYuB",
   "brand": "Helmut Lang",
   "title": "Helmut Lang Huppari",

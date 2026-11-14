@@ -1,6 +1,6 @@
 # Feikki- ja kuntoriski löydöissä
 
-1143 löytöä (data/finds.json). Heuristiikka: risk.py.
+1144 löytöä (data/finds.json). Heuristiikka: risk.py.
 
 - korkea feikkiriski: **7%**, keskitaso: 18%
 - kulunut/huono kunto: **26%**, kunto ei tiedossa: 27%
@@ -9,7 +9,7 @@
 
 | alusta | n | feikki korkea | keski | kulunut/huono | kunto ? |
 |---|---|---|---|---|---|
-| sellpy.fi | 740 | 0% | 11% | 38% | 0% |
+| sellpy.fi | 741 | 0% | 11% | 38% | 0% |
 | tradera.com | 176 | 5% | 35% | 0% | 100% |
 | tori.fi | 85 | 27% | 32% | 0% | 100% |
 | 2dehands.be | 53 | 26% | 25% | 6% | 23% |
@@ -33,7 +33,7 @@
 | kauluspaita | 34 | 0% | 32% |
 | asuste | 14 | 43% | 14% |
 | nahkatakki | 3 | 33% | 0% |
-| korut | 1 | 0% | 0% |
+| korut | 2 | 50% | 0% |
 
 ## Brändit, joissa eniten feikkiriskiä (n ≥ 3)
 
