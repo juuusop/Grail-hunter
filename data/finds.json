@@ -1,5 +1,87 @@
 [
  {
+  "id": "ZubiiVWSVL",
+  "brand": "Comme des Garçons",
+  "title": "Comme des Garçons Paita",
+  "price": 103.0,
+  "value": 236,
+  "score": 2.29,
+  "label": "📉 ✅ DIILI",
+  "category": "muu",
+  "condition": "Erittäin hyvä",
+  "size": "MEN-INT-L",
+  "link": "https://www.sellpy.fi/item/ZubiiVWSVL",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-21/ZubiiVWSVL-7f62-0.jpg",
+  "reasons": [
+   "hinta laski 117 → 103 €",
+   "taso B",
+   "made in japan ×1.15",
+   "homme plus ×1.6",
+   "harvinainen: mesh",
+   "Sellpyn mediaani tälle brändille 83 €",
+   "Japanissa myyty (muu) mediaani 35 € (n=32)",
+   "⚠️ kate ~-80 € (ROI -74%, myy grailed ~41 €; Yahoo JP toteutuneet (muu): mediaani 35 €, p25 24 € (n=32) → geneerinen ~30 € × 1.4 EU-taso)"
+  ],
+  "source": "brändi",
+  "old_price": 117.0,
+  "ts": 1794686036,
+  "resale": 41,
+  "profit": -80,
+  "roi": -0.74,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 35 €, p25 24 € (n=32) → geneerinen ~30 € × 1.4 EU-taso",
+   "myynti grailed ~41 € → käteen ~28 € kulujen ja tinkimisen jälkeen",
+   "osto 103 € + toimitus = 109 €"
+  ],
+  "risk": {
+   "fake": 8,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv"
+   ]
+  }
+ },
+ {
+  "id": "R8lldT2FWF",
+  "brand": "Tuntematon (haku: fragment design)",
+  "title": "Urheilukengät Roshe One",
+  "price": 17.0,
+  "value": 205,
+  "score": 12.07,
+  "label": "📉 🚨 INSANE",
+  "category": "kengät",
+  "condition": "Hyväksyttävä",
+  "size": "SHOES-EU-45",
+  "link": "https://www.sellpy.fi/item/R8lldT2FWF",
+  "image": "https://prod.images.sellpy.net/photoRobot-case-14-k-12/R8lldT2FWF-1f01-0.jpg",
+  "reasons": [
+   "hinta laski 19 → 17 €",
+   "tiedoissa 'fragment design', brändiksi listattu '-'",
+   "runway ×1.4",
+   "nahka ×1.1",
+   "harvinainen: runway"
+  ],
+  "source": "haku",
+  "old_price": 19.0,
+  "ts": 1794686039,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "kulunut",
+   "why": [
+    "selviä käytön jälkiä/vikoja (kengissä/laukuissa kuluma syö resale-hintaa)"
+   ]
+  }
+ },
+ {
   "id": "tori-49753466",
   "brand": "Moncler · Tori",
   "title": "Moncler untuvatakki",
