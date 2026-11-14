@@ -1,39 +1,209 @@
 [
  {
-  "id": "89fokDEUKb",
-  "brand": "Dolce & Gabbana",
-  "title": "Dolce & Gabbana Sormus",
-  "price": 31.0,
-  "value": 65,
-  "score": 2.09,
-  "label": "✅ DIILI",
-  "category": "korut",
-  "condition": "Hyvä",
-  "size": "RINGS-MM-17.25",
-  "link": "https://www.sellpy.fi/item/89fokDEUKb",
-  "image": "https://prod.images.sellpy.net/photoRobot-manual-7-k-21/rrlCDoxlMF-e525-single.jpg",
+  "id": "tori-49842886",
+  "brand": "Louis Vuitton · Tori",
+  "title": "Louis Vuitton LV Archlight -lenkkarit",
+  "price": 140.0,
+  "value": 399,
+  "score": 2.85,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49842886",
+  "image": "https://img.tori.net/dynamic/default/item/49842886/ca8d4948-e5b6-454b-ad2e-038e362e9744",
   "reasons": [
-   "taso C",
-   "Sellpyn mediaani tälle brändille 107 €",
-   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)"
+   "taso A",
+   "Sellpyn mediaani tälle brändille 200 €",
+   "Japanissa myyty mediaani 75 € (n=73)",
+   "⚠️ kate ~-1 € (ROI -1%, myy grailed ~209 €; brändiarvio ~299 € (ei mallivertailua eikä Yahoo-dataa))"
   ],
-  "source": "brändi",
+  "source": "tori",
   "old_price": null,
-  "ts": 1794620778,
-  "resale": null,
-  "profit": null,
-  "roi": null,
-  "exit": "",
-  "resale_why": [],
+  "ts": 1794620948,
+  "resale": 209,
+  "profit": -1,
+  "roi": -0.01,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~299 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~209 € → käteen ~146 € kulujen ja tinkimisen jälkeen",
+   "osto 140 € + toimitus = 147 €"
+  ],
   "risk": {
-   "fake": 27,
-   "fake_level": "keski",
-   "cond": "ok",
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "?",
    "why": [
     "paljon väärennetty brändi",
-    "korut: väärennetyimpiä tuotetyyppejä",
-    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv"
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
    ]
+  }
+ },
+ {
+  "id": "tradera-760875701",
+  "brand": "Arc'teryx · Tradera 🇸🇪",
+  "title": "Arc'teryx Arcteryx vintage Y2K 2000´s softshelljacka jacka L",
+  "price": 65.25,
+  "value": 243,
+  "score": 3.73,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1000694/760875701/arc-teryx-arcteryx-vintage-y2k-2000-s-softshelljacka-jacka-l",
+  "image": "https://img.tradera.net/images/117/668147117_8acdfdd8-fced-4534-9786-f55958f7e61a.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 95 €",
+   "Japanissa myyty (takki) mediaani 222 € (n=20)",
+   "kate ~18 € (ROI 23%, myy grailed ~143 €; Yahoo JP toteutuneet (takki): mediaani 222 €, p25 152 € (n=20) → geneerinen ~187 € × 1.15 EU-taso)",
+   "750 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794620948,
+  "resale": 143,
+  "profit": 18,
+  "roi": 0.23,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 222 €, p25 152 € (n=20) → geneerinen ~187 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~143 € → käteen ~100 € kulujen ja tinkimisen jälkeen",
+   "osto 65 € + toimitus = 81 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2464911165",
+  "brand": "Alden · Marktplaats 🇳🇱",
+  "title": "-Timberland Alden Brook Zwart - Maat 43",
+  "price": 70.0,
+  "value": 308,
+  "score": 4.4,
+  "label": "🚨 INSANE",
+  "category": "kengät",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2464911165-timberland-alden-brook-zwart-maat-43",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/64a0636b-431d-4f85-8c86-d5e15752c3a4?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Japanissa myyty (kengät) mediaani 251 € (n=79)",
+   "💰 kate ~97 € (ROI 138%, myy grailed ~239 €; Yahoo JP toteutuneet (kengät): mediaani 251 €, p25 165 € (n=79) → geneerinen ~208 € × 1.15 EU-taso)",
+   "50 EUR + ~20 € posti = 70 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794620949,
+  "resale": 239,
+  "profit": 97,
+  "roi": 1.38,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 251 €, p25 165 € (n=79) → geneerinen ~208 € × 1.15 EU-taso",
+   "myynti grailed ~239 € → käteen ~167 € kulujen ja tinkimisen jälkeen",
+   "osto 70 € + toimitus = 70 €"
+  ],
+  "risk": {
+   "fake": 4,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "2dehands-m2465055795",
+  "brand": "Haider Ackermann · 2dehands 🇧🇪",
+  "title": "Haider Ackermann designer off-white t-shirt maat Xl",
+  "price": 45.0,
+  "value": 112,
+  "score": 2.49,
+  "label": "✅ DIILI",
+  "category": "kauluspaita",
+  "condition": "Gedragen",
+  "size": "MEN-INT-XL",
+  "link": "https://www.2dehands.be/v/kleding-dames/t-shirts/m2465055795-haider-ackermann-designer-off-white-t-shirt-maat-xl",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/4156e98b-5500-42f3-921b-82b0d3023a50?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Japanissa myyty mediaani 104 € (n=18)",
+   "kate ~13 € (ROI 30%, myy grailed ~84 €; brändiarvio ~84 € (ei mallivertailua eikä Yahoo-dataa))",
+   "25 EUR + ~20 € posti = 45 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1794620949,
+  "resale": 84,
+  "profit": 13,
+  "roi": 0.3,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~84 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~84 € → käteen ~58 € kulujen ja tinkimisen jälkeen",
+   "osto 45 € + toimitus = 45 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "kulunut",
+   "why": [
+    "selviä käytön jälkiä/vikoja"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2465050233",
+  "brand": "Haider Ackermann · 2dehands 🇧🇪",
+  "title": "Haider Ackermann off-white t-shirt 100% silk maat L",
+  "price": 70.0,
+  "value": 160,
+  "score": 2.29,
+  "label": "✅ DIILI",
+  "category": "kauluspaita",
+  "condition": "Zo goed als nieuw",
+  "size": "MEN-INT-L",
+  "link": "https://www.2dehands.be/v/kleding-dames/t-shirts/m2465050233-haider-ackermann-off-white-t-shirt-100-silk-maat-l",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/74aa596f-29f7-42e2-873d-70e69d388af2?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Japanissa myyty mediaani 104 € (n=18)",
+   "kate ~14 € (ROI 19%, myy grailed ~120 €; brändiarvio ~120 € (ei mallivertailua eikä Yahoo-dataa))",
+   "50 EUR + ~20 € posti = 70 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1794620949,
+  "resale": 120,
+  "profit": 14,
+  "roi": 0.19,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~120 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~120 € → käteen ~84 € kulujen ja tinkimisen jälkeen",
+   "osto 70 € + toimitus = 70 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
   }
  },
  {
