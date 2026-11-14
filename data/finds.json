@@ -1,5 +1,78 @@
 [
  {
+  "id": "Egf1NYhFWR",
+  "brand": "Comme des Garçons",
+  "title": "CDG Karaokelaite Karaoke System mit Mikrofon & Bildschirm, eingebaute Videocamera",
+  "price": 36.5,
+  "value": 128,
+  "score": 3.51,
+  "label": "📉 🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "Erittäin hyvä",
+  "size": "-",
+  "link": "https://www.sellpy.fi/item/Egf1NYhFWR",
+  "image": "https://prod.images.sellpy.net/photoRobot-manual-13-k-13/Egf1NYhFWR-d593-single.jpg",
+  "reasons": [
+   "hinta laski 41 → 36 €",
+   "taso B",
+   "Sellpyn mediaani tälle brändille 83 €",
+   "Japanissa myyty (muu) mediaani 35 € (n=32)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)"
+  ],
+  "source": "brändi",
+  "old_price": 41.0,
+  "ts": 1794699682,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 10,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv"
+   ]
+  }
+ },
+ {
+  "id": "7uhqelP2MK",
+  "brand": "New Balance (haku: made in usa new balance)",
+  "title": "New Balance Lenkkitossut M990",
+  "price": 42.0,
+  "value": 100,
+  "score": 2.38,
+  "label": "📉 ✅ DIILI",
+  "category": "kengät",
+  "condition": "Hyväksyttävä",
+  "size": "SHOES-EU-44",
+  "link": "https://www.sellpy.fi/item/7uhqelP2MK",
+  "image": "https://prod.images.sellpy.net/photoRobot-case-14-k-9/7uhqelP2MK-abe1-0.jpg",
+  "reasons": [
+   "hinta laski 44 → 42 €",
+   "tiedoissa 'made in usa', brändiksi listattu 'New Balance'",
+   "harvinainen: verkko"
+  ],
+  "source": "haku",
+  "old_price": 44.0,
+  "ts": 1794699684,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "kulunut",
+   "why": [
+    "selviä käytön jälkiä/vikoja (kengissä/laukuissa kuluma syö resale-hintaa)"
+   ]
+  }
+ },
+ {
   "id": "tradera-761278769",
   "brand": "Issey Miyake · Tradera 🇸🇪",
   "title": "Issey Miyake x Iittala väska, svart, polyester",
