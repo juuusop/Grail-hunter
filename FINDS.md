@@ -1,6 +1,6 @@
 # 🦅 Grail Hunter: löydöt
 
-Päivitetty 14.11.2026 15:02 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi olla jo myyty.
+Päivitetty 14.11.2026 15:50 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi olla jo myyty.
 
 ## 🔥 Viikon parhaat
 
@@ -51,6 +51,8 @@ Päivitetty 14.11.2026 15:02 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi oll
 
 | | Löytö | Hinta | Pisteet | Tyyppi / koko | Löydetty (UTC) |
 |---|---|---|---|---|---|
+| <a href="https://www.tradera.com/item/1000652/760978362/nostra-santissima-t-shirt"><img src="https://img.tradera.net/images/618/668227618_285cf24c-a5bb-480e-a988-6fefade4c8a9.jpg" width="90"></a> | ✅ DIILI<br>**[Nostra Santissima · Tradera 🇸🇪](https://www.tradera.com/item/1000652/760978362/nostra-santissima-t-shirt)**<br>Nostra Santissima t-shirt | **70 €**<br>arvio ~152 €<br>kate ~-6 € | 2.18 | kauluspaita<br>- | 14.11. 15:50 |
+| <a href="https://www.tori.fi/recommerce/forsale/item/49753466"><img src="https://img.tori.net/dynamic/default/item/49753466/351eaf7b-42dc-457e-9d1c-f2930e8bd1eb" width="90"></a> | 🔥 KOVA DIILI<br>**[Moncler · Tori](https://www.tori.fi/recommerce/forsale/item/49753466)**<br>Moncler untuvatakki | **125 €**<br>arvio ~334 €<br>kate ~45 €<br>🟡 feikkiriski 40 | 2.68 | takki<br>- | 14.11. 15:50 |
 | <a href="https://www.sellpy.fi/item/hhT096o2mT"><img src="https://prod.images.sellpy.net/photoRobot-standard-5-k-8/hhT096o2mT-420d-0.jpg" width="90"></a> | 🚨 INSANE<br>**[Paras (haku: kashmir)](https://www.sellpy.fi/item/hhT096o2mT)**<br>Paras Neulepaita | **11 €**<br>arvio ~59 € | 5.33 | neule<br>MEN-INT-XL | 14.11. 15:02 |
 | <a href="https://www.sellpy.fi/item/41RneywG84"><img src="https://prod.images.sellpy.net/photoRobot-case-6-k-21/41RneywG84-ed2d-0.jpg" width="90"></a> | 💎 HARVINAINEN<br>**[Dior](https://www.sellpy.fi/item/41RneywG84)**<br>Dior Lenkkarit | **220 €**<br>arvio ~280 €<br>kate ~-79 € | 1.27 | kengät<br>SHOES-EU-44 | 14.11. 15:02 |
 | <a href="https://www.sellpy.fi/item/ZO3sjAyE4Q"><img src="https://prod.images.sellpy.net/photoRobot-standard-1-l-2/ZO3sjAyE4Q-416e-0.jpg" width="90"></a> | 🔥 KOVA DIILI<br>**[Paul Smith](https://www.sellpy.fi/item/ZO3sjAyE4Q)**<br>Paul Smith Kauluspaita | **13 €**<br>arvio ~39 €<br>kate ~0 €<br>🩹 kunto: kulunut | 3.02 | kauluspaita<br>MEN-EU_COLLAR-41/42 | 14.11. 15:02 |
@@ -109,5 +111,3 @@ Päivitetty 14.11.2026 15:02 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi oll
 | <a href="https://www.sellpy.fi/item/3HNCSXiE6v"><img src="https://prod.images.sellpy.net/photoRobot-standard-16-k-8/M8IWfIVRG0-fa41-0.jpg" width="90"></a> | 🚨 INSANE<br>**[Tuntematon (haku: kashmir)](https://www.sellpy.fi/item/3HNCSXiE6v)**<br>Kaulahuivi | **5 €**<br>arvio ~47 € | 9.38 | muu<br>- | 13.11. 15:36 |
 | <a href="https://www.sellpy.fi/item/3T9HYMKTOk"><img src="https://prod.images.sellpy.net/photoRobot-standard-1-k-10/eSE4lMUcV5-f7ec-0.jpg" width="90"></a> | ✅ DIILI<br>**[Stüssy](https://www.sellpy.fi/item/3T9HYMKTOk)**<br>Stüssy Huppari | **16 €**<br>arvio ~34 €<br>kate ~-6 € | 2.11 | huppari<br>MEN-INT-L | 13.11. 15:36 |
 | <a href="https://www.sellpy.fi/item/qc1KHsge7b"><img src="https://prod.images.sellpy.net/photoRobot-standard-3-k-2/BDATd08AVS-9f74-0.jpg" width="90"></a> | 🔥 KOVA DIILI<br>**[Corneliani](https://www.sellpy.fi/item/qc1KHsge7b)**<br>Corneliani Bleiseri | **20 €**<br>arvio ~67 €<br>kate ~6 €<br>🩹 kunto: kulunut | 3.36 | takki<br>MEN-INT-L | 13.11. 15:36 |
-| <a href="https://www.sellpy.fi/item/dvmzDRCoCn"><img src="https://prod.images.sellpy.net/photoRobot-standard-6-k-14/RsXahmPjVp-0d24-0.jpg" width="90"></a> | 🔥 KOVA DIILI<br>**[Filippa K](https://www.sellpy.fi/item/dvmzDRCoCn)**<br>Filippa K Neuletakki | **12 €**<br>arvio ~45 €<br>kate ~3 € | 3.75 | neule<br>WMN-INT-XL | 13.11. 15:36 |
-| <a href="https://www.sellpy.fi/item/g7oWEcaW1V"><img src="https://prod.images.sellpy.net/photoRobot-standard-3-k-15/g7oWEcaW1V-7a99-0.jpg" width="90"></a> | 🚨 INSANE<br>**[Oscar Jacobson](https://www.sellpy.fi/item/g7oWEcaW1V)**<br>Oscar Jacobson Bleiseri | **16 €**<br>arvio ~67 €<br>kate ~10 €<br>🩹 kunto: kulunut | 4.2 | takki<br>MEN-INT-L | 13.11. 15:36 |

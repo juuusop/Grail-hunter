@@ -1,5 +1,87 @@
 [
  {
+  "id": "tori-49753466",
+  "brand": "Moncler · Tori",
+  "title": "Moncler untuvatakki",
+  "price": 125.0,
+  "value": 334,
+  "score": 2.68,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49753466",
+  "image": "https://img.tori.net/dynamic/default/item/49753466/351eaf7b-42dc-457e-9d1c-f2930e8bd1eb",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 137 €",
+   "Japanissa myyty (takki) mediaani 384 € (n=63)",
+   "kate ~45 € (ROI 34%, myy grailed ~254 €; Yahoo JP toteutuneet (takki): mediaani 384 €, p25 281 € (n=63) → geneerinen ~332 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794671431,
+  "resale": 254,
+  "profit": 45,
+  "roi": 0.34,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 384 €, p25 281 € (n=63) → geneerinen ~332 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~254 € → käteen ~177 € kulujen ja tinkimisen jälkeen",
+   "osto 125 € + toimitus = 132 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-760978362",
+  "brand": "Nostra Santissima · Tradera 🇸🇪",
+  "title": "Nostra Santissima t-shirt",
+  "price": 69.6,
+  "value": 152,
+  "score": 2.18,
+  "label": "✅ DIILI",
+  "category": "kauluspaita",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1000652/760978362/nostra-santissima-t-shirt",
+  "image": "https://img.tradera.net/images/618/668227618_285cf24c-a5bb-480e-a988-6fefade4c8a9.jpg",
+  "reasons": [
+   "taso B",
+   "⚠️ kate ~-6 € (ROI -7%, myy grailed ~114 €; brändiarvio ~114 € (ei mallivertailua eikä Yahoo-dataa))",
+   "800 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794671432,
+  "resale": 114,
+  "profit": -6,
+  "roi": -0.07,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~114 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~114 € → käteen ~79 € kulujen ja tinkimisen jälkeen",
+   "osto 70 € + toimitus = 86 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
   "id": "Tiqr6FoJHo",
   "brand": "Jean Paul Gaultier",
   "title": "Jean Paul Gaultier Hihaton toppi Soleil",
