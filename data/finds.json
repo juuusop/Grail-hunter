@@ -1,5 +1,303 @@
 [
  {
+  "id": "tradera-761025618",
+  "brand": "Saint Laurent · Tradera 🇸🇪",
+  "title": "Saint Laurent sneakers, vita",
+  "price": 130.5,
+  "value": 293,
+  "score": 2.24,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340304/761025618/saint-laurent-sneakers-vita",
+  "image": "https://img.tradera.net/images/665/668261665_92863342-57ee-4dff-ad07-babcd5ba2d55.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 161 €",
+   "Japanissa myyty mediaani 22 € (n=73)",
+   "⚠️ kate ~-39 € (ROI -27%, myy grailed ~154 €; brändiarvio ~220 € (ei mallivertailua eikä Yahoo-dataa))",
+   "1500 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794646811,
+  "resale": 154,
+  "profit": -39,
+  "roi": -0.27,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~220 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~154 € → käteen ~107 € kulujen ja tinkimisen jälkeen",
+   "osto 130 € + toimitus = 146 €"
+  ],
+  "risk": {
+   "fake": 42,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-760821282",
+  "brand": "Balenciaga · Tradera 🇸🇪",
+  "title": "Balenciaga Sneakers Svarta EUR 41",
+  "price": 113.1,
+  "value": 293,
+  "score": 2.59,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340303/760821282/balenciaga-sneakers-svarta-eur-41",
+  "image": "https://img.tradera.net/images/037/659718037_36066fb3-ec27-47f4-85b3-87b348055028.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 163 €",
+   "Japanissa myyty (kengät) mediaani 126 € (n=6)",
+   "⚠️ kate ~-86 € (ROI -67%, myy grailed ~62 €; Yahoo JP toteutuneet (kengät): mediaani 126 €, p25 37 € (n=6) → geneerinen ~82 € × 1.15 EU-taso)",
+   "1300 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794646811,
+  "resale": 62,
+  "profit": -86,
+  "roi": -0.67,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 126 €, p25 37 € (n=6) → geneerinen ~82 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~62 € → käteen ~43 € kulujen ja tinkimisen jälkeen",
+   "osto 113 € + toimitus = 129 €"
+  ],
+  "risk": {
+   "fake": 42,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-760950371",
+  "brand": "Moncler · Tradera 🇸🇪",
+  "title": "Moncler jacka Cristal ljusblå",
+  "price": 165.21,
+  "value": 334,
+  "score": 2.02,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1000736/760950371/moncler-jacka-cristal-ljusbla",
+  "image": "https://img.tradera.net/images/220/668205220_fec41c02-684a-4f3d-9ce8-718f73a44c4e.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 137 €",
+   "Japanissa myyty (takki) mediaani 384 € (n=63)",
+   "⚠️ kate ~-4 € (ROI -2%, myy grailed ~254 €; Yahoo JP toteutuneet (takki): mediaani 384 €, p25 281 € (n=63) → geneerinen ~332 € × 1.15 EU-taso)",
+   "1899 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794646811,
+  "resale": 254,
+  "profit": -4,
+  "roi": -0.02,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 384 €, p25 281 € (n=63) → geneerinen ~332 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~254 € → käteen ~177 € kulujen ja tinkimisen jälkeen",
+   "osto 165 € + toimitus = 181 €"
+  ],
+  "risk": {
+   "fake": 32,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-760080133",
+  "brand": "Alden · Tradera 🇸🇪",
+  "title": "Alden Shoes Jumper Boot / Cap Toe kängor, Cordovan läder EU43 28cm",
+  "price": 208.8,
+  "value": 468,
+  "score": 2.24,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "SHOES-EU-43",
+  "link": "https://www.tradera.com/item/340304/760080133/alden-shoes-jumper-boot-cap-toe-kangor-cordovan-lader-eu43-28cm",
+  "image": "https://img.tradera.net/images/172/667520172_abda5250-b0d7-4560-8259-23fe3e16a6f7.jpg",
+  "reasons": [
+   "taso A",
+   "cordovan ×1.6",
+   "Japanissa myyty (kengät) mediaani 251 € (n=79)",
+   "⚠️ kate ~-66 € (ROI -29%, myy grailed ~227 €; Yahoo JP toteutuneet (kengät): mediaani 251 €, p25 165 € (n=79) → geneerinen ~208 € × 1.15 EU-taso)",
+   "2400 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794646811,
+  "resale": 227,
+  "profit": -66,
+  "roi": -0.29,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 251 €, p25 165 € (n=79) → geneerinen ~208 € × 1.15 EU-taso",
+   "myynti grailed ~227 € → käteen ~159 € kulujen ja tinkimisen jälkeen",
+   "osto 209 € + toimitus = 225 €"
+  ],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2465080965",
+  "brand": "Dior · Marktplaats 🇳🇱",
+  "title": "Dior B22 Sneakers Maat 44",
+  "price": 100.0,
+  "value": 280,
+  "score": 2.8,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Zo goed als nieuw",
+  "size": "SHOES-EU-44",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2465080965-dior-b22-sneakers-maat-44",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/ee72ca48-96a6-4123-8cf8-f8ca6c72c3b6?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 145 €",
+   "Japanissa myyty mediaani 33 € (n=78)",
+   "kate ~2 € (ROI 2%, myy grailed ~147 €; brändiarvio ~210 € (ei mallivertailua eikä Yahoo-dataa))",
+   "80 EUR + ~20 € posti = 100 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794646811,
+  "resale": 147,
+  "profit": 2,
+  "roi": 0.02,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~210 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~147 € → käteen ~102 € kulujen ja tinkimisen jälkeen",
+   "osto 100 € + toimitus = 100 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2465549065",
+  "brand": "Dior · Marktplaats 🇳🇱",
+  "title": "Dior  Spidior 2  (Zonnebril)",
+  "price": 80.0,
+  "value": 160,
+  "score": 2.0,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/zonnebrillen-en-brillen-dames/m2465549065-dior-spidior-2-zonnebril",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/b8f9b844-a0b8-413a-9722-35ea8ada1811?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 145 €",
+   "Japanissa myyty (muu) mediaani 14 € (n=7)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "60 EUR + ~20 € posti = 80 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794646811,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 60,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "aurinkolasit: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2464034531",
+  "brand": "Dior · 2dehands 🇧🇪",
+  "title": "Savage dior 100ml",
+  "price": 80.0,
+  "value": 168,
+  "score": 2.1,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/handtassen-en-accessoires/uiterlijk-parfum/m2464034531-savage-dior-100ml",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/4f10e1f1-2ff6-4c0e-af0f-2b0884599136?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 145 €",
+   "Japanissa myyty (muu) mediaani 14 € (n=7)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "60 EUR + ~20 € posti = 80 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1794646811,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "9BEpcVHcR3",
   "brand": "Salomon",
   "title": "Salomon Pitkähihainen urheilupaita",
