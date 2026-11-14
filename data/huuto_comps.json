@@ -103,9 +103,49 @@
    "title": "Hajuvesinäyte Valentino Born in Roma miehille",
    "closed": "2026-10-18T05:15:59+0300",
    "ts": 1794469825
+  },
+  "654491922": {
+   "brand": "Chloé",
+   "cat": "muu",
+   "price": 1.0,
+   "title": "LIVID (Chloé Coulloud) 2001***",
+   "closed": "2026-11-06T14:15:00+0200",
+   "ts": 1794659209
+  },
+  "654808611": {
+   "brand": "Versace",
+   "cat": "kengät",
+   "price": 25.0,
+   "title": "Versace Collection tennarit, koko 42, uudet käyttämättömät",
+   "closed": "2026-11-13T00:42:37+0200",
+   "ts": 1794659229
+  },
+  "648999571": {
+   "brand": "Versace",
+   "cat": "housut",
+   "price": 60.0,
+   "title": "Versace Jeans ylipolvensaappaat  koko 39",
+   "closed": "2026-10-02T21:06:13+0300",
+   "ts": 1794659229
+  },
+  "652951881": {
+   "brand": "Paco Rabanne",
+   "cat": "muu",
+   "price": 31.0,
+   "title": "Rabanne 1M Royal sekä Pherostrong Devil, miesten.",
+   "closed": "2026-09-22T20:30:00+0300",
+   "ts": 1794659258
+  },
+  "652795696": {
+   "brand": "Caruso",
+   "cat": "muu",
+   "price": 1.5,
+   "title": "Enrico Caruso - Canzoni Napoletane… 2x cd",
+   "closed": "2026-09-25T19:10:00+0300",
+   "ts": 1794659260
   }
  },
- "i": 200,
+ "i": 240,
  "groups": {
   "Carpe Diem|muu": {
    "n": 1,
@@ -160,7 +200,37 @@
    "median": 1.4,
    "p25": 1.2,
    "p75": 2.5
+  },
+  "Chloé|muu": {
+   "n": 1,
+   "median": 1.0,
+   "p25": 1.0,
+   "p75": 1.0
+  },
+  "Versace|kengät": {
+   "n": 1,
+   "median": 25.0,
+   "p25": 25.0,
+   "p75": 25.0
+  },
+  "Versace|housut": {
+   "n": 1,
+   "median": 60.0,
+   "p25": 60.0,
+   "p75": 60.0
+  },
+  "Paco Rabanne|muu": {
+   "n": 1,
+   "median": 31.0,
+   "p25": 31.0,
+   "p75": 31.0
+  },
+  "Caruso|muu": {
+   "n": 1,
+   "median": 1.5,
+   "p25": 1.5,
+   "p75": 1.5
   }
  },
- "generated": 1794576211
+ "generated": 1794659263
 }
