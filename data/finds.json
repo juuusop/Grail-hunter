@@ -1,5 +1,183 @@
 [
  {
+  "id": "tradera-761278769",
+  "brand": "Issey Miyake · Tradera 🇸🇪",
+  "title": "Issey Miyake x Iittala väska, svart, polyester",
+  "price": 43.41,
+  "value": 205,
+  "score": 4.73,
+  "label": "🚨 INSANE",
+  "category": "laukku",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340746/761278769/issey-miyake-x-iittala-vaska-svart-polyester",
+  "image": "https://img.tradera.net/images/236/668457236_ecdac832-809c-4676-bdc1-5239d92c3cc6.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 71 €",
+   "Japanissa myyty mediaani 50 € (n=54)",
+   "kate ~45 € (ROI 76%, myy vestiaire ~154 €; brändiarvio ~154 € (ei mallivertailua eikä Yahoo-dataa))",
+   "499 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794689137,
+  "resale": 154,
+  "profit": 45,
+  "roi": 0.76,
+  "exit": "vestiaire",
+  "resale_why": [
+   "brändiarvio ~154 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vestiaire ~154 € → käteen ~105 € kulujen ja tinkimisen jälkeen",
+   "osto 43 € + toimitus = 59 €"
+  ],
+  "risk": {
+   "fake": 29,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "laukku: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-755075341",
+  "brand": "Fendi · Tradera 🇸🇪",
+  "title": "Fendi Sneakers White EUR 37.5",
+  "price": 114.49,
+  "value": 239,
+  "score": 2.09,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340303/755075341/fendi-sneakers-white-eur-37-5",
+  "image": "https://img.tradera.net/images/883/663593883_8e0108e2-0833-4ce9-b2dc-d4204787a95b.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 138 €",
+   "Japanissa myyty mediaani 40 € (n=79)",
+   "⚠️ kate ~-43 € (ROI -33%, myy grailed ~125 €; brändiarvio ~179 € (ei mallivertailua eikä Yahoo-dataa))",
+   "1316 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794689137,
+  "resale": 125,
+  "profit": -43,
+  "roi": -0.33,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~179 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~125 € → käteen ~87 € kulujen ja tinkimisen jälkeen",
+   "osto 114 € + toimitus = 130 €"
+  ],
+  "risk": {
+   "fake": 42,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-754637707",
+  "brand": "Sacai · Tradera 🇸🇪",
+  "title": "Nike x Sacai LDWaffle White Nylon Suede Sneakers BV0073-101",
+  "price": 121.8,
+  "value": 311,
+  "score": 2.56,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340304/754637707/nike-x-sacai-ldwaffle-white-nylon-suede-sneakers-bv0073-101",
+  "image": "https://img.tradera.net/images/355/663252355_ff0cd116-71db-4f7c-9ff7-38466e5d33d3.jpg",
+  "reasons": [
+   "taso B",
+   "ldwaffle ×1.3",
+   "Japanissa myyty mediaani 106 € (n=73)",
+   "⚠️ kate ~-81 € (ROI -59%, myy grailed ~82 €; brändiarvio ~82 € (ei mallivertailua eikä Yahoo-dataa))",
+   "1400 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794689137,
+  "resale": 82,
+  "profit": -81,
+  "roi": -0.59,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~82 € (ei mallivertailua eikä Yahoo-dataa)",
+   "massakollaboraatio/diffuusio 'nike' ×0.35",
+   "myynti grailed ~82 € → käteen ~57 € kulujen ja tinkimisen jälkeen",
+   "osto 122 € + toimitus = 138 €"
+  ],
+  "risk": {
+   "fake": 19,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-760978075",
+  "brand": "Sacai · Tradera 🇸🇪",
+  "title": "Sacai x KAWS x Nike Blazer Low EU 44.5",
+  "price": 48.2,
+  "value": 239,
+  "score": 4.97,
+  "label": "🚨 INSANE",
+  "category": "kengät",
+  "condition": "-",
+  "size": "SHOES-EU-44",
+  "link": "https://www.tradera.com/item/340304/760978075/sacai-x-kaws-x-nike-blazer-low-eu-44-5",
+  "image": "https://img.tradera.net/images/367/668227367_533ea412-4ca3-49a4-bb78-8003191234c9.jpg",
+  "reasons": [
+   "taso B",
+   "Japanissa myyty mediaani 106 € (n=73)",
+   "⚠️ kate ~-21 € (ROI -32%, myy grailed ~63 €; brändiarvio ~63 € (ei mallivertailua eikä Yahoo-dataa))",
+   "554 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794689137,
+  "resale": 63,
+  "profit": -21,
+  "roi": -0.32,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~63 € (ei mallivertailua eikä Yahoo-dataa)",
+   "massakollaboraatio/diffuusio 'nike' ×0.35",
+   "myynti grailed ~63 € → käteen ~43 € kulujen ja tinkimisen jälkeen",
+   "osto 48 € + toimitus = 64 €"
+  ],
+  "risk": {
+   "fake": 23,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
   "id": "ZubiiVWSVL",
   "brand": "Comme des Garçons",
   "title": "Comme des Garçons Paita",
