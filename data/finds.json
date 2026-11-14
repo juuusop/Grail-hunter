@@ -1,5 +1,42 @@
 [
  {
+  "id": "9BEpcVHcR3",
+  "brand": "Salomon",
+  "title": "Salomon Pitkähihainen urheilupaita",
+  "price": 20.0,
+  "value": 40,
+  "score": 2.0,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Erittäin hyvä",
+  "size": "MEN-INT-XL",
+  "link": "https://www.sellpy.fi/item/9BEpcVHcR3",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-3-k-5/9BEpcVHcR3-7419-0.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 58 €",
+   "⚠️ kate ~-7 € (ROI -27%, myy vinted ~21 €; brändiarvio ~30 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794643682,
+  "resale": 21,
+  "profit": -7,
+  "roi": -0.27,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~30 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~21 € → käteen ~19 € kulujen ja tinkimisen jälkeen",
+   "osto 20 € + toimitus = 26 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
   "id": "tori-49842886",
   "brand": "Louis Vuitton · Tori",
   "title": "Louis Vuitton LV Archlight -lenkkarit",

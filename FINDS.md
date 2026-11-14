@@ -1,6 +1,6 @@
 # 🦅 Grail Hunter: löydöt
 
-Päivitetty 14.11.2026 01:49 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi olla jo myyty.
+Päivitetty 14.11.2026 08:08 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi olla jo myyty.
 
 ## 🔥 Viikon parhaat
 
@@ -51,6 +51,7 @@ Päivitetty 14.11.2026 01:49 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi oll
 
 | | Löytö | Hinta | Pisteet | Tyyppi / koko | Löydetty (UTC) |
 |---|---|---|---|---|---|
+| <a href="https://www.sellpy.fi/item/9BEpcVHcR3"><img src="https://prod.images.sellpy.net/photoRobot-standard-3-k-5/9BEpcVHcR3-7419-0.jpg" width="90"></a> | ✅ DIILI<br>**[Salomon](https://www.sellpy.fi/item/9BEpcVHcR3)**<br>Salomon Pitkähihainen urheilupaita | **20 €**<br>arvio ~40 €<br>kate ~-7 € | 2.0 | muu<br>MEN-INT-XL | 14.11. 08:08 |
 | <a href="https://www.marktplaats.nl/v/kleding-heren/schoenen/m2464911165-timberland-alden-brook-zwart-maat-43"><img src="https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/64a0636b-431d-4f85-8c86-d5e15752c3a4?rule=ecg_mp_eps$_83.jpg" width="90"></a> | 🚨 INSANE<br>**[Alden · Marktplaats 🇳🇱](https://www.marktplaats.nl/v/kleding-heren/schoenen/m2464911165-timberland-alden-brook-zwart-maat-43)**<br>-Timberland Alden Brook Zwart - Maat 43 | **70 €**<br>arvio ~308 €<br>kate ~97 € | 4.4 | kengät<br>- | 14.11. 01:49 |
 | <a href="https://www.2dehands.be/v/kleding-dames/t-shirts/m2465055795-haider-ackermann-designer-off-white-t-shirt-maat-xl"><img src="https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/4156e98b-5500-42f3-921b-82b0d3023a50?rule=ecg_mp_eps$_83.jpg" width="90"></a> | ✅ DIILI<br>**[Haider Ackermann · 2dehands 🇧🇪](https://www.2dehands.be/v/kleding-dames/t-shirts/m2465055795-haider-ackermann-designer-off-white-t-shirt-maat-xl)**<br>Haider Ackermann designer off-white t-shirt maat Xl | **45 €**<br>arvio ~112 €<br>kate ~13 €<br>🩹 kunto: kulunut | 2.49 | kauluspaita<br>MEN-INT-XL | 14.11. 01:49 |
 | <a href="https://www.2dehands.be/v/kleding-dames/t-shirts/m2465050233-haider-ackermann-off-white-t-shirt-100-silk-maat-l"><img src="https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/74aa596f-29f7-42e2-873d-70e69d388af2?rule=ecg_mp_eps$_83.jpg" width="90"></a> | ✅ DIILI<br>**[Haider Ackermann · 2dehands 🇧🇪](https://www.2dehands.be/v/kleding-dames/t-shirts/m2465050233-haider-ackermann-off-white-t-shirt-100-silk-maat-l)**<br>Haider Ackermann off-white t-shirt 100% silk maat L | **70 €**<br>arvio ~160 €<br>kate ~14 € | 2.29 | kauluspaita<br>MEN-INT-L | 14.11. 01:49 |
@@ -110,4 +111,3 @@ Päivitetty 14.11.2026 01:49 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi oll
 | <a href="https://www.sellpy.fi/item/AXwmqNg6Sd"><img src="https://prod.images.sellpy.net/photoRobot-fixed-22-l-3/AXwmqNg6Sd-4ab6-0-timed-sequence.jpg" width="90"></a> | 📉 🚨 INSANE<br>**[Jean Paul Gaultier](https://www.sellpy.fi/item/AXwmqNg6Sd)**<br>Jean Paul Gaultier Rantakassi | **48 €** (oli 54)<br>arvio ~320 € | 6.67 | laukku<br>- | 13.11. 15:36 |
 | <a href="https://www.sellpy.fi/item/x5XegdN3id"><img src="https://prod.images.sellpy.net/photoRobot-standard-1-k-21/x5XegdN3id-7d66-0.jpg" width="90"></a> | 💎 HARVINAINEN<br>**[Raf Simons](https://www.sellpy.fi/item/x5XegdN3id)**<br>Raf Simons T-paita | **152 €**<br>arvio ~158 €<br>kate ~-75 € | 1.04 | t-paita<br>MEN-INT-L | 13.11. 15:36 |
 | <a href="https://www.sellpy.fi/item/2HmeZFOJ6S"><img src="https://prod.images.sellpy.net/photoRobot-case-14-k-2/2HmeZFOJ6S-1511-0.jpg" width="90"></a> | 💎 HARVINAINEN<br>**[Y-3](https://www.sellpy.fi/item/2HmeZFOJ6S)**<br>Y-3 Yohji Yamamoto Slip-ons | **53 €**<br>arvio ~69 €<br>kate ~-26 €<br>🩹 kunto: kulunut | 1.29 | kengät<br>SHOES-EU-44.67 | 13.11. 15:36 |
-| <a href="https://www.sellpy.fi/item/iQ5gJFqtXH"><img src="https://prod.images.sellpy.net/photoRobot-fixed-22-l-4/jBddW21J2f-c2c9-single.jpg" width="90"></a> | 💎 HARVINAINEN<br>**[Rick Owens](https://www.sellpy.fi/item/iQ5gJFqtXH)**<br>Rick Owens Rannelämmittimet Island | **125 €**<br>arvio ~194 €<br>🟡 feikkiriski 27 | 1.55 | asuste<br>GLOVES-INT-S | 13.11. 15:36 |
