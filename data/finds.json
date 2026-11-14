@@ -1,5 +1,241 @@
 [
  {
+  "id": "Tiqr6FoJHo",
+  "brand": "Jean Paul Gaultier",
+  "title": "Jean Paul Gaultier Hihaton toppi Soleil",
+  "price": 145.0,
+  "value": 320,
+  "score": 2.21,
+  "label": "✅ DIILI",
+  "category": "t-paita",
+  "condition": "Erittäin hyvä",
+  "size": "WMN-INT-XL",
+  "link": "https://www.sellpy.fi/item/Tiqr6FoJHo",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-21/Tiqr6FoJHo-6a4f-0.jpg",
+  "reasons": [
+   "taso A",
+   "soleil ×1.3",
+   "mesh ×1.6",
+   "harvinainen: mesh",
+   "malli 'mesh' ~320 €",
+   "Sellpyn mediaani tälle brändille 103 €",
+   "Japanissa myyty mediaani 75 € (n=83)",
+   "kate ~73 € (ROI 48%, myy grailed ~320 €; malli 'mesh' ~320 € (taulukko: 90-luvun mesh/tattoo-kappaleet ovat viraaleja))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794668535,
+  "resale": 320,
+  "profit": 73,
+  "roi": 0.48,
+  "exit": "grailed",
+  "resale_why": [
+   "malli 'mesh' ~320 € (taulukko: 90-luvun mesh/tattoo-kappaleet ovat viraaleja)",
+   "myynti grailed ~320 € → käteen ~224 € kulujen ja tinkimisen jälkeen",
+   "osto 145 € + toimitus = 151 €",
+   "t-paita: matala kate-kategoria, paljon tarjontaa"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "41RneywG84",
+  "brand": "Dior",
+  "title": "Dior Lenkkarit",
+  "price": 220.0,
+  "value": 280,
+  "score": 1.27,
+  "label": "💎 HARVINAINEN",
+  "category": "kengät",
+  "condition": "Erittäin hyvä",
+  "size": "SHOES-EU-44",
+  "link": "https://www.sellpy.fi/item/41RneywG84",
+  "image": "https://prod.images.sellpy.net/photoRobot-case-6-k-21/41RneywG84-ed2d-0.jpg",
+  "reasons": [
+   "taso A",
+   "harvinainen: verkko",
+   "Sellpyn mediaani tälle brändille 145 €",
+   "Japanissa myyty mediaani 33 € (n=78)",
+   "⚠️ kate ~-79 € (ROI -35%, myy grailed ~210 €; brändiarvio ~210 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794668536,
+  "resale": 210,
+  "profit": -79,
+  "roi": -0.35,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~210 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~210 € → käteen ~146 € kulujen ja tinkimisen jälkeen",
+   "osto 220 € + toimitus = 226 €"
+  ],
+  "risk": {
+   "fake": 14,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "aitoustodiste mainittu ('sarjanumero')",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv"
+   ]
+  }
+ },
+ {
+  "id": "ZO3sjAyE4Q",
+  "brand": "Paul Smith",
+  "title": "Paul Smith Kauluspaita",
+  "price": 13.0,
+  "value": 39,
+  "score": 3.02,
+  "label": "🔥 KOVA DIILI",
+  "category": "kauluspaita",
+  "condition": "Hyväksyttävä",
+  "size": "MEN-EU_COLLAR-41/42",
+  "link": "https://www.sellpy.fi/item/ZO3sjAyE4Q",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-l-2/ZO3sjAyE4Q-416e-0.jpg",
+  "reasons": [
+   "taso D",
+   "Sellpyn mediaani tälle brändille 35 €",
+   "kate ~0 € (ROI -3%, myy vinted ~20 €; brändiarvio ~29 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794668536,
+  "resale": 20,
+  "profit": 0,
+  "roi": -0.03,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~29 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~20 € → käteen ~18 € kulujen ja tinkimisen jälkeen",
+   "osto 13 € + toimitus = 19 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "kulunut",
+   "why": [
+    "selviä käytön jälkiä/vikoja"
+   ]
+  }
+ },
+ {
+  "id": "UyjfXEaCpz",
+  "brand": "Paul Smith",
+  "title": "Paul Smith Kauluspaita",
+  "price": 13.0,
+  "value": 39,
+  "score": 3.02,
+  "label": "🔥 KOVA DIILI",
+  "category": "kauluspaita",
+  "condition": "Hyväksyttävä",
+  "size": "MEN-EU_COLLAR-41/42",
+  "link": "https://www.sellpy.fi/item/UyjfXEaCpz",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-l-2/UyjfXEaCpz-6086-0.jpg",
+  "reasons": [
+   "taso D",
+   "Sellpyn mediaani tälle brändille 35 €",
+   "kate ~0 € (ROI -3%, myy vinted ~20 €; brändiarvio ~29 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794668536,
+  "resale": 20,
+  "profit": 0,
+  "roi": -0.03,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~29 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~20 € → käteen ~18 € kulujen ja tinkimisen jälkeen",
+   "osto 13 € + toimitus = 19 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "kulunut",
+   "why": [
+    "selviä käytön jälkiä/vikoja"
+   ]
+  }
+ },
+ {
+  "id": "lpBn2RNGZu",
+  "brand": "Paul Smith",
+  "title": "Paul Smith Kauluspaita",
+  "price": 10.0,
+  "value": 39,
+  "score": 3.92,
+  "label": "🔥 KOVA DIILI",
+  "category": "kauluspaita",
+  "condition": "Hyväksyttävä",
+  "size": "MEN-EU_COLLAR-41/42",
+  "link": "https://www.sellpy.fi/item/lpBn2RNGZu",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-l-2/lpBn2RNGZu-33f2-0.jpg",
+  "reasons": [
+   "taso D",
+   "Sellpyn mediaani tälle brändille 35 €",
+   "kate ~3 € (ROI 16%, myy vinted ~20 €; brändiarvio ~29 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794668536,
+  "resale": 20,
+  "profit": 3,
+  "roi": 0.16,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~29 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~20 € → käteen ~18 € kulujen ja tinkimisen jälkeen",
+   "osto 10 € + toimitus = 16 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "kulunut",
+   "why": [
+    "selviä käytön jälkiä/vikoja"
+   ]
+  }
+ },
+ {
+  "id": "hhT096o2mT",
+  "brand": "Paras (haku: kashmir)",
+  "title": "Paras Neulepaita",
+  "price": 11.0,
+  "value": 59,
+  "score": 5.33,
+  "label": "🚨 INSANE",
+  "category": "neule",
+  "condition": "Erittäin hyvä",
+  "size": "MEN-INT-XL",
+  "link": "https://www.sellpy.fi/item/hhT096o2mT",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-5-k-8/hhT096o2mT-420d-0.jpg",
+  "reasons": [
+   "tiedoissa 'kashmir', brändiksi listattu 'Paras'",
+   "kashmir ×1.15"
+  ],
+  "source": "haku",
+  "old_price": null,
+  "ts": 1794668538,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
   "id": "tradera-761025618",
   "brand": "Saint Laurent · Tradera 🇸🇪",
   "title": "Saint Laurent sneakers, vita",
