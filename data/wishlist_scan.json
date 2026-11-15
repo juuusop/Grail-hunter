@@ -1,5 +1,5 @@
 {
- "generated": 1794729818,
+ "generated": 1794757823,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -283,6 +283,14 @@
     "image": "https://img.tori.net/dynamic/default/item/49903741/73822b70-bc5b-4e4e-94de-016ace3adc4e"
    },
    {
+    "id": "tori-44470087",
+    "source": "tori",
+    "title": "Kannettavan pöytäteline",
+    "price": 20.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/44470087",
+    "image": "https://img.tori.net/dynamic/default/item/44470087/fba220a7-00b5-4583-90ad-57367dbd9f37"
+   },
+   {
     "id": "tradera-758802063",
     "source": "tradera",
     "title": "IKEA SIGFINN bildskärms- eller laptopställ",
@@ -337,14 +345,6 @@
     "price": 25.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/44732137",
     "image": "https://img.tori.net/dynamic/default/item/44732137/741458e8-1409-40a2-8ee6-fb816964430f"
-   },
-   {
-    "id": "tori-48149845",
-    "source": "tori",
-    "title": "Säädettävä kannettavan tietokoneen teline",
-    "price": 25.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/48149845",
-    "image": "https://img.tori.net/dynamic/default/item/48149845/5954d513-0367-48cf-aac7-4ea865188fdc"
    },
    {
     "id": "tradera-754924156",
@@ -403,6 +403,14 @@
     "image": "https://img.tori.net/dynamic/default/item/47821945/e44d387b-3cb0-49f3-bb6f-09fd5940bc66"
    },
    {
+    "id": "tori-49934061",
+    "source": "tori",
+    "title": "Neomounts kannettavan tietokoneen teline – kuin uusi",
+    "price": 35.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/49934061",
+    "image": "https://img.tori.net/dynamic/default/item/49934061/b1a8d7db-b221-4483-b4f7-e6106c416e61"
+   },
+   {
     "id": "tori-49579338",
     "source": "tori",
     "title": "(new price) Rare Laptop Cooler/Stand + USB3-Hub: SilverStone Noble Breeze NB05",
@@ -425,6 +433,14 @@
     "price": 39.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/44187870",
     "image": "https://img.tori.net/dynamic/default/item/44187870/06279690-e815-4f84-9f13-4f9f00b5b17d"
+   },
+   {
+    "id": "tori-48362246",
+    "source": "tori",
+    "title": "Läppäriteline, pöytäänkiinnitettävä 2 kpl",
+    "price": 40.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/48362246",
+    "image": "https://img.tori.net/dynamic/default/item/48362246/30a940d0-de91-4c95-bd4d-5b9de8f61830"
    },
    {
     "id": "tori-45793004",
@@ -513,14 +529,6 @@
     "price": 49.8,
     "url": "https://www.tradera.com/item/1000651/679482094/rain-design-mstand-stativ-stall-for-macbook-for-macbook-laptop-stand",
     "image": "https://img.tradera.net/images/876/603914876_5aa9b001-62b7-433f-9194-11738f8217f9.jpg"
-   },
-   {
-    "id": "tori-48362246",
-    "source": "tori",
-    "title": "Läppäriteline, pöytäänkiinnitettävä 2 kpl",
-    "price": 50.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/48362246",
-    "image": "https://img.tori.net/dynamic/default/item/48362246/30a940d0-de91-4c95-bd4d-5b9de8f61830"
    },
    {
     "id": "blocket-25917452",
@@ -645,6 +653,14 @@
     "image": "https://img.tori.net/dynamic/default/item/44206340/1b11673e-3feb-4b52-9283-6672892d2d69"
    },
    {
+    "id": "tori-49937186",
+    "source": "tori",
+    "title": "Acrtic X1-3D monitor arm",
+    "price": 19.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/49937186",
+    "image": "https://img.tori.net/dynamic/default/item/49937186/cd130edf-fc7f-4c64-94e0-aef61d25f434"
+   },
+   {
     "id": "tori-34378118",
     "source": "tori",
     "title": "Ergotron Monitorin kiinnike säädettävällä varrella",
@@ -667,6 +683,14 @@
     "price": 25.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/49702688",
     "image": "https://img.tori.net/dynamic/default/item/49702688/2a6069a6-3e49-4a38-9ea9-5f65094185c1"
+   },
+   {
+    "id": "tori-49953053",
+    "source": "tori",
+    "title": "Arctic Z3 Pro (gen 3) näyttövarsi 3:lle näytölle",
+    "price": 25.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/49953053",
+    "image": "https://img.tori.net/dynamic/default/item/49953053/bc078a0b-b94a-4079-b3f1-485bdaf450e7"
    },
    {
     "id": "tori-47044251",
@@ -731,14 +755,6 @@
     "price": 30.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/49444157",
     "image": "https://img.tori.net/dynamic/default/item/49444157/ae9df138-5fe3-47cd-97a3-077bd4e9b733"
-   },
-   {
-    "id": "tori-49361588",
-    "source": "tori",
-    "title": "ARCTIC Z2-3D (Gen 3) Monitorivarsi",
-    "price": 30.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49361588",
-    "image": "https://img.tori.net/dynamic/default/item/49361588/2e6d97b0-78f4-4d1e-80b2-e6535d15e92e"
    },
    {
     "id": "tori-48336932",
@@ -1013,28 +1029,12 @@
     "image": "https://images.blocketcdn.se/dynamic/default/item/21952714/26a35f4f-df53-4d47-b9e6-2d33f5a0963d"
    },
    {
-    "id": "tori-49377936",
-    "source": "tori",
-    "title": "Monitorivarsi yhdelle näytölle (2 kappaletta)",
-    "price": 60.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49377936",
-    "image": "https://img.tori.net/dynamic/default/item/49377936/4af28b89-bbf9-4f6b-82e0-8cc73302e6e5"
-   },
-   {
     "id": "tori-38969723",
     "source": "tori",
     "title": "Hyvä Dellin näyttö 32\", kaasujousivarsi ja näytön jalka",
     "price": 60.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/38969723",
     "image": "https://img.tori.net/dynamic/default/item/38969723/8a20a381-56d6-4260-a1ac-1de3111be3e1"
-   },
-   {
-    "id": "tori-49698385",
-    "source": "tori",
-    "title": "ASUS 24\" Monitor (VA247HE) with Ergonomic Desk Mount Arm",
-    "price": 60.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49698385",
-    "image": "https://img.tori.net/dynamic/default/item/49698385/2065b394-5dcc-434b-8039-f14cdac4a0ea"
    },
    {
     "id": "tori-47756932",
