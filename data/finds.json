@@ -1,5 +1,292 @@
 [
  {
+  "id": "tradera-761242607",
+  "brand": "Helmut Lang · Tradera 🇸🇪",
+  "title": "Helmut Lang-klänning",
+  "price": 38.28,
+  "value": 114,
+  "score": 2.98,
+  "label": "🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/301741/761242607/helmut-lang-klanning",
+  "image": "https://img.tradera.net/images/921/667034921_c3b33d5e-40e2-4809-84c4-a14917d1f7cf.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 68 €",
+   "Japanissa myyty (muu) mediaani 62 € (n=43)",
+   "⚠️ kate ~-18 € (ROI -33%, myy grailed ~53 €; Yahoo JP toteutuneet (muu): mediaani 62 €, p25 35 € (n=43) → geneerinen ~48 € × 1.15 EU-taso)",
+   "440 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794726844,
+  "resale": 53,
+  "profit": -18,
+  "roi": -0.33,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 62 €, p25 35 € (n=43) → geneerinen ~48 € × 1.15 EU-taso",
+   "myynti grailed ~53 € → käteen ~37 € kulujen ja tinkimisen jälkeen",
+   "osto 38 € + toimitus = 54 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761033559",
+  "brand": "Helmut Lang · Tradera 🇸🇪",
+  "title": "Helmut Lang-byxor",
+  "price": 46.98,
+  "value": 128,
+  "score": 2.73,
+  "label": "🔥 KOVA DIILI",
+  "category": "housut",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1631/761033559/helmut-lang-byxor",
+  "image": "https://img.tradera.net/images/043/666973043_8633239c-8579-4771-a642-c963db924691.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 68 €",
+   "Japanissa myyty (housut) mediaani 85 € (n=13)",
+   "⚠️ kate ~-17 € (ROI -27%, myy grailed ~67 €; Yahoo JP toteutuneet (housut): mediaani 85 €, p25 37 € (n=13) → geneerinen ~61 € × 1.15 EU-taso)",
+   "540 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794726844,
+  "resale": 67,
+  "profit": -17,
+  "roi": -0.27,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (housut): mediaani 85 €, p25 37 € (n=13) → geneerinen ~61 € × 1.15 EU-taso",
+   "myynti grailed ~67 € → käteen ~46 € kulujen ja tinkimisen jälkeen",
+   "osto 47 € + toimitus = 63 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-760899910",
+  "brand": "Helmut Lang · Tradera 🇸🇪",
+  "title": "Helmut Lang-tröja",
+  "price": 28.71,
+  "value": 142,
+  "score": 4.96,
+  "label": "🚨 INSANE",
+  "category": "neule",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1629/760899910/helmut-lang-troja",
+  "image": "https://img.tradera.net/images/855/666737855_fd708c60-814d-4e61-b454-f18da7222ef6.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 68 €",
+   "Japanissa myyty mediaani 83 € (n=76)",
+   "kate ~29 € (ROI 66%, myy grailed ~106 €; brändiarvio ~106 € (ei mallivertailua eikä Yahoo-dataa))",
+   "330 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794726844,
+  "resale": 106,
+  "profit": 29,
+  "roi": 0.66,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~106 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~106 € → käteen ~74 € kulujen ja tinkimisen jälkeen",
+   "osto 29 € + toimitus = 45 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "dba-26761947",
+  "brand": "Louis Vuitton · DBA 🇩🇰",
+  "title": "Louis Vuitton Sneakers",
+  "price": 125.02,
+  "value": 399,
+  "score": 3.19,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.dba.dk/recommerce/forsale/item/26761947",
+  "image": "https://images.dbastatic.dk/dynamic/default/item/26761947/2febeac3-9775-43d6-98ec-c2fb842e4c8d",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 200 €",
+   "Japanissa myyty mediaani 75 € (n=73)",
+   "kate ~21 € (ROI 17%, myy grailed ~209 €; brändiarvio ~299 € (ei mallivertailua eikä Yahoo-dataa))",
+   "800 DKK + ~18 € posti = 125 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "dba",
+  "old_price": null,
+  "ts": 1794726844,
+  "resale": 209,
+  "profit": 21,
+  "roi": 0.17,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~299 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~209 € → käteen ~146 € kulujen ja tinkimisen jälkeen",
+   "osto 125 € + toimitus = 125 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2465310647",
+  "brand": "Goyard · Marktplaats 🇳🇱",
+  "title": "Goyard",
+  "price": 120.0,
+  "value": 240,
+  "score": 2.0,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/toilettassen/m2465310647-goyard",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/b29b9ad5-6be2-4a55-970e-588fb4fc4d64?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Japanissa myyty (muu) mediaani 402 € (n=46)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "100 EUR + ~20 € posti = 120 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794726845,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2465649607",
+  "brand": "Louis Vuitton · 2dehands 🇧🇪",
+  "title": "Tas louis vuitton",
+  "price": 120.0,
+  "value": 240,
+  "score": 2.0,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/handtassen-en-accessoires/tassen-damestassen/m2465649607-tas-louis-vuitton",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/bfeef034-3827-4ab0-b6f2-896df23c27d7?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 200 €",
+   "Japanissa myyty mediaani 75 € (n=73)",
+   "⚠️ kate ~-32 € (ROI -27%, myy grailed ~126 €; brändiarvio ~180 € (ei mallivertailua eikä Yahoo-dataa))",
+   "100 EUR + ~20 € posti = 120 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1794726845,
+  "resale": 126,
+  "profit": -32,
+  "roi": -0.27,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~180 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~126 € → käteen ~88 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 120 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2465521415",
+  "brand": "Goyard · 2dehands 🇧🇪",
+  "title": "Sac goyard",
+  "price": 120.0,
+  "value": 240,
+  "score": 2.0,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/handtassen-en-accessoires/tassen-reistassen-en-weekendtassen/m2465521415-sac-goyard",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/44c36fcb-4b9a-4f44-be53-87ad6168c834?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Japanissa myyty (muu) mediaani 402 € (n=46)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "100 EUR + ~20 € posti = 120 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1794726845,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "tori-49561893",
   "brand": "Arc'teryx · Tori",
   "title": "Myydään Arcteryx sininen goretex-takki",
