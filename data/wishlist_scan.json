@@ -1,5 +1,5 @@
 {
- "generated": 1794757823,
+ "generated": 1794777255,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -283,14 +283,6 @@
     "image": "https://img.tori.net/dynamic/default/item/49903741/73822b70-bc5b-4e4e-94de-016ace3adc4e"
    },
    {
-    "id": "tori-44470087",
-    "source": "tori",
-    "title": "Kannettavan pöytäteline",
-    "price": 20.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/44470087",
-    "image": "https://img.tori.net/dynamic/default/item/44470087/fba220a7-00b5-4583-90ad-57367dbd9f37"
-   },
-   {
     "id": "tradera-758802063",
     "source": "tradera",
     "title": "IKEA SIGFINN bildskärms- eller laptopställ",
@@ -371,6 +363,14 @@
     "image": "https://img.tori.net/dynamic/default/item/49794288/b3f31ab9-6a3c-488a-ad7d-fbede7cfb4dd"
    },
    {
+    "id": "tradera-761460349",
+    "source": "tradera",
+    "title": "*Helt nytt* Hopfällbart laptopställ i aluminium – Modell N8",
+    "price": 31.96,
+    "url": "https://www.tradera.com/item/1000651/761460349/-helt-nytt-hopfallbart-laptopstall-i-aluminium-modell-n8",
+    "image": "https://img.tradera.net/images/336/668601336_91c4119b-ed11-4fda-be08-c1d31db38aec.jpg"
+   },
+   {
     "id": "tradera-760708672",
     "source": "tradera",
     "title": "Desire2 View Supreme Lite Laptopställ",
@@ -393,6 +393,14 @@
     "price": 34.23,
     "url": "https://www.tradera.com/item/1000651/756608819/desire2-laptopstall",
     "image": "https://img.tradera.net/images/181/664805181_67264947-e405-4d83-9809-744e6553cae7.jpg"
+   },
+   {
+    "id": "tori-49972074",
+    "source": "tori",
+    "title": "Säädettävä kannettavan tietokoneen teline – koottava",
+    "price": 35.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/49972074",
+    "image": "https://img.tori.net/dynamic/default/item/49972074/dc8215db-f315-4139-a16a-ac17dc020f59"
    },
    {
     "id": "tori-47821945",
@@ -597,6 +605,14 @@
   ],
   "Näyttövarsi yhdelle näytölle": [
    {
+    "id": "tori-49957374",
+    "source": "tori",
+    "title": "Deltaco näyttövarsi kaasujousella",
+    "price": 10.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/49957374",
+    "image": "https://img.tori.net/dynamic/default/item/49957374/d300264f-1225-449f-a617-c4f78c15c815"
+   },
+   {
     "id": "tori-49889400",
     "source": "tori",
     "title": "näyttövarsi",
@@ -651,14 +667,6 @@
     "price": 15.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/44206340",
     "image": "https://img.tori.net/dynamic/default/item/44206340/1b11673e-3feb-4b52-9283-6672892d2d69"
-   },
-   {
-    "id": "tori-49937186",
-    "source": "tori",
-    "title": "Acrtic X1-3D monitor arm",
-    "price": 19.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49937186",
-    "image": "https://img.tori.net/dynamic/default/item/49937186/cd130edf-fc7f-4c64-94e0-aef61d25f434"
    },
    {
     "id": "tori-34378118",
@@ -829,14 +837,6 @@
     "image": "https://images.blocketcdn.se/dynamic/default/item/28095295/a36f8702-1ffe-47d0-ac5e-c29dd4b24935"
    },
    {
-    "id": "tradera-757526267",
-    "source": "tradera",
-    "title": "Monitorarm för skrivbord, justerbar skärmhållare",
-    "price": 39.27,
-    "url": "https://www.tradera.com/item/1000274/757526267/monitorarm-for-skrivbord-justerbar-skarmhallare",
-    "image": "https://img.tradera.net/images/357/657386357_dfdd2b13-9f07-46c6-9248-8061dc7da032.jpg"
-   },
-   {
     "id": "tradera-755647966",
     "source": "tradera",
     "title": "Monitorarm för skrivbord, justerbar skärmhållare",
@@ -845,12 +845,44 @@
     "image": "https://img.tradera.net/images/575/655962575_779796dd-1f5a-469b-b492-c8ec07d181e7.jpg"
    },
    {
+    "id": "tradera-757526267",
+    "source": "tradera",
+    "title": "Monitorarm för skrivbord, justerbar skärmhållare",
+    "price": 39.27,
+    "url": "https://www.tradera.com/item/1000274/757526267/monitorarm-for-skrivbord-justerbar-skarmhallare",
+    "image": "https://img.tradera.net/images/357/657386357_dfdd2b13-9f07-46c6-9248-8061dc7da032.jpg"
+   },
+   {
     "id": "tradera-751112123",
     "source": "tradera",
     "title": "Monitorarm för skrivbord, justerbar skärmhållare",
     "price": 39.27,
     "url": "https://www.tradera.com/item/1000274/751112123/monitorarm-for-skrivbord-justerbar-skarmhallare",
     "image": "https://img.tradera.net/images/408/660522408_675cfbe0-c1e8-4858-8ee2-5f9c8ca11bd6.jpg"
+   },
+   {
+    "id": "tori-45182530",
+    "source": "tori",
+    "title": "Mozi Infinity Line näyttövarsi valkoinen",
+    "price": 40.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/45182530",
+    "image": "https://img.tori.net/dynamic/default/item/45182530/29120898-24e3-48b2-ae0e-f14b8713b718"
+   },
+   {
+    "id": "tradera-761534831",
+    "source": "tradera",
+    "title": "KOORUI KR20Y monitorarm för skrivbord",
+    "price": 41.01,
+    "url": "https://www.tradera.com/item/1000274/761534831/koorui-kr20y-monitorarm-for-skrivbord",
+    "image": "https://img.tradera.net/images/719/668654719_82eb972e-d0c4-42a5-b3be-85a1f09bab35.jpg"
+   },
+   {
+    "id": "tradera-761534555",
+    "source": "tradera",
+    "title": "KOORUI KR20Y monitorarm för skrivbord",
+    "price": 41.01,
+    "url": "https://www.tradera.com/item/1000274/761534555/koorui-kr20y-monitorarm-for-skrivbord",
+    "image": "https://img.tradera.net/images/557/668654557_1829a2d2-8a7c-4a9e-a599-c61a16d2c1cc.jpg"
    },
    {
     "id": "tradera-760414755",
@@ -957,14 +989,6 @@
     "image": "https://images.blocketcdn.se/dynamic/default/item/26324794/d512c091-fd0a-4cbf-95ea-a9fe366e66d2"
    },
    {
-    "id": "tori-45182530",
-    "source": "tori",
-    "title": "Mozi Infinity Line näyttövarsi valkoinen",
-    "price": 50.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/45182530",
-    "image": "https://img.tori.net/dynamic/default/item/45182530/29120898-24e3-48b2-ae0e-f14b8713b718"
-   },
-   {
     "id": "tori-19449340",
     "source": "tori",
     "title": "Deltaco näyttövarsi",
@@ -1003,14 +1027,6 @@
     "price": 50.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/45557942",
     "image": "https://img.tori.net/dynamic/default/item/45557942/f4d44b06-5b9b-4cf7-8ade-0f0e1e4f9fe0"
-   },
-   {
-    "id": "tori-46087782",
-    "source": "tori",
-    "title": "LCD ViewMaster näytönvarsi pöytäkiinnityksellä",
-    "price": 55.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/46087782",
-    "image": "https://img.tori.net/dynamic/default/item/46087782/fd2badaa-8763-46c3-8cbf-c2715b0e6870"
    },
    {
     "id": "blocket-24642329",
