@@ -1,8 +1,8 @@
 # Feikki- ja kuntoriski löydöissä
 
-1170 löytöä (data/finds.json). Heuristiikka: risk.py.
+1173 löytöä (data/finds.json). Heuristiikka: risk.py.
 
-- korkea feikkiriski: **7%**, keskitaso: 18%
+- korkea feikkiriski: **8%**, keskitaso: 18%
 - kulunut/huono kunto: **25%**, kunto ei tiedossa: 28%
 
 ## Alustoittain
@@ -10,10 +10,10 @@
 | alusta | n | feikki korkea | keski | kulunut/huono | kunto ? |
 |---|---|---|---|---|---|
 | sellpy.fi | 749 | 0% | 11% | 38% | 0% |
-| tradera.com | 186 | 4% | 37% | 0% | 100% |
-| tori.fi | 87 | 28% | 32% | 0% | 100% |
+| tradera.com | 187 | 4% | 36% | 0% | 100% |
+| tori.fi | 88 | 27% | 33% | 0% | 100% |
+| marktplaats.nl | 56 | 48% | 20% | 12% | 4% |
 | 2dehands.be | 56 | 25% | 25% | 7% | 21% |
-| marktplaats.nl | 55 | 47% | 20% | 13% | 4% |
 | finn.no | 13 | 15% | 8% | 0% | 100% |
 | dba.dk | 12 | 42% | 33% | 0% | 100% |
 | blocket.se | 12 | 58% | 42% | 0% | 100% |
@@ -23,8 +23,8 @@
 | kategoria | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
 | muu | 288 | 21% | 24% |
-| kengät | 229 | 52% | 28% |
-| takki | 213 | 25% | 25% |
+| kengät | 231 | 52% | 28% |
+| takki | 214 | 25% | 25% |
 | housut | 157 | 4% | 23% |
 | neule | 93 | 10% | 20% |
 | t-paita | 46 | 20% | 41% |
@@ -39,6 +39,7 @@
 
 | brändi | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
+| Loro Piana | 43 | 100% | 2% |
 | Dior | 7 | 100% | 14% |
 | Saint Laurent | 7 | 100% | 29% |
 | Balenciaga | 12 | 100% | 17% |
@@ -52,8 +53,7 @@
 | Alexander McQueen | 12 | 100% | 8% |
 | Loewe | 4 | 100% | 0% |
 | Givenchy | 5 | 100% | 40% |
-| Loro Piana | 42 | 100% | 2% |
-| Arc'teryx | 13 | 92% | 0% |
+| Arc'teryx | 14 | 93% | 0% |
 | Rick Owens | 12 | 92% | 8% |
 | Louis Vuitton | 5 | 80% | 20% |
 | Undercover | 5 | 80% | 0% |
