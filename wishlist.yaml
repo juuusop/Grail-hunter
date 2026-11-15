@@ -6,16 +6,18 @@
 # exclude    sanat jotka hylkäävät listauksen (lisävarusteet, väärä tyyppi)
 # max_price  hälytä vain tätä halvemmista (€, perillä Suomessa)
 # new_price  uutena (€): viestissä näkyy säästö
+# require_any  ainakin yksi näistä pitää löytyä (rajaa tuoteryhmän)
+# prefer     laatumerkit: näytetään ensin ⭐:llä
 # sources    tori, huuto, tradera, blocket (oletus kaikki)
 items:
-  - name: Läppäriteline (korkea, MacBook)
-    new_price: 98   # Twelve South Curve Flex, apple.com/fi + Verkkokauppa 11/2026
+  - name: Läppäriteline MacBookille
+    new_price: 98   # Twelve South Curve Flex 11/2026; HiRise ~90 €, Rain mStand ~65 €
     max_price: 70
     queries:
-      - twelve south curve
-      - curve flex
+      - twelve south
       - rain design mstand
-      - roost stand
+      - mstand
+      - roost laptop stand
       - läppäriteline
       - kannettavan teline
       - kannettavan tietokoneen teline
@@ -23,20 +25,32 @@ items:
       - laptop stand
       - laptopteline
       - laptopställ
-    exclude: [ipad, tabletti, puhelin, phone, nuotti, kitara, mikrofoni, kaiutin, monitor, näyttö, tuuletin, jäähdytys, cooling, sängy, sohva, lattia]
-  - name: Näyttövarsi (yksi näyttö, kaasujousi)
-    new_price: 130  # Mozi Infinity Line; Ergotron LX ~200 €, Deltaco ARM-534 ~50 €
+    require_any: [teline, stand, ställ, stativ, riser, curve, hirise]
+    prefer: [twelve south, twelvesouth, curve, hirise, rain design, mstand, roost, satechi, mozi, k&m, bakker, bookarc]
+    exclude: [ipad, tabletti, puhelin, phone, nuotti, kitara, mikrofoni, kaiutin, monitor, näyttö, tuuletin, jäähdyt, cooling, fläkt,
+              sänky, sohva, lattia, bräda, öjulf, ojulf, syli, tyyny, kudde, pystysuora, vertical, vertikal, pöytätaso, työpiste,
+              seisoma, ståskrivbord, sängbord, bord, servett, cd, vinyl, " 7", kosketin, macbook air +, "+ laturi", glas, keyboard]
+  - name: Näyttövarsi yhdelle näytölle
+    new_price: 130  # Mozi Infinity Line; Ergotron LX ~200 €, MX ~300 €, Deltaco ARM-534 ~50 €
     max_price: 90
     queries:
       - mozi infinity
-      - deltaco arm
+      - deltaco arm-534
       - ergotron lx
+      - ergotron mx
+      - ergotron neo-flex
       - ergotron
       - näyttövarsi
       - monitorivarsi
+      - monitorinvarsi
       - näytön varsi
-      - näyttöteline kaasujousi
+      - kaasujousivarsi
       - monitor arm
       - skärmarm
       - monitorarm
-    exclude: [dual, kahdelle, tupla, kaksois, "2 näytölle", "kahden näytön", triple, kolmelle, tv, televisio, seinäteline, seinäkiinnike, mikrofoni, lamppu, valaisin, kamera, puhelin]
+    require_any: [varsi, varre, arm, kiinnike, skärmfäste]
+    prefer: [ergotron, mozi, arctic x1, neomounts, vogel, invision, humanscale, kaasujousi, gasfjäder, gas spring]
+    exclude: [dual, dubbel, kahdelle, tupla, kaksois, kaksiosainen, "2 näytölle", "kahden näytön", "2x", "2 x", 2kpl, "2 kpl", "2 st", 3kpl,
+              triple, kolmelle, tv, televisio, seinä, vägg, katto, projektor, puhelin, älypuhelin, smartphone, surfplatt, tablet,
+              bungee, mus, hiiri, mouse, switch, skärmskydd, mikrofoni, lamppu, valaisin, kamera, armband, sleep, baby, field monitor,
+              workfit, työpiste, työtaso, hz, näyttö +, " + ", näytöt, näyttöä, spelskärm, pelinäyttö]

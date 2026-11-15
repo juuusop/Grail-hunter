@@ -109,6 +109,9 @@ def matches(item: dict, title: str, text: str) -> bool:
     for w in item.get("exclude") or []:
         if S.norm(w).strip() and S.norm(w).strip() in t:
             return False
+    need = [S.norm(w).strip() for w in item.get("require_any") or []]
+    if need and not any(w and w in t for w in need):
+        return False
     # every word of one query must appear (substring, so Finnish compounds/inflections still hit)
     return any(all(w in t for w in S.norm(q).split()) for q in item.get("queries") or [])
 
@@ -186,6 +189,16 @@ def eur(L: M.Listing) -> float:
     return L.extra.get("landed", L.price)
 
 
+def preferred(item: dict, L: M.Listing) -> bool:
+    t = S.norm(L.title)
+    return any(S.norm(w).strip() in t for w in item.get("prefer") or [])
+
+
+def order(item: dict, ls: list[M.Listing]) -> list[M.Listing]:
+    """Quality brands first (they hold value and are what jp asked for), then cheapest."""
+    return sorted(ls, key=lambda L: (not preferred(item, L), eur(L)))
+
+
 # ---------------------------------------------------------------- report
 def line(L: M.Listing, item: dict, med: float | None) -> str:
     p = eur(L)
@@ -204,7 +217,8 @@ def line(L: M.Listing, item: dict, med: float | None) -> str:
     if L.condition:
         why.append(L.condition.lower())
     title = L.title.replace("|", "/").replace("[", "(").replace("]", ")")[:90]
-    return f"- **{p:.0f} €** [{title}]({L.url}) · {FLAG[L.source]}" + (f" · {'; '.join(why)}" if why else "")
+    star = "⭐ " if preferred(item, L) else ""
+    return f"- {star}**{p:.0f} €** [{title}]({L.url}) · {FLAG[L.source]}" + (f" · {'; '.join(why)}" if why else "")
 
 
 def median_price(ls: list[M.Listing]) -> float | None:
@@ -229,7 +243,7 @@ def write_md(items: list[dict], found: dict[str, list[M.Listing]]):
         if it.get("new_price"):
             meta.append(f"uutena {it['new_price']:.0f} €")
         out += [hdr, "", " · ".join(meta), ""]
-        out += [line(L, it, med) for L in ls[:40]] or ["_Ei osumia nyt._"]
+        out += [line(L, it, med) for L in order(it, ls)[:60]] or ["_Ei osumia nyt._"]
         out.append("")
     MD.write_text("\n".join(out), encoding="utf-8")
 
@@ -302,12 +316,12 @@ def run():
         ls = sorted(found.get(k, []), key=eur)
         med = median_price(ls)
         mx = it.get("max_price")
-        ok = [L for L in ls if mx is None or eur(L) <= mx]
+        ok = order(it, [L for L in ls if mx is None or eur(L) <= mx])
         new = [L for L in ok if L.id not in seen.get(k, {})]
         if k not in known:  # first run for this item: a snapshot of what is out there now
             body = (f"### 🛒 {it['name']}: {len(ls)} osumaa nyt" + (f", {len(ok)} alle {mx:.0f} €" if mx else "")
                     + (f" · käytettyjen mediaani {med:.0f} €" if med else "") + "\n\n"
-                    + ("\n".join(line(L, it, med) for L in ok[:15]) or "_Ei vielä osumia, ilmoitan kun tulee._"))
+                    + ("\n".join(line(L, it, med) for L in ok[:20]) or "_Ei vielä osumia, ilmoitan kun tulee._"))
         elif new:
             body = f"### 🛒 {len(new)} uutta: {it['name']}\n\n" + "\n".join(line(L, it, med) for L in new[:15])
         else:
