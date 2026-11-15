@@ -1,5 +1,85 @@
 [
  {
+  "id": "ZQrkgJy9xN",
+  "brand": "Aspesi",
+  "title": "Aspesi Farkkupaita",
+  "price": 15.0,
+  "value": 50,
+  "score": 3.36,
+  "label": "🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "Hyväksyttävä",
+  "size": "MEN-EU_COLLAR-41",
+  "link": "https://www.sellpy.fi/item/ZQrkgJy9xN",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-7-k-9/ZQrkgJy9xN-e898-0.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 60 €",
+   "kate ~5 € (ROI 23%, myy grailed ~38 €; brändiarvio ~38 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794764142,
+  "resale": 38,
+  "profit": 5,
+  "roi": 0.23,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~38 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~38 € → käteen ~26 € kulujen ja tinkimisen jälkeen",
+   "osto 15 € + toimitus = 21 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "kulunut",
+   "why": [
+    "selviä käytön jälkiä/vikoja"
+   ]
+  }
+ },
+ {
+  "id": "BJc7SVnXul",
+  "brand": "Supreme",
+  "title": "Supreme x Hanes T-paita",
+  "price": 16.0,
+  "value": 40,
+  "score": 2.53,
+  "label": "🔥 KOVA DIILI",
+  "category": "t-paita",
+  "condition": "Hyvä",
+  "size": "MEN-INT-XL",
+  "link": "https://www.sellpy.fi/item/BJc7SVnXul",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-21/BJc7SVnXul-274a-0.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 68 €",
+   "⚠️ kate ~-1 € (ROI -6%, myy grailed ~30 €; brändiarvio ~30 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794764142,
+  "resale": 30,
+  "profit": -1,
+  "roi": -0.06,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~30 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~30 € → käteen ~20 € kulujen ja tinkimisen jälkeen",
+   "osto 16 € + toimitus = 22 €",
+   "t-paita: matala kate-kategoria, paljon tarjontaa"
+  ],
+  "risk": {
+   "fake": 22,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv"
+   ]
+  }
+ },
+ {
   "id": "tori-49045953",
   "brand": "Givenchy · Tori",
   "title": "Myydään Givenchy takki",
