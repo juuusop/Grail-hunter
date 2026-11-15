@@ -1,0 +1,57 @@
+name: Wishlist
+
+# Toivelista: any second-hand item from Tori, Huuto, Tradera, Blocket. Hourly, on push, and right after jp comments on the "🛒 Toivelista" issue.
+on:
+  schedule:
+    - cron: "27 * * * *"
+  push:
+    branches: [claude/designer-thrift-scraper-KF3Wi]
+    paths: [wishlist.py, wishlist.yaml, .github/workflows/wishlist.yml]
+  issue_comment:
+    types: [created, edited]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: wishlist
+  cancel-in-progress: false
+
+jobs:
+  wishlist:
+    if: github.event_name != 'issue_comment' || (github.event.issue.title == '🛒 Toivelista' && github.event.comment.user.type != 'Bot')
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Restore memory
+        uses: actions/cache/restore@v4
+        with:
+          path: data/wishlist_state.json
+          key: wishlist-v1-${{ github.run_id }}
+          restore-keys: wishlist-v1-
+      - run: python wishlist.py run
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Save memory
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: data/wishlist_state.json
+          key: wishlist-v1-${{ github.run_id }}
+      - name: Commit
+        run: |
+          git config user.name "grail-hunter-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/wishlist_scan.json WISHLIST.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Wishlist results [skip ci]"
+            for i in 1 2 3; do git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push && break; sleep 5; done
+          fi

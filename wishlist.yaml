@@ -1,0 +1,42 @@
+# Toivelista: mitä tahansa käytettyä, ei vain designer-vaatteita.
+# Helpoin tapa lisätä: kommentoi issueen "🛒 Toivelista" (ohje issuen alussa). Tähän voi myös kirjoittaa suoraan.
+#
+# name       näkyvä nimi
+# queries    hakusanat; listaus osuu jos otsikossa+kuvauksessa on KAIKKI jonkin haun sanat
+# exclude    sanat jotka hylkäävät listauksen (lisävarusteet, väärä tyyppi)
+# max_price  hälytä vain tätä halvemmista (€, perillä Suomessa)
+# new_price  uutena (€): viestissä näkyy säästö
+# sources    tori, huuto, tradera, blocket (oletus kaikki)
+items:
+  - name: Läppäriteline (korkea, MacBook)
+    new_price: 98   # Twelve South Curve Flex, apple.com/fi + Verkkokauppa 11/2026
+    max_price: 70
+    queries:
+      - twelve south curve
+      - curve flex
+      - rain design mstand
+      - roost stand
+      - läppäriteline
+      - kannettavan teline
+      - kannettavan tietokoneen teline
+      - macbook teline
+      - laptop stand
+      - laptopteline
+      - laptopställ
+    exclude: [ipad, tabletti, puhelin, phone, nuotti, kitara, mikrofoni, kaiutin, monitor, näyttö, tuuletin, jäähdytys, cooling, sängy, sohva, lattia]
+  - name: Näyttövarsi (yksi näyttö, kaasujousi)
+    new_price: 130  # Mozi Infinity Line; Ergotron LX ~200 €, Deltaco ARM-534 ~50 €
+    max_price: 90
+    queries:
+      - mozi infinity
+      - deltaco arm
+      - ergotron lx
+      - ergotron
+      - näyttövarsi
+      - monitorivarsi
+      - näytön varsi
+      - näyttöteline kaasujousi
+      - monitor arm
+      - skärmarm
+      - monitorarm
+    exclude: [dual, kahdelle, tupla, kaksois, "2 näytölle", "kahden näytön", triple, kolmelle, tv, televisio, seinäteline, seinäkiinnike, mikrofoni, lamppu, valaisin, kamera, puhelin]
