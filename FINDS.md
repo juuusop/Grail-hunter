@@ -1,6 +1,6 @@
 # 🦅 Grail Hunter: löydöt
 
-Päivitetty 15.11.2026 07:14 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi olla jo myyty.
+Päivitetty 15.11.2026 10:53 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi olla jo myyty.
 
 ## 🔥 Viikon parhaat
 
@@ -51,6 +51,8 @@ Päivitetty 15.11.2026 07:14 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi oll
 
 | | Löytö | Hinta | Pisteet | Tyyppi / koko | Löydetty (UTC) |
 |---|---|---|---|---|---|
+| <a href="https://www.sellpy.fi/item/BRyNxIGJHP"><img src="https://prod.images.sellpy.net/photoRobot-case-14-k-10/BRyNxIGJHP-40d2-0.jpg" width="90"></a> | 📉 🚨 INSANE<br>**[Adidas (haku: raf simons)](https://www.sellpy.fi/item/BRyNxIGJHP)**<br>Adidas Lenkkarit Raf Simons Stan Smith | **42 €** (oli 46)<br>arvio ~295 € | 7.01 | kengät<br>SHOES-EU-44.67 | 15.11. 10:53 |
+| <a href="https://www.sellpy.fi/item/JV3JX69EPH"><img src="https://prod.images.sellpy.net/photoRobot-standard-3-k-8/JV3JX69EPH-40d7-0.jpg" width="90"></a> | 🚨 INSANE<br>**[Whyred](https://www.sellpy.fi/item/JV3JX69EPH)**<br>WHYRED Bomber-takki | **18 €**<br>arvio ~72 €<br>kate ~10 € | 4.0 | takki<br>MEN-EU-52 | 15.11. 10:53 |
 | <a href="https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/toilettassen/m2465310647-goyard"><img src="https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/b29b9ad5-6be2-4a55-970e-588fb4fc4d64?rule=ecg_mp_eps$_83.jpg" width="90"></a> | ✅ DIILI<br>**[Goyard · Marktplaats 🇳🇱](https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/toilettassen/m2465310647-goyard)**<br>Goyard | **120 €**<br>arvio ~240 €<br>🟡 feikkiriski 40 | 2.0 | muu<br>- | 15.11. 07:14 |
 | <a href="https://www.2dehands.be/v/handtassen-en-accessoires/tassen-damestassen/m2465649607-tas-louis-vuitton"><img src="https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/bfeef034-3827-4ab0-b6f2-896df23c27d7?rule=ecg_mp_eps$_83.jpg" width="90"></a> | ✅ DIILI<br>**[Louis Vuitton · 2dehands 🇧🇪](https://www.2dehands.be/v/handtassen-en-accessoires/tassen-damestassen/m2465649607-tas-louis-vuitton)**<br>Tas louis vuitton | **120 €**<br>arvio ~240 €<br>kate ~-32 €<br>🟡 feikkiriski 40 | 2.0 | muu<br>- | 15.11. 07:14 |
 | <a href="https://www.2dehands.be/v/handtassen-en-accessoires/tassen-reistassen-en-weekendtassen/m2465521415-sac-goyard"><img src="https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/44c36fcb-4b9a-4f44-be53-87ad6168c834?rule=ecg_mp_eps$_83.jpg" width="90"></a> | ✅ DIILI<br>**[Goyard · 2dehands 🇧🇪](https://www.2dehands.be/v/handtassen-en-accessoires/tassen-reistassen-en-weekendtassen/m2465521415-sac-goyard)**<br>Sac goyard | **120 €**<br>arvio ~240 €<br>🟡 feikkiriski 40 | 2.0 | muu<br>- | 15.11. 07:14 |
@@ -109,5 +111,3 @@ Päivitetty 15.11.2026 07:14 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi oll
 | <a href="https://www.sellpy.fi/item/AstARuUoLt"><img src="https://prod.images.sellpy.net/photoRobot-manual-23-l-4/wBYhf38Vit-039c-single.jpg" width="90"></a> | ✅ DIILI<br>**[Burberry](https://www.sellpy.fi/item/AstARuUoLt)**<br>Burberry Silmälasit | **36 €**<br>arvio ~72 €<br>🟡 feikkiriski 27 | 2.0 | muu<br>- | 13.11. 21:36 |
 | <a href="https://www.sellpy.fi/item/o8PcahZWnU"><img src="https://prod.images.sellpy.net/photoRobot-hanging-9-k-12/z3JMciTMqw-17d1-0.jpg" width="90"></a> | 🔥 KOVA DIILI<br>**[Filippa K](https://www.sellpy.fi/item/o8PcahZWnU)**<br>Filippa K Puvunhousut | **12 €**<br>arvio ~45 €<br>kate ~3 € | 3.75 | housut<br>WMN-EU-46 | 13.11. 21:36 |
 | <a href="https://www.sellpy.fi/item/wmP7kLWxdp"><img src="https://prod.images.sellpy.net/photoRobot-standard-1-k-4/C3FuA6O4Sf-ac72-0.jpg" width="90"></a> | 🔥 KOVA DIILI<br>**[Fred Perry](https://www.sellpy.fi/item/wmP7kLWxdp)**<br>Fred Perry Kaulahuivi | **10 €**<br>arvio ~28 €<br>kate ~-3 € | 2.8 | muu<br>- | 13.11. 21:36 |
-| <a href="https://www.sellpy.fi/item/E3sMIUtC2S"><img src="https://prod.images.sellpy.net/photoRobot-standard-13-l-6/E3sMIUtC2S-6856-0.jpg" width="90"></a> | 🚨 INSANE<br>**[Colombo](https://www.sellpy.fi/item/E3sMIUtC2S)**<br>Colombo Bleiseri | **50 €**<br>arvio ~240 €<br>kate ~-6 € | 4.8 | takki<br>MEN-INT-M/L | 13.11. 21:36 |
-| <a href="https://www.sellpy.fi/item/nvrBDCIdrQ"><img src="https://prod.images.sellpy.net/photoRobot-standard-1-k-21/nvrBDCIdrQ-8d40-0.jpg" width="90"></a> | ✅ DIILI<br>**[Prada](https://www.sellpy.fi/item/nvrBDCIdrQ)**<br>Prada Linea Rossa Pullover | **90 €**<br>arvio ~187 €<br>kate ~2 € | 2.08 | neule<br>MEN-EU-52 | 13.11. 21:36 |

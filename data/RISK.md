@@ -1,6 +1,6 @@
 # Feikki- ja kuntoriski löydöissä
 
-1173 löytöä (data/finds.json). Heuristiikka: risk.py.
+1181 löytöä (data/finds.json). Heuristiikka: risk.py.
 
 - korkea feikkiriski: **8%**, keskitaso: 18%
 - kulunut/huono kunto: **25%**, kunto ei tiedossa: 28%
@@ -9,24 +9,24 @@
 
 | alusta | n | feikki korkea | keski | kulunut/huono | kunto ? |
 |---|---|---|---|---|---|
-| sellpy.fi | 749 | 0% | 11% | 38% | 0% |
-| tradera.com | 187 | 4% | 36% | 0% | 100% |
+| sellpy.fi | 750 | 0% | 11% | 38% | 0% |
+| tradera.com | 190 | 4% | 36% | 0% | 100% |
 | tori.fi | 88 | 27% | 33% | 0% | 100% |
-| marktplaats.nl | 56 | 48% | 20% | 12% | 4% |
-| 2dehands.be | 56 | 25% | 25% | 7% | 21% |
+| 2dehands.be | 58 | 24% | 28% | 7% | 21% |
+| marktplaats.nl | 57 | 47% | 21% | 12% | 4% |
+| dba.dk | 13 | 46% | 31% | 0% | 100% |
 | finn.no | 13 | 15% | 8% | 0% | 100% |
-| dba.dk | 12 | 42% | 33% | 0% | 100% |
 | blocket.se | 12 | 58% | 42% | 0% | 100% |
 
 ## Kategorioittain
 
 | kategoria | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
-| muu | 288 | 21% | 24% |
-| kengät | 231 | 52% | 28% |
-| takki | 214 | 25% | 25% |
-| housut | 157 | 4% | 23% |
-| neule | 93 | 10% | 20% |
+| muu | 292 | 22% | 23% |
+| kengät | 232 | 52% | 28% |
+| takki | 215 | 25% | 25% |
+| housut | 158 | 4% | 23% |
+| neule | 94 | 10% | 20% |
 | t-paita | 46 | 20% | 41% |
 | huppari | 45 | 24% | 42% |
 | laukku | 41 | 59% | 5% |
@@ -39,6 +39,7 @@
 
 | brändi | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
+| Goyard | 7 | 100% | 0% |
 | Loro Piana | 43 | 100% | 2% |
 | Dior | 7 | 100% | 14% |
 | Saint Laurent | 7 | 100% | 29% |
@@ -47,7 +48,6 @@
 | Bottega Veneta | 8 | 100% | 0% |
 | Brunello Cucinelli | 8 | 100% | 0% |
 | Canada Goose | 21 | 100% | 0% |
-| Goyard | 5 | 100% | 0% |
 | Miu Miu | 9 | 100% | 11% |
 | Valentino | 22 | 100% | 14% |
 | Alexander McQueen | 12 | 100% | 8% |
@@ -55,7 +55,7 @@
 | Givenchy | 5 | 100% | 40% |
 | Arc'teryx | 14 | 93% | 0% |
 | Rick Owens | 12 | 92% | 8% |
-| Louis Vuitton | 5 | 80% | 20% |
+| Louis Vuitton | 7 | 86% | 14% |
 | Undercover | 5 | 80% | 0% |
 | Issey Miyake | 4 | 75% | 0% |
 | Prada | 24 | 75% | 38% |

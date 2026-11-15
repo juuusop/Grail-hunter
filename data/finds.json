@@ -1,5 +1,75 @@
 [
  {
+  "id": "JV3JX69EPH",
+  "brand": "Whyred",
+  "title": "WHYRED Bomber-takki",
+  "price": 18.0,
+  "value": 72,
+  "score": 4.0,
+  "label": "🚨 INSANE",
+  "category": "takki",
+  "condition": "Hyvä",
+  "size": "MEN-EU-52",
+  "link": "https://www.sellpy.fi/item/JV3JX69EPH",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-3-k-8/JV3JX69EPH-40d7-0.jpg",
+  "reasons": [
+   "taso D",
+   "Sellpyn mediaani tälle brändille 18 €",
+   "kate ~10 € (ROI 42%, myy vinted ~38 €; brändiarvio ~54 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794740007,
+  "resale": 38,
+  "profit": 10,
+  "roi": 0.42,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~54 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~38 € → käteen ~34 € kulujen ja tinkimisen jälkeen",
+   "osto 18 € + toimitus = 24 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "BRyNxIGJHP",
+  "brand": "Adidas (haku: raf simons)",
+  "title": "Adidas Lenkkarit Raf Simons Stan Smith",
+  "price": 42.0,
+  "value": 295,
+  "score": 7.01,
+  "label": "📉 🚨 INSANE",
+  "category": "kengät",
+  "condition": "Hyvä",
+  "size": "SHOES-EU-44.67",
+  "link": "https://www.sellpy.fi/item/BRyNxIGJHP",
+  "image": "https://prod.images.sellpy.net/photoRobot-case-14-k-10/BRyNxIGJHP-40d2-0.jpg",
+  "reasons": [
+   "hinta laski 46 → 42 €",
+   "tiedoissa 'raf simons', brändiksi listattu 'Adidas'",
+   "nahka ×1.1"
+  ],
+  "source": "haku",
+  "old_price": 46.0,
+  "ts": 1794740009,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
   "id": "tradera-761242607",
   "brand": "Helmut Lang · Tradera 🇸🇪",
   "title": "Helmut Lang-klänning",
