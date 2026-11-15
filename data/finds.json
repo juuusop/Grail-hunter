@@ -1,5 +1,302 @@
 [
  {
+  "id": "tori-49045953",
+  "brand": "Givenchy · Tori",
+  "title": "Myydään Givenchy takki",
+  "price": 50.0,
+  "value": 228,
+  "score": 4.56,
+  "label": "🚨 INSANE",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49045953",
+  "image": "https://img.tori.net/dynamic/default/item/49045953/01eeaf73-35ba-4f52-8947-4ebe03b32339",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 90 €",
+   "Japanissa myyty mediaani 18 € (n=72)",
+   "kate ~26 € (ROI 46%, myy grailed ~120 €; brändiarvio ~171 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794754052,
+  "resale": 120,
+  "profit": 26,
+  "roi": 0.46,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~171 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~120 € → käteen ~83 € kulujen ja tinkimisen jälkeen",
+   "osto 50 € + toimitus = 57 €"
+  ],
+  "risk": {
+   "fake": 50,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2466175160",
+  "brand": "Maison Margiela · Marktplaats 🇳🇱",
+  "title": "Maison Margiela GATs - Nieuw - Maat 43 (valt als 42.5)",
+  "price": 105.0,
+  "value": 368,
+  "score": 3.5,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2466175160-maison-margiela-gats-nieuw-maat-43-valt-als-42-5",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/64792a32-fca1-4978-b5e9-da239b43951b?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 120 €",
+   "Japanissa myyty (kengät) mediaani 162 € (n=9)",
+   "⚠️ kate ~-29 € (ROI -27%, myy grailed ~110 €; Yahoo JP toteutuneet (kengät): mediaani 162 €, p25 98 € (n=9) → geneerinen ~130 € × 1.15 EU-taso)",
+   "85 EUR + ~20 € posti = 105 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794754053,
+  "resale": 110,
+  "profit": -29,
+  "roi": -0.27,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 162 €, p25 98 € (n=9) → geneerinen ~130 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~110 € → käteen ~76 € kulujen ja tinkimisen jälkeen",
+   "osto 105 € + toimitus = 105 €"
+  ],
+  "risk": {
+   "fake": 65,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2466150479",
+  "brand": "Tom Ford · Marktplaats 🇳🇱",
+  "title": "GLOEDNIEUWE TOM FORD brillenkoker voor zonnebril",
+  "price": 39.95,
+  "value": 190,
+  "score": 4.76,
+  "label": "🚨 INSANE",
+  "category": "muu",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/zonnebrillen-en-brillen-dames/m2466150479-gloednieuwe-tom-ford-brillenkoker-voor-zonnebril",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/80fe0356-7fa1-455c-a76e-f372678849c1?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 125 €",
+   "Japanissa myyty (muu) mediaani 67 € (n=59)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "20 EUR + ~20 € posti = 40 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794754053,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 34,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "aurinkolasit: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2466098671",
+  "brand": "Tom Ford · Marktplaats 🇳🇱",
+  "title": "Tom Ford Vanilla Sex – Decant/Sample",
+  "price": 27.5,
+  "value": 260,
+  "score": 9.45,
+  "label": "🚨 INSANE",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/uiterlijk-parfum/m2466098671-tom-ford-vanilla-sex-decant-sample",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/805d2bb4-d974-45f0-94b9-dea9c1c27bd4?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "sample ×1.3",
+   "harvinainen: sample",
+   "Sellpyn mediaani tälle brändille 125 €",
+   "Japanissa myyty (muu) mediaani 67 € (n=59)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "8 EUR + ~20 € posti = 28 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794754053,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 29,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "hinta vain 11% arvosta",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2465997355",
+  "brand": "Tom Ford · Marktplaats 🇳🇱",
+  "title": "Tom Ford Noir Extreme – Decant/Sample",
+  "price": 22.5,
+  "value": 260,
+  "score": 11.56,
+  "label": "🚨 INSANE",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/uiterlijk-parfum/m2465997355-tom-ford-noir-extreme-decant-sample",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/b27e5914-7df5-4375-9a43-bb4d28c0da06?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "sample ×1.3",
+   "harvinainen: sample",
+   "Sellpyn mediaani tälle brändille 125 €",
+   "Japanissa myyty (muu) mediaani 67 € (n=59)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "2 EUR + ~20 € posti = 22 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794754053,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 29,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "hinta vain 9% arvosta",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2465028758",
+  "brand": "Canada Goose · Marktplaats 🇳🇱",
+  "title": "Canada Goose Wyndham Parka Grijs - Nieuw met labels",
+  "price": 170.0,
+  "value": 420,
+  "score": 2.47,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/jassen-winter/m2465028758-canada-goose-wyndham-parka-grijs-nieuw-met-labels",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/33b1ca87-eb99-40ce-8057-41b8a8bafa99?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 164 €",
+   "Japanissa myyty (takki) mediaani 278 € (n=27)",
+   "⚠️ kate ~-25 € (ROI -15%, myy grailed ~208 €; Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso)",
+   "150 EUR + ~20 € posti = 170 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794754053,
+  "resale": 208,
+  "profit": -25,
+  "roi": -0.15,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~208 € → käteen ~145 € kulujen ja tinkimisen jälkeen",
+   "osto 170 € + toimitus = 170 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2465024278",
+  "brand": "Canada Goose · Marktplaats 🇳🇱",
+  "title": "Canada Goose Wyndham Parka Zwart - Nieuw met Rode Logo",
+  "price": 170.0,
+  "value": 420,
+  "score": 2.47,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/jassen-winter/m2465024278-canada-goose-wyndham-parka-zwart-nieuw-met-rode-logo",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/87835814-5dc1-4ff9-a639-eb43c01199e2?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 164 €",
+   "Japanissa myyty (takki) mediaani 278 € (n=27)",
+   "⚠️ kate ~-25 € (ROI -15%, myy grailed ~208 €; Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso)",
+   "150 EUR + ~20 € posti = 170 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794754053,
+  "resale": 208,
+  "profit": -25,
+  "roi": -0.15,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~208 € → käteen ~145 € kulujen ja tinkimisen jälkeen",
+   "osto 170 € + toimitus = 170 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "JV3JX69EPH",
   "brand": "Whyred",
   "title": "WHYRED Bomber-takki",
