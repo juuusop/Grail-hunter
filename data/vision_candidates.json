@@ -1,5 +1,876 @@
 [
  {
+  "id": "V6EI2lofE7",
+  "raw_brand": "PrettyLittleThing Plus",
+  "type": "Trenssi takki",
+  "price": 37.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-standard-6-l-3/V6EI2lofE7-8c5d-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-standard-6-l-3/V6EI2lofE7-8c5d-180.jpg",
+   "https://prod.images.sellpy.net/phone-images/V6EI2lofE7-e73d.jpg",
+   "https://prod.images.sellpy.net/phone-images/V6EI2lofE7-17c3.jpg"
+  ],
+  "text_score": 4.3,
+  "why": [
+   "materiaali: nahka",
+   "muoto: pitkä",
+   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
+  ],
+  "clip_guess": "Burberry",
+  "clip_sim": 0.173,
+  "prompt": "Burberry",
+  "prompt_sim": 0.144,
+  "combined": 6.08,
+  "link": "https://www.sellpy.fi/item/V6EI2lofE7",
+  "size": "WMN-EU-48",
+  "condition": "Erittäin hyvä"
+ },
+ {
+  "id": "ynJrs12zTS",
+  "raw_brand": "Massimo Dutti",
+  "type": "Bleiseri",
+  "price": 62.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-standard-2-k-6/ynJrs12zTS-3ab7-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-standard-2-k-6/ynJrs12zTS-3ab7-180.jpg",
+   "https://prod.images.sellpy.net/phone-images/ynJrs12zTS-3967.jpg",
+   "https://prod.images.sellpy.net/phone-images/ynJrs12zTS-412b.jpg",
+   "https://prod.images.sellpy.net/phone-images/ynJrs12zTS-466c.jpg"
+  ],
+  "text_score": 3.3,
+  "why": [
+   "materiaali: pellava",
+   "Sellpyn hintaluokka 3/6 mutta laatusignaaleja"
+  ],
+  "clip_guess": "Dries Van Noten",
+  "clip_sim": 0.184,
+  "prompt": "Burberry",
+  "prompt_sim": 0.131,
+  "combined": 5.92,
+  "link": "https://www.sellpy.fi/item/ynJrs12zTS",
+  "size": "WMN-EU-44",
+  "condition": "Erittäin hyvä"
+ },
+ {
+  "id": "C1CEkRDRuI",
+  "raw_brand": "Stella Nova",
+  "type": "Mekko",
+  "price": 16.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-standard-2-k-5/C1CEkRDRuI-0c63-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-standard-2-k-5/C1CEkRDRuI-0c63-180.jpg",
+   "https://prod.images.sellpy.net/phone-images/C1CEkRDRuI-f5f3.jpg",
+   "https://prod.images.sellpy.net/phone-images/C1CEkRDRuI-15aa.jpg",
+   "https://prod.images.sellpy.net/phone-images/C1CEkRDRuI-2aa8.jpg",
+   "https://prod.images.sellpy.net/phone-images/C1CEkRDRuI-380e.jpg"
+  ],
+  "text_score": 2.5,
+  "why": [
+   "materiaali: silkki",
+   "muoto: laskostettu"
+  ],
+  "clip_guess": "Lemaire",
+  "clip_sim": 0.181,
+  "prompt": "Rick Owens",
+  "prompt_sim": 0.12,
+  "combined": 5.56,
+  "link": "https://www.sellpy.fi/item/C1CEkRDRuI",
+  "size": "WMN-EU-44",
+  "condition": "Hyväksyttävä"
+ },
+ {
+  "id": "vdNI98e3CM",
+  "raw_brand": "Selected Homme",
+  "type": "Brogues",
+  "price": 15.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-case-14-k-10/vdNI98e3CM-447c-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-case-14-k-10/vdNI98e3CM-447c-90.jpg",
+   "https://prod.images.sellpy.net/photoRobot-case-14-k-10/vdNI98e3CM-447c-270.jpg",
+   "https://prod.images.sellpy.net/phone-images/vdNI98e3CM-ad96.jpg",
+   "https://prod.images.sellpy.net/phone-images/vdNI98e3CM-b8af-cropped.jpg",
+   "https://prod.images.sellpy.net/phone-images/vdNI98e3CM-c000.jpg",
+   "https://prod.images.sellpy.net/phone-images/vdNI98e3CM-c8a4.jpg",
+   "https://prod.images.sellpy.net/phone-images/vdNI98e3CM-cd8a.jpg"
+  ],
+  "text_score": 3.1,
+  "why": [
+   "materiaali: nahka",
+   "valmistettu: PT",
+   "Sellpyn hintaluokka 3/6 mutta laatusignaaleja"
+  ],
+  "clip_guess": "Alden",
+  "clip_sim": 0.224,
+  "prompt": "Rick Owens",
+  "prompt_sim": 0.066,
+  "combined": 5.52,
+  "link": "https://www.sellpy.fi/item/vdNI98e3CM",
+  "size": "SHOES-EU-44",
+  "condition": "Hyväksyttävä"
+ },
+ {
+  "id": "DjgvpMc9IS",
+  "raw_brand": "H&M",
+  "type": "Housut",
+  "price": 21.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-hanging-9-k-10/FekbwM4AcU-9cad-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-hanging-9-k-10/FekbwM4AcU-9cad-180.jpg",
+   "https://prod.images.sellpy.net/phone-images/DjgvpMc9IS-1745.jpg",
+   "https://prod.images.sellpy.net/phone-images/DjgvpMc9IS-1b49.jpg"
+  ],
+  "text_score": 2.5,
+  "why": [
+   "materiaali: pellava",
+   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
+  ],
+  "clip_guess": "Ann Demeulemeester",
+  "clip_sim": 0.193,
+  "prompt": "Issey Miyake",
+  "prompt_sim": 0.09,
+  "combined": 5.27,
+  "link": "https://www.sellpy.fi/item/DjgvpMc9IS",
+  "size": "MEN-INT-XL",
+  "condition": "Uusi"
+ },
+ {
+  "id": "I3gqJzFttn",
+  "raw_brand": "Dressmann Premium Collection",
+  "type": "Bleiseri",
+  "price": 16.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-standard-7-k-15/I3gqJzFttn-79e6-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-standard-7-k-15/I3gqJzFttn-79e6-180.jpg",
+   "https://prod.images.sellpy.net/phone-images/I3gqJzFttn-5a29.jpg",
+   "https://prod.images.sellpy.net/phone-images/I3gqJzFttn-5e03.jpg"
+  ],
+  "text_score": 3.3,
+  "why": [
+   "materiaali: villa",
+   "Sellpyn hintaluokka 3/6 mutta laatusignaaleja"
+  ],
+  "clip_guess": "Burberry",
+  "clip_sim": 0.177,
+  "prompt": "Barbour",
+  "prompt_sim": 0.096,
+  "combined": 5.21,
+  "link": "https://www.sellpy.fi/item/I3gqJzFttn",
+  "size": "MEN-EU-52",
+  "condition": "Erittäin hyvä"
+ },
+ {
+  "id": "UCOzfE1gR6",
+  "raw_brand": "Sibin/Linnebjerg",
+  "type": "Neuletakki",
+  "price": 58.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-standard-1-k-5/UCOzfE1gR6-1dcc-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-standard-1-k-5/UCOzfE1gR6-1dcc-180.jpg",
+   "https://prod.images.sellpy.net/phone-images/UCOzfE1gR6-50e1.jpg",
+   "https://prod.images.sellpy.net/phone-images/UCOzfE1gR6-572e.jpg"
+  ],
+  "text_score": 3.8,
+  "why": [
+   "materiaali: villa, merino",
+   "muoto: pitkä"
+  ],
+  "clip_guess": "Lemaire",
+  "clip_sim": 0.146,
+  "prompt": "Rick Owens",
+  "prompt_sim": 0.112,
+  "combined": 5.02,
+  "link": "https://www.sellpy.fi/item/UCOzfE1gR6",
+  "size": "WMN-INT-XL",
+  "condition": "Erittäin hyvä"
+ },
+ {
+  "id": "A2VPvnndvU",
+  "raw_brand": "Cesare Paciotti",
+  "type": "Derby-kengät",
+  "price": 37.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-case-14-k-12/A2VPvnndvU-e42f-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-case-14-k-12/A2VPvnndvU-e42f-90.jpg",
+   "https://prod.images.sellpy.net/photoRobot-case-14-k-12/A2VPvnndvU-e42f-270.jpg",
+   "https://prod.images.sellpy.net/photoRobot-case-14-k-12/A2VPvnndvU-4db0-single.jpg",
+   "https://prod.images.sellpy.net/phone-images/A2VPvnndvU-274f.jpg",
+   "https://prod.images.sellpy.net/phone-images/A2VPvnndvU-324d-cropped.jpg",
+   "https://prod.images.sellpy.net/phone-images/A2VPvnndvU-3536.jpg",
+   "https://prod.images.sellpy.net/phone-images/A2VPvnndvU-3dd3.jpg",
+   "https://prod.images.sellpy.net/phone-images/A2VPvnndvU-4a07.jpg"
+  ],
+  "text_score": 2.8,
+  "why": [
+   "valmistettu: IT"
+  ],
+  "clip_guess": "Paraboot",
+  "clip_sim": 0.184,
+  "prompt": "Maison Margiela",
+  "prompt_sim": 0.081,
+  "combined": 5.01,
+  "link": "https://www.sellpy.fi/item/A2VPvnndvU",
+  "size": "SHOES-EU-44",
+  "condition": "Hyväksyttävä"
+ },
+ {
+  "id": "I6W9Gn71os",
+  "raw_brand": "Lager 157",
+  "type": "Palazzo-housut",
+  "price": 20.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-hanging-8-k-5/I6W9Gn71os-8b1e-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-hanging-8-k-5/I6W9Gn71os-8b1e-180.jpg",
+   "https://prod.images.sellpy.net/phone-images/I6W9Gn71os-9c48.jpg",
+   "https://prod.images.sellpy.net/phone-images/I6W9Gn71os-a045.jpg"
+  ],
+  "text_score": 2.5,
+  "why": [
+   "materiaali: pellava",
+   "Sellpyn hintaluokka 1/6 mutta laatusignaaleja"
+  ],
+  "clip_guess": "Needles",
+  "clip_sim": 0.178,
+  "prompt": "Issey Miyake",
+  "prompt_sim": 0.083,
+  "combined": 4.89,
+  "link": "https://www.sellpy.fi/item/I6W9Gn71os",
+  "size": "WMN-INT-XL",
+  "condition": "Erittäin hyvä"
+ },
+ {
+  "id": "jw3ZzrOD8v",
+  "raw_brand": "",
+  "type": "Tunika",
+  "price": 9.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-standard-5-k-2/jw3ZzrOD8v-9a42-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-standard-5-k-2/jw3ZzrOD8v-9a42-180.jpg",
+   "https://prod.images.sellpy.net/phone-images/jw3ZzrOD8v-6dba.jpg"
+  ],
+  "text_score": 3.0,
+  "why": [
+   "valmistettu: IT",
+   "brändi tuntematon"
+  ],
+  "clip_guess": "Maison Margiela",
+  "clip_sim": 0.158,
+  "prompt": "Burberry",
+  "prompt_sim": 0.099,
+  "combined": 4.87,
+  "link": "https://www.sellpy.fi/item/jw3ZzrOD8v",
+  "size": "WMN-INT-XL",
+  "condition": "Erittäin hyvä"
+ },
+ {
+  "id": "HlyEbLWdby",
+  "raw_brand": "Zara",
+  "type": "Shortsit",
+  "price": 15.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-hanging-8-k-6/HlyEbLWdby-5c2b-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-hanging-8-k-6/HlyEbLWdby-5c2b-180.jpg",
+   "https://prod.images.sellpy.net/phone-images/HlyEbLWdby-18e3.jpg",
+   "https://prod.images.sellpy.net/phone-images/HlyEbLWdby-1fce.jpg"
+  ],
+  "text_score": 2.5,
+  "why": [
+   "materiaali: pellava",
+   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
+  ],
+  "clip_guess": "Carhartt",
+  "clip_sim": 0.213,
+  "prompt": "Issey Miyake",
+  "prompt_sim": 0.041,
+  "combined": 4.81,
+  "link": "https://www.sellpy.fi/item/HlyEbLWdby",
+  "size": "MEN-INT-L",
+  "condition": "Erittäin hyvä"
+ },
+ {
+  "id": "2CH4CG0NOV",
+  "raw_brand": "",
+  "type": "Vyö",
+  "price": 6.5,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-manual-15-l-1/2CH4CG0NOV-9eea-single.jpg",
+   "https://prod.images.sellpy.net/photoRobot-manual-15-l-1/2CH4CG0NOV-fe86-single.jpg",
+   "https://prod.images.sellpy.net/phone-images/2CH4CG0NOV-adae.jpg"
+  ],
+  "text_score": 2.5,
+  "why": [
+   "materiaali: nahka",
+   "brändi tuntematon"
+  ],
+  "clip_guess": "Hermès",
+  "clip_sim": 0.212,
+  "prompt": "Guidi",
+  "prompt_sim": 0.024,
+  "combined": 4.51,
+  "link": "https://www.sellpy.fi/item/2CH4CG0NOV",
+  "size": "BELTS-CM-100",
+  "condition": "Hyvä"
+ },
+ {
+  "id": "bCZD46o5in",
+  "raw_brand": "",
+  "type": "Hartiahuivi",
+  "price": 39.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-10/bCZD46o5in-ea84-0-timed-sequence.jpg",
+   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-10/bCZD46o5in-ea84-1-timed-sequence.jpg",
+   "https://prod.images.sellpy.net/phone-images/bCZD46o5in-3ae2.jpg"
+  ],
+  "text_score": 2.5,
+  "why": [
+   "materiaali: silkki",
+   "brändi tuntematon"
+  ],
+  "clip_guess": "Hermès",
+  "clip_sim": 0.2,
+  "prompt": "Jean Paul Gaultier",
+  "prompt_sim": 0.036,
+  "combined": 4.5,
+  "link": "https://www.sellpy.fi/item/bCZD46o5in",
+  "size": "",
+  "condition": "Erittäin hyvä"
+ },
+ {
+  "id": "o3ZNzDtfVI",
+  "raw_brand": "",
+  "type": "Neuletakki",
+  "price": 4.5,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-standard-3-k-15/o3ZNzDtfVI-2893-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-standard-3-k-15/o3ZNzDtfVI-2893-180.jpg",
+   "https://prod.images.sellpy.net/phone-images/o3ZNzDtfVI-aa0c.jpg",
+   "https://prod.images.sellpy.net/phone-images/o3ZNzDtfVI-ac70.jpg",
+   "https://prod.images.sellpy.net/phone-images/o3ZNzDtfVI-b62c.jpg"
+  ],
+  "text_score": 2.8,
+  "why": [
+   "muoto: kerroksellinen",
+   "brändi tuntematon"
+  ],
+  "clip_guess": "Jean Paul Gaultier",
+  "clip_sim": 0.148,
+  "prompt": "Kapital",
+  "prompt_sim": 0.084,
+  "combined": 4.42,
+  "link": "https://www.sellpy.fi/item/o3ZNzDtfVI",
+  "size": "ONE SIZE",
+  "condition": "Hyvä"
+ },
+ {
+  "id": "PWANYj5rzB",
+  "raw_brand": "Hy Five",
+  "type": "Neulepaita",
+  "price": 9.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-standard-6-k-12/PWANYj5rzB-0e01-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-standard-6-k-12/PWANYj5rzB-0e01-180.jpg",
+   "https://prod.images.sellpy.net/phone-images/PWANYj5rzB-5d90.jpg",
+   "https://prod.images.sellpy.net/phone-images/PWANYj5rzB-695b.jpg"
+  ],
+  "text_score": 2.5,
+  "why": [
+   "materiaali: villa",
+   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
+  ],
+  "clip_guess": "Stone Island",
+  "clip_sim": 0.157,
+  "prompt": "Kapital",
+  "prompt_sim": 0.072,
+  "combined": 4.33,
+  "link": "https://www.sellpy.fi/item/PWANYj5rzB",
+  "size": "MEN-INT-L",
+  "condition": "Erittäin hyvä"
+ },
+ {
+  "id": "Qt6NbS5wsE",
+  "raw_brand": "Ulrika",
+  "type": "Olkalaukku",
+  "price": 8.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-15/Qt6NbS5wsE-062d-single.jpg",
+   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-15/Qt6NbS5wsE-58e1-single.jpg",
+   "https://prod.images.sellpy.net/phone-images/Qt6NbS5wsE-3843.jpg",
+   "https://prod.images.sellpy.net/phone-images/Qt6NbS5wsE-48e7.jpg",
+   "https://prod.images.sellpy.net/phone-images/Qt6NbS5wsE-54d6.jpg"
+  ],
+  "text_score": 3.3,
+  "why": [
+   "materiaali: nahka",
+   "Sellpyn hintaluokka 3/6 mutta laatusignaaleja"
+  ],
+  "clip_guess": "Prada",
+  "clip_sim": 0.155,
+  "prompt": "Rick Owens",
+  "prompt_sim": 0.066,
+  "combined": 4.31,
+  "link": "https://www.sellpy.fi/item/Qt6NbS5wsE",
+  "size": "",
+  "condition": "Hyväksyttävä"
+ },
+ {
+  "id": "PknWoyP2sQ",
+  "raw_brand": "Zara",
+  "type": "Neulepaita",
+  "price": 7.5,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-standard-3-k-3/PknWoyP2sQ-9612-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-standard-3-k-3/PknWoyP2sQ-9612-180.jpg",
+   "https://prod.images.sellpy.net/phone-images/PknWoyP2sQ-4356.jpg",
+   "https://prod.images.sellpy.net/phone-images/PknWoyP2sQ-4c1d.jpg",
+   "https://prod.images.sellpy.net/phone-images/PknWoyP2sQ-576f.jpg",
+   "https://prod.images.sellpy.net/phone-images/PknWoyP2sQ-6112.jpg"
+  ],
+  "text_score": 2.5,
+  "why": [
+   "materiaali: villa",
+   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
+  ],
+  "clip_guess": "Stone Island",
+  "clip_sim": 0.156,
+  "prompt": "Rick Owens",
+  "prompt_sim": 0.071,
+  "combined": 4.31,
+  "link": "https://www.sellpy.fi/item/PknWoyP2sQ",
+  "size": "WMN-INT-XL",
+  "condition": "Hyväksyttävä"
+ },
+ {
+  "id": "K8Qk4Zvtej",
+  "raw_brand": "Frederick Theak",
+  "type": "Puvunhuivi",
+  "price": 9.5,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-standard-7-k-15/K8Qk4Zvtej-ce80-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-standard-7-k-15/K8Qk4Zvtej-ce80-180.jpg",
+   "https://prod.images.sellpy.net/phone-images/K8Qk4Zvtej-69ce.jpg",
+   "https://prod.images.sellpy.net/phone-images/K8Qk4Zvtej-7d08.jpg",
+   "https://prod.images.sellpy.net/phone-images/K8Qk4Zvtej-8c86.jpg"
+  ],
+  "text_score": 3.2,
+  "why": [
+   "materiaali: silkki, villa",
+   "valmistettu: GB"
+  ],
+  "clip_guess": "Issey Miyake",
+  "clip_sim": 0.144,
+  "prompt": "Rick Owens",
+  "prompt_sim": 0.071,
+  "combined": 4.21,
+  "link": "https://www.sellpy.fi/item/K8Qk4Zvtej",
+  "size": "",
+  "condition": "Hyväksyttävä"
+ },
+ {
+  "id": "IPSgTEfogJ",
+  "raw_brand": "",
+  "type": "Vyötärövyö",
+  "price": 16.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-manual-13-k-6/IPSgTEfogJ-8b01-single.jpg",
+   "https://prod.images.sellpy.net/photoRobot-manual-13-k-6/IPSgTEfogJ-3d81-single.jpg"
+  ],
+  "text_score": 2.5,
+  "why": [
+   "materiaali: nahka",
+   "brändi tuntematon"
+  ],
+  "clip_guess": "Hermès",
+  "clip_sim": 0.165,
+  "prompt": "Rick Owens",
+  "prompt_sim": 0.041,
+  "combined": 3.97,
+  "link": "https://www.sellpy.fi/item/IPSgTEfogJ",
+  "size": "BELTS-CM-80",
+  "condition": "Erittäin hyvä"
+ },
+ {
+  "id": "kEYtM8iiVs",
+  "raw_brand": "COEMI",
+  "type": "Pikeepaita",
+  "price": 11.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-standard-16-k-7/kEYtM8iiVs-1e60-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-standard-16-k-7/kEYtM8iiVs-1e60-180.jpg",
+   "https://prod.images.sellpy.net/phone-images/kEYtM8iiVs-451a.jpg"
+  ],
+  "text_score": 3.0,
+  "why": [
+   "valmistettu: IT",
+   "Sellpyn hintaluokka 3/6 mutta laatusignaaleja"
+  ],
+  "clip_guess": "C.P. Company",
+  "clip_sim": 0.154,
+  "prompt": "Jean Paul Gaultier",
+  "prompt_sim": 0.041,
+  "combined": 3.84,
+  "link": "https://www.sellpy.fi/item/kEYtM8iiVs",
+  "size": "WMN-EU-44",
+  "condition": "Erittäin hyvä"
+ },
+ {
+  "id": "LvFhXyh4xd",
+  "raw_brand": "Evr",
+  "type": "Bomber-takki",
+  "price": 17.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-standard-2-k-5/LvFhXyh4xd-76a9-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-standard-2-k-5/LvFhXyh4xd-76a9-180.jpg",
+   "https://prod.images.sellpy.net/phone-images/LvFhXyh4xd-9cd4.jpg",
+   "https://prod.images.sellpy.net/phone-images/LvFhXyh4xd-a363.jpg",
+   "https://prod.images.sellpy.net/phone-images/LvFhXyh4xd-be7b.jpg",
+   "https://prod.images.sellpy.net/phone-images/LvFhXyh4xd-c837.jpg",
+   "https://prod.images.sellpy.net/phone-images/LvFhXyh4xd-d769.jpg"
+  ],
+  "text_score": 3.3,
+  "why": [
+   "materiaali: silkki",
+   "Sellpyn hintaluokka 3/6 mutta laatusignaaleja"
+  ],
+  "clip_guess": "Comme des Garçons",
+  "clip_sim": 0.123,
+  "prompt": "Kapital",
+  "prompt_sim": 0.069,
+  "combined": 3.81,
+  "link": "https://www.sellpy.fi/item/LvFhXyh4xd",
+  "size": "WMN-INT-XL",
+  "condition": "Hyväksyttävä"
+ },
+ {
+  "id": "kgDU6y3DmV",
+  "raw_brand": "Uniqlo",
+  "type": "Pipo",
+  "price": 9.5,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-12/kgDU6y3DmV-3eb1-0-timed-sequence.jpg",
+   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-12/kgDU6y3DmV-3eb1-1-timed-sequence.jpg",
+   "https://prod.images.sellpy.net/phone-images/kgDU6y3DmV-160e.jpg",
+   "https://prod.images.sellpy.net/phone-images/kgDU6y3DmV-1cd1.jpg",
+   "https://prod.images.sellpy.net/phone-images/kgDU6y3DmV-2450.jpg"
+  ],
+  "text_score": 2.5,
+  "why": [
+   "materiaali: villa",
+   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
+  ],
+  "clip_guess": "C.P. Company",
+  "clip_sim": 0.188,
+  "prompt": "Stone Island",
+  "prompt_sim": 0.005,
+  "combined": 3.78,
+  "link": "https://www.sellpy.fi/item/kgDU6y3DmV",
+  "size": "ONE SIZE",
+  "condition": "Hyvä"
+ },
+ {
+  "id": "Rdv8hPAPbO",
+  "raw_brand": "Opus",
+  "type": "Baseball-lakki",
+  "price": 18.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-case-14-k-15/Rdv8hPAPbO-0820-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-case-14-k-15/Rdv8hPAPbO-0820-90.jpg",
+   "https://prod.images.sellpy.net/photoRobot-case-14-k-15/Rdv8hPAPbO-0820-180.jpg",
+   "https://prod.images.sellpy.net/phone-images/Rdv8hPAPbO-ae2f.jpg",
+   "https://prod.images.sellpy.net/phone-images/Rdv8hPAPbO-b25e.jpg"
+  ],
+  "text_score": 2.5,
+  "why": [
+   "materiaali: villa",
+   "Sellpyn hintaluokka 3/6 mutta laatusignaaleja"
+  ],
+  "clip_guess": "C.P. Company",
+  "clip_sim": 0.166,
+  "prompt": "Carhartt",
+  "prompt_sim": 0.026,
+  "combined": 3.73,
+  "link": "https://www.sellpy.fi/item/Rdv8hPAPbO",
+  "size": "ONE SIZE",
+  "condition": "Erittäin hyvä"
+ },
+ {
+  "id": "VOikeaU308",
+  "raw_brand": "Barts",
+  "type": "Pipo",
+  "price": 16.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-10/VOikeaU308-3bb3-0-timed-sequence.jpg",
+   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-10/VOikeaU308-3bb3-1-timed-sequence.jpg",
+   "https://prod.images.sellpy.net/phone-images/VOikeaU308-07ff.jpg",
+   "https://prod.images.sellpy.net/phone-images/VOikeaU308-0cb1.jpg"
+  ],
+  "text_score": 2.5,
+  "why": [
+   "materiaali: villa",
+   "Sellpyn hintaluokka 3/6 mutta laatusignaaleja"
+  ],
+  "clip_guess": "C.P. Company",
+  "clip_sim": 0.17,
+  "prompt": "Rick Owens",
+  "prompt_sim": 0.021,
+  "combined": 3.72,
+  "link": "https://www.sellpy.fi/item/VOikeaU308",
+  "size": "ONE SIZE",
+  "condition": "Erittäin hyvä"
+ },
+ {
+  "id": "lCsfBVhAEG",
+  "raw_brand": "",
+  "type": "Puvunhuivi",
+  "price": 25.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-10/lCsfBVhAEG-aeab-0-timed-sequence.jpg",
+   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-10/lCsfBVhAEG-aeab-1-timed-sequence.jpg",
+   "https://prod.images.sellpy.net/phone-images/lCsfBVhAEG-a5ca.jpg",
+   "https://prod.images.sellpy.net/phone-images/lCsfBVhAEG-b593.jpg"
+  ],
+  "text_score": 2.5,
+  "why": [
+   "materiaali: silkki",
+   "brändi tuntematon"
+  ],
+  "clip_guess": "Hermès",
+  "clip_sim": 0.132,
+  "prompt": "Jean Paul Gaultier",
+  "prompt_sim": 0.059,
+  "combined": 3.69,
+  "link": "https://www.sellpy.fi/item/lCsfBVhAEG",
+  "size": "",
+  "condition": "Hyvä"
+ },
+ {
+  "id": "mJVPGO6kjr",
+  "raw_brand": "Gino Rossi",
+  "type": "Olkalaukku",
+  "price": 34.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-case-14-k-7/mJVPGO6kjr-0cc0-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-case-14-k-7/mJVPGO6kjr-0cc0-90.jpg",
+   "https://prod.images.sellpy.net/photoRobot-case-14-k-7/mJVPGO6kjr-0cc0-180.jpg",
+   "https://prod.images.sellpy.net/phone-images/mJVPGO6kjr-ff81.jpg",
+   "https://prod.images.sellpy.net/phone-images/mJVPGO6kjr-0aa2.jpg",
+   "https://prod.images.sellpy.net/phone-images/mJVPGO6kjr-0fef.jpg",
+   "https://prod.images.sellpy.net/phone-images/mJVPGO6kjr-17bd.jpg"
+  ],
+  "text_score": 3.3,
+  "why": [
+   "materiaali: nahka",
+   "muoto: laskostettu"
+  ],
+  "clip_guess": "Prada",
+  "clip_sim": 0.144,
+  "prompt": "Carol Christian Poell",
+  "prompt_sim": 0.036,
+  "combined": 3.64,
+  "link": "https://www.sellpy.fi/item/mJVPGO6kjr",
+  "size": "",
+  "condition": "Hyvä"
+ },
+ {
+  "id": "Yf2PElRh5E",
+  "raw_brand": "Hvisk",
+  "type": "Olkalaukku",
+  "price": 16.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-case-14-k-7/Yf2PElRh5E-08f1-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-case-14-k-7/Yf2PElRh5E-08f1-90.jpg",
+   "https://prod.images.sellpy.net/photoRobot-case-14-k-7/Yf2PElRh5E-08f1-180.jpg",
+   "https://prod.images.sellpy.net/phone-images/Yf2PElRh5E-8c78.jpg",
+   "https://prod.images.sellpy.net/phone-images/Yf2PElRh5E-96b4.jpg",
+   "https://prod.images.sellpy.net/phone-images/Yf2PElRh5E-a167.jpg"
+  ],
+  "text_score": 3.3,
+  "why": [
+   "materiaali: nahka",
+   "Sellpyn hintaluokka 3/6 mutta laatusignaaleja"
+  ],
+  "clip_guess": "Comme des Garçons",
+  "clip_sim": 0.147,
+  "prompt": "Carol Christian Poell",
+  "prompt_sim": 0.031,
+  "combined": 3.6,
+  "link": "https://www.sellpy.fi/item/Yf2PElRh5E",
+  "size": "",
+  "condition": "Hyväksyttävä"
+ },
+ {
+  "id": "Sclp5RdlDk",
+  "raw_brand": "",
+  "type": "Kynsikkäät",
+  "price": 16.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-9/Sclp5RdlDk-d8c9-0-timed-sequence.jpg",
+   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-9/Sclp5RdlDk-d8c9-1-timed-sequence.jpg",
+   "https://prod.images.sellpy.net/phone-images/Sclp5RdlDk-bdfa.jpg"
+  ],
+  "text_score": 2.5,
+  "why": [
+   "materiaali: villa",
+   "brändi tuntematon"
+  ],
+  "clip_guess": "Jean Paul Gaultier",
+  "clip_sim": 0.095,
+  "prompt": "Maison Margiela",
+  "prompt_sim": 0.093,
+  "combined": 3.6,
+  "link": "https://www.sellpy.fi/item/Sclp5RdlDk",
+  "size": "ONE SIZE",
+  "condition": "Erittäin hyvä"
+ },
+ {
+  "id": "HEIAOxhZCg",
+  "raw_brand": "",
+  "type": "Olkalaukku",
+  "price": 9.5,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-case-22-l-2/HEIAOxhZCg-7708-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-case-22-l-2/HEIAOxhZCg-7708-90.jpg",
+   "https://prod.images.sellpy.net/photoRobot-case-22-l-2/HEIAOxhZCg-7708-180.jpg"
+  ],
+  "text_score": 2.5,
+  "why": [
+   "materiaali: nahka",
+   "brändi tuntematon"
+  ],
+  "clip_guess": "Prada",
+  "clip_sim": 0.132,
+  "prompt": "Guidi",
+  "prompt_sim": 0.052,
+  "combined": 3.56,
+  "link": "https://www.sellpy.fi/item/HEIAOxhZCg",
+  "size": "",
+  "condition": "Erittäin hyvä"
+ },
+ {
+  "id": "BK4yW0RFgK",
+  "raw_brand": "Massimo Dutti",
+  "type": "Olkalaukku",
+  "price": 71.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-case-14-k-3/BK4yW0RFgK-edaf-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-case-14-k-3/BK4yW0RFgK-edaf-90.jpg",
+   "https://prod.images.sellpy.net/photoRobot-case-14-k-3/BK4yW0RFgK-edaf-180.jpg",
+   "https://prod.images.sellpy.net/phone-images/BK4yW0RFgK-24fe.jpg",
+   "https://prod.images.sellpy.net/phone-images/BK4yW0RFgK-2749.jpg",
+   "https://prod.images.sellpy.net/phone-images/BK4yW0RFgK-3088.jpg",
+   "https://prod.images.sellpy.net/phone-images/BK4yW0RFgK-3792.jpg"
+  ],
+  "text_score": 2.9,
+  "why": [
+   "materiaali: nahka",
+   "valmistettu: ES",
+   "Sellpyn hintaluokka 3/6 mutta laatusignaaleja"
+  ],
+  "clip_guess": "Prada",
+  "clip_sim": 0.154,
+  "prompt": "Burberry",
+  "prompt_sim": 0.015,
+  "combined": 3.39,
+  "link": "https://www.sellpy.fi/item/BK4yW0RFgK",
+  "size": "",
+  "condition": "Hyväksyttävä"
+ },
+ {
+  "id": "KzL0VPiaOs",
+  "raw_brand": "WeSC",
+  "type": "Pipo",
+  "price": 18.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-1/KzL0VPiaOs-cd8a-0-timed-sequence.jpg",
+   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-1/KzL0VPiaOs-cd8a-1-timed-sequence.jpg",
+   "https://prod.images.sellpy.net/phone-images/KzL0VPiaOs-71ff.jpg",
+   "https://prod.images.sellpy.net/phone-images/KzL0VPiaOs-74b5.jpg"
+  ],
+  "text_score": 3.0,
+  "why": [
+   "materiaali: villa, mohair",
+   "Sellpyn hintaluokka 3/6 mutta laatusignaaleja"
+  ],
+  "clip_guess": "Barbour",
+  "clip_sim": 0.128,
+  "prompt": "Maison Margiela",
+  "prompt_sim": 0.036,
+  "combined": 3.31,
+  "link": "https://www.sellpy.fi/item/KzL0VPiaOs",
+  "size": "ONE SIZE",
+  "condition": "Erittäin hyvä"
+ },
+ {
+  "id": "IkAXTyeoni",
+  "raw_brand": "About You",
+  "type": "Pipo",
+  "price": 15.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-fixed-22-l-6/IkAXTyeoni-1264-single.jpg",
+   "https://prod.images.sellpy.net/photoRobot-fixed-22-l-6/IkAXTyeoni-dfe3-single.jpg",
+   "https://prod.images.sellpy.net/phone-images/IkAXTyeoni-c62e.jpg",
+   "https://prod.images.sellpy.net/phone-images/IkAXTyeoni-d2ce.jpg"
+  ],
+  "text_score": 2.5,
+  "why": [
+   "materiaali: villa",
+   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
+  ],
+  "clip_guess": "C.P. Company",
+  "clip_sim": 0.179,
+  "prompt": "Stone Island",
+  "prompt_sim": -0.016,
+  "combined": 3.26,
+  "link": "https://www.sellpy.fi/item/IkAXTyeoni",
+  "size": "ONE SIZE",
+  "condition": "Uusi"
+ },
+ {
+  "id": "lMxHYJPSTO",
+  "raw_brand": "",
+  "type": "Rannelämmittimet",
+  "price": 8.5,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-15/lMxHYJPSTO-10f5-0-timed-sequence.jpg",
+   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-15/lMxHYJPSTO-10f5-1-timed-sequence.jpg"
+  ],
+  "text_score": 2.5,
+  "why": [
+   "materiaali: villa",
+   "brändi tuntematon"
+  ],
+  "clip_guess": "Hermès",
+  "clip_sim": 0.089,
+  "prompt": "Maison Margiela",
+  "prompt_sim": 0.066,
+  "combined": 3.04,
+  "link": "https://www.sellpy.fi/item/lMxHYJPSTO",
+  "size": "GLOVES-INCH-12",
+  "condition": "Erittäin hyvä"
+ },
+ {
+  "id": "gdWnX3rguh",
+  "raw_brand": "",
+  "type": "Koripalloshortsit",
+  "price": 20.0,
+  "images": [
+   "https://prod.images.sellpy.net/photoRobot-hanging-8-k-6/gdWnX3rguh-00b2-0.jpg",
+   "https://prod.images.sellpy.net/photoRobot-hanging-8-k-6/gdWnX3rguh-00b2-180.jpg",
+   "https://prod.images.sellpy.net/phone-images/gdWnX3rguh-9dff.jpg"
+  ],
+  "text_score": 3.0,
+  "why": [
+   "valmistettu: IT",
+   "brändi tuntematon"
+  ],
+  "clip_guess": "Comme des Garçons",
+  "clip_sim": 0.065,
+  "prompt": "Jean Paul Gaultier",
+  "prompt_sim": 0.034,
+  "combined": 2.16,
+  "link": "https://www.sellpy.fi/item/gdWnX3rguh",
+  "size": "MEN-EU-56",
+  "condition": "Erittäin hyvä"
+ },
+ {
   "id": "K9MdN5AmDa",
   "raw_brand": "John John",
   "type": "Brogues",
@@ -9369,873 +10240,5 @@
   "link": "https://www.sellpy.fi/item/qkUCTlnCzj",
   "size": "MEN-INT-L",
   "condition": "Hyvä"
- },
- {
-  "id": "Imim0wroDf",
-  "raw_brand": "H&M",
-  "type": "Pipo",
-  "price": 8.5,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-fixed-5-k-21/7V7N9mbgnn-f987-0-timed-sequence.jpg",
-   "https://prod.images.sellpy.net/photoRobot-fixed-5-k-21/7V7N9mbgnn-f987-1-timed-sequence.jpg",
-   "https://prod.images.sellpy.net/phone-images/Imim0wroDf-0b85.jpg",
-   "https://prod.images.sellpy.net/phone-images/Imim0wroDf-0d60.jpg"
-  ],
-  "text_score": 2.5,
-  "why": [
-   "materiaali: villa",
-   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "C.P. Company",
-  "clip_sim": 0.185,
-  "prompt": "Rick Owens",
-  "prompt_sim": 0.004,
-  "combined": 4.14,
-  "link": "https://www.sellpy.fi/item/Imim0wroDf",
-  "size": "ONE SIZE",
-  "condition": "Erittäin hyvä"
- },
- {
-  "id": "DVdrtwqJCD",
-  "raw_brand": "Basile",
-  "type": "Hartiahuivi",
-  "price": 27.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-standard-2-k-9/nlocuJvHcP-14fc-0.jpg",
-   "https://prod.images.sellpy.net/photoRobot-standard-2-k-9/nlocuJvHcP-14fc-180.jpg",
-   "https://prod.images.sellpy.net/phone-images/nlocuJvHcP-1743.jpg",
-   "https://prod.images.sellpy.net/phone-images/nlocuJvHcP-2084.jpg"
-  ],
-  "text_score": 3.5,
-  "why": [
-   "materiaali: silkki",
-   "valmistettu: IT"
-  ],
-  "clip_guess": "Dries Van Noten",
-  "clip_sim": 0.128,
-  "prompt": "Rick Owens",
-  "prompt_sim": 0.057,
-  "combined": 4.13,
-  "link": "https://www.sellpy.fi/item/DVdrtwqJCD",
-  "size": "",
-  "condition": "Hyvä"
- },
- {
-  "id": "j37gdCbP7t",
-  "raw_brand": "",
-  "type": "Kaulahuivi",
-  "price": 16.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-standard-3-k-8/j37gdCbP7t-a373-0.jpg",
-   "https://prod.images.sellpy.net/photoRobot-standard-3-k-8/j37gdCbP7t-a373-180.jpg",
-   "https://prod.images.sellpy.net/phone-images/j37gdCbP7t-a801.jpg"
-  ],
-  "text_score": 2.5,
-  "why": [
-   "materiaali: villa",
-   "brändi tuntematon"
-  ],
-  "clip_guess": "Loro Piana",
-  "clip_sim": 0.118,
-  "prompt": "Burberry",
-  "prompt_sim": 0.073,
-  "combined": 4.1,
-  "link": "https://www.sellpy.fi/item/j37gdCbP7t",
-  "size": "",
-  "condition": "Erittäin hyvä"
- },
- {
-  "id": "e69xPffIIg",
-  "raw_brand": "Zara",
-  "type": "Pipo",
-  "price": 4.5,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-12/D4oZsXjii6-f10e-0-timed-sequence.jpg",
-   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-12/D4oZsXjii6-f10e-1-timed-sequence.jpg",
-   "https://prod.images.sellpy.net/phone-images/D4oZsXjii6-677e.jpg",
-   "https://prod.images.sellpy.net/phone-images/D4oZsXjii6-6fdd.jpg",
-   "https://prod.images.sellpy.net/phone-images/D4oZsXjii6-797a.jpg"
-  ],
-  "text_score": 2.5,
-  "why": [
-   "materiaali: villa",
-   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "C.P. Company",
-  "clip_sim": 0.185,
-  "prompt": "Maison Margiela",
-  "prompt_sim": 0.0,
-  "combined": 4.07,
-  "link": "https://www.sellpy.fi/item/e69xPffIIg",
-  "size": "HATS-INT-M",
-  "condition": "Hyvä"
- },
- {
-  "id": "1yJAXmAzvF",
-  "raw_brand": "H&M",
-  "type": "Hame",
-  "price": 5.5,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-hanging-9-k-6/mj2mWiJRCC-35f6-0.jpg",
-   "https://prod.images.sellpy.net/photoRobot-hanging-9-k-6/mj2mWiJRCC-35f6-180.jpg",
-   "https://prod.images.sellpy.net/phone-images/mj2mWiJRCC-09c4.jpg",
-   "https://prod.images.sellpy.net/phone-images/mj2mWiJRCC-0e4a.jpg",
-   "https://prod.images.sellpy.net/phone-images/mj2mWiJRCC-1c5a.jpg"
-  ],
-  "text_score": 3.5,
-  "why": [
-   "materiaali: pellava",
-   "muoto: laskostettu",
-   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "Max Mara",
-  "clip_sim": 0.127,
-  "prompt": "Issey Miyake",
-  "prompt_sim": 0.052,
-  "combined": 4.03,
-  "link": "https://www.sellpy.fi/item/1yJAXmAzvF",
-  "size": "WMN-EU-46",
-  "condition": "Hyvä"
- },
- {
-  "id": "CjT2Fam74l",
-  "raw_brand": "Batistini",
-  "type": "Kaulahuivi",
-  "price": 8.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-standard-6-k-16/CjT2Fam74l-09e2-0.jpg",
-   "https://prod.images.sellpy.net/photoRobot-standard-6-k-16/CjT2Fam74l-09e2-180.jpg",
-   "https://prod.images.sellpy.net/phone-images/CjT2Fam74l-3c08.jpg",
-   "https://prod.images.sellpy.net/phone-images/CjT2Fam74l-3dc3.jpg"
-  ],
-  "text_score": 2.5,
-  "why": [
-   "materiaali: villa",
-   "Sellpyn hintaluokka 3/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "Issey Miyake",
-  "clip_sim": 0.134,
-  "prompt": "Rick Owens",
-  "prompt_sim": 0.05,
-  "combined": 3.99,
-  "link": "https://www.sellpy.fi/item/CjT2Fam74l",
-  "size": "",
-  "condition": "Erittäin hyvä"
- },
- {
-  "id": "47Ey8286LO",
-  "raw_brand": "Zizzi",
-  "type": "Neulepaita",
-  "price": 19.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-standard-2-k-10/47Ey8286LO-f1a1-0.jpg",
-   "https://prod.images.sellpy.net/photoRobot-standard-2-k-10/47Ey8286LO-f1a1-180.jpg",
-   "https://prod.images.sellpy.net/phone-images/47Ey8286LO-edb6.jpg",
-   "https://prod.images.sellpy.net/phone-images/47Ey8286LO-f3c7.jpg",
-   "https://prod.images.sellpy.net/phone-images/47Ey8286LO-fc0a.jpg"
-  ],
-  "text_score": 2.5,
-  "why": [
-   "materiaali: villa",
-   "Sellpyn hintaluokka 3/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "Issey Miyake",
-  "clip_sim": 0.129,
-  "prompt": "Jean Paul Gaultier",
-  "prompt_sim": 0.054,
-  "combined": 3.95,
-  "link": "https://www.sellpy.fi/item/47Ey8286LO",
-  "size": "WMN-INT-2XL",
-  "condition": "Hyväksyttävä"
- },
- {
-  "id": "eW6EbOelFe",
-  "raw_brand": "Pieces",
-  "type": "Kaulahuivi",
-  "price": 5.5,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-standard-3-k-4/eW6EbOelFe-e744-0.jpg",
-   "https://prod.images.sellpy.net/photoRobot-standard-3-k-4/eW6EbOelFe-e744-180.jpg",
-   "https://prod.images.sellpy.net/phone-images/eW6EbOelFe-8503.jpg",
-   "https://prod.images.sellpy.net/phone-images/eW6EbOelFe-8e48.jpg",
-   "https://prod.images.sellpy.net/phone-images/eW6EbOelFe-966e.jpg",
-   "https://prod.images.sellpy.net/phone-images/eW6EbOelFe-a074.jpg"
-  ],
-  "text_score": 3.5,
-  "why": [
-   "materiaali: villa",
-   "muoto: pitkä",
-   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "Issey Miyake",
-  "clip_sim": 0.13,
-  "prompt": "Burberry",
-  "prompt_sim": 0.042,
-  "combined": 3.92,
-  "link": "https://www.sellpy.fi/item/eW6EbOelFe",
-  "size": "",
-  "condition": "Hyväksyttävä"
- },
- {
-  "id": "wIDXqDs6UJ",
-  "raw_brand": "H&M",
-  "type": "Pipo",
-  "price": 5.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-8/4ljtEr9X9g-b542-0-timed-sequence.jpg",
-   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-8/4ljtEr9X9g-b542-1-timed-sequence.jpg",
-   "https://prod.images.sellpy.net/phone-images/4ljtEr9X9g-7ad5.jpg",
-   "https://prod.images.sellpy.net/phone-images/4ljtEr9X9g-80d4.jpg",
-   "https://prod.images.sellpy.net/phone-images/4ljtEr9X9g-8365.jpg"
-  ],
-  "text_score": 2.5,
-  "why": [
-   "materiaali: villa",
-   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "C.P. Company",
-  "clip_sim": 0.166,
-  "prompt": "Rick Owens",
-  "prompt_sim": 0.011,
-  "combined": 3.89,
-  "link": "https://www.sellpy.fi/item/wIDXqDs6UJ",
-  "size": "ONE SIZE",
-  "condition": "Erittäin hyvä"
- },
- {
-  "id": "AMQiceEB6d",
-  "raw_brand": "Joha",
-  "type": "Kaulus",
-  "price": 26.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-5/AMQiceEB6d-6b56-0-timed-sequence.jpg",
-   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-5/AMQiceEB6d-6b56-1-timed-sequence.jpg",
-   "https://prod.images.sellpy.net/phone-images/AMQiceEB6d-24a9.jpg",
-   "https://prod.images.sellpy.net/phone-images/AMQiceEB6d-2a19.jpg",
-   "https://prod.images.sellpy.net/phone-images/AMQiceEB6d-3236.jpg"
-  ],
-  "text_score": 3.0,
-  "why": [
-   "materiaali: villa, merino",
-   "Sellpyn hintaluokka 3/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "Our Legacy",
-  "clip_sim": 0.101,
-  "prompt": "Kapital",
-  "prompt_sim": 0.075,
-  "combined": 3.86,
-  "link": "https://www.sellpy.fi/item/AMQiceEB6d",
-  "size": "",
-  "condition": "Hyvä"
- },
- {
-  "id": "rvsqtfdWTG",
-  "raw_brand": "Zara",
-  "type": "Pipo",
-  "price": 4.5,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-10/fKlh2Rf6UD-d382-0-timed-sequence.jpg",
-   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-10/fKlh2Rf6UD-d382-1-timed-sequence.jpg",
-   "https://prod.images.sellpy.net/phone-images/fKlh2Rf6UD-8224.jpg",
-   "https://prod.images.sellpy.net/phone-images/fKlh2Rf6UD-947a.jpg",
-   "https://prod.images.sellpy.net/phone-images/fKlh2Rf6UD-9ef0.jpg"
-  ],
-  "text_score": 2.5,
-  "why": [
-   "materiaali: villa",
-   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "Our Legacy",
-  "clip_sim": 0.142,
-  "prompt": "Yohji Yamamoto",
-  "prompt_sim": 0.034,
-  "combined": 3.85,
-  "link": "https://www.sellpy.fi/item/rvsqtfdWTG",
-  "size": "HATS-INT-M",
-  "condition": "Hyvä"
- },
- {
-  "id": "AQtqaVeoEn",
-  "raw_brand": "",
-  "type": "Vyö",
-  "price": 14.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-manual-12-k-14/AQtqaVeoEn-f784-single.jpg",
-   "https://prod.images.sellpy.net/photoRobot-manual-12-k-14/AQtqaVeoEn-fa1b-single.jpg",
-   "https://prod.images.sellpy.net/phone-images/AQtqaVeoEn-268a.jpg"
-  ],
-  "text_score": 2.5,
-  "why": [
-   "materiaali: nahka",
-   "brändi tuntematon"
-  ],
-  "clip_guess": "Hermès",
-  "clip_sim": 0.16,
-  "prompt": "Rick Owens",
-  "prompt_sim": 0.013,
-  "combined": 3.82,
-  "link": "https://www.sellpy.fi/item/AQtqaVeoEn",
-  "size": "BELTS-CM-95",
-  "condition": "Erittäin hyvä"
- },
- {
-  "id": "J8D6Kx0hF4",
-  "raw_brand": "",
-  "type": "Olkalaukku",
-  "price": 20.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-fixed-22-l-3/J8D6Kx0hF4-7fe4-0-timed-sequence.jpg",
-   "https://prod.images.sellpy.net/photoRobot-fixed-22-l-3/J8D6Kx0hF4-7fe4-1-timed-sequence.jpg",
-   "https://prod.images.sellpy.net/phone-images/J8D6Kx0hF4-4d76.jpg"
-  ],
-  "text_score": 4.5,
-  "why": [
-   "materiaali: nahka",
-   "valmistettu: IT",
-   "brändi tuntematon"
-  ],
-  "clip_guess": "Prada",
-  "clip_sim": 0.133,
-  "prompt": "Burberry",
-  "prompt_sim": 0.025,
-  "combined": 3.8,
-  "link": "https://www.sellpy.fi/item/J8D6Kx0hF4",
-  "size": "",
-  "condition": "Erittäin hyvä"
- },
- {
-  "id": "qtpSAsmM8w",
-  "raw_brand": "",
-  "type": "Bleiseri",
-  "price": 12.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-standard-7-k-10/qtpSAsmM8w-7570-0.jpg",
-   "https://prod.images.sellpy.net/photoRobot-standard-7-k-10/qtpSAsmM8w-7570-180.jpg",
-   "https://prod.images.sellpy.net/phone-images/qtpSAsmM8w-2404.jpg"
-  ],
-  "text_score": 2.8,
-  "why": [
-   "muoto: pitkä",
-   "brändi tuntematon"
-  ],
-  "clip_guess": "Jean Paul Gaultier",
-  "clip_sim": 0.102,
-  "prompt": "Burberry",
-  "prompt_sim": 0.061,
-  "combined": 3.6,
-  "link": "https://www.sellpy.fi/item/qtpSAsmM8w",
-  "size": "ONE SIZE",
-  "condition": "Erittäin hyvä"
- },
- {
-  "id": "BIly9miLDY",
-  "raw_brand": "Tosca Blu",
-  "type": "Olkalaukku",
-  "price": 8.5,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-12/BIly9miLDY-7531-0-timed-sequence.jpg",
-   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-12/BIly9miLDY-7531-1-timed-sequence.jpg",
-   "https://prod.images.sellpy.net/phone-images/BIly9miLDY-169e.jpg",
-   "https://prod.images.sellpy.net/phone-images/BIly9miLDY-267c.jpg",
-   "https://prod.images.sellpy.net/phone-images/BIly9miLDY-5408.jpg",
-   "https://prod.images.sellpy.net/phone-images/BIly9miLDY-6c20.jpg"
-  ],
-  "text_score": 2.8,
-  "why": [
-   "valmistettu: IT"
-  ],
-  "clip_guess": "Dries Van Noten",
-  "clip_sim": 0.083,
-  "prompt": "Jean Paul Gaultier",
-  "prompt_sim": 0.079,
-  "combined": 3.54,
-  "link": "https://www.sellpy.fi/item/BIly9miLDY",
-  "size": "",
-  "condition": "Hyväksyttävä"
- },
- {
-  "id": "QlJTAxHMdn",
-  "raw_brand": "",
-  "type": "Kaulaliina",
-  "price": 36.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-standard-4-l-3/r5aBb00Ou2-7a2c-0.jpg",
-   "https://prod.images.sellpy.net/photoRobot-standard-4-l-3/r5aBb00Ou2-7a2c-180.jpg",
-   "https://prod.images.sellpy.net/phone-images/r5aBb00Ou2-2647.jpg"
-  ],
-  "text_score": 2.5,
-  "why": [
-   "materiaali: silkki",
-   "brändi tuntematon"
-  ],
-  "clip_guess": "Dries Van Noten",
-  "clip_sim": 0.156,
-  "prompt": "Jean Paul Gaultier",
-  "prompt_sim": 0.002,
-  "combined": 3.53,
-  "link": "https://www.sellpy.fi/item/QlJTAxHMdn",
-  "size": "",
-  "condition": "Erittäin hyvä"
- },
- {
-  "id": "KJa7E1CzG5",
-  "raw_brand": "",
-  "type": "Turkishattu",
-  "price": 35.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-case-14-k-7/D6zS1aF8K0-f033-0.jpg",
-   "https://prod.images.sellpy.net/photoRobot-case-14-k-7/D6zS1aF8K0-f033-90.jpg",
-   "https://prod.images.sellpy.net/photoRobot-case-14-k-7/D6zS1aF8K0-f033-180.jpg",
-   "https://prod.images.sellpy.net/phone-images/D6zS1aF8K0-01b6.jpg"
-  ],
-  "text_score": 2.5,
-  "why": [
-   "materiaali: mokka",
-   "brändi tuntematon"
-  ],
-  "clip_guess": "Barbour",
-  "clip_sim": 0.115,
-  "prompt": "Rick Owens",
-  "prompt_sim": 0.042,
-  "combined": 3.46,
-  "link": "https://www.sellpy.fi/item/KJa7E1CzG5",
-  "size": "HATS-CM-55",
-  "condition": "Hyväksyttävä"
- },
- {
-  "id": "d0DgW0xvFi",
-  "raw_brand": "Gina Tricot",
-  "type": "Kaulahuivi",
-  "price": 19.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-standard-3-k-12/d0DgW0xvFi-1116-0.jpg",
-   "https://prod.images.sellpy.net/photoRobot-standard-3-k-12/d0DgW0xvFi-1116-180.jpg",
-   "https://prod.images.sellpy.net/phone-images/d0DgW0xvFi-40b1.jpg",
-   "https://prod.images.sellpy.net/phone-images/d0DgW0xvFi-46d2.jpg"
-  ],
-  "text_score": 3.5,
-  "why": [
-   "materiaali: villa",
-   "muoto: pitkä",
-   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "Dries Van Noten",
-  "clip_sim": 0.115,
-  "prompt": "Burberry",
-  "prompt_sim": 0.032,
-  "combined": 3.41,
-  "link": "https://www.sellpy.fi/item/d0DgW0xvFi",
-  "size": "",
-  "condition": "Uusi"
- },
- {
-  "id": "FCjHRdTWXk",
-  "raw_brand": "Gebeana",
-  "type": "Pipo",
-  "price": 5.5,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-fixed-21-l-2/C3sPQ1zUiH-ac02-0-timed-sequence.jpg",
-   "https://prod.images.sellpy.net/photoRobot-fixed-21-l-2/C3sPQ1zUiH-ac02-1-timed-sequence.jpg",
-   "https://prod.images.sellpy.net/phone-images/C3sPQ1zUiH-3cc7.jpg",
-   "https://prod.images.sellpy.net/phone-images/C3sPQ1zUiH-42ba.jpg"
-  ],
-  "text_score": 2.5,
-  "why": [
-   "materiaali: villa",
-   "Sellpyn hintaluokka 3/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "C.P. Company",
-  "clip_sim": 0.139,
-  "prompt": "Maison Margiela",
-  "prompt_sim": 0.012,
-  "combined": 3.37,
-  "link": "https://www.sellpy.fi/item/FCjHRdTWXk",
-  "size": "ONE SIZE",
-  "condition": "Hyvä"
- },
- {
-  "id": "BGFXbCbH5E",
-  "raw_brand": "Reet",
-  "type": "Rannekello",
-  "price": 19.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-manual-15-l-1/BGFXbCbH5E-4639-single.jpg",
-   "https://prod.images.sellpy.net/photoRobot-manual-15-l-1/BGFXbCbH5E-a87a-single.jpg",
-   "https://prod.images.sellpy.net/phone-images/BGFXbCbH5E-51e5.jpg",
-   "https://prod.images.sellpy.net/phone-images/BGFXbCbH5E-5da4.jpg",
-   "https://prod.images.sellpy.net/phone-images/BGFXbCbH5E-739a.jpg",
-   "https://prod.images.sellpy.net/phone-images/BGFXbCbH5E-7bd4.jpg"
-  ],
-  "text_score": 2.5,
-  "why": [
-   "materiaali: nahka",
-   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "Hermès",
-  "clip_sim": 0.101,
-  "prompt": "Carhartt",
-  "prompt_sim": 0.045,
-  "combined": 3.22,
-  "link": "https://www.sellpy.fi/item/BGFXbCbH5E",
-  "size": "",
-  "condition": "Hyvä"
- },
- {
-  "id": "KeA2hemOYr",
-  "raw_brand": "Divided by H&M",
-  "type": "Turbaani",
-  "price": 7.5,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-5/KeA2hemOYr-ce2c-0-timed-sequence.jpg",
-   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-5/KeA2hemOYr-ce2c-1-timed-sequence.jpg",
-   "https://prod.images.sellpy.net/phone-images/KeA2hemOYr-4e42.jpg",
-   "https://prod.images.sellpy.net/phone-images/KeA2hemOYr-54da.jpg",
-   "https://prod.images.sellpy.net/phone-images/KeA2hemOYr-65d0.jpg"
-  ],
-  "text_score": 2.5,
-  "why": [
-   "materiaali: villa",
-   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "Hermès",
-  "clip_sim": 0.102,
-  "prompt": "Maison Margiela",
-  "prompt_sim": 0.035,
-  "combined": 3.08,
-  "link": "https://www.sellpy.fi/item/KeA2hemOYr",
-  "size": "ONE SIZE",
-  "condition": "Hyvä"
- },
- {
-  "id": "1XZXO0Q1DY",
-  "raw_brand": "Monki",
-  "type": "Baskeri",
-  "price": 12.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-case-22-l-2/1XZXO0Q1DY-7a51-0.jpg",
-   "https://prod.images.sellpy.net/photoRobot-case-22-l-2/1XZXO0Q1DY-7a51-90.jpg",
-   "https://prod.images.sellpy.net/photoRobot-case-22-l-2/1XZXO0Q1DY-7a51-180.jpg",
-   "https://prod.images.sellpy.net/phone-images/1XZXO0Q1DY-13dd.jpg",
-   "https://prod.images.sellpy.net/phone-images/1XZXO0Q1DY-19a0.jpg",
-   "https://prod.images.sellpy.net/phone-images/1XZXO0Q1DY-2084.jpg"
-  ],
-  "text_score": 2.5,
-  "why": [
-   "materiaali: villa",
-   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "Hermès",
-  "clip_sim": 0.089,
-  "prompt": "Jean Paul Gaultier",
-  "prompt_sim": 0.047,
-  "combined": 3.02,
-  "link": "https://www.sellpy.fi/item/1XZXO0Q1DY",
-  "size": "ONE SIZE",
-  "condition": "Erittäin hyvä"
- },
- {
-  "id": "XlSzdiPfeO",
-  "raw_brand": "",
-  "type": "Kaulahuivi",
-  "price": 29.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-5/XlSzdiPfeO-32a6-0-timed-sequence.jpg",
-   "https://prod.images.sellpy.net/photoRobot-fixed-11-k-5/XlSzdiPfeO-32a6-1-timed-sequence.jpg",
-   "https://prod.images.sellpy.net/phone-images/XlSzdiPfeO-85a0.jpg"
-  ],
-  "text_score": 2.5,
-  "why": [
-   "materiaali: silkki",
-   "brändi tuntematon"
-  ],
-  "clip_guess": "Hermès",
-  "clip_sim": 0.085,
-  "prompt": "Issey Miyake",
-  "prompt_sim": 0.026,
-  "combined": 2.56,
-  "link": "https://www.sellpy.fi/item/XlSzdiPfeO",
-  "size": "",
-  "condition": "Uusi"
- },
- {
-  "id": "NWBVDUBHCu",
-  "raw_brand": "Elson",
-  "type": "Bleiseri",
-  "price": 15.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-standard-7-k-15/NWBVDUBHCu-8f7d-0.jpg",
-   "https://prod.images.sellpy.net/photoRobot-standard-7-k-15/NWBVDUBHCu-8f7d-180.jpg",
-   "https://prod.images.sellpy.net/phone-images/NWBVDUBHCu-35af.jpg",
-   "https://prod.images.sellpy.net/phone-images/NWBVDUBHCu-3c80.jpg"
-  ],
-  "text_score": 3.3,
-  "why": [
-   "materiaali: villa",
-   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "Burberry",
-  "clip_sim": 0.158,
-  "prompt": "Carhartt",
-  "prompt_sim": 0.103,
-  "combined": 6.62,
-  "link": "https://www.sellpy.fi/item/NWBVDUBHCu",
-  "size": "MEN-EU-54",
-  "condition": "Erittäin hyvä"
- },
- {
-  "id": "PiAZGejvxm",
-  "raw_brand": "",
-  "type": "Naisten takki",
-  "price": 25.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-standard-4-l-3/PiAZGejvxm-d9ee-0.jpg",
-   "https://prod.images.sellpy.net/photoRobot-standard-4-l-3/PiAZGejvxm-d9ee-180.jpg",
-   "https://prod.images.sellpy.net/phone-images/PiAZGejvxm-c7cc.jpg",
-   "https://prod.images.sellpy.net/phone-images/PiAZGejvxm-cc22.jpg"
-  ],
-  "text_score": 2.8,
-  "why": [
-   "muoto: pitkä",
-   "brändi tuntematon"
-  ],
-  "clip_guess": "Burberry",
-  "clip_sim": 0.128,
-  "prompt": "Burberry",
-  "prompt_sim": 0.113,
-  "combined": 6.14,
-  "link": "https://www.sellpy.fi/item/PiAZGejvxm",
-  "size": "WMN-EU-44",
-  "condition": "Erittäin hyvä"
- },
- {
-  "id": "7SHzp6ui01",
-  "raw_brand": "H&M",
-  "type": "Puvunhousut",
-  "price": 8.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-hanging-9-k-12/7SHzp6ui01-d318-0.jpg",
-   "https://prod.images.sellpy.net/photoRobot-hanging-9-k-12/7SHzp6ui01-d318-180.jpg",
-   "https://prod.images.sellpy.net/phone-images/7SHzp6ui01-ffbf.jpg",
-   "https://prod.images.sellpy.net/phone-images/7SHzp6ui01-043f.jpg",
-   "https://prod.images.sellpy.net/phone-images/7SHzp6ui01-2368.jpg"
-  ],
-  "text_score": 2.5,
-  "why": [
-   "materiaali: pellava",
-   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "Brunello Cucinelli",
-  "clip_sim": 0.164,
-  "prompt": "Issey Miyake",
-  "prompt_sim": 0.085,
-  "combined": 6.14,
-  "link": "https://www.sellpy.fi/item/7SHzp6ui01",
-  "size": "MEN-EU-52",
-  "condition": "Hyvä"
- },
- {
-  "id": "sFAng8wDRU",
-  "raw_brand": "H&M",
-  "type": "Housut",
-  "price": 14.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-hanging-8-k-2/sFAng8wDRU-7a69-0.jpg",
-   "https://prod.images.sellpy.net/photoRobot-hanging-8-k-2/sFAng8wDRU-7a69-180.jpg",
-   "https://prod.images.sellpy.net/phone-images/sFAng8wDRU-66a1.jpg",
-   "https://prod.images.sellpy.net/phone-images/sFAng8wDRU-6a43.jpg",
-   "https://prod.images.sellpy.net/phone-images/sFAng8wDRU-76ec.jpg"
-  ],
-  "text_score": 2.5,
-  "why": [
-   "materiaali: pellava",
-   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "Lemaire",
-  "clip_sim": 0.157,
-  "prompt": "Issey Miyake",
-  "prompt_sim": 0.087,
-  "combined": 6.05,
-  "link": "https://www.sellpy.fi/item/sFAng8wDRU",
-  "size": "MEN-INT-L",
-  "condition": "Hyvä"
- },
- {
-  "id": "vbTEuwY95H",
-  "raw_brand": "",
-  "type": "Vyö",
-  "price": 8.5,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-manual-13-k-7/vbTEuwY95H-1dfb-single.jpg",
-   "https://prod.images.sellpy.net/photoRobot-manual-13-k-7/vbTEuwY95H-f228-single.jpg"
-  ],
-  "text_score": 2.5,
-  "why": [
-   "materiaali: nahka",
-   "brändi tuntematon"
-  ],
-  "clip_guess": "Hermès",
-  "clip_sim": 0.192,
-  "prompt": "Guidi",
-  "prompt_sim": 0.053,
-  "combined": 5.95,
-  "link": "https://www.sellpy.fi/item/vbTEuwY95H",
-  "size": "BELTS-CM-90",
-  "condition": "Erittäin hyvä"
- },
- {
-  "id": "iedsM7oMw5",
-  "raw_brand": "Batistini",
-  "type": "Puvunhousut",
-  "price": 4.5,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-hanging-9-k-10/Zhdppzs4V7-5a76-0.jpg",
-   "https://prod.images.sellpy.net/photoRobot-hanging-9-k-10/Zhdppzs4V7-5a76-180.jpg",
-   "https://prod.images.sellpy.net/phone-images/Zhdppzs4V7-363e.jpg",
-   "https://prod.images.sellpy.net/phone-images/Zhdppzs4V7-3ac3.jpg"
-  ],
-  "text_score": 2.5,
-  "why": [
-   "materiaali: villa",
-   "Sellpyn hintaluokka 3/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "Maison Margiela",
-  "clip_sim": 0.171,
-  "prompt": "Issey Miyake",
-  "prompt_sim": 0.072,
-  "combined": 5.95,
-  "link": "https://www.sellpy.fi/item/iedsM7oMw5",
-  "size": "PANTS-INCH-36",
-  "condition": "Hyvä"
- },
- {
-  "id": "tqG9lD7yn0",
-  "raw_brand": "",
-  "type": "Vyö",
-  "price": 10.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-manual-15-l-1/tqG9lD7yn0-4d38-single.jpg",
-   "https://prod.images.sellpy.net/photoRobot-manual-15-l-1/tqG9lD7yn0-2058-single.jpg",
-   "https://prod.images.sellpy.net/phone-images/tqG9lD7yn0-2978.jpg",
-   "https://prod.images.sellpy.net/phone-images/tqG9lD7yn0-2e18.jpg"
-  ],
-  "text_score": 2.5,
-  "why": [
-   "materiaali: nahka",
-   "brändi tuntematon"
-  ],
-  "clip_guess": "Hermès",
-  "clip_sim": 0.202,
-  "prompt": "Rick Owens",
-  "prompt_sim": 0.042,
-  "combined": 5.89,
-  "link": "https://www.sellpy.fi/item/tqG9lD7yn0",
-  "size": "BELTS-CM-130",
-  "condition": "Hyväksyttävä"
- },
- {
-  "id": "NR1fZfdEy0",
-  "raw_brand": "Triangle",
-  "type": "Naisten takki",
-  "price": 23.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-standard-7-l-2/NR1fZfdEy0-f51b-0.jpg",
-   "https://prod.images.sellpy.net/photoRobot-standard-7-l-2/NR1fZfdEy0-f51b-180.jpg",
-   "https://prod.images.sellpy.net/phone-images/NR1fZfdEy0-204f.jpg",
-   "https://prod.images.sellpy.net/phone-images/NR1fZfdEy0-2bb1.jpg",
-   "https://prod.images.sellpy.net/phone-images/NR1fZfdEy0-2df5.jpg",
-   "https://prod.images.sellpy.net/phone-images/NR1fZfdEy0-35ff.jpg"
-  ],
-  "text_score": 4.3,
-  "why": [
-   "materiaali: villa",
-   "muoto: pitkä",
-   "Sellpyn hintaluokka 3/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "Our Legacy",
-  "clip_sim": 0.134,
-  "prompt": "Yohji Yamamoto",
-  "prompt_sim": 0.086,
-  "combined": 5.81,
-  "link": "https://www.sellpy.fi/item/NR1fZfdEy0",
-  "size": "WMN-EU-52",
-  "condition": "Hyvä"
- },
- {
-  "id": "6i3mKM3lZe",
-  "raw_brand": "Bohemiana",
-  "type": "Neuletakki",
-  "price": 25.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-standard-16-k-3/6i3mKM3lZe-5750-0.jpg",
-   "https://prod.images.sellpy.net/photoRobot-standard-16-k-3/6i3mKM3lZe-5750-180.jpg",
-   "https://prod.images.sellpy.net/phone-images/6i3mKM3lZe-307e.jpg",
-   "https://prod.images.sellpy.net/phone-images/6i3mKM3lZe-34f3.jpg",
-   "https://prod.images.sellpy.net/phone-images/6i3mKM3lZe-3a4b.jpg",
-   "https://prod.images.sellpy.net/phone-images/6i3mKM3lZe-3d93.jpg"
-  ],
-  "text_score": 4.3,
-  "why": [
-   "materiaali: mohair",
-   "muoto: pitkä",
-   "Sellpyn hintaluokka 3/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "Burberry",
-  "clip_sim": 0.109,
-  "prompt": "Burberry",
-  "prompt_sim": 0.104,
-  "combined": 5.69,
-  "link": "https://www.sellpy.fi/item/6i3mKM3lZe",
-  "size": "ONE SIZE",
-  "condition": "Hyväksyttävä"
- },
- {
-  "id": "v8M4d74QRz",
-  "raw_brand": "H&M",
-  "type": "Palazzo-housut",
-  "price": 48.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-hanging-9-k-12/v8M4d74QRz-9ac5-0.jpg",
-   "https://prod.images.sellpy.net/photoRobot-hanging-9-k-12/v8M4d74QRz-9ac5-180.jpg",
-   "https://prod.images.sellpy.net/phone-images/v8M4d74QRz-a1cf.jpg",
-   "https://prod.images.sellpy.net/phone-images/v8M4d74QRz-a5d3.jpg"
-  ],
-  "text_score": 2.5,
-  "why": [
-   "materiaali: villa",
-   "Sellpyn hintaluokka 2/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "Max Mara",
-  "clip_sim": 0.143,
-  "prompt": "Issey Miyake",
-  "prompt_sim": 0.084,
-  "combined": 5.67,
-  "link": "https://www.sellpy.fi/item/v8M4d74QRz",
-  "size": "WMN-EU-44",
-  "condition": "Erittäin hyvä"
- },
- {
-  "id": "nKPYCSN6zh",
-  "raw_brand": "Nat & Nin",
-  "type": "Lompakko",
-  "price": 40.0,
-  "images": [
-   "https://prod.images.sellpy.net/photoRobot-manual-15-l-1/nKPYCSN6zh-26d3-single.jpg",
-   "https://prod.images.sellpy.net/photoRobot-manual-15-l-1/nKPYCSN6zh-6aab-single.jpg",
-   "https://prod.images.sellpy.net/phone-images/nKPYCSN6zh-5e39.jpg"
-  ],
-  "text_score": 3.5,
-  "why": [
-   "materiaali: nahka",
-   "muoto: pitkä",
-   "Sellpyn hintaluokka 3/6 mutta laatusignaaleja"
-  ],
-  "clip_guess": "Hermès",
-  "clip_sim": 0.185,
-  "prompt": "Guidi",
-  "prompt_sim": 0.041,
-  "combined": 5.62,
-  "link": "https://www.sellpy.fi/item/nKPYCSN6zh",
-  "size": "",
-  "condition": "Erittäin hyvä"
  }
 ]
