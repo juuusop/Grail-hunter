@@ -48,3 +48,7 @@ Koko lista katteen mukaan: [data/PROFIT.md](data/PROFIT.md) (päivittyy päivitt
 
 ## Feikki- ja kuntoriski (risk.py)
 Jokainen löytö saa `risk`-kentän: feikkiriski 0–100 (brändin väärennösmarkkina × tuotetyyppi × alusta × hinta/arvo × tekstivihjeet) ja kuntolipun (Sellpyn kuntoluokasta). Hälytyksissä ⚠️/🟡 feikkiriski ja 🩹 kulunut. `python risk.py report` → data/RISK.md (osuudet alustoittain, kategorioittain, brändeittäin). Painot: config.yaml `risk:`.
+
+## 🛒 Toivelista (mikä tahansa käytetty tavara)
+Kommentoi issueen **🛒 Toivelista** esim. `näyttövarsi, monitor arm` + `max 80`, niin `wishlist.py` hakee sitä tunnin välein
+Torista, Huudosta, Traderasta ja Blocketista ja kommentoi uudet osumat hintoineen samaan issueen. Nykyiset osumat: [WISHLIST.md](WISHLIST.md).
