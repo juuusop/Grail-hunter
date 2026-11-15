@@ -1,5 +1,177 @@
 [
  {
+  "id": "tori-49561893",
+  "brand": "Arc'teryx · Tori",
+  "title": "Myydään Arcteryx sininen goretex-takki",
+  "price": 120.0,
+  "value": 280,
+  "score": 2.33,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49561893",
+  "image": "https://img.tori.net/dynamic/default/item/49561893/7337749b-3b51-40cc-abf2-e80b08f90f42",
+  "reasons": [
+   "taso B",
+   "goretex ×1.15",
+   "Sellpyn mediaani tälle brändille 95 €",
+   "Japanissa myyty (takki) mediaani 222 € (n=20)",
+   "⚠️ kate ~-27 € (ROI -22%, myy grailed ~143 €; Yahoo JP toteutuneet (takki): mediaani 222 €, p25 152 € (n=20) → geneerinen ~187 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794702083,
+  "resale": 143,
+  "profit": -27,
+  "roi": -0.22,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 222 €, p25 152 € (n=20) → geneerinen ~187 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~143 € → käteen ~100 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 127 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761229926",
+  "brand": "Wales Bonner · Tradera 🇸🇪",
+  "title": "Adidas x Wales Bonner Samba-sneakers",
+  "price": 122.67,
+  "value": 311,
+  "score": 2.54,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340303/761229926/adidas-x-wales-bonner-samba-sneakers",
+  "image": "https://img.tradera.net/images/886/667832886_b0ba16e4-475e-44d8-addf-ebee0d7bc082.jpg",
+  "reasons": [
+   "taso B",
+   "samba ×1.3",
+   "Japanissa myyty (kengät) mediaani 102 € (n=47)",
+   "⚠️ kate ~-119 € (ROI -86%, myy grailed ~29 €; Yahoo JP toteutuneet (kengät): mediaani 102 €, p25 51 € (n=47) → geneerinen ~76 € × 1.15 EU-taso)",
+   "1410 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794702083,
+  "resale": 29,
+  "profit": -119,
+  "roi": -0.86,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 102 €, p25 51 € (n=47) → geneerinen ~76 € × 1.15 EU-taso",
+   "massakollaboraatio/diffuusio 'adidas' ×0.35",
+   "myynti grailed ~29 € → käteen ~20 € kulujen ja tinkimisen jälkeen",
+   "osto 123 € + toimitus = 139 €"
+  ],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761229926",
+  "brand": "Wales Bonner · Tradera 🇸🇪",
+  "title": "Adidas x Wales Bonner Samba-sneakers",
+  "price": 122.67,
+  "value": 311,
+  "score": 2.54,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340303/761229926/adidas-x-wales-bonner-samba-sneakers",
+  "image": "https://img.tradera.net/images/886/667832886_b0ba16e4-475e-44d8-addf-ebee0d7bc082.jpg",
+  "reasons": [
+   "taso B",
+   "samba ×1.3",
+   "Japanissa myyty (kengät) mediaani 102 € (n=47)",
+   "⚠️ kate ~-119 € (ROI -86%, myy grailed ~29 €; Yahoo JP toteutuneet (kengät): mediaani 102 €, p25 51 € (n=47) → geneerinen ~76 € × 1.15 EU-taso)",
+   "1410 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794702083,
+  "resale": 29,
+  "profit": -119,
+  "roi": -0.86,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 102 €, p25 51 € (n=47) → geneerinen ~76 € × 1.15 EU-taso",
+   "massakollaboraatio/diffuusio 'adidas' ×0.35",
+   "myynti grailed ~29 € → käteen ~20 € kulujen ja tinkimisen jälkeen",
+   "osto 123 € + toimitus = 139 €"
+  ],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2465517818",
+  "brand": "Loro Piana · Marktplaats 🇳🇱",
+  "title": "Loro Piana Weekend Walk Maat 45",
+  "price": 165.0,
+  "value": 514,
+  "score": 3.12,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2465517818-loro-piana-weekend-walk-maat-45",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/5d2816d5-292d-4e21-b0ec-d0f147865400?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 153 €",
+   "Japanissa myyty mediaani 101 € (n=100)",
+   "💰 kate ~104 € (ROI 63%, myy grailed ~386 €; brändiarvio ~386 € (ei mallivertailua eikä Yahoo-dataa))",
+   "145 EUR + ~20 € posti = 165 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794702083,
+  "resale": 386,
+  "profit": 104,
+  "roi": 0.63,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~386 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~386 € → käteen ~269 € kulujen ja tinkimisen jälkeen",
+   "osto 165 € + toimitus = 165 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "Egf1NYhFWR",
   "brand": "Comme des Garçons",
   "title": "CDG Karaokelaite Karaoke System mit Mikrofon & Bildschirm, eingebaute Videocamera",
