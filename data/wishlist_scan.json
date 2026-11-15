@@ -1,5 +1,5 @@
 {
- "generated": 1794703920,
+ "generated": 1794729818,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -629,6 +629,14 @@
     "image": "https://img.tori.net/dynamic/default/item/49889614/36e92055-71ce-491a-8fe8-2845ec7b2b32"
    },
    {
+    "id": "tori-45743538",
+    "source": "tori",
+    "title": "Näyttövarsi",
+    "price": 15.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/45743538",
+    "image": "https://img.tori.net/dynamic/default/item/45743538/42e76f25-1e5e-4a67-9ce2-6626b67f48f4"
+   },
+   {
     "id": "tori-44206340",
     "source": "tori",
     "title": "Newstar FPMA-D550BLACK -monitorivarsi",
@@ -651,14 +659,6 @@
     "price": 20.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/47414896",
     "image": "https://img.tori.net/dynamic/default/item/47414896/ae051552-1498-4459-8c30-8e0e280e7afc"
-   },
-   {
-    "id": "tori-45743538",
-    "source": "tori",
-    "title": "Näyttövarsi",
-    "price": 20.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/45743538",
-    "image": "https://img.tori.net/dynamic/default/item/45743538/42e76f25-1e5e-4a67-9ce2-6626b67f48f4"
    },
    {
     "id": "tori-49702688",
@@ -987,6 +987,14 @@
     "price": 50.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/45557942",
     "image": "https://img.tori.net/dynamic/default/item/45557942/f4d44b06-5b9b-4cf7-8ade-0f0e1e4f9fe0"
+   },
+   {
+    "id": "tori-46087782",
+    "source": "tori",
+    "title": "LCD ViewMaster näytönvarsi pöytäkiinnityksellä",
+    "price": 55.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/46087782",
+    "image": "https://img.tori.net/dynamic/default/item/46087782/fd2badaa-8763-46c3-8cbf-c2715b0e6870"
    },
    {
     "id": "blocket-24642329",

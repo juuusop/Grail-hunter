@@ -1,6 +1,6 @@
 # 🛒 Toivelista: nykyiset osumat
 
-Päivitetty 2026-11-15 00:52 UTC. Lisää asioita kommentoimalla issueen "🛒 Toivelista". Hinnat perillä Suomessa (Ruotsi + ~15 € posti).
+Päivitetty 2026-11-15 08:03 UTC. Lisää asioita kommentoimalla issueen "🛒 Toivelista". Hinnat perillä Suomessa (Ruotsi + ~15 € posti).
 
 ## Läppäriteline MacBookille
 
@@ -69,7 +69,7 @@ Päivitetty 2026-11-15 00:52 UTC. Lisää asioita kommentoimalla issueen "🛒 T
 
 ## Näyttövarsi yhdelle näytölle
 
-69 osumaa · mediaani 45 € · hälytysraja 90 € · uutena 130 €
+70 osumaa · mediaani 45 € · hälytysraja 90 € · uutena 130 €
 
 - ⭐ **15 €** [Ergotron MX näyttövarsi.](https://www.tori.fi/recommerce/forsale/item/46317082) · Tori · −88 % uushinnasta 130 €; 67 % alle käytettyjen mediaanin 45 €
 - ⭐ **20 €** [Ergotron Monitorin kiinnike säädettävällä varrella](https://www.tori.fi/recommerce/forsale/item/34378118) · Tori · −85 % uushinnasta 130 €; 56 % alle käytettyjen mediaanin 45 €
@@ -94,9 +94,9 @@ Päivitetty 2026-11-15 00:52 UTC. Lisää asioita kommentoimalla issueen "🛒 T
 - **10 €** [Näytön pöytäteline / monitorivarsi](https://www.tori.fi/recommerce/forsale/item/47823822) · Tori · −92 % uushinnasta 130 €; 78 % alle käytettyjen mediaanin 45 €
 - **10 €** [Minifocus ”arm” ulkoiselle monitorille](https://www.tori.fi/recommerce/forsale/item/43714709) · Tori · −92 % uushinnasta 130 €; 78 % alle käytettyjen mediaanin 45 €
 - **15 €** [näyttövarsi](https://www.tori.fi/recommerce/forsale/item/49889614) · Tori · −88 % uushinnasta 130 €; 67 % alle käytettyjen mediaanin 45 €
+- **15 €** [Näyttövarsi](https://www.tori.fi/recommerce/forsale/item/45743538) · Tori · −88 % uushinnasta 130 €; 67 % alle käytettyjen mediaanin 45 €
 - **15 €** [Newstar FPMA-D550BLACK -monitorivarsi](https://www.tori.fi/recommerce/forsale/item/44206340) · Tori · −88 % uushinnasta 130 €; 67 % alle käytettyjen mediaanin 45 €
 - **20 €** [Säädettävä näyttövarsi ja USB-pöytäkiinnikkeellä](https://www.tori.fi/recommerce/forsale/item/47414896) · Tori · −85 % uushinnasta 130 €; 56 % alle käytettyjen mediaanin 45 €
-- **20 €** [Näyttövarsi](https://www.tori.fi/recommerce/forsale/item/45743538) · Tori · −85 % uushinnasta 130 €; 56 % alle käytettyjen mediaanin 45 €
 - **25 €** [Deltaco monitorivarsi](https://www.tori.fi/recommerce/forsale/item/49702688) · Tori · −81 % uushinnasta 130 €; 44 % alle käytettyjen mediaanin 45 €
 - **25 €** [Yksivartinen näyttövarsi, pöytäkiinnitys](https://www.tori.fi/recommerce/forsale/item/47044251) · Tori · −81 % uushinnasta 130 €; 44 % alle käytettyjen mediaanin 45 €
 - **25 €** [Multibrackets M Deskmount Basic Single näytönjalka / monitorivarsi](https://www.tori.fi/recommerce/forsale/item/47579506) · Tori · −81 % uushinnasta 130 €; 44 % alle käytettyjen mediaanin 45 €
