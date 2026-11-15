@@ -1,7 +1,7 @@
 {
- "generated": 1794703414,
+ "generated": 1794703920,
  "items": {
-  "Läppäriteline (korkea, MacBook)": [
+  "Läppäriteline MacBookille": [
    {
     "id": "tori-32382607",
     "source": "tori",
@@ -17,22 +17,6 @@
     "price": 2.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/48932917",
     "image": "https://img.tori.net/dynamic/default/item/48932917/6d816250-2de1-4cb3-9963-50dc0596ff4a"
-   },
-   {
-    "id": "tori-34211617",
-    "source": "tori",
-    "title": "Ikea Bräda pinkki läppäriteline",
-    "price": 2.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/34211617",
-    "image": "https://img.tori.net/dynamic/default/item/34211617/16c8160a-1d98-408f-999a-6ad2d46d3dd3"
-   },
-   {
-    "id": "tori-49441003",
-    "source": "tori",
-    "title": "IKEA Öjulf läppäriteline",
-    "price": 3.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49441003",
-    "image": "https://img.tori.net/dynamic/default/item/49441003/a57d9d28-f06c-467c-8ee2-7e3bd3a2a5bb"
    },
    {
     "id": "tori-29008307",
@@ -67,6 +51,22 @@
     "image": "https://img.tori.net/dynamic/default/item/43521366/2407153e-b94f-4df1-af69-9e0f5d77865e"
    },
    {
+    "id": "tori-23631612",
+    "source": "tori",
+    "title": "Kannettavan teline",
+    "price": 5.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/23631612",
+    "image": "https://img.tori.net/dynamic/default/20/20079e4f-4602-4bb7-8a50-95a2bb69b72c"
+   },
+   {
+    "id": "tori-45195456",
+    "source": "tori",
+    "title": "Kannettavan tietokoneen teline",
+    "price": 5.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/45195456",
+    "image": "https://img.tori.net/dynamic/default/item/45195456/a72ec13f-2333-4353-a87c-085a58ad8e2b"
+   },
+   {
     "id": "tori-49689657",
     "source": "tori",
     "title": "Fellowes läppäriteline",
@@ -91,62 +91,6 @@
     "image": "https://img.tori.net/dynamic/default/item/42510902/944c77bc-d509-43a4-912a-9a37c6c024cb"
    },
    {
-    "id": "tori-48892992",
-    "source": "tori",
-    "title": "Universaali pystysuora kannettavan tietokoneen teline",
-    "price": 5.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/48892992",
-    "image": "https://img.tori.net/dynamic/default/item/48892992/e13416be-25a4-4c3e-8738-0e824fb9d2cf"
-   },
-   {
-    "id": "tori-23631612",
-    "source": "tori",
-    "title": "Kannettavan teline",
-    "price": 5.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/23631612",
-    "image": "https://img.tori.net/dynamic/default/20/20079e4f-4602-4bb7-8a50-95a2bb69b72c"
-   },
-   {
-    "id": "tori-45195456",
-    "source": "tori",
-    "title": "Kannettavan tietokoneen teline",
-    "price": 5.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/45195456",
-    "image": "https://img.tori.net/dynamic/default/item/45195456/a72ec13f-2333-4353-a87c-085a58ad8e2b"
-   },
-   {
-    "id": "tori-30283538",
-    "source": "tori",
-    "title": "Ikea Bräda kannettavan tietokoneen teline",
-    "price": 5.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/30283538",
-    "image": "https://img.tori.net/dynamic/default/item/30283538/4a659415-4dd7-4174-93b6-8957f7f6bbe6"
-   },
-   {
-    "id": "tori-27088876",
-    "source": "tori",
-    "title": "Kannettavan tietokoneen teline Ikea bräda",
-    "price": 5.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/27088876",
-    "image": "https://img.tori.net/dynamic/default/e6/e602aa0b-3aa2-4f55-ad88-7dd85437c06e"
-   },
-   {
-    "id": "tori-47015278",
-    "source": "tori",
-    "title": "Musta kannettavan tietokoneen syli- ja pöytäteline",
-    "price": 5.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/47015278",
-    "image": "https://img.tori.net/dynamic/default/item/47015278/0d237bc0-7dfa-4160-b77d-0eb310c26da0"
-   },
-   {
-    "id": "tori-41424605",
-    "source": "tori",
-    "title": "Läppäriteline - notebook stand",
-    "price": 6.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/41424605",
-    "image": "https://img.tori.net/dynamic/default/item/41424605/04555925-4990-4b64-ad7d-5ebfe0b06394"
-   },
-   {
     "id": "tori-23631809",
     "source": "tori",
     "title": "Metallinen, kevyt kannettavan  teline",
@@ -155,52 +99,12 @@
     "image": "https://img.tori.net/dynamic/default/ac/ac77b09c-3da4-405c-b26e-bf1557c72bff"
    },
    {
-    "id": "tori-46468493",
+    "id": "tori-41424605",
     "source": "tori",
-    "title": "Läppäriteline, Ikea, Bräda",
-    "price": 7.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/46468493",
-    "image": "https://img.tori.net/dynamic/default/item/46468493/834fe589-32f9-4ef7-8893-51cacaf6b1d8"
-   },
-   {
-    "id": "tori-49015220",
-    "source": "tori",
-    "title": "IKEA Öjulf kannettavan tietokoneen teline",
-    "price": 7.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49015220",
-    "image": "https://img.tori.net/dynamic/default/item/49015220/f0c7c6a7-1050-4b3b-aa74-a85d531fd93f"
-   },
-   {
-    "id": "tori-47335014",
-    "source": "tori",
-    "title": "kannettavan tietokoneen telineen tyyny",
-    "price": 7.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/47335014",
-    "image": "https://img.tori.net/dynamic/default/item/47335014/28f408b9-5cbe-478e-854b-afda33b00872"
-   },
-   {
-    "id": "tori-46932565",
-    "source": "tori",
-    "title": "Teline / pöytä läppärille. Sylipöytä / läppäriteline.",
-    "price": 8.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/46932565",
-    "image": "https://img.tori.net/dynamic/default/item/46932565/08502d9f-f3f0-490a-b69a-ef42db10e906"
-   },
-   {
-    "id": "tori-44540651",
-    "source": "tori",
-    "title": "Ergonominen ja säädettävä läppäriteline max. 17,3\" (Amazon Basics)",
-    "price": 8.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/44540651",
-    "image": "https://img.tori.net/dynamic/default/item/44540651/d0d9a557-8d8d-48d4-a989-279f86232bbf"
-   },
-   {
-    "id": "tori-49004290",
-    "source": "tori",
-    "title": "Kannettavan tietokoneen teline – taitettava ja säädettävä, valkoinen",
-    "price": 8.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49004290",
-    "image": "https://img.tori.net/dynamic/default/item/49004290/3422d15a-6086-4aa2-8e9a-27fa7a035ee9"
+    "title": "Läppäriteline - notebook stand",
+    "price": 6.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/41424605",
+    "image": "https://img.tori.net/dynamic/default/item/41424605/04555925-4990-4b64-ad7d-5ebfe0b06394"
    },
    {
     "id": "tori-49730945",
@@ -219,20 +123,20 @@
     "image": "https://img.tori.net/dynamic/default/item/49730771/df0cd75e-3501-43bf-a7db-1f05ffa825ea"
    },
    {
+    "id": "tori-49004290",
+    "source": "tori",
+    "title": "Kannettavan tietokoneen teline – taitettava ja säädettävä, valkoinen",
+    "price": 8.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/49004290",
+    "image": "https://img.tori.net/dynamic/default/item/49004290/3422d15a-6086-4aa2-8e9a-27fa7a035ee9"
+   },
+   {
     "id": "tori-48151642",
     "source": "tori",
     "title": "Uusi taitettava alumiininen kannettavan tietokoneen teline / Laptop Stand",
     "price": 8.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/48151642",
     "image": "https://img.tori.net/dynamic/default/item/48151642/8a479cd1-3e61-4bac-b0b7-6a1b4130c5b1"
-   },
-   {
-    "id": "tori-48923937",
-    "source": "tori",
-    "title": "targus kannettavan tietokoneen teline",
-    "price": 10.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/48923937",
-    "image": "https://img.tori.net/dynamic/default/item/48923937/f369c54e-a6f4-46e7-b275-bcfd1e5f11b5"
    },
    {
     "id": "tori-49907579",
@@ -243,14 +147,6 @@
     "image": "https://img.tori.net/dynamic/default/item/49907579/0ce49a5a-4fb8-4050-9763-183173ba2479"
    },
    {
-    "id": "tori-49776127",
-    "source": "tori",
-    "title": "IKEA VATTENKAR - kannettavan tietokoneen teline",
-    "price": 10.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49776127",
-    "image": "https://img.tori.net/dynamic/default/item/49776127/4f044c50-1e9c-439f-b1d4-584c3cb86273"
-   },
-   {
     "id": "tori-49522039",
     "source": "tori",
     "title": "Alumiininen kannettavan tietokoneen teline",
@@ -259,12 +155,20 @@
     "image": "https://img.tori.net/dynamic/default/item/49522039/f2caa78e-3f01-40ec-aa74-0bd7610926b3"
    },
    {
-    "id": "tori-47729672",
+    "id": "tori-48923937",
     "source": "tori",
-    "title": "IKEA Öjulf kannettavan tietokoneen teline",
+    "title": "targus kannettavan tietokoneen teline",
     "price": 10.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/47729672",
-    "image": "https://img.tori.net/dynamic/default/item/47729672/3545cb2d-1615-4bcf-b9df-07396dd04317"
+    "url": "https://www.tori.fi/recommerce/forsale/item/48923937",
+    "image": "https://img.tori.net/dynamic/default/item/48923937/f369c54e-a6f4-46e7-b275-bcfd1e5f11b5"
+   },
+   {
+    "id": "tori-49776127",
+    "source": "tori",
+    "title": "IKEA VATTENKAR - kannettavan tietokoneen teline",
+    "price": 10.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/49776127",
+    "image": "https://img.tori.net/dynamic/default/item/49776127/4f044c50-1e9c-439f-b1d4-584c3cb86273"
    },
    {
     "id": "tori-39550314",
@@ -291,14 +195,6 @@
     "image": "https://img.tori.net/dynamic/default/item/45221497/164c2e36-3827-42f2-a3e0-6cdc759e7d34"
    },
    {
-    "id": "huuto-647898239",
-    "source": "huuto",
-    "title": "Roost - Lower Your Standards (UUSI CD)",
-    "price": 12.0,
-    "url": "https://www.huuto.net/kohteet/roost---lower-your-standards-uusi-cd/647898239",
-    "image": "https://images.huuto.net/v1/ba0a/d57ed033bdaf99db7426c02a9d2/564823886-m.jpg"
-   },
-   {
     "id": "tori-47693491",
     "source": "tori",
     "title": "Säädettävä alumiininen läppäriteline 8-16 tuumalle",
@@ -313,22 +209,6 @@
     "price": 14.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/49670753",
     "image": "https://img.tori.net/dynamic/default/item/49670753/fdf1956e-a6be-4809-8bf8-e84679ed1b07"
-   },
-   {
-    "id": "tori-46640714",
-    "source": "tori",
-    "title": "Jysk läppäriteline",
-    "price": 15.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/46640714",
-    "image": "https://img.tori.net/dynamic/default/item/46640714/98300f74-d96d-45bd-bd9f-2fa37f9f8a9a"
-   },
-   {
-    "id": "tori-49388760",
-    "source": "tori",
-    "title": "A Vittsjö kannettavan tietokoneen teline / sivupöytä, valkoinen",
-    "price": 15.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49388760",
-    "image": "https://img.tori.net/dynamic/default/item/49388760/9c9d0c85-3312-4fd2-bec6-f8bd74ed2052"
    },
    {
     "id": "tori-46704929",
@@ -347,20 +227,28 @@
     "image": "https://img.tori.net/dynamic/default/item/35638678/1961cfb3-a873-4001-b220-37c993eb4ede"
    },
    {
+    "id": "tori-46640714",
+    "source": "tori",
+    "title": "Jysk läppäriteline",
+    "price": 15.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/46640714",
+    "image": "https://img.tori.net/dynamic/default/item/46640714/98300f74-d96d-45bd-bd9f-2fa37f9f8a9a"
+   },
+   {
+    "id": "tori-49388760",
+    "source": "tori",
+    "title": "A Vittsjö kannettavan tietokoneen teline / sivupöytä, valkoinen",
+    "price": 15.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/49388760",
+    "image": "https://img.tori.net/dynamic/default/item/49388760/9c9d0c85-3312-4fd2-bec6-f8bd74ed2052"
+   },
+   {
     "id": "tori-47929282",
     "source": "tori",
     "title": "Mozi AR-2 kannettavan teline kääntyvällä alustalla",
     "price": 17.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/47929282",
     "image": "https://img.tori.net/dynamic/default/item/47929282/e4bd5004-3894-4fc0-a9f4-e2d40422362c"
-   },
-   {
-    "id": "tradera-751321300",
-    "source": "tradera",
-    "title": "laptopstöd/ laptopställ/ laptopbord ikea",
-    "price": 18.91,
-    "url": "https://www.tradera.com/item/1000651/751321300/laptopstod-laptopstall-laptopbord-ikea",
-    "image": "https://img.tradera.net/images/448/660687448_2dd24de4-3d55-4ecf-854f-b942bb686825.jpg"
    },
    {
     "id": "tori-46611958",
@@ -371,28 +259,12 @@
     "image": "https://img.tori.net/dynamic/default/item/46611958/74d4f57b-fc8c-4723-a0d1-c5c736ee1a39"
    },
    {
-    "id": "tori-4107222",
-    "source": "tori",
-    "title": "Satechi vertical stand for laptop -aluminium",
-    "price": 19.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/4107222",
-    "image": "https://img.tori.net/dynamic/default/2024/4/vertical-0/10/2/410/722/2_d1755919-1b72-46f5-8e28-caa4704b29f7.jpg"
-   },
-   {
     "id": "tradera-760110855",
     "source": "tradera",
     "title": "Laptopställ / stativ ihopfällbart",
     "price": 19.35,
     "url": "https://www.tradera.com/item/1000651/760110855/laptopstall-stativ-ihopfallbart",
     "image": "https://img.tradera.net/images/484/667544484_505332e7-cf0e-47fa-8640-bedbc86ce403.jpg"
-   },
-   {
-    "id": "tori-49903741",
-    "source": "tori",
-    "title": "Mozi läppäriteline alumiinia",
-    "price": 20.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49903741",
-    "image": "https://img.tori.net/dynamic/default/item/49903741/73822b70-bc5b-4e4e-94de-016ace3adc4e"
    },
    {
     "id": "tori-47052657",
@@ -403,12 +275,12 @@
     "image": "https://img.tori.net/dynamic/default/item/47052657/1b12ccc8-35b5-44b9-a3f1-8ee2cd334b4b"
    },
    {
-    "id": "tori-49384425",
+    "id": "tori-49903741",
     "source": "tori",
-    "title": "Satechi Vertical Laptop Stand -kannettavan pöytäteline",
+    "title": "Mozi läppäriteline alumiinia",
     "price": 20.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49384425",
-    "image": "https://img.tori.net/dynamic/default/item/49384425/8f7ea919-0fd5-49ea-90f5-65169e500556"
+    "url": "https://www.tori.fi/recommerce/forsale/item/49903741",
+    "image": "https://img.tori.net/dynamic/default/item/49903741/73822b70-bc5b-4e4e-94de-016ace3adc4e"
    },
    {
     "id": "tradera-758802063",
@@ -451,6 +323,14 @@
     "image": "https://images.blocketcdn.se/dynamic/default/item/22222772/924be522-aa81-470c-8c2e-ca4f410576e4"
    },
    {
+    "id": "tori-47643969",
+    "source": "tori",
+    "title": "Apple BookArc teline MacBook prolle",
+    "price": 25.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/47643969",
+    "image": "https://img.tori.net/dynamic/default/item/47643969/eb16988c-412f-4851-a69e-f76f2f197cbd"
+   },
+   {
     "id": "tori-44732137",
     "source": "tori",
     "title": "K&M Läppäriteline Spider Pro 18868",
@@ -467,44 +347,12 @@
     "image": "https://img.tori.net/dynamic/default/item/48149845/5954d513-0367-48cf-aac7-4ea865188fdc"
    },
    {
-    "id": "tori-47643969",
-    "source": "tori",
-    "title": "Apple BookArc teline MacBook prolle",
-    "price": 25.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/47643969",
-    "image": "https://img.tori.net/dynamic/default/item/47643969/eb16988c-412f-4851-a69e-f76f2f197cbd"
-   },
-   {
-    "id": "tradera-496779812",
-    "source": "tradera",
-    "title": "ATOMIC ROOSTER 'Stand By Me' 1972 Spanish 7\"",
-    "price": 26.74,
-    "url": "https://www.tradera.com/item/210830/496779812/atomic-rooster-stand-by-me-1972-spanish-7-",
-    "image": "https://img.tradera.net/images/754/443037754_7d572eae-5ff1-4709-ba01-6885cd2146c0.jpg"
-   },
-   {
     "id": "tradera-754924156",
     "source": "tradera",
     "title": "Laptopställ med två användningslägen",
     "price": 27.96,
     "url": "https://www.tradera.com/item/1000651/754924156/laptopstall-med-tva-anvandningslagen",
     "image": "https://img.tradera.net/images/871/663474871_f43047a7-f368-4f1a-b648-e1278b3020ef.jpg"
-   },
-   {
-    "id": "tradera-756345276",
-    "source": "tradera",
-    "title": "IKEA FANTASTISK 501.070.51 Servetthållare Laptopställ Design Chris Martin (D)",
-    "price": 27.96,
-    "url": "https://www.tradera.com/item/340959/756345276/ikea-fantastisk-501-070-51-servetthallare-laptopstall-design-chris-martin-d-",
-    "image": "https://img.tradera.net/images/131/664600131_b64962a9-466c-4bb8-8cef-038155a424e9.jpg"
-   },
-   {
-    "id": "blocket-25987694",
-    "source": "blocket",
-    "title": "3D-printat vertikalt laptopställ blått",
-    "price": 27.96,
-    "url": "https://www.blocket.se/recommerce/forsale/item/25987694",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/25987694/1c05421c-d45f-4f84-85aa-9def995651c7"
    },
    {
     "id": "blocket-27431471",
@@ -515,36 +363,12 @@
     "image": "https://images.blocketcdn.se/dynamic/default/item/27431471/1c465955-1045-45f8-97e3-b6a699244c2b"
    },
    {
-    "id": "blocket-20066337",
-    "source": "blocket",
-    "title": "Targus Laptopställ med fläkt",
-    "price": 28.05,
-    "url": "https://www.blocket.se/recommerce/forsale/item/20066337",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/20066337/8f8b0c44-8f88-4feb-b72d-b9da743e2794"
-   },
-   {
     "id": "tori-49794288",
     "source": "tori",
     "title": "TwelveSouth HiRise kannettavan teline",
     "price": 30.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/49794288",
     "image": "https://img.tori.net/dynamic/default/item/49794288/b3f31ab9-6a3c-488a-ad7d-fbede7cfb4dd"
-   },
-   {
-    "id": "tradera-476275033",
-    "source": "tradera",
-    "title": "ATOMIC ROOSTER 'Stand By Me' 1972 German 7\"",
-    "price": 30.57,
-    "url": "https://www.tradera.com/item/210830/476275033/atomic-rooster-stand-by-me-1972-german-7-",
-    "image": "https://img.tradera.net/images/599/423927599_598a2a4f-473a-4ecf-900f-6e1ea3eb4b74.jpg"
-   },
-   {
-    "id": "tradera-750820777",
-    "source": "tradera",
-    "title": "ATOMIC ROOSTER 'Stand By Me' 1972 French 7\" vinyl",
-    "price": 32.31,
-    "url": "https://www.tradera.com/item/210822/750820777/atomic-rooster-stand-by-me-1972-french-7-vinyl",
-    "image": "https://img.tradera.net/images/434/660298434_c4130209-e5d9-42b5-bce3-02ad91414a79.jpg"
    },
    {
     "id": "tradera-760708672",
@@ -587,36 +411,12 @@
     "image": "https://img.tori.net/dynamic/default/item/49579338/1560846e-8f68-4e71-a12d-ba851cc2c76a"
    },
    {
-    "id": "blocket-27091537",
-    "source": "blocket",
-    "title": "Laptopställ / Laptoparm – skrivbordsfäste",
-    "price": 36.75,
-    "url": "https://www.blocket.se/recommerce/forsale/item/27091537",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/27091537/216cc0c7-d1d2-471e-b1d3-d05c9e974ff4"
-   },
-   {
-    "id": "blocket-26798823",
-    "source": "blocket",
-    "title": "Satechi Universal Vertical Laptop Aluminum Stand Space Gray",
-    "price": 36.75,
-    "url": "https://www.blocket.se/recommerce/forsale/item/26798823",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/26798823/9782f1a8-5415-43aa-ab64-311d111b9336"
-   },
-   {
     "id": "blocket-25891500",
     "source": "blocket",
     "title": "Laptopställ grå - Vänsterhänt",
     "price": 36.75,
     "url": "https://www.blocket.se/recommerce/forsale/item/25891500",
     "image": "https://images.blocketcdn.se/dynamic/default/item/25891500/ecfa7940-d986-41d5-8a0a-955929981abe"
-   },
-   {
-    "id": "blocket-27491846",
-    "source": "blocket",
-    "title": "Vittsjö glasbord\nLaptopställ, vit/glas, 35x65 cm",
-    "price": 36.75,
-    "url": "https://www.blocket.se/recommerce/forsale/item/27491846",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/27491846/9ff9b22d-b029-422e-a1c9-89125505f551"
    },
    {
     "id": "tori-44187870",
@@ -627,36 +427,12 @@
     "image": "https://img.tori.net/dynamic/default/item/44187870/06279690-e815-4f84-9f13-4f9f00b5b17d"
    },
    {
-    "id": "blocket-27357712",
-    "source": "blocket",
-    "title": "Laptopställ med fyra lutningslägen – tvådelat skrivbordsstöd",
-    "price": 39.27,
-    "url": "https://www.blocket.se/recommerce/forsale/item/27357712",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/27357712/12fbca34-d029-4f04-bb48-384d71eba7d1"
-   },
-   {
-    "id": "tori-45705628",
-    "source": "tori",
-    "title": "CleverStand säädettävä läppäriteline / seisomatyöpiste",
-    "price": 40.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/45705628",
-    "image": "https://img.tori.net/dynamic/default/item/45705628/0efbf477-7986-4525-b9d7-d38cfecddd74"
-   },
-   {
     "id": "tori-45793004",
     "source": "tori",
     "title": "DailyObjects Arete -kannettavan tietokoneen teline, musta",
     "price": 40.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/45793004",
     "image": "https://img.tori.net/dynamic/default/item/45793004/ddc8341a-411f-455f-81cf-0d96af5361f4"
-   },
-   {
-    "id": "tradera-732961672",
-    "source": "tradera",
-    "title": "IKEA BRÅKIG 2014 | Laptopställ / Sängbord | Begränsad kollektion | Artrebel",
-    "price": 41.01,
-    "url": "https://www.tradera.com/item/344610/732961672/ikea-brakig-2014-laptopstall-sangbord-begransad-kollektion-artrebel",
-    "image": "https://img.tradera.net/images/646/646529646_5c58c795-35d8-4121-aeb8-c01f012967ef.jpg"
    },
    {
     "id": "tradera-761170965",
@@ -673,6 +449,14 @@
     "price": 41.1,
     "url": "https://www.tradera.com/item/1000651/759764392/plexgear-laptopstall",
     "image": "https://img.tradera.net/images/609/667275609_ee5ff640-aaf2-41bb-ac08-2ecfc79b1c44.jpg"
+   },
+   {
+    "id": "blocket-27994843",
+    "source": "blocket",
+    "title": "Twelve South HiRise ställ för MacBook Pro/Air",
+    "price": 41.1,
+    "url": "https://www.blocket.se/recommerce/forsale/item/27994843",
+    "image": "https://images.blocketcdn.se/dynamic/default/item/27994843/af63ea1c-6ac4-4f76-b97f-2b1695b5b1b5"
    },
    {
     "id": "blocket-26945648",
@@ -731,44 +515,12 @@
     "image": "https://img.tradera.net/images/876/603914876_5aa9b001-62b7-433f-9194-11738f8217f9.jpg"
    },
    {
-    "id": "blocket-27155849",
-    "source": "blocket",
-    "title": "Somo bambu laptopställ / datorbord",
-    "price": 49.8,
-    "url": "https://www.blocket.se/recommerce/forsale/item/27155849",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/27155849/fd8b9ce6-34f2-48d0-bd7a-f3413b679109"
-   },
-   {
     "id": "tori-48362246",
     "source": "tori",
     "title": "Läppäriteline, pöytäänkiinnitettävä 2 kpl",
     "price": 50.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/48362246",
     "image": "https://img.tori.net/dynamic/default/item/48362246/30a940d0-de91-4c95-bd4d-5b9de8f61830"
-   },
-   {
-    "id": "tori-42891452",
-    "source": "tori",
-    "title": "Hima Furniture säädettävä läppäriteline / työpistetaso valkoinen",
-    "price": 50.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/42891452",
-    "image": "https://img.tori.net/dynamic/default/item/42891452/bd8b3a5e-4467-41e7-8f29-a968ac8d2919"
-   },
-   {
-    "id": "tori-35502056",
-    "source": "tori",
-    "title": "GetUp Desk Light säädettävä pöytätaso ja kannettavan teline",
-    "price": 50.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/35502056",
-    "image": "https://img.tori.net/dynamic/default/item/35502056/c25c627b-1b1e-4c3e-b971-b76383364716"
-   },
-   {
-    "id": "tradera-756314024",
-    "source": "tradera",
-    "title": "​IKEA PS 2014 Laptopställ / Ståskrivbord (Vit) – Smart förvaring",
-    "price": 54.15,
-    "url": "https://www.tradera.com/item/160407/756314024/-ikea-ps-2014-laptopstall-staskrivbord-vit-smart-forvaring",
-    "image": "https://img.tradera.net/images/937/664574937_9d92b731-3f8e-400c-90de-91a2a38494c8.jpg"
    },
    {
     "id": "blocket-25917452",
@@ -795,14 +547,6 @@
     "image": "https://images.blocketcdn.se/dynamic/default/item/27378728/811ef744-f4fe-420a-af40-b7f2996cedf0"
    },
    {
-    "id": "blocket-27250991",
-    "source": "blocket",
-    "title": "Laptopställ/keyboardställ justerbart svart metall",
-    "price": 58.5,
-    "url": "https://www.blocket.se/recommerce/forsale/item/27250991",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/27250991/4cb103c1-cc18-445f-8853-87e1374ae1b1"
-   },
-   {
     "id": "blocket-26001124",
     "source": "blocket",
     "title": "Svart laptopställ justerbart",
@@ -817,22 +561,6 @@
     "price": 62.85,
     "url": "https://www.blocket.se/recommerce/forsale/item/22528144",
     "image": "https://images.blocketcdn.se/dynamic/default/item/22528144/3098d9e6-414a-45a1-bdfe-4ed7bb74e5df"
-   },
-   {
-    "id": "tori-49837924",
-    "source": "tori",
-    "title": "Puinen korkeussäädettävä seisomatyötaso / läppäriteline",
-    "price": 65.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49837924",
-    "image": "https://img.tori.net/dynamic/default/item/49837924/de13b983-0673-4a45-8809-aaf7a3930bad"
-   },
-   {
-    "id": "tori-27750714",
-    "source": "tori",
-    "title": "MacBook Air + teline + laturi",
-    "price": 75.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/27750714",
-    "image": "https://img.tori.net/dynamic/default/e8/e84ccb7e-b8f9-4f16-af1c-cc325a425bcf"
    },
    {
     "id": "tradera-601780434",
@@ -857,49 +585,9 @@
     "price": 129.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/23048733",
     "image": "https://img.tori.net/dynamic/default/cb/cb4886fd-8503-43ce-8f0b-7bf43b94f6eb"
-   },
-   {
-    "id": "tori-49621562",
-    "source": "tori",
-    "title": "Jaspers kosketinsoitinteline 120cm + läppäriteline",
-    "price": 200.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49621562",
-    "image": "https://img.tori.net/dynamic/default/item/49621562/8a0ad039-ef36-43e1-a23b-55931a7ee68c"
    }
   ],
-  "Näyttövarsi (yksi näyttö, kaasujousi)": [
-   {
-    "id": "huuto-647091337",
-    "source": "huuto",
-    "title": "Deltaco ARM430 Teline Älypuhelimelle, valkoinen UUSI",
-    "price": 2.9,
-    "url": "https://www.huuto.net/kohteet/deltaco-arm430-teline-alypuhelimelle-valkoinen-uusi/647091337",
-    "image": "https://images.huuto.net/v1/deef/73fd676797c763dc921c3854905/528682175-m.jpg"
-   },
-   {
-    "id": "huuto-650393006",
-    "source": "huuto",
-    "title": "Deltaco ARM225 Auton Niskatukiteline Tabletille, musta UUSI",
-    "price": 3.9,
-    "url": "https://www.huuto.net/kohteet/deltaco-arm225-auton-niskatukiteline-tabletille-musta-uusi/650393006",
-    "image": "https://images.huuto.net/v1/806f/12f54aa88d3d2a35baef4fdde26/554834101-m.jpg"
-   },
-   {
-    "id": "tori-49230568",
-    "source": "tori",
-    "title": "Deltaco ARM-107 kattoteline projektorille",
-    "price": 5.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49230568",
-    "image": "https://img.tori.net/dynamic/default/item/49230568/955f5cf5-6c1d-454f-88be-7030d095c011"
-   },
-   {
-    "id": "tori-49897594",
-    "source": "tori",
-    "title": "Gembird 2x näyttövarsi",
-    "price": 10.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49897594",
-    "image": "https://img.tori.net/dynamic/default/item/49897594/8ab99ecc-055d-45fc-a783-58179b13330c"
-   },
+  "Näyttövarsi yhdelle näytölle": [
    {
     "id": "tori-49889400",
     "source": "tori",
@@ -917,28 +605,12 @@
     "image": "https://img.tori.net/dynamic/default/item/47823822/284825eb-7f6a-4bd0-b0e1-cfa1fbfd94cd"
    },
    {
-    "id": "tori-44695175",
-    "source": "tori",
-    "title": "Säädettävä tabletin tai pienen näytön varsi pöytäkiinnityksellä",
-    "price": 10.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/44695175",
-    "image": "https://img.tori.net/dynamic/default/item/44695175/d0dc8d1b-9f6b-40c8-a45b-dafe1c7fde85"
-   },
-   {
     "id": "tori-43714709",
     "source": "tori",
     "title": "Minifocus ”arm” ulkoiselle monitorille",
     "price": 10.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/43714709",
     "image": "https://img.tori.net/dynamic/default/item/43714709/368f8800-39f0-4a88-9855-2da9fe7a336a"
-   },
-   {
-    "id": "tori-48375368",
-    "source": "tori",
-    "title": "Deltaco ARM-405 projektorin kattoteline",
-    "price": 15.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/48375368",
-    "image": "https://img.tori.net/dynamic/default/item/48375368/cc7cb4df-ff93-4519-92ff-ec7a05562206"
    },
    {
     "id": "tori-46317082",
@@ -987,46 +659,6 @@
     "price": 20.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/45743538",
     "image": "https://img.tori.net/dynamic/default/item/45743538/42e76f25-1e5e-4a67-9ce2-6626b67f48f4"
-   },
-   {
-    "id": "blocket-26782029",
-    "source": "blocket",
-    "title": "Deltaco fast ultratunn väggfäste för skärm 13–27\"",
-    "price": 21.96,
-    "url": "https://www.blocket.se/recommerce/forsale/item/26782029",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/26782029/9bcc62e7-8d10-4bf8-af8f-bb92664232bf"
-   },
-   {
-    "id": "tradera-760262615",
-    "source": "tradera",
-    "title": "DELTACO Stativ för smartphones & surfplattor, hållare fast & flexibel arm",
-    "price": 22.39,
-    "url": "https://www.tradera.com/item/342897/760262615/deltaco-stativ-for-smartphones-surfplattor-hallare-fast-flexibel-arm",
-    "image": "https://img.tradera.net/images/512/667660512_f0b152df-024b-47b0-8423-9b81f23f6948.jpg"
-   },
-   {
-    "id": "tori-43209471",
-    "source": "tori",
-    "title": "Deltaco ARM-1204 näyttöteline seinään 13″-27″ ruuduille",
-    "price": 23.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/43209471",
-    "image": "https://img.tori.net/dynamic/default/item/43209471/6667fc82-58a0-4dc8-a1da-2042aaf71efb"
-   },
-   {
-    "id": "tradera-496141753",
-    "source": "tradera",
-    "title": "DELTACO GAMING skärmskydd för Nintendo Switch, 9H glas",
-    "price": 23.61,
-    "url": "https://www.tradera.com/item/120403/496141753/deltaco-gaming-skarmskydd-for-nintendo-switch-9h-glas",
-    "image": "https://img.tradera.net/images/860/442439860_9942bc5a-6acb-428e-91ca-71170e43b5db.jpg"
-   },
-   {
-    "id": "tradera-572337038",
-    "source": "tradera",
-    "title": "Deltaco Gaming WA85 Mouse Bungee Adjustable Spring Arm Vit",
-    "price": 23.87,
-    "url": "https://www.tradera.com/item/340826/572337038/deltaco-gaming-wa85-mouse-bungee-adjustable-spring-arm-vit",
-    "image": "https://img.tradera.net/images/018/511528018_5d17b4be-6fc4-46ec-b45b-c9ee0cee088a.jpg"
    },
    {
     "id": "tori-49702688",
@@ -1085,38 +717,6 @@
     "image": "https://img.tradera.net/images/073/667363073_bf56b1d6-8047-4e88-ba30-f3881393b21d.jpg"
    },
    {
-    "id": "tradera-571481452",
-    "source": "tradera",
-    "title": "Deltaco Gaming Mouse Bungee Adjustable Spring Arm Svart",
-    "price": 28.4,
-    "url": "https://www.tradera.com/item/340826/571481452/deltaco-gaming-mouse-bungee-adjustable-spring-arm-svart",
-    "image": "https://img.tradera.net/images/107/510775107_6e72e675-1889-4df4-a2ec-4bbf98304856.jpg"
-   },
-   {
-    "id": "tradera-617342259",
-    "source": "tradera",
-    "title": "Deltaco Gaming PA85 Mouse Bungee Adjustable Spring Arm Rosa",
-    "price": 28.4,
-    "url": "https://www.tradera.com/item/340826/617342259/deltaco-gaming-pa85-mouse-bungee-adjustable-spring-arm-rosa",
-    "image": "https://img.tradera.net/images/263/551070263_17e46052-8bb0-47bf-81d1-6abc8912e2df.jpg"
-   },
-   {
-    "id": "tradera-620714062",
-    "source": "tradera",
-    "title": "Deltaco Gaming Mouse Bungee Adjustable Spring Arm WA91 RGB Vit",
-    "price": 28.4,
-    "url": "https://www.tradera.com/item/340826/620714062/deltaco-gaming-mouse-bungee-adjustable-spring-arm-wa91-rgb-vit",
-    "image": "https://img.tradera.net/images/037/553970037_df7fc9e6-e179-492b-9760-880dec9d6915.jpg"
-   },
-   {
-    "id": "tori-48039339",
-    "source": "tori",
-    "title": "Deltaco ARM-464",
-    "price": 30.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/48039339",
-    "image": "https://img.tori.net/dynamic/default/item/48039339/72e5551a-5470-45d7-be4a-99e72032727b"
-   },
-   {
     "id": "tori-48563002",
     "source": "tori",
     "title": "Säädettävä harmaa näyttövarsi / monitorivarsi",
@@ -1149,20 +749,20 @@
     "image": "https://img.tori.net/dynamic/default/item/48336932/8b4a505f-60fe-4879-a293-4b0f4ab42d44"
    },
    {
-    "id": "tori-45932080",
-    "source": "tori",
-    "title": "Arctic X1 Desk Mount Monitor Arm",
-    "price": 30.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/45932080",
-    "image": "https://img.tori.net/dynamic/default/item/45932080/68773e1e-51ff-4c77-8bbe-4e7653d58474"
-   },
-   {
     "id": "tori-20150301",
     "source": "tori",
     "title": "Monitorinvarsi - NewStar FPMA-D500KEYB Desk mount / Näytön pidike",
     "price": 30.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/20150301",
     "image": "https://img.tori.net/dynamic/default/2025/2/vertical-0/08/1/201/503/01_0886f013-7f95-4263-8d22-206f87457807.jpg"
+   },
+   {
+    "id": "tori-45932080",
+    "source": "tori",
+    "title": "Arctic X1 Desk Mount Monitor Arm",
+    "price": 30.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/45932080",
+    "image": "https://img.tori.net/dynamic/default/item/45932080/68773e1e-51ff-4c77-8bbe-4e7653d58474"
    },
    {
     "id": "tradera-758155102",
@@ -1197,14 +797,6 @@
     "image": "https://img.tori.net/dynamic/default/item/45046764/75bc00e6-ef09-4dc0-b105-a695e564682e"
    },
    {
-    "id": "tori-39745636",
-    "source": "tori",
-    "title": "Näytön kaasujousivarsi musta",
-    "price": 35.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/39745636",
-    "image": "https://img.tori.net/dynamic/default/item/39745636/ad8b06c1-7e1c-477f-adac-dede6028c5d1"
-   },
-   {
     "id": "blocket-25629840",
     "source": "blocket",
     "title": "Skärmfäste / monitorarm för datorskärm",
@@ -1219,14 +811,6 @@
     "price": 36.75,
     "url": "https://www.blocket.se/recommerce/forsale/item/28095295",
     "image": "https://images.blocketcdn.se/dynamic/default/item/28095295/a36f8702-1ffe-47d0-ac5e-c29dd4b24935"
-   },
-   {
-    "id": "tradera-752598079",
-    "source": "tradera",
-    "title": "Ergotron / Ergoption BarMouse L155 ergonomisk mus",
-    "price": 37.53,
-    "url": "https://www.tradera.com/item/340826/752598079/ergotron-ergoption-barmouse-l155-ergonomisk-mus",
-    "image": "https://img.tradera.net/images/227/653894227_2bfe0539-d4ad-4c0f-b858-25b3d093552c.jpg"
    },
    {
     "id": "tradera-757526267",
@@ -1253,14 +837,6 @@
     "image": "https://img.tradera.net/images/408/660522408_675cfbe0-c1e8-4858-8ee2-5f9c8ca11bd6.jpg"
    },
    {
-    "id": "tradera-753286913",
-    "source": "tradera",
-    "title": "Vintage Monitor Sport Armbandsur",
-    "price": 41.01,
-    "url": "https://www.tradera.com/item/1000984/753286913/vintage-monitor-sport-armbandsur",
-    "image": "https://img.tradera.net/images/589/662204589_7d62e736-2d6c-4573-9790-a29b998c0b45.jpg"
-   },
-   {
     "id": "tradera-760414755",
     "source": "tradera",
     "title": "Bordsmonterad monitorarm för skärmar mellan 17 - 32\"",
@@ -1283,14 +859,6 @@
     "price": 41.1,
     "url": "https://www.blocket.se/recommerce/forsale/item/28104620",
     "image": "https://images.blocketcdn.se/dynamic/default/item/28104620/779b5adf-d7f4-429f-98b4-ca404269bd7e"
-   },
-   {
-    "id": "blocket-26902925",
-    "source": "blocket",
-    "title": "Dubbel monitorarm för skrivbord",
-    "price": 41.1,
-    "url": "https://www.blocket.se/recommerce/forsale/item/26902925",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/26902925/9a356373-c00c-4794-8b60-f12cec3e3859"
    },
    {
     "id": "tori-49335886",
@@ -1373,14 +941,6 @@
     "image": "https://images.blocketcdn.se/dynamic/default/item/26324794/d512c091-fd0a-4cbf-95ea-a9fe366e66d2"
    },
    {
-    "id": "blocket-19447000",
-    "source": "blocket",
-    "title": "Andersson monitorarm 13–32 tum. Finns 2 styck.",
-    "price": 49.8,
-    "url": "https://www.blocket.se/recommerce/forsale/item/19447000",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/19447000/e5d09db4-b943-4173-b0a9-5bbd9978a761"
-   },
-   {
     "id": "tori-45182530",
     "source": "tori",
     "title": "Mozi Infinity Line näyttövarsi valkoinen",
@@ -1405,44 +965,12 @@
     "image": "https://img.tori.net/dynamic/default/item/48494710/d80b2cd0-ff91-4dd4-9c72-67cd90864b09"
    },
    {
-    "id": "tori-11910186",
-    "source": "tori",
-    "title": "Ergotron WorkFit-S työpiste",
-    "price": 50.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/11910186",
-    "image": "https://img.tori.net/dynamic/default/2024/8/vertical-0/08/6/119/101/86_44f1b893-940b-49d4-890d-fc6898fd92dc.jpg"
-   },
-   {
-    "id": "tori-49551527",
-    "source": "tori",
-    "title": "2x monitorivarsi / näyttövarsi",
-    "price": 50.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49551527",
-    "image": "https://img.tori.net/dynamic/default/item/49551527/aef3044c-ff3b-4e7f-8756-493c0e336729"
-   },
-   {
     "id": "tori-47000029",
     "source": "tori",
     "title": "Näyttöteline/näyttövarsi",
     "price": 50.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/47000029",
     "image": "https://img.tori.net/dynamic/default/item/47000029/6f64c46f-519e-44f4-aeaf-5131f83ddf8b"
-   },
-   {
-    "id": "tori-49728744",
-    "source": "tori",
-    "title": "Asus 24\" 60hz 1080p näyttö + HUANUO monitorivarsi (17-30\")",
-    "price": 50.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49728744",
-    "image": "https://img.tori.net/dynamic/default/item/49728744/a96dbb09-bfc0-4911-a192-383608af5e45"
-   },
-   {
-    "id": "tori-49724033",
-    "source": "tori",
-    "title": "Asus 24\" 60hz 1080p näyttö + HUANUO monitorivarsi (17-30\")",
-    "price": 50.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49724033",
-    "image": "https://img.tori.net/dynamic/default/item/49724033/6a88f855-a1f3-4e16-82c8-f6a929bb35e7"
    },
    {
     "id": "tori-3507267",
@@ -1461,20 +989,12 @@
     "image": "https://img.tori.net/dynamic/default/item/45557942/f4d44b06-5b9b-4cf7-8ade-0f0e1e4f9fe0"
    },
    {
-    "id": "blocket-28131568",
+    "id": "blocket-24642329",
     "source": "blocket",
-    "title": "Deltaco Skärmfäste Dubbel 13-27\" - Svart",
+    "title": "Skärmfäste / monitorarm för skrivbord",
     "price": 58.5,
-    "url": "https://www.blocket.se/recommerce/forsale/item/28131568",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/28131568/7a61c527-49fd-4cb0-8fb6-4d6d04b0151b"
-   },
-   {
-    "id": "blocket-25230730",
-    "source": "blocket",
-    "title": "Monitorarmar / Skärmarmar för skrivbord (2 st) – Silver",
-    "price": 58.5,
-    "url": "https://www.blocket.se/recommerce/forsale/item/25230730",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/25230730/30047ec7-c07c-4033-9776-674642e9d622"
+    "url": "https://www.blocket.se/recommerce/forsale/item/24642329",
+    "image": "https://images.blocketcdn.se/dynamic/default/item/24642329/f66b10f2-85af-4fee-a9d0-7c68f31aaeb1"
    },
    {
     "id": "blocket-21952714",
@@ -1485,28 +1005,12 @@
     "image": "https://images.blocketcdn.se/dynamic/default/item/21952714/26a35f4f-df53-4d47-b9e6-2d33f5a0963d"
    },
    {
-    "id": "blocket-24642329",
-    "source": "blocket",
-    "title": "Skärmfäste / monitorarm för skrivbord",
-    "price": 58.5,
-    "url": "https://www.blocket.se/recommerce/forsale/item/24642329",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/24642329/f66b10f2-85af-4fee-a9d0-7c68f31aaeb1"
-   },
-   {
     "id": "tori-49377936",
     "source": "tori",
     "title": "Monitorivarsi yhdelle näytölle (2 kappaletta)",
     "price": 60.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/49377936",
     "image": "https://img.tori.net/dynamic/default/item/49377936/4af28b89-bbf9-4f6b-82e0-8cc73302e6e5"
-   },
-   {
-    "id": "tori-47867557",
-    "source": "tori",
-    "title": "2 x Samsung 24” Full HD näyttö + NewStar monitorivarsi",
-    "price": 60.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/47867557",
-    "image": "https://img.tori.net/dynamic/default/item/47867557/883e7f49-ac29-44dd-a47b-20118bb7e4d6"
    },
    {
     "id": "tori-38969723",
@@ -1523,22 +1027,6 @@
     "price": 60.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/49698385",
     "image": "https://img.tori.net/dynamic/default/item/49698385/2065b394-5dcc-434b-8039-f14cdac4a0ea"
-   },
-   {
-    "id": "tori-48210706",
-    "source": "tori",
-    "title": "Dell P2717H 27\" Full HD -näyttö + ergonominen näyttövarsi",
-    "price": 65.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/48210706",
-    "image": "https://img.tori.net/dynamic/default/item/48210706/9f221958-a459-4bc4-b043-1e0166b6b0a7"
-   },
-   {
-    "id": "tori-45295081",
-    "source": "tori",
-    "title": "ICY BOX IB-MS504-T kaksiosainen näyttövarsi pöytäkiinnityksellä",
-    "price": 65.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/45295081",
-    "image": "https://img.tori.net/dynamic/default/item/45295081/c8bb4ea9-6f7e-4a0b-9295-f0cf7f653c8a"
    },
    {
     "id": "tori-47756932",
@@ -1565,14 +1053,6 @@
     "image": "https://img.tradera.net/images/536/664172536_bb8b5c60-b5e5-4e62-8f65-1390d46532ad.jpg"
    },
    {
-    "id": "blocket-27080266",
-    "source": "blocket",
-    "title": "Garmin sleep index monitor storlek S/M på bandet Sömn mätare",
-    "price": 75.9,
-    "url": "https://www.blocket.se/recommerce/forsale/item/27080266",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/27080266/a94819d0-05a2-4d57-a158-0427cee9eecb"
-   },
-   {
     "id": "blocket-27997349",
     "source": "blocket",
     "title": "ICY BOX IB-MS504-T monitorarm för 2 skärmar",
@@ -1587,46 +1067,6 @@
     "price": 80.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/49101961",
     "image": "https://img.tori.net/dynamic/default/item/49101961/b9fc9371-b56a-4d44-ad98-5a8b94c39fbb"
-   },
-   {
-    "id": "tradera-629801994",
-    "source": "tradera",
-    "title": "Andningslarm Snuza Hero MD Hero Baby Breathing Monitor",
-    "price": 80.25,
-    "url": "https://www.tradera.com/item/302585/629801994/andningslarm-snuza-hero-md-hero-baby-breathing-monitor",
-    "image": "https://img.tradera.net/images/746/561752746_3cabaf16-7d63-4ed1-802b-19f3898ae45d.jpg"
-   },
-   {
-    "id": "blocket-28188108",
-    "source": "blocket",
-    "title": "Garmin Index Sleep Monitor",
-    "price": 80.25,
-    "url": "https://www.blocket.se/recommerce/forsale/item/28188108",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/28188108/d6b1a679-bbaf-4a6a-b783-19dd1e14c93c"
-   },
-   {
-    "id": "tradera-760295731",
-    "source": "tradera",
-    "title": "Feelworld F5 Pro Touch Field Monitor med 5,5\" tochskärm",
-    "price": 86.77,
-    "url": "https://www.tradera.com/item/140203/760295731/feelworld-f5-pro-touch-field-monitor-med-5-5-tochskarm",
-    "image": "https://img.tradera.net/images/227/667685227_cf09db4f-88f5-4bfc-bd3d-cf9a86150f61.jpg"
-   },
-   {
-    "id": "tori-49720344",
-    "source": "tori",
-    "title": "BenQ 144Hz näyttö + HUANUO monitorivarsi (13-49\")",
-    "price": 90.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49720344",
-    "image": "https://img.tori.net/dynamic/default/item/49720344/435e4906-940c-40ee-875f-0ae9f4ad487b"
-   },
-   {
-    "id": "tori-37594594",
-    "source": "tori",
-    "title": "3kpl Neomounts FPMA-D550 -monitorivarsi, 10-32”, musta",
-    "price": 90.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/37594594",
-    "image": "https://img.tori.net/dynamic/default/item/37594594/3fd42fa6-69e2-401a-b808-ee2cdf1b4ef5"
    },
    {
     "id": "tori-38001781",
@@ -1645,22 +1085,6 @@
     "image": "https://img.tori.net/dynamic/default/item/45714878/f9b18c7f-8af8-4627-abe5-2654c1fda195"
    },
    {
-    "id": "blocket-20421731",
-    "source": "blocket",
-    "title": "Monitorarm dubbel för skärmar upp till 32 tum svart",
-    "price": 102.0,
-    "url": "https://www.blocket.se/recommerce/forsale/item/20421731",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/20421731/a469f269-c1f1-4de2-af81-82d15527bcc0"
-   },
-   {
-    "id": "tradera-761118118",
-    "source": "tradera",
-    "title": "Samsung Odyssey G3 27\" spelskärm med Deltaco gasdriven arm",
-    "price": 106.26,
-    "url": "https://www.tradera.com/item/301824/761118118/samsung-odyssey-g3-27-spelskarm-med-deltaco-gasdriven-arm",
-    "image": "https://img.tradera.net/images/067/668333067_d21025cc-fc56-4a49-88fe-7c055859d6a1.jpg"
-   },
-   {
     "id": "blocket-27532923",
     "source": "blocket",
     "title": "Ergotron skärmarm, vit, med bordsklämma",
@@ -1669,60 +1093,12 @@
     "image": "https://images.blocketcdn.se/dynamic/default/item/27532923/e26a111a-f2d2-4c63-b4c1-b7f876728423"
    },
    {
-    "id": "tradera-759715768",
-    "source": "tradera",
-    "title": "Ergoteam Dubbel Skärmarm Gasfjäder 17–32” – NY OÖPPNAD",
-    "price": 110.61,
-    "url": "https://www.tradera.com/item/340849/759715768/ergoteam-dubbel-skarmarm-gasfjader-17-32-ny-ooppnad",
-    "image": "https://img.tradera.net/images/062/667237062_51e819cd-15e8-4664-a47a-5664fc68653d.jpg"
-   },
-   {
-    "id": "blocket-22055478",
+    "id": "blocket-25651452",
     "source": "blocket",
-    "title": "Ergotron 33-329-085",
-    "price": 119.4,
-    "url": "https://www.blocket.se/recommerce/forsale/item/22055478",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/22055478/fd9bc7e1-b167-4156-9bce-05260a54d748"
-   },
-   {
-    "id": "tori-44282452",
-    "source": "tori",
-    "title": "Vogels 8523 monitorivarsi 2kpl",
-    "price": 120.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/44282452",
-    "image": "https://img.tori.net/dynamic/default/item/44282452/78f85bda-188a-40cd-8111-ac748fe11d97"
-   },
-   {
-    "id": "tori-37457468",
-    "source": "tori",
-    "title": "Mozi Heavy Duty Gaming -monitorivarsi, mattamusta-harmaa",
-    "price": 129.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/37457468",
-    "image": "https://img.tori.net/dynamic/default/item/37457468/f0265bab-a7d8-47fc-b2c4-3a3437373dd0"
-   },
-   {
-    "id": "tori-48781884",
-    "source": "tori",
-    "title": "Ergotron HX monitorivarsi, musta",
-    "price": 140.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/48781884",
-    "image": "https://img.tori.net/dynamic/default/item/48781884/80632c36-2b46-4b0b-adc6-5a7113ff45a0"
-   },
-   {
-    "id": "tori-49443815",
-    "source": "tori",
-    "title": "Valmis etätyöpiste: Ikea säädettävä pöytä, LG 27\" 4K-näyttö & monitorivarsi",
-    "price": 150.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49443815",
-    "image": "https://img.tori.net/dynamic/default/item/49443815/beab5047-5ae8-4cf6-9047-036b59cf6adb"
-   },
-   {
-    "id": "huuto-654261994",
-    "source": "huuto",
-    "title": "Työtaso: Ergotron WorkFit-P Sit-Stand Workstation",
-    "price": 150.0,
-    "url": "https://www.huuto.net/kohteet/tyotaso-ergotron-workfit-p-sit-stand-workstation/654261994",
-    "image": "https://images.huuto.net/v1/6186/5fa7273de6eae77917010cbd80f/557722015-m.jpg"
+    "title": "24\" vit datorskärm/monitor",
+    "price": 128.1,
+    "url": "https://www.blocket.se/recommerce/forsale/item/25651452",
+    "image": "https://images.blocketcdn.se/dynamic/default/item/25651452/fc5492fd-9aa7-4f60-abc2-f5339c8737e8"
    },
    {
     "id": "blocket-26849000",
@@ -1757,76 +1133,12 @@
     "image": "https://images.blocketcdn.se/dynamic/default/item/26898357/53ed6c33-0f20-427b-9dd7-ca9845cda0e8"
    },
    {
-    "id": "blocket-27882557",
-    "source": "blocket",
-    "title": "ASUS TUF Gaming 27” QHD 170Hz + skärmarm – fint skick",
-    "price": 189.0,
-    "url": "https://www.blocket.se/recommerce/forsale/item/27882557",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/27882557/b7de49a0-dd17-41a4-bf79-600d33e84471"
-   },
-   {
-    "id": "tori-40203347",
-    "source": "tori",
-    "title": "MSI Optix 165hz 32\" 2K AG321CQR kaareva pelinäyttö + Mozi Infinity line jalka",
-    "price": 200.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/40203347",
-    "image": "https://img.tori.net/dynamic/default/item/40203347/19651395-e0e9-440c-a4fd-3bc0bda7fd65"
-   },
-   {
-    "id": "tori-49429623",
-    "source": "tori",
-    "title": "2x Lenovon 27\" näyttöä monitorivarsilla",
-    "price": 200.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49429623",
-    "image": "https://img.tori.net/dynamic/default/item/49429623/478f640c-1388-4b8a-9f31-245f1fb728c8"
-   },
-   {
-    "id": "tori-46279674",
-    "source": "tori",
-    "title": "Ergotron HX Heavy Duty monitorivarsi + VESA 300x300 adapteri",
-    "price": 250.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/46279674",
-    "image": "https://img.tori.net/dynamic/default/item/46279674/60a55d5b-d959-43a7-b281-dee53aa19292"
-   },
-   {
     "id": "blocket-23049442",
     "source": "blocket",
     "title": "Ergotron LX Stacking Arm för 2 skärmar",
     "price": 276.0,
     "url": "https://www.blocket.se/recommerce/forsale/item/23049442",
     "image": "https://images.blocketcdn.se/dynamic/default/item/23049442/47b77dbc-0bdb-4c92-b873-5548b4e18354"
-   },
-   {
-    "id": "tori-45026932",
-    "source": "tori",
-    "title": "2 näyttöä, näyttövarsi, HyperX-näppäimistö, HyperX-kuulokkeet, Logitech-hiiri",
-    "price": 280.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/45026932",
-    "image": "https://img.tori.net/dynamic/default/item/45026932/23479968-863c-49e1-9cfe-4a8349bcc6c8"
-   },
-   {
-    "id": "tori-49054043",
-    "source": "tori",
-    "title": "Tietokonenäytöt ja näyttövarsi",
-    "price": 320.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49054043",
-    "image": "https://img.tori.net/dynamic/default/item/49054043/d770736d-01a4-411f-a2d3-52e53bbb61c0"
-   },
-   {
-    "id": "tori-48040322",
-    "source": "tori",
-    "title": "2x BenQ Zowie XL2546K 240 Hz + monitorivarsi",
-    "price": 360.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/48040322",
-    "image": "https://img.tori.net/dynamic/default/item/48040322/293159de-0bff-421e-9921-26a72be240f7"
-   },
-   {
-    "id": "tori-16583616",
-    "source": "tori",
-    "title": "Huion Kamvas pro 24 (4K) sis. Huion Mini Keydial K20+Ergotron LX Monitor Arm",
-    "price": 790.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/16583616",
-    "image": "https://img.tori.net/dynamic/default/2024/11/vertical-0/16/6/165/836/16_478124b2-fb25-4f6f-a5f3-221046a1a733.jpg"
    }
   ]
  }
