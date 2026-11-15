@@ -1,6 +1,6 @@
 # Feikki- ja kuntoriski löydöissä
 
-1190 löytöä (data/finds.json). Heuristiikka: risk.py.
+1197 löytöä (data/finds.json). Heuristiikka: risk.py.
 
 - korkea feikkiriski: **8%**, keskitaso: 19%
 - kulunut/huono kunto: **25%**, kunto ei tiedossa: 28%
@@ -9,10 +9,10 @@
 
 | alusta | n | feikki korkea | keski | kulunut/huono | kunto ? |
 |---|---|---|---|---|---|
-| sellpy.fi | 752 | 0% | 11% | 38% | 0% |
-| tradera.com | 190 | 4% | 36% | 0% | 100% |
+| sellpy.fi | 755 | 0% | 11% | 38% | 0% |
+| tradera.com | 193 | 4% | 35% | 0% | 100% |
 | tori.fi | 89 | 28% | 33% | 0% | 100% |
-| marktplaats.nl | 63 | 44% | 27% | 11% | 5% |
+| marktplaats.nl | 64 | 44% | 27% | 11% | 5% |
 | 2dehands.be | 58 | 24% | 28% | 7% | 21% |
 | dba.dk | 13 | 46% | 31% | 0% | 100% |
 | finn.no | 13 | 15% | 8% | 0% | 100% |
@@ -22,15 +22,15 @@
 
 | kategoria | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
-| muu | 296 | 23% | 23% |
+| muu | 297 | 23% | 23% |
 | kengät | 233 | 52% | 28% |
-| takki | 218 | 26% | 24% |
+| takki | 219 | 26% | 25% |
 | housut | 158 | 4% | 23% |
 | neule | 94 | 10% | 20% |
-| t-paita | 47 | 21% | 40% |
-| huppari | 45 | 24% | 42% |
+| t-paita | 48 | 23% | 40% |
+| huppari | 46 | 24% | 41% |
+| kauluspaita | 43 | 0% | 35% |
 | laukku | 41 | 59% | 5% |
-| kauluspaita | 40 | 0% | 38% |
 | asuste | 14 | 43% | 14% |
 | nahkatakki | 3 | 33% | 0% |
 | korut | 1 | 0% | 0% |
@@ -58,9 +58,9 @@
 | Louis Vuitton | 7 | 86% | 14% |
 | Undercover | 5 | 80% | 0% |
 | Issey Miyake | 4 | 75% | 0% |
-| Prada | 24 | 75% | 38% |
 | Enfants Riches Déprimés | 4 | 75% | 25% |
 | Moncler | 15 | 73% | 40% |
+| Prada | 25 | 72% | 40% |
 | Maison Margiela | 17 | 71% | 18% |
 | Fendi | 3 | 67% | 0% |
 | Gucci | 12 | 67% | 58% |

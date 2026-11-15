@@ -1,5 +1,120 @@
 [
  {
+  "id": "9ZnvtSNBIZ",
+  "brand": "Prada",
+  "title": "Prada Bleiseri Small Fit",
+  "price": 80.0,
+  "value": 179,
+  "score": 2.24,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "Hyväksyttävä",
+  "size": "MEN-EU-52",
+  "link": "https://www.sellpy.fi/item/9ZnvtSNBIZ",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-25-l-4/9ZnvtSNBIZ-8107-0.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 165 €",
+   "Japanissa myyty (takki) mediaani 254 € (n=7)",
+   "kate ~17 € (ROI 20%, myy grailed ~148 €; Yahoo JP toteutuneet (takki): mediaani 254 €, p25 113 € (n=7) → geneerinen ~184 € × 1.15 EU-taso)"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794780266,
+  "resale": 148,
+  "profit": 17,
+  "roi": 0.2,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 254 €, p25 113 € (n=7) → geneerinen ~184 € × 1.15 EU-taso",
+   "myynti grailed ~148 € → käteen ~103 € kulujen ja tinkimisen jälkeen",
+   "osto 80 € + toimitus = 86 €"
+  ],
+  "risk": {
+   "fake": 18,
+   "fake_level": "matala",
+   "cond": "kulunut",
+   "why": [
+    "paljon väärennetty brändi",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv",
+    "selviä käytön jälkiä/vikoja"
+   ]
+  }
+ },
+ {
+  "id": "v0CuFHZh9s",
+  "brand": "Supreme",
+  "title": "Supreme x Hanes T-paita",
+  "price": 18.0,
+  "value": 40,
+  "score": 2.25,
+  "label": "✅ DIILI",
+  "category": "t-paita",
+  "condition": "Hyvä",
+  "size": "MEN-INT-XL",
+  "link": "https://www.sellpy.fi/item/v0CuFHZh9s",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-21/v0CuFHZh9s-d55d-0.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 68 €",
+   "⚠️ kate ~-3 € (ROI -14%, myy grailed ~30 €; brändiarvio ~30 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794780266,
+  "resale": 30,
+  "profit": -3,
+  "roi": -0.14,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~30 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~30 € → käteen ~20 € kulujen ja tinkimisen jälkeen",
+   "osto 18 € + toimitus = 24 €",
+   "t-paita: matala kate-kategoria, paljon tarjontaa"
+  ],
+  "risk": {
+   "fake": 22,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv"
+   ]
+  }
+ },
+ {
+  "id": "Jq2IfqmSLK",
+  "brand": "Tuntematon (haku: virgil abloh)",
+  "title": "Huppari",
+  "price": 22.0,
+  "value": 96,
+  "score": 4.35,
+  "label": "📉 🚨 INSANE",
+  "category": "huppari",
+  "condition": "Erittäin hyvä",
+  "size": "MEN-INT-XL",
+  "link": "https://www.sellpy.fi/item/Jq2IfqmSLK",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-k-16/Jq2IfqmSLK-eea6-0.jpg",
+  "reasons": [
+   "hinta laski 25 → 22 €",
+   "tiedoissa 'virgil abloh', brändiksi listattu '-'"
+  ],
+  "source": "haku",
+  "old_price": 25.0,
+  "ts": 1794780269,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
   "id": "tradera-759018015",
   "brand": "Mammut · Tradera 🇸🇪",
   "title": "NY Mammut Massone T-Shirt Women Emblems dam strl S * mjukt bomullsmaterial",
