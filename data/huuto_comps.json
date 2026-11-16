@@ -6,7 +6,7 @@
    "price": 14.0,
    "title": "CARPE DIEM - En Regardant Passer le Temps CD",
    "closed": "2026-10-02T17:04:46+0300",
-   "ts": 1794439603
+   "ts": 1794837395
   },
   "654565291": {
    "brand": "Undercover",
@@ -14,7 +14,7 @@
    "price": 15.0,
    "title": "Two undercover angels & Kiss me monster",
    "closed": "2026-11-08T21:08:00+0200",
-   "ts": 1794439631
+   "ts": 1794837423
   },
   "653080173": {
    "brand": "Dior",
@@ -145,7 +145,7 @@
    "ts": 1794659260
   }
  },
- "i": 280,
+ "i": 49,
  "groups": {
   "Carpe Diem|muu": {
    "n": 1,
@@ -232,5 +232,5 @@
    "p75": 1.5
   }
  },
- "generated": 1794747376
+ "generated": 1794837452
 }

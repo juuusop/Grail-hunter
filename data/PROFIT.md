@@ -1,6 +1,6 @@
 # 💰 Kate-ranking
 
-6148 löytöä arvioitu, 64 joissa odotettu kate ≥ 60 €. Paras myyntikanava: grailed 55, vestiaire 9.
+6184 löytöä arvioitu, 64 joissa odotettu kate ≥ 60 €. Paras myyntikanava: grailed 55, vestiaire 9.
 
 Kate = arvioitu myyntihinta parhaassa kanavassa × likviditeetti − palkkiot − (ostohinta + toimitus). Lähde näkyy perusteluissa: *malli* = käsin koottu vertailutaulukko, *Yahoo JP* = Japanin toteutuneet kaupat × EU-kerroin, *Huudon toteutuneet* = oikeat kaupat, *brändiarvio* = karkein. Tuote voi olla jo myyty.
 
