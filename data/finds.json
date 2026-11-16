@@ -1,5 +1,185 @@
 [
  {
+  "id": "3KrkDYZ1yR",
+  "brand": "Gucci",
+  "title": "Gucci Aurinkolasit GG2452/S",
+  "price": 29.0,
+  "value": 128,
+  "score": 4.41,
+  "label": "🚨 INSANE",
+  "category": "muu",
+  "condition": "Erittäin hyvä",
+  "size": "-",
+  "link": "https://www.sellpy.fi/item/3KrkDYZ1yR",
+  "image": "https://prod.images.sellpy.net/photoRobot-manual-7-k-21/3KrkDYZ1yR-9aeb-single.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 169 €",
+   "Japanissa myyty mediaani 66 € (n=82)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794821073,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 34,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "aurinkolasit: väärennetyimpiä tuotetyyppejä",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv"
+   ]
+  }
+ },
+ {
+  "id": "JdVAnO2ywQ",
+  "brand": "Valentino",
+  "title": "Valentino Collegepaita Vltn",
+  "price": 86.0,
+  "value": 142,
+  "score": 1.65,
+  "label": "💎 HARVINAINEN",
+  "category": "huppari",
+  "condition": "Hyvä",
+  "size": "MEN-INT-XL",
+  "link": "https://www.sellpy.fi/item/JdVAnO2ywQ",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-k-21/s0UVG0RggI-dd8c-0.jpg",
+  "reasons": [
+   "taso C",
+   "runway ×1.4",
+   "harvinainen: runway",
+   "Sellpyn mediaani tälle brändille 135 €",
+   "Japanissa myyty mediaani 16 € (n=53)",
+   "⚠️ kate ~-18 € (ROI -19%, myy grailed ~106 €; brändiarvio ~106 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794821073,
+  "resale": 106,
+  "profit": -18,
+  "roi": -0.19,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~106 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~106 € → käteen ~74 € kulujen ja tinkimisen jälkeen",
+   "osto 86 € + toimitus = 92 €"
+  ],
+  "risk": {
+   "fake": 22,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv"
+   ]
+  }
+ },
+ {
+  "id": "SR3UHtgb7j",
+  "brand": "Tiger of Sweden",
+  "title": "Tiger of Sweden Kaulahuivi",
+  "price": 11.0,
+  "value": 40,
+  "score": 3.68,
+  "label": "🔥 KOVA DIILI",
+  "category": "neule",
+  "condition": "Hyvä",
+  "size": "-",
+  "link": "https://www.sellpy.fi/item/SR3UHtgb7j",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-k-5/SR3UHtgb7j-90c1-0.jpg",
+  "reasons": [
+   "taso D",
+   "Sellpyn mediaani tälle brändille 27 €",
+   "kate ~2 € (ROI 12%, myy vinted ~21 €; brändiarvio ~30 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794821073,
+  "resale": 21,
+  "profit": 2,
+  "roi": 0.12,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~30 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~21 € → käteen ~19 € kulujen ja tinkimisen jälkeen",
+   "osto 11 € + toimitus = 17 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "1vW3BU7KEZ",
+  "brand": "Tuntematon (haku: tabi)",
+  "title": "Loafers Tabi",
+  "price": 82.0,
+  "value": 238,
+  "score": 2.9,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Erittäin hyvä",
+  "size": "SHOES-EU-44",
+  "link": "https://www.sellpy.fi/item/1vW3BU7KEZ",
+  "image": "https://prod.images.sellpy.net/photoRobot-case-21-l-3/1vW3BU7KEZ-e568-0.jpg",
+  "reasons": [
+   "tiedoissa 'tabi', brändiksi listattu '-'"
+  ],
+  "source": "haku",
+  "old_price": null,
+  "ts": 1794821075,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "qDOQAhLQWV",
+  "brand": "New Balance (haku: made in usa new balance)",
+  "title": "New Balance Collegepaita",
+  "price": 32.0,
+  "value": 76,
+  "score": 2.39,
+  "label": "✅ DIILI",
+  "category": "huppari",
+  "condition": "Erittäin hyvä",
+  "size": "MEN-INT-L",
+  "link": "https://www.sellpy.fi/item/qDOQAhLQWV",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-l-2/qDOQAhLQWV-df2f-0.jpg",
+  "reasons": [
+   "tiedoissa 'made in usa', brändiksi listattu 'New Balance'"
+  ],
+  "source": "haku",
+  "old_price": null,
+  "ts": 1794821075,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
   "id": "tori-49917081",
   "brand": "Canada Goose · Tori",
   "title": "Canada Goose untuvatakki M musta",
