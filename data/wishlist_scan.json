@@ -1,5 +1,5 @@
 {
- "generated": 1794791787,
+ "generated": 1794816736,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -741,14 +741,6 @@
     "image": "https://img.tori.net/dynamic/default/item/44594381/6751bd3b-002b-49f3-966f-179111edf52d"
    },
    {
-    "id": "tradera-759875656",
-    "source": "tradera",
-    "title": "Monitorarm för skrivbord",
-    "price": 27.96,
-    "url": "https://www.tradera.com/item/1000274/759875656/monitorarm-for-skrivbord",
-    "image": "https://img.tradera.net/images/073/667363073_bf56b1d6-8047-4e88-ba30-f3881393b21d.jpg"
-   },
-   {
     "id": "tori-48563002",
     "source": "tori",
     "title": "Säädettävä harmaa näyttövarsi / monitorivarsi",
@@ -1027,14 +1019,6 @@
     "price": 50.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/45557942",
     "image": "https://img.tori.net/dynamic/default/item/45557942/f4d44b06-5b9b-4cf7-8ade-0f0e1e4f9fe0"
-   },
-   {
-    "id": "tori-46087782",
-    "source": "tori",
-    "title": "LCD ViewMaster näytönvarsi pöytäkiinnityksellä",
-    "price": 55.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/46087782",
-    "image": "https://img.tori.net/dynamic/default/item/46087782/fd2badaa-8763-46c3-8cbf-c2715b0e6870"
    },
    {
     "id": "blocket-24642329",
