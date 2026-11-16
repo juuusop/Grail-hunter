@@ -1,5 +1,5 @@
 {
- "generated": 1794816736,
+ "generated": 1794854899,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -518,7 +518,7 @@
     "id": "tradera-759827126",
     "source": "tradera",
     "title": "J5Create Laptopställ",
-    "price": 47.19,
+    "price": 45.45,
     "url": "https://www.tradera.com/item/1000651/759827126/j5create-laptopstall",
     "image": "https://img.tradera.net/images/995/667325995_453f4969-2fc9-4034-8c57-3e426d56cb13.jpg"
    },
@@ -605,14 +605,6 @@
   ],
   "Näyttövarsi yhdelle näytölle": [
    {
-    "id": "tori-49957374",
-    "source": "tori",
-    "title": "Deltaco näyttövarsi kaasujousella",
-    "price": 10.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49957374",
-    "image": "https://img.tori.net/dynamic/default/item/49957374/d300264f-1225-449f-a617-c4f78c15c815"
-   },
-   {
     "id": "tori-49889400",
     "source": "tori",
     "title": "näyttövarsi",
@@ -691,14 +683,6 @@
     "price": 25.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/49702688",
     "image": "https://img.tori.net/dynamic/default/item/49702688/2a6069a6-3e49-4a38-9ea9-5f65094185c1"
-   },
-   {
-    "id": "tori-49953053",
-    "source": "tori",
-    "title": "Arctic Z3 Pro (gen 3) näyttövarsi 3:lle näytölle",
-    "price": 25.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49953053",
-    "image": "https://img.tori.net/dynamic/default/item/49953053/bc078a0b-b94a-4079-b3f1-485bdaf450e7"
    },
    {
     "id": "tori-47044251",
@@ -813,6 +797,22 @@
     "image": "https://img.tori.net/dynamic/default/item/45046764/75bc00e6-ef09-4dc0-b105-a695e564682e"
    },
    {
+    "id": "tradera-761534555",
+    "source": "tradera",
+    "title": "KOORUI KR20Y monitorarm för skrivbord",
+    "price": 36.66,
+    "url": "https://www.tradera.com/item/1000274/761534555/koorui-kr20y-monitorarm-for-skrivbord",
+    "image": "https://img.tradera.net/images/557/668654557_1829a2d2-8a7c-4a9e-a599-c61a16d2c1cc.jpg"
+   },
+   {
+    "id": "tradera-761534831",
+    "source": "tradera",
+    "title": "KOORUI KR20Y monitorarm för skrivbord",
+    "price": 36.66,
+    "url": "https://www.tradera.com/item/1000274/761534831/koorui-kr20y-monitorarm-for-skrivbord",
+    "image": "https://img.tradera.net/images/719/668654719_82eb972e-d0c4-42a5-b3be-85a1f09bab35.jpg"
+   },
+   {
     "id": "blocket-25629840",
     "source": "blocket",
     "title": "Skärmfäste / monitorarm för datorskärm",
@@ -837,14 +837,6 @@
     "image": "https://img.tradera.net/images/575/655962575_779796dd-1f5a-469b-b492-c8ec07d181e7.jpg"
    },
    {
-    "id": "tradera-757526267",
-    "source": "tradera",
-    "title": "Monitorarm för skrivbord, justerbar skärmhållare",
-    "price": 39.27,
-    "url": "https://www.tradera.com/item/1000274/757526267/monitorarm-for-skrivbord-justerbar-skarmhallare",
-    "image": "https://img.tradera.net/images/357/657386357_dfdd2b13-9f07-46c6-9248-8061dc7da032.jpg"
-   },
-   {
     "id": "tradera-751112123",
     "source": "tradera",
     "title": "Monitorarm för skrivbord, justerbar skärmhållare",
@@ -853,28 +845,20 @@
     "image": "https://img.tradera.net/images/408/660522408_675cfbe0-c1e8-4858-8ee2-5f9c8ca11bd6.jpg"
    },
    {
+    "id": "tradera-757526267",
+    "source": "tradera",
+    "title": "Monitorarm för skrivbord, justerbar skärmhållare",
+    "price": 39.27,
+    "url": "https://www.tradera.com/item/1000274/757526267/monitorarm-for-skrivbord-justerbar-skarmhallare",
+    "image": "https://img.tradera.net/images/357/657386357_dfdd2b13-9f07-46c6-9248-8061dc7da032.jpg"
+   },
+   {
     "id": "tori-45182530",
     "source": "tori",
     "title": "Mozi Infinity Line näyttövarsi valkoinen",
     "price": 40.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/45182530",
     "image": "https://img.tori.net/dynamic/default/item/45182530/29120898-24e3-48b2-ae0e-f14b8713b718"
-   },
-   {
-    "id": "tradera-761534831",
-    "source": "tradera",
-    "title": "KOORUI KR20Y monitorarm för skrivbord",
-    "price": 41.01,
-    "url": "https://www.tradera.com/item/1000274/761534831/koorui-kr20y-monitorarm-for-skrivbord",
-    "image": "https://img.tradera.net/images/719/668654719_82eb972e-d0c4-42a5-b3be-85a1f09bab35.jpg"
-   },
-   {
-    "id": "tradera-761534555",
-    "source": "tradera",
-    "title": "KOORUI KR20Y monitorarm för skrivbord",
-    "price": 41.01,
-    "url": "https://www.tradera.com/item/1000274/761534555/koorui-kr20y-monitorarm-for-skrivbord",
-    "image": "https://img.tradera.net/images/557/668654557_1829a2d2-8a7c-4a9e-a599-c61a16d2c1cc.jpg"
    },
    {
     "id": "tradera-760414755",
@@ -1019,6 +1003,14 @@
     "price": 50.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/45557942",
     "image": "https://img.tori.net/dynamic/default/item/45557942/f4d44b06-5b9b-4cf7-8ade-0f0e1e4f9fe0"
+   },
+   {
+    "id": "tori-46087782",
+    "source": "tori",
+    "title": "LCD ViewMaster näytönvarsi pöytäkiinnityksellä",
+    "price": 55.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/46087782",
+    "image": "https://img.tori.net/dynamic/default/item/46087782/fd2badaa-8763-46c3-8cbf-c2715b0e6870"
    },
    {
     "id": "blocket-24642329",
