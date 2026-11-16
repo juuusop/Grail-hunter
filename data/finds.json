@@ -1,5 +1,490 @@
 [
  {
+  "id": "tori-49955209",
+  "brand": "Comme des Garçons Homme Plus · Tori",
+  "title": "Comme des Garcons Homme Plus t-paita",
+  "price": 70.0,
+  "value": 142,
+  "score": 2.04,
+  "label": "✅ DIILI",
+  "category": "t-paita",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49955209",
+  "image": "https://img.tori.net/dynamic/default/item/49955209/f3881d22-3cbc-4772-adb0-288d134f0879",
+  "reasons": [
+   "harvinainen brändi",
+   "taso S",
+   "Japanissa myyty mediaani 112 € (n=56)",
+   "⚠️ kate ~-3 € (ROI -4%, myy grailed ~106 €; brändiarvio ~106 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794787343,
+  "resale": 106,
+  "profit": -3,
+  "roi": -0.04,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~106 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~106 € → käteen ~74 € kulujen ja tinkimisen jälkeen",
+   "osto 70 € + toimitus = 77 €",
+   "t-paita: matala kate-kategoria, paljon tarjontaa"
+  ],
+  "risk": {
+   "fake": 4,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761372586",
+  "brand": "Valentino · Tradera 🇸🇪",
+  "title": "Valentino sneakers",
+  "price": 86.56,
+  "value": 200,
+  "score": 2.3,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340303/761372586/valentino-sneakers",
+  "image": "https://img.tradera.net/images/890/655288890_edbd2046-46b3-49ee-a574-c51358298a71.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 135 €",
+   "Japanissa myyty mediaani 16 € (n=53)",
+   "⚠️ kate ~-30 € (ROI -29%, myy grailed ~105 €; brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa))",
+   "995 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794787343,
+  "resale": 105,
+  "profit": -30,
+  "roi": -0.29,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~105 € → käteen ~73 € kulujen ja tinkimisen jälkeen",
+   "osto 87 € + toimitus = 103 €"
+  ],
+  "risk": {
+   "fake": 42,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761372588",
+  "brand": "Valentino · Tradera 🇸🇪",
+  "title": "Valentino Sneakers",
+  "price": 78.3,
+  "value": 200,
+  "score": 2.55,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340303/761372588/valentino-sneakers",
+  "image": "https://img.tradera.net/images/754/655288754_d4934eb8-f1d2-42b5-9fc5-d2c089d94e36.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 135 €",
+   "Japanissa myyty mediaani 16 € (n=53)",
+   "⚠️ kate ~-21 € (ROI -23%, myy grailed ~105 €; brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa))",
+   "900 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794787343,
+  "resale": 105,
+  "profit": -21,
+  "roi": -0.23,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~105 € → käteen ~73 € kulujen ja tinkimisen jälkeen",
+   "osto 78 € + toimitus = 94 €"
+  ],
+  "risk": {
+   "fake": 42,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761372587",
+  "brand": "Valentino · Tradera 🇸🇪",
+  "title": "Valentino Garavani Sneakers",
+  "price": 86.56,
+  "value": 200,
+  "score": 2.3,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340303/761372587/valentino-garavani-sneakers",
+  "image": "https://img.tradera.net/images/505/655288505_1f9f5ee4-1e67-4960-bb1b-54be72fb97ab.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 135 €",
+   "Japanissa myyty mediaani 16 € (n=53)",
+   "⚠️ kate ~-30 € (ROI -29%, myy grailed ~105 €; brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa))",
+   "995 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794787343,
+  "resale": 105,
+  "profit": -30,
+  "roi": -0.29,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~105 € → käteen ~73 € kulujen ja tinkimisen jälkeen",
+   "osto 87 € + toimitus = 103 €"
+  ],
+  "risk": {
+   "fake": 42,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-760857307",
+  "brand": "Valentino · Tradera 🇸🇪",
+  "title": "Mario Valentino väska",
+  "price": 78.3,
+  "value": 171,
+  "score": 2.18,
+  "label": "✅ DIILI",
+  "category": "laukku",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/302662/760857307/mario-valentino-vaska",
+  "image": "https://img.tradera.net/images/093/668132093_c964df9a-1bc3-4694-a30d-6e5f809e3b36.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 135 €",
+   "Japanissa myyty mediaani 16 € (n=53)",
+   "⚠️ kate ~-33 € (ROI -35%, myy vestiaire ~90 €; brändiarvio ~128 € (ei mallivertailua eikä Yahoo-dataa))",
+   "900 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794787343,
+  "resale": 90,
+  "profit": -33,
+  "roi": -0.35,
+  "exit": "vestiaire",
+  "resale_why": [
+   "brändiarvio ~128 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti vestiaire ~90 € → käteen ~61 € kulujen ja tinkimisen jälkeen",
+   "osto 78 € + toimitus = 94 €"
+  ],
+  "risk": {
+   "fake": 51,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "laukku: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-760647426",
+  "brand": "Valentino · Tradera 🇸🇪",
+  "title": "Valentino Garavani open sneakers",
+  "price": 90.04,
+  "value": 200,
+  "score": 2.22,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340303/760647426/valentino-garavani-open-sneakers",
+  "image": "https://img.tradera.net/images/177/667965177_c52215db-9034-4b96-9534-60b10b10ccda.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 135 €",
+   "Japanissa myyty mediaani 16 € (n=53)",
+   "⚠️ kate ~-33 € (ROI -31%, myy grailed ~105 €; brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa))",
+   "1035 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794787343,
+  "resale": 105,
+  "profit": -33,
+  "roi": -0.31,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~105 € → käteen ~73 € kulujen ja tinkimisen jälkeen",
+   "osto 90 € + toimitus = 106 €"
+  ],
+  "risk": {
+   "fake": 42,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2466369522",
+  "brand": "Balenciaga · Marktplaats 🇳🇱",
+  "title": "Balenciaga Speed Lace-Up Sneakers Maat 45",
+  "price": 120.0,
+  "value": 293,
+  "score": 2.44,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "SHOES-EU-45",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2466369522-balenciaga-speed-lace-up-sneakers-maat-45",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/d29895c0-87ec-4545-af2e-dbfd5591500b?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 163 €",
+   "Japanissa myyty mediaani 86 € (n=88)",
+   "⚠️ kate ~-13 € (ROI -11%, myy grailed ~154 €; brändiarvio ~220 € (ei mallivertailua eikä Yahoo-dataa))",
+   "100 EUR + ~20 € posti = 120 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794787343,
+  "resale": 154,
+  "profit": -13,
+  "roi": -0.11,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~220 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~154 € → käteen ~107 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 120 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2466360004",
+  "brand": "Balenciaga · Marktplaats 🇳🇱",
+  "title": "Balenciaga Track Sneakers Maat 44 Zwart/Grijs",
+  "price": 95.0,
+  "value": 216,
+  "score": 2.27,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "Gedragen",
+  "size": "SHOES-EU-44",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2466360004-balenciaga-track-sneakers-maat-44-zwart-grijs",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/3f27a343-ff8d-4570-b382-55c801877b97?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 163 €",
+   "Japanissa myyty mediaani 86 € (n=88)",
+   "⚠️ kate ~-16 € (ROI -17%, myy grailed ~113 €; brändiarvio ~162 € (ei mallivertailua eikä Yahoo-dataa))",
+   "75 EUR + ~20 € posti = 95 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794787343,
+  "resale": 113,
+  "profit": -16,
+  "roi": -0.17,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~162 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~113 € → käteen ~79 € kulujen ja tinkimisen jälkeen",
+   "osto 95 € + toimitus = 95 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "kulunut",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "selviä käytön jälkiä/vikoja (kengissä/laukuissa kuluma syö resale-hintaa)"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2466268485",
+  "brand": "Balenciaga · Marktplaats 🇳🇱",
+  "title": "Balenciaga Track (maat 41)",
+  "price": 120.0,
+  "value": 293,
+  "score": 2.44,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2466268485-balenciaga-track-maat-41",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/29f022f5-1eac-43f4-b305-aefbd5fee421?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 163 €",
+   "Japanissa myyty mediaani 86 € (n=88)",
+   "⚠️ kate ~-13 € (ROI -11%, myy grailed ~154 €; brändiarvio ~220 € (ei mallivertailua eikä Yahoo-dataa))",
+   "100 EUR + ~20 € posti = 120 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794787343,
+  "resale": 154,
+  "profit": -13,
+  "roi": -0.11,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~220 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~154 € → käteen ~107 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 120 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2466260879",
+  "brand": "Loewe · Marktplaats 🇳🇱",
+  "title": "Loewe Solo Esencial edt  50 ml",
+  "price": 89.0,
+  "value": 185,
+  "score": 2.08,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/uiterlijk-parfum/m2466260879-loewe-solo-esencial-edt-50-ml",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/d668b725-b1dd-4d2a-a713-066d1e7984e4?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 155 €",
+   "Japanissa myyty (muu) mediaani 107 € (n=32)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "69 EUR + ~20 € posti = 89 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794787343,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2466337610",
+  "brand": "Moncler · 2dehands 🇧🇪",
+  "title": "Cardigan moncler kaki",
+  "price": 100.0,
+  "value": 220,
+  "score": 2.2,
+  "label": "✅ DIILI",
+  "category": "neule",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/kleding-heren/jassen-winter/m2466337610-cardigan-moncler-kaki",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/1881b8f4-a6dd-4dc0-a9a1-7bafbccdc30d?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 137 €",
+   "Japanissa myyty mediaani 172 € (n=91)",
+   "⚠️ kate ~-20 € (ROI -20%, myy grailed ~115 €; brändiarvio ~165 € (ei mallivertailua eikä Yahoo-dataa))",
+   "80 EUR + ~20 € posti = 100 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1794787343,
+  "resale": 115,
+  "profit": -20,
+  "roi": -0.2,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~165 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~115 € → käteen ~80 € kulujen ja tinkimisen jälkeen",
+   "osto 100 € + toimitus = 100 €"
+  ],
+  "risk": {
+   "fake": 28,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "9ZnvtSNBIZ",
   "brand": "Prada",
   "title": "Prada Bleiseri Small Fit",
