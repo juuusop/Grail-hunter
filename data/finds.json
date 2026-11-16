@@ -1,5 +1,462 @@
 [
  {
+  "id": "tori-49917081",
+  "brand": "Canada Goose · Tori",
+  "title": "Canada Goose untuvatakki M musta",
+  "price": 99.0,
+  "value": 380,
+  "score": 3.84,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49917081",
+  "image": "https://img.tori.net/dynamic/default/item/49917081/fa03e9b4-796c-4fbe-afb3-3857c7c03273",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 164 €",
+   "Japanissa myyty (takki) mediaani 278 € (n=27)",
+   "kate ~25 € (ROI 24%, myy grailed ~188 €; Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794810092,
+  "resale": 188,
+  "profit": 25,
+  "roi": 0.24,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~188 € → käteen ~131 € kulujen ja tinkimisen jälkeen",
+   "osto 99 € + toimitus = 106 €"
+  ],
+  "risk": {
+   "fake": 50,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-49902319",
+  "brand": "Canada Goose · Tori",
+  "title": "Canada Goose langford parka XL",
+  "price": 149.0,
+  "value": 380,
+  "score": 2.55,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "MEN-INT-XL",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49902319",
+  "image": "https://img.tori.net/dynamic/default/item/49902319/5584e977-29e8-42b5-ba44-96b5494c282d",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 164 €",
+   "Japanissa myyty (takki) mediaani 278 € (n=27)",
+   "⚠️ kate ~-25 € (ROI -16%, myy grailed ~188 €; Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794810092,
+  "resale": 188,
+  "profit": -25,
+  "roi": -0.16,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~188 € → käteen ~131 € kulujen ja tinkimisen jälkeen",
+   "osto 149 € + toimitus = 156 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-49929831",
+  "brand": "Balenciaga · Tori",
+  "title": "Balenciaga naisten housut",
+  "price": 79.0,
+  "value": 188,
+  "score": 2.38,
+  "label": "✅ DIILI",
+  "category": "housut",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49929831",
+  "image": "https://img.tori.net/dynamic/default/item/49929831/da0b2320-a9cc-48e5-8212-c7d95adc4c4a",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 163 €",
+   "Japanissa myyty mediaani 86 € (n=88)",
+   "⚠️ kate ~-17 € (ROI -20%, myy grailed ~99 €; brändiarvio ~141 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794810092,
+  "resale": 99,
+  "profit": -17,
+  "roi": -0.2,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~141 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~99 € → käteen ~69 € kulujen ja tinkimisen jälkeen",
+   "osto 79 € + toimitus = 86 €"
+  ],
+  "risk": {
+   "fake": 28,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-49910947",
+  "brand": "Moncler · Tori",
+  "title": "Moncler untuvatakki XXL sininen",
+  "price": 100.0,
+  "value": 334,
+  "score": 3.34,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "MEN-INT-XXL",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49910947",
+  "image": "https://img.tori.net/dynamic/default/item/49910947/7f83e062-3067-4eb0-8cf7-e1388e844620",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 137 €",
+   "Japanissa myyty (takki) mediaani 251 € (n=54)",
+   "⚠️ kate ~-16 € (ROI -15%, myy grailed ~130 €; Yahoo JP toteutuneet (takki): mediaani 251 €, p25 90 € (n=54) → geneerinen ~170 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794810092,
+  "resale": 130,
+  "profit": -16,
+  "roi": -0.15,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 251 €, p25 90 € (n=54) → geneerinen ~170 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~130 € → käteen ~91 € kulujen ja tinkimisen jälkeen",
+   "osto 100 € + toimitus = 107 €"
+  ],
+  "risk": {
+   "fake": 50,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-760263191",
+  "brand": "R.M. Williams · Tradera 🇸🇪",
+  "title": "R.M. Williams Chelsea Boots – Svart läder – 7½ G",
+  "price": 82.56,
+  "value": 200,
+  "score": 2.42,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340303/760263191/r-m-williams-chelsea-boots-svart-lader-7-g",
+  "image": "https://img.tradera.net/images/845/667660845_432896b4-7706-4612-b680-593977c4a5d1.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 118 €",
+   "Japanissa myyty (kengät) mediaani 45 € (n=14)",
+   "⚠️ kate ~-69 € (ROI -70%, myy grailed ~43 €; Yahoo JP toteutuneet (kengät): mediaani 45 €, p25 33 € (n=14) → geneerinen ~39 € × 1.15 EU-taso)",
+   "949 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794810092,
+  "resale": 43,
+  "profit": -69,
+  "roi": -0.7,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 45 €, p25 33 € (n=14) → geneerinen ~39 € × 1.15 EU-taso",
+   "myynti grailed ~43 € → käteen ~29 € kulujen ja tinkimisen jälkeen",
+   "osto 83 € + toimitus = 99 €"
+  ],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761184751",
+  "brand": "R.M. Williams · Tradera 🇸🇪",
+  "title": "R.M. Williams Chelsea boots, strl 37",
+  "price": 78.3,
+  "value": 200,
+  "score": 2.55,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "MEN-INT-L",
+  "link": "https://www.tradera.com/item/340303/761184751/r-m-williams-chelsea-boots-strl-37",
+  "image": "https://img.tradera.net/images/321/668385321_ca0e434e-98b6-4f85-8a42-82a671c70c9e.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 118 €",
+   "Japanissa myyty (kengät) mediaani 45 € (n=14)",
+   "⚠️ kate ~-65 € (ROI -69%, myy grailed ~43 €; Yahoo JP toteutuneet (kengät): mediaani 45 €, p25 33 € (n=14) → geneerinen ~39 € × 1.15 EU-taso)",
+   "900 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794810092,
+  "resale": 43,
+  "profit": -65,
+  "roi": -0.69,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 45 €, p25 33 € (n=14) → geneerinen ~39 € × 1.15 EU-taso",
+   "myynti grailed ~43 € → käteen ~29 € kulujen ja tinkimisen jälkeen",
+   "osto 78 € + toimitus = 94 €"
+  ],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761580192",
+  "brand": "R.M. Williams · Tradera 🇸🇪",
+  "title": "R.M. Williams skor strl 3 1/2",
+  "price": 17.4,
+  "value": 200,
+  "score": 11.47,
+  "label": "🚨 INSANE",
+  "category": "kengät",
+  "condition": "-",
+  "size": "MEN-INT-L",
+  "link": "https://www.tradera.com/item/340303/761580192/r-m-williams-skor-strl-3-1-2",
+  "image": "https://img.tradera.net/images/840/668688840_60d493c5-3865-4cec-935f-88ff4832adae.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 118 €",
+   "Japanissa myyty (kengät) mediaani 45 € (n=14)",
+   "⚠️ kate ~-4 € (ROI -12%, myy grailed ~43 €; Yahoo JP toteutuneet (kengät): mediaani 45 €, p25 33 € (n=14) → geneerinen ~39 € × 1.15 EU-taso)",
+   "200 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794810092,
+  "resale": 43,
+  "profit": -4,
+  "roi": -0.12,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 45 €, p25 33 € (n=14) → geneerinen ~39 € × 1.15 EU-taso",
+   "myynti grailed ~43 € → käteen ~29 € kulujen ja tinkimisen jälkeen",
+   "osto 17 € + toimitus = 33 €"
+  ],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2465094224",
+  "brand": "Paco Rabanne · Marktplaats 🇳🇱",
+  "title": "Vrachtwagen Geurhanger - Dior Sauvage & Paco Rabanne",
+  "price": 21.0,
+  "value": 84,
+  "score": 4.0,
+  "label": "🚨 INSANE",
+  "category": "muu",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/auto-diversen/auto-accessoires/m2465094224-vrachtwagen-geurhanger-dior-sauvage-paco-rabanne",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/928cafef-716b-4abe-b10e-e023e52c2526?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 54 €",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "1 EUR + ~20 € posti = 21 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794810092,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "marktplaats-m2466349542",
+  "brand": "Dior · Marktplaats 🇳🇱",
+  "title": "Christian Dior B30 Sneakers Maat 43 - Zo goed als nieuw",
+  "price": 100.0,
+  "value": 280,
+  "score": 2.8,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Zo goed als nieuw",
+  "size": "SHOES-EU-43",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2466349542-christian-dior-b30-sneakers-maat-43-zo-goed-als-nieuw",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/d1320da8-26eb-4d4d-8d60-f799b2820dda?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 145 €",
+   "Japanissa myyty mediaani 26 € (n=83)",
+   "kate ~2 € (ROI 2%, myy grailed ~147 €; brändiarvio ~210 € (ei mallivertailua eikä Yahoo-dataa))",
+   "80 EUR + ~20 € posti = 100 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794810092,
+  "resale": 147,
+  "profit": 2,
+  "roi": 0.02,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~210 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~147 € → käteen ~102 € kulujen ja tinkimisen jälkeen",
+   "osto 100 € + toimitus = 100 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2466365768",
+  "brand": "Dior · 2dehands 🇧🇪",
+  "title": "Dior tshirt",
+  "price": 80.0,
+  "value": 160,
+  "score": 2.0,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/kleding-heren/t-shirts/m2466365768-dior-tshirt",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/500bb425-0f15-4258-bb72-9d6230ccb1e9?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 145 €",
+   "Japanissa myyty (muu) mediaani 17 € (n=7)",
+   "⚠️ kate ~-73 € (ROI -92%, myy grailed ~10 €; Yahoo JP toteutuneet (muu): mediaani 17 €, p25 8 € (n=7) → geneerinen ~12 € × 1.15 EU-taso)",
+   "60 EUR + ~20 € posti = 80 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1794810092,
+  "resale": 10,
+  "profit": -73,
+  "roi": -0.92,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 17 €, p25 8 € (n=7) → geneerinen ~12 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~10 € → käteen ~7 € kulujen ja tinkimisen jälkeen",
+   "osto 80 € + toimitus = 80 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2465823096",
+  "brand": "Dior · 2dehands 🇧🇪",
+  "title": "Dior B30",
+  "price": 170.0,
+  "value": 160,
+  "score": 0.94,
+  "label": "💎 HARVINAINEN",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/kleding-heren/schoenen/m2465823096-dior-b30",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/21997874-462c-4bcc-8efb-49fd475801f0?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "harvinainen: mesh",
+   "Sellpyn mediaani tälle brändille 145 €",
+   "Japanissa myyty (muu) mediaani 17 € (n=7)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "150 EUR + ~20 € posti = 170 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1794810092,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "tori-49955209",
   "brand": "Comme des Garçons Homme Plus · Tori",
   "title": "Comme des Garcons Homme Plus t-paita",
