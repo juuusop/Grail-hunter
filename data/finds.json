@@ -1,5 +1,294 @@
 [
  {
+  "id": "tori-49901104",
+  "brand": "Dior · Tori",
+  "title": "Christian Dior dark navy suit jacket / blazer / bleiseri",
+  "price": 150.0,
+  "value": 304,
+  "score": 2.03,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49901104",
+  "image": "https://img.tori.net/dynamic/default/item/49901104/087348ae-62ce-4df6-9763-423ef022d9dd",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 142 €",
+   "Japanissa myyty mediaani 26 € (n=83)",
+   "⚠️ kate ~-46 € (ROI -29%, myy grailed ~160 €; brändiarvio ~228 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794846493,
+  "resale": 160,
+  "profit": -46,
+  "roi": -0.29,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~228 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~160 € → käteen ~111 € kulujen ja tinkimisen jälkeen",
+   "osto 150 € + toimitus = 157 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761420000",
+  "brand": "Isaac Sellam · Tradera 🇸🇪",
+  "title": "Isaac Sellam svart jacka, storlek MEDIUM",
+  "price": 522.0,
+  "value": 532,
+  "score": 1.02,
+  "label": "💎 HARVINAINEN",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1000692/761420000/isaac-sellam-svart-jacka-storlek-medium",
+  "image": "https://img.tradera.net/images/975/668567975_1947ecde-aaf8-4cc8-a6b5-3316c6be06b2.jpg",
+  "reasons": [
+   "harvinainen brändi",
+   "taso A",
+   "⚠️ kate ~-259 € (ROI -48%, myy grailed ~399 €; brändiarvio ~399 € (ei mallivertailua eikä Yahoo-dataa))",
+   "6000 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794846493,
+  "resale": 399,
+  "profit": -259,
+  "roi": -0.48,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~399 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~399 € → käteen ~279 € kulujen ja tinkimisen jälkeen",
+   "osto 522 € + toimitus = 538 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761049430",
+  "brand": "Visvim · Tradera 🇸🇪",
+  "title": "Visvim Lumbrar 8L bag",
+  "price": 43.5,
+  "value": 399,
+  "score": 9.17,
+  "label": "🚨 INSANE",
+  "category": "laukku",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/302662/761049430/visvim-lumbrar-8l-bag",
+  "image": "https://img.tradera.net/images/506/668280506_53df020d-5967-49a0-badb-132efe3ad517.jpg",
+  "reasons": [
+   "harvinainen brändi",
+   "taso S",
+   "Japanissa myyty mediaani 218 € (n=81)",
+   "💰 kate ~144 € (ROI 242%, myy vestiaire ~299 €; brändiarvio ~299 € (ei mallivertailua eikä Yahoo-dataa))",
+   "500 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794846494,
+  "resale": 299,
+  "profit": 144,
+  "roi": 2.42,
+  "exit": "vestiaire",
+  "resale_why": [
+   "brändiarvio ~299 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vestiaire ~299 € → käteen ~203 € kulujen ja tinkimisen jälkeen",
+   "osto 44 € + toimitus = 60 €"
+  ],
+  "risk": {
+   "fake": 4,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761213131",
+  "brand": "Visvim · Tradera 🇸🇪",
+  "title": "US9 . VISVIM . BRIGADIER BOOTS MID-FOLK . CAMEL",
+  "price": 454.14,
+  "value": 465,
+  "score": 1.03,
+  "label": "💎 HARVINAINEN",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340304/761213131/us9-visvim-brigadier-boots-mid-folk-camel",
+  "image": "https://img.tradera.net/images/975/668407975_d2d66c1c-7bcd-4486-b065-b81a439b2d8e.jpg",
+  "reasons": [
+   "harvinainen brändi",
+   "taso S",
+   "Japanissa myyty (kengät) mediaani 220 € (n=14)",
+   "⚠️ kate ~-308 € (ROI -65%, myy grailed ~233 €; Yahoo JP toteutuneet (kengät): mediaani 220 €, p25 130 € (n=14) → geneerinen ~175 € × 1.4 EU-taso)",
+   "5220 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794846494,
+  "resale": 233,
+  "profit": -308,
+  "roi": -0.65,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 220 €, p25 130 € (n=14) → geneerinen ~175 € × 1.4 EU-taso",
+   "myynti grailed ~233 € → käteen ~162 € kulujen ja tinkimisen jälkeen",
+   "osto 454 € + toimitus = 470 €"
+  ],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761231176",
+  "brand": "Visvim · Tradera 🇸🇪",
+  "title": "0 . VISVIM . LONG RIDER SHIRT L/S BLEACHED . *F.I.L. EXCLUSIVE . 0114105011019",
+  "price": 143.98,
+  "value": 266,
+  "score": 1.85,
+  "label": "💎 HARVINAINEN",
+  "category": "kauluspaita",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1000678/761231176/0-visvim-long-rider-shirt-l-s-bleached-f-i-l-exclusive-0114105011019",
+  "image": "https://img.tradera.net/images/976/652572976_954942d0-0722-4793-b8f6-9cc435420b5b.jpg",
+  "reasons": [
+   "harvinainen brändi",
+   "taso S",
+   "Japanissa myyty mediaani 218 € (n=81)",
+   "⚠️ kate ~-21 € (ROI -13%, myy grailed ~200 €; brändiarvio ~200 € (ei mallivertailua eikä Yahoo-dataa))",
+   "1655 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794846494,
+  "resale": 200,
+  "profit": -21,
+  "roi": -0.13,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~200 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~200 € → käteen ~139 € kulujen ja tinkimisen jälkeen",
+   "osto 144 € + toimitus = 160 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761212035",
+  "brand": "Visvim · Tradera 🇸🇪",
+  "title": "bnwt . visvim sport . vs walker slack shorts (ny/sf) . storlek 1. 0121308008002",
+  "price": 212.19,
+  "value": 299,
+  "score": 1.41,
+  "label": "💎 HARVINAINEN",
+  "category": "housut",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1000663/761212035/bnwt-visvim-sport-vs-walker-slack-shorts-ny-sf-storlek-1-0121308008002",
+  "image": "https://img.tradera.net/images/098/668407098_9cf00b28-2ba3-4933-9648-bce2fa9ee661.jpg",
+  "reasons": [
+   "harvinainen brändi",
+   "taso S",
+   "Japanissa myyty (housut) mediaani 367 € (n=16)",
+   "kate ~29 € (ROI 13%, myy grailed ~368 €; Yahoo JP toteutuneet (housut): mediaani 367 €, p25 186 € (n=16) → geneerinen ~276 € × 1.4 EU-taso)",
+   "2439 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794846494,
+  "resale": 368,
+  "profit": 29,
+  "roi": 0.13,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (housut): mediaani 367 €, p25 186 € (n=16) → geneerinen ~276 € × 1.4 EU-taso",
+   "myynti grailed ~368 € → käteen ~257 € kulujen ja tinkimisen jälkeen",
+   "osto 212 € + toimitus = 228 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761564861",
+  "brand": "Visvim · Tradera 🇸🇪",
+  "title": "M . AS NEW . VISVIM . MESA BLAZER (COTTON/PAPER) . VS0001739 . MADE IN JAPAN",
+  "price": 299.54,
+  "value": 612,
+  "score": 2.04,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1000679/761564861/m-as-new-visvim-mesa-blazer-cotton-paper-vs0001739-made-in-japan",
+  "image": "https://img.tradera.net/images/789/668676789_c8f59396-b11b-4201-bc86-abcc306e1f60.jpg",
+  "reasons": [
+   "harvinainen brändi",
+   "taso S",
+   "made in japan ×1.15",
+   "Japanissa myyty (takki) mediaani 360 € (n=21)",
+   "⚠️ kate ~-81 € (ROI -26%, myy grailed ~336 €; Yahoo JP toteutuneet (takki): mediaani 360 €, p25 145 € (n=21) → geneerinen ~252 € × 1.4 EU-taso)",
+   "3443 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794846494,
+  "resale": 336,
+  "profit": -81,
+  "roi": -0.26,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 360 €, p25 145 € (n=21) → geneerinen ~252 € × 1.4 EU-taso",
+   "myynti grailed ~336 € → käteen ~235 € kulujen ja tinkimisen jälkeen",
+   "osto 300 € + toimitus = 316 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
   "id": "3KrkDYZ1yR",
   "brand": "Gucci",
   "title": "Gucci Aurinkolasit GG2452/S",
