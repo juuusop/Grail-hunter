@@ -1,5 +1,220 @@
 [
  {
+  "id": "tori-49987331",
+  "brand": "Arc'teryx · Tori",
+  "title": "Arc'teryx Gore-Tex -takki M musta",
+  "price": 55.0,
+  "value": 292,
+  "score": 5.31,
+  "label": "🚨 INSANE",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49987331",
+  "image": "https://img.tori.net/dynamic/default/item/49987331/85a644b4-8008-4aaa-be91-7fb79eeed5f0",
+  "reasons": [
+   "taso B",
+   "gore-tex ×1.2",
+   "Sellpyn mediaani tälle brändille 95 €",
+   "Japanissa myyty (takki) mediaani 180 € (n=26)",
+   "kate ~16 € (ROI 27%, myy grailed ~113 €; Yahoo JP toteutuneet (takki): mediaani 180 €, p25 115 € (n=26) → geneerinen ~148 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794904345,
+  "resale": 113,
+  "profit": 16,
+  "roi": 0.27,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 180 €, p25 115 € (n=26) → geneerinen ~148 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~113 € → käteen ~78 € kulujen ja tinkimisen jälkeen",
+   "osto 55 € + toimitus = 62 €"
+  ],
+  "risk": {
+   "fake": 50,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-36788856",
+  "brand": "Helmut Lang · Tori",
+  "title": "Helmut Lang paita",
+  "price": 45.0,
+  "value": 114,
+  "score": 2.53,
+  "label": "🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/36788856",
+  "image": "https://img.tori.net/dynamic/default/item/36788856/8f41adba-ab95-4497-ae4f-6f9b320a9cc7",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 71 €",
+   "Japanissa myyty (muu) mediaani 71 € (n=43)",
+   "⚠️ kate ~-12 € (ROI -23%, myy grailed ~58 €; Yahoo JP toteutuneet (muu): mediaani 71 €, p25 35 € (n=43) → geneerinen ~53 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794904345,
+  "resale": 58,
+  "profit": -12,
+  "roi": -0.23,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 71 €, p25 35 € (n=43) → geneerinen ~53 € × 1.15 EU-taso",
+   "myynti grailed ~58 € → käteen ~40 € kulujen ja tinkimisen jälkeen",
+   "osto 45 € + toimitus = 52 €"
+  ],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-49990905",
+  "brand": "Alexander McQueen · Tori",
+  "title": "Alexander McQueen tennarit koko 43,5",
+  "price": 95.0,
+  "value": 200,
+  "score": 2.1,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "SHOES-EU-43",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49990905",
+  "image": "https://img.tori.net/dynamic/default/item/49990905/878e471e-ed73-4b56-9506-7a88a8258b40",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 124 €",
+   "Japanissa myyty (kengät) mediaani 56 € (n=5)",
+   "⚠️ kate ~-80 € (ROI -78%, myy grailed ~33 €; Yahoo JP toteutuneet (kengät): mediaani 56 €, p25 29 € (n=5) → geneerinen ~42 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794904345,
+  "resale": 33,
+  "profit": -80,
+  "roi": -0.78,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 56 €, p25 29 € (n=5) → geneerinen ~42 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~33 € → käteen ~22 € kulujen ja tinkimisen jälkeen",
+   "osto 95 € + toimitus = 102 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761306006",
+  "brand": "Yohji Yamamoto · Tradera 🇸🇪",
+  "title": "Y-3 Adidas Yohji Yamamoto sneakers svart/vit storlek 44",
+  "price": 52.11,
+  "value": 186,
+  "score": 3.57,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "SHOES-EU-44",
+  "link": "https://www.tradera.com/item/340304/761306006/y-3-adidas-yohji-yamamoto-sneakers-svart-vit-storlek-44",
+  "image": "https://img.tradera.net/images/830/668477830_1389a852-a0c8-4900-b353-737c528cc66c.jpg",
+  "reasons": [
+   "taso A",
+   "y-3 ×0.5",
+   "Japanissa myyty mediaani 57 € (n=63)",
+   "⚠️ kate ~-34 € (ROI -51%, myy grailed ~49 €; brändiarvio ~49 € (ei mallivertailua eikä Yahoo-dataa))",
+   "599 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794904345,
+  "resale": 49,
+  "profit": -34,
+  "roi": -0.51,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~49 € (ei mallivertailua eikä Yahoo-dataa)",
+   "massakollaboraatio/diffuusio 'adidas' ×0.35",
+   "myynti grailed ~49 € → käteen ~34 € kulujen ja tinkimisen jälkeen",
+   "osto 52 € + toimitus = 68 €"
+  ],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2466265176",
+  "brand": "Hermès · Marktplaats 🇳🇱",
+  "title": "Hermés grijs/groen wit",
+  "price": 140.0,
+  "value": 560,
+  "score": 4.0,
+  "label": "🚨 INSANE",
+  "category": "kengät",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2466265176-hermes-grijs-groen-wit",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/d773c194-64a8-4b42-99ac-401e827aade8?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso S",
+   "Sellpyn mediaani tälle brändille 145 €",
+   "Japanissa myyty (kengät) mediaani 386 € (n=8)",
+   "kate ~45 € (ROI 32%, myy grailed ~265 €; Yahoo JP toteutuneet (kengät): mediaani 386 €, p25 273 € (n=8) → geneerinen ~330 € × 1.15 EU-taso)",
+   "120 EUR + ~20 € posti = 140 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794904345,
+  "resale": 265,
+  "profit": 45,
+  "roi": 0.32,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 386 €, p25 273 € (n=8) → geneerinen ~330 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~265 € → käteen ~185 € kulujen ja tinkimisen jälkeen",
+   "osto 140 € + toimitus = 140 €"
+  ],
+  "risk": {
+   "fake": 65,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "bZrA27nWe8",
   "brand": "Max Mara",
   "title": "MaxMara Mekko",
