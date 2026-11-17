@@ -1,5 +1,5 @@
 {
- "generated": 1794917621,
+ "generated": 1794949983,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -145,14 +145,6 @@
     "price": 10.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/49907579",
     "image": "https://img.tori.net/dynamic/default/item/49907579/0ce49a5a-4fb8-4050-9763-183173ba2479"
-   },
-   {
-    "id": "tori-49522039",
-    "source": "tori",
-    "title": "Alumiininen kannettavan tietokoneen teline",
-    "price": 10.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49522039",
-    "image": "https://img.tori.net/dynamic/default/item/49522039/f2caa78e-3f01-40ec-aa74-0bd7610926b3"
    },
    {
     "id": "tori-48923937",
@@ -393,14 +385,6 @@
     "price": 34.23,
     "url": "https://www.tradera.com/item/1000651/756608819/desire2-laptopstall",
     "image": "https://img.tradera.net/images/181/664805181_67264947-e405-4d83-9809-744e6553cae7.jpg"
-   },
-   {
-    "id": "tori-49972074",
-    "source": "tori",
-    "title": "Säädettävä kannettavan tietokoneen teline – koottava",
-    "price": 35.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49972074",
-    "image": "https://img.tori.net/dynamic/default/item/49972074/dc8215db-f315-4139-a16a-ac17dc020f59"
    },
    {
     "id": "tori-47821945",
@@ -685,6 +669,14 @@
     "image": "https://img.tori.net/dynamic/default/item/47414896/ae051552-1498-4459-8c30-8e0e280e7afc"
    },
    {
+    "id": "tori-50053210",
+    "source": "tori",
+    "title": "Essentials monitorivarsi",
+    "price": 20.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/50053210",
+    "image": "https://img.tori.net/dynamic/default/item/50053210/1daaeeaf-ff68-415a-908d-df8a6fcd7b43"
+   },
+   {
     "id": "tori-49702688",
     "source": "tori",
     "title": "Deltaco monitorivarsi",
@@ -707,14 +699,6 @@
     "price": 25.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/47579506",
     "image": "https://img.tori.net/dynamic/default/item/47579506/284537f0-5109-4fca-83a5-147400d33a46"
-   },
-   {
-    "id": "tori-47168645",
-    "source": "tori",
-    "title": "Gembird MA-DA1-01 monitorivarsi 17–32\"",
-    "price": 25.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/47168645",
-    "image": "https://img.tori.net/dynamic/default/item/47168645/b6d3ef17-8a48-43e4-a3d3-9d24d40fa165"
    },
    {
     "id": "tori-46056108",
@@ -805,20 +789,20 @@
     "image": "https://img.tori.net/dynamic/default/item/45046764/75bc00e6-ef09-4dc0-b105-a695e564682e"
    },
    {
-    "id": "tradera-761534555",
-    "source": "tradera",
-    "title": "KOORUI KR20Y monitorarm för skrivbord",
-    "price": 36.66,
-    "url": "https://www.tradera.com/item/1000274/761534555/koorui-kr20y-monitorarm-for-skrivbord",
-    "image": "https://img.tradera.net/images/557/668654557_1829a2d2-8a7c-4a9e-a599-c61a16d2c1cc.jpg"
-   },
-   {
     "id": "tradera-761534831",
     "source": "tradera",
     "title": "KOORUI KR20Y monitorarm för skrivbord",
     "price": 36.66,
     "url": "https://www.tradera.com/item/1000274/761534831/koorui-kr20y-monitorarm-for-skrivbord",
     "image": "https://img.tradera.net/images/719/668654719_82eb972e-d0c4-42a5-b3be-85a1f09bab35.jpg"
+   },
+   {
+    "id": "tradera-761534555",
+    "source": "tradera",
+    "title": "KOORUI KR20Y monitorarm för skrivbord",
+    "price": 36.66,
+    "url": "https://www.tradera.com/item/1000274/761534555/koorui-kr20y-monitorarm-for-skrivbord",
+    "image": "https://img.tradera.net/images/557/668654557_1829a2d2-8a7c-4a9e-a599-c61a16d2c1cc.jpg"
    },
    {
     "id": "blocket-25629840",
@@ -845,20 +829,20 @@
     "image": "https://img.tradera.net/images/575/655962575_779796dd-1f5a-469b-b492-c8ec07d181e7.jpg"
    },
    {
-    "id": "tradera-757526267",
-    "source": "tradera",
-    "title": "Monitorarm för skrivbord, justerbar skärmhållare",
-    "price": 39.27,
-    "url": "https://www.tradera.com/item/1000274/757526267/monitorarm-for-skrivbord-justerbar-skarmhallare",
-    "image": "https://img.tradera.net/images/357/657386357_dfdd2b13-9f07-46c6-9248-8061dc7da032.jpg"
-   },
-   {
     "id": "tradera-761818945",
     "source": "tradera",
     "title": "Monitorarm för skrivbord, justerbar skärmhållare",
     "price": 39.27,
     "url": "https://www.tradera.com/item/1000274/761818945/monitorarm-for-skrivbord-justerbar-skarmhallare",
     "image": "https://img.tradera.net/images/408/660522408_675cfbe0-c1e8-4858-8ee2-5f9c8ca11bd6.jpg"
+   },
+   {
+    "id": "tradera-757526267",
+    "source": "tradera",
+    "title": "Monitorarm för skrivbord, justerbar skärmhållare",
+    "price": 39.27,
+    "url": "https://www.tradera.com/item/1000274/757526267/monitorarm-for-skrivbord-justerbar-skarmhallare",
+    "image": "https://img.tradera.net/images/357/657386357_dfdd2b13-9f07-46c6-9248-8061dc7da032.jpg"
    },
    {
     "id": "tori-45182530",
@@ -925,14 +909,6 @@
     "image": "https://img.tori.net/dynamic/default/item/46401494/8542e58b-d9cb-4dfb-8393-f7e6d9f43e00"
    },
    {
-    "id": "tradera-760534358",
-    "source": "tradera",
-    "title": "Deltaco Gaming WA95 Monitorarm - Vit",
-    "price": 48.93,
-    "url": "https://www.tradera.com/item/1000274/760534358/deltaco-gaming-wa95-monitorarm-vit",
-    "image": "https://img.tradera.net/images/756/667873756_4adbc72d-c023-40b1-a2fe-2f767c635951.jpg"
-   },
-   {
     "id": "blocket-27532060",
     "source": "blocket",
     "title": "Monitorarm med gasfjäder och bordsklämma, svart",
@@ -949,20 +925,20 @@
     "image": "https://img.tori.net/dynamic/default/2025/1/vertical-0/14/8/190/609/48_bd0db8aa-89d9-4a8b-a432-d8a1015ca9e6.jpg"
    },
    {
-    "id": "tradera-755647810",
-    "source": "tradera",
-    "title": "KOORUI Skärmarm för bildskärmar 17-32 tum",
-    "price": 49.71,
-    "url": "https://www.tradera.com/item/1000274/755647810/koorui-skarmarm-for-bildskarmar-17-32-tum",
-    "image": "https://img.tradera.net/images/461/655962461_deac2841-2ed7-4beb-964f-28d98a9952ad.jpg"
-   },
-   {
     "id": "tradera-751698148",
     "source": "tradera",
     "title": "KOORUI Skärmarm för bildskärmar 17-32 tum",
     "price": 49.71,
     "url": "https://www.tradera.com/item/1000274/751698148/koorui-skarmarm-for-bildskarmar-17-32-tum",
     "image": "https://img.tradera.net/images/990/655611990_897c64b5-aecb-4455-93f9-966585b15db2.jpg"
+   },
+   {
+    "id": "tradera-755647810",
+    "source": "tradera",
+    "title": "KOORUI Skärmarm för bildskärmar 17-32 tum",
+    "price": 49.71,
+    "url": "https://www.tradera.com/item/1000274/755647810/koorui-skarmarm-for-bildskarmar-17-32-tum",
+    "image": "https://img.tradera.net/images/461/655962461_deac2841-2ed7-4beb-964f-28d98a9952ad.jpg"
    },
    {
     "id": "blocket-26324794",
@@ -1021,6 +997,14 @@
     "image": "https://images.blocketcdn.se/dynamic/default/item/21952714/26a35f4f-df53-4d47-b9e6-2d33f5a0963d"
    },
    {
+    "id": "blocket-27997349",
+    "source": "blocket",
+    "title": "ICY BOX IB-MS504-T monitorarm för 2 skärmar",
+    "price": 58.5,
+    "url": "https://www.blocket.se/recommerce/forsale/item/27997349",
+    "image": "https://images.blocketcdn.se/dynamic/default/item/27997349/74598991-8e39-4ccb-80b6-616266166e25"
+   },
+   {
     "id": "tori-38969723",
     "source": "tori",
     "title": "Hyvä Dellin näyttö 32\", kaasujousivarsi ja näytön jalka",
@@ -1053,20 +1037,20 @@
     "image": "https://img.tradera.net/images/536/664172536_bb8b5c60-b5e5-4e62-8f65-1390d46532ad.jpg"
    },
    {
-    "id": "blocket-27997349",
-    "source": "blocket",
-    "title": "ICY BOX IB-MS504-T monitorarm för 2 skärmar",
-    "price": 75.9,
-    "url": "https://www.blocket.se/recommerce/forsale/item/27997349",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/27997349/74598991-8e39-4ccb-80b6-616266166e25"
-   },
-   {
     "id": "tori-49101961",
     "source": "tori",
     "title": "Vogel's premium-monitorivarsi 80 €/kpl (1 jäljellä)",
     "price": 80.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/49101961",
     "image": "https://img.tori.net/dynamic/default/item/49101961/b9fc9371-b56a-4d44-ad98-5a8b94c39fbb"
+   },
+   {
+    "id": "tori-50058751",
+    "source": "tori",
+    "title": "Dell MSA20 -näyttövarsi, uusi ja avaamaton",
+    "price": 90.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/50058751",
+    "image": "https://img.tori.net/dynamic/default/item/50058751/c4de5fec-959f-48b8-ac1d-154bdbbda49a"
    },
    {
     "id": "tori-38001781",
@@ -1091,6 +1075,14 @@
     "price": 106.35,
     "url": "https://www.blocket.se/recommerce/forsale/item/27532923",
     "image": "https://images.blocketcdn.se/dynamic/default/item/27532923/e26a111a-f2d2-4c63-b4c1-b7f876728423"
+   },
+   {
+    "id": "tradera-761852474",
+    "source": "tradera",
+    "title": "Monitorarm Kensington Smartfit för 2 monitorer | grå (med klämma)",
+    "price": 119.31,
+    "url": "https://www.tradera.com/item/1000274/761852474/monitorarm-kensington-smartfit-for-2-monitorer-gra-med-klamma-",
+    "image": "https://img.tradera.net/images/957/668904957_cd7c459c-3737-44ee-9ca9-83bfc835615d.jpg"
    },
    {
     "id": "blocket-25651452",
