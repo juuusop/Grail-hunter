@@ -22,7 +22,7 @@
    "price": 1.4,
    "title": "Hajuvesinäyte Dior Savage Elixir",
    "closed": "2026-10-11T16:43:23+0300",
-   "ts": 1794440756
+   "ts": 1794926936
   },
   "653191864": {
    "brand": "Miu Miu",
@@ -145,7 +145,7 @@
    "ts": 1794659260
   }
  },
- "i": 49,
+ "i": 89,
  "groups": {
   "Carpe Diem|muu": {
    "n": 1,
@@ -232,5 +232,5 @@
    "p75": 1.5
   }
  },
- "generated": 1794837452
+ "generated": 1794926974
 }
