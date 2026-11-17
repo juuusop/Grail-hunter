@@ -1,5 +1,95 @@
 [
  {
+  "id": "tori-49363355",
+  "brand": "Burberry · Tori",
+  "title": "Burberry takki",
+  "price": 50.0,
+  "value": 137,
+  "score": 2.74,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49363355",
+  "image": "https://img.tori.net/dynamic/default/item/49363355/3a38f576-952e-4316-8e80-78b26052f453",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 142 €",
+   "⚠️ kate ~-7 € (ROI -13%, myy grailed ~72 €; brändiarvio ~103 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1794875650,
+  "resale": 72,
+  "profit": -7,
+  "roi": -0.13,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~103 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~72 € → käteen ~50 € kulujen ja tinkimisen jälkeen",
+   "osto 50 € + toimitus = 57 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761750057",
+  "brand": "Rick Owens · Tradera 🇸🇪",
+  "title": "Rick Owens Stooges Leather Biker Vest",
+  "price": 407.25,
+  "value": 855,
+  "score": 2.1,
+  "label": "✅ DIILI",
+  "category": "nahkatakki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/344185/761750057/rick-owens-stooges-leather-biker-vest",
+  "image": "https://img.tradera.net/images/049/668821049_22fea8ce-808e-4281-8192-c35061653bd9.jpg",
+  "reasons": [
+   "taso A",
+   "leather ×1.4",
+   "stooges ×1.5",
+   "harvinainen: stooges",
+   "malli 'stooges' ~900 €",
+   "Sellpyn mediaani tälle brändille 154 €",
+   "Japanissa myyty mediaani 245 € (n=86)",
+   "⚠️ kate ~-5 € (ROI -1%, myy grailed ~598 €; malli 'stooges' ~900 € (taulukko: mainline-nahkatakit ovat Rickin arvokkain kategoria))",
+   "4681 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794875650,
+  "resale": 598,
+  "profit": -5,
+  "roi": -0.01,
+  "exit": "grailed",
+  "resale_why": [
+   "malli 'stooges' ~900 € (taulukko: mainline-nahkatakit ovat Rickin arvokkain kategoria)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~598 € → käteen ~418 € kulujen ja tinkimisen jälkeen",
+   "osto 407 € + toimitus = 423 €"
+  ],
+  "risk": {
+   "fake": 29,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
   "id": "y0kZ94kHdP",
   "brand": "Totême",
   "title": "Totême Käsineet",
