@@ -1,5 +1,5 @@
 {
- "generated": 1794854899,
+ "generated": 1794883140,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -209,6 +209,14 @@
     "price": 14.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/49670753",
     "image": "https://img.tori.net/dynamic/default/item/49670753/fdf1956e-a6be-4809-8bf8-e84679ed1b07"
+   },
+   {
+    "id": "tori-50019255",
+    "source": "tori",
+    "title": "Griffin kannettavan teline (ovh 85e)",
+    "price": 15.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/50019255",
+    "image": "https://img.tori.net/dynamic/default/item/50019255/4acaacb8-637c-4950-96c1-92beb2029f05"
    },
    {
     "id": "tori-46704929",
@@ -571,6 +579,14 @@
     "image": "https://images.blocketcdn.se/dynamic/default/item/26001124/df1ab904-b859-446e-afa6-e6d6fec9ab72"
    },
    {
+    "id": "tradera-761751087",
+    "source": "tradera",
+    "title": "Twelve South HiRise för MacBook – Höjdjusterbart laptopställ i aluminium",
+    "price": 62.76,
+    "url": "https://www.tradera.com/item/1000651/761751087/twelve-south-hirise-for-macbook-hojdjusterbart-laptopstall-i-aluminium",
+    "image": "https://img.tradera.net/images/757/668821757_27f07df9-56ce-4627-a1bc-06d196da0c06.jpg"
+   },
+   {
     "id": "blocket-22528144",
     "source": "blocket",
     "title": "Twelve South HiRise laptopställ aluminium silver",
@@ -781,12 +797,12 @@
     "image": "https://img.tradera.net/images/804/668065804_97427ce9-d44d-47f9-8b68-0a0f0305b30a.jpg"
    },
    {
-    "id": "tradera-753580065",
+    "id": "tradera-761780925",
     "source": "tradera",
     "title": "Monitorfäste med en arm för 13–27 tum platt och böjd skärm",
     "price": 34.57,
-    "url": "https://www.tradera.com/item/1000274/753580065/monitorfaste-med-en-arm-for-13-27-tum-platt-och-bojd-skarm",
-    "image": "https://img.tradera.net/images/861/662422861_31d75098-c7cd-429c-b768-b9ca4445f0a3.jpg"
+    "url": "https://www.tradera.com/item/1000274/761780925/monitorfaste-med-en-arm-for-13-27-tum-platt-och-bojd-skarm",
+    "image": "https://img.tradera.net/images/492/668846492_3937c1f8-d499-47d7-b59a-0b0c72476ac5.jpg"
    },
    {
     "id": "tori-45046764",
@@ -797,20 +813,20 @@
     "image": "https://img.tori.net/dynamic/default/item/45046764/75bc00e6-ef09-4dc0-b105-a695e564682e"
    },
    {
-    "id": "tradera-761534555",
-    "source": "tradera",
-    "title": "KOORUI KR20Y monitorarm för skrivbord",
-    "price": 36.66,
-    "url": "https://www.tradera.com/item/1000274/761534555/koorui-kr20y-monitorarm-for-skrivbord",
-    "image": "https://img.tradera.net/images/557/668654557_1829a2d2-8a7c-4a9e-a599-c61a16d2c1cc.jpg"
-   },
-   {
     "id": "tradera-761534831",
     "source": "tradera",
     "title": "KOORUI KR20Y monitorarm för skrivbord",
     "price": 36.66,
     "url": "https://www.tradera.com/item/1000274/761534831/koorui-kr20y-monitorarm-for-skrivbord",
     "image": "https://img.tradera.net/images/719/668654719_82eb972e-d0c4-42a5-b3be-85a1f09bab35.jpg"
+   },
+   {
+    "id": "tradera-761534555",
+    "source": "tradera",
+    "title": "KOORUI KR20Y monitorarm för skrivbord",
+    "price": 36.66,
+    "url": "https://www.tradera.com/item/1000274/761534555/koorui-kr20y-monitorarm-for-skrivbord",
+    "image": "https://img.tradera.net/images/557/668654557_1829a2d2-8a7c-4a9e-a599-c61a16d2c1cc.jpg"
    },
    {
     "id": "blocket-25629840",
@@ -1003,14 +1019,6 @@
     "price": 50.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/45557942",
     "image": "https://img.tori.net/dynamic/default/item/45557942/f4d44b06-5b9b-4cf7-8ade-0f0e1e4f9fe0"
-   },
-   {
-    "id": "tori-46087782",
-    "source": "tori",
-    "title": "LCD ViewMaster näytönvarsi pöytäkiinnityksellä",
-    "price": 55.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/46087782",
-    "image": "https://img.tori.net/dynamic/default/item/46087782/fd2badaa-8763-46c3-8cbf-c2715b0e6870"
    },
    {
     "id": "blocket-24642329",
