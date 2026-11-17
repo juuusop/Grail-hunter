@@ -1,5 +1,5 @@
 {
- "generated": 1794883140,
+ "generated": 1794917621,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -163,14 +163,6 @@
     "image": "https://img.tori.net/dynamic/default/item/48923937/f369c54e-a6f4-46e7-b275-bcfd1e5f11b5"
    },
    {
-    "id": "tori-49776127",
-    "source": "tori",
-    "title": "IKEA VATTENKAR - kannettavan tietokoneen teline",
-    "price": 10.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49776127",
-    "image": "https://img.tori.net/dynamic/default/item/49776127/4f044c50-1e9c-439f-b1d4-584c3cb86273"
-   },
-   {
     "id": "tori-39550314",
     "source": "tori",
     "title": "Ergowork kannettavan tietokoneen teline",
@@ -213,7 +205,7 @@
    {
     "id": "tori-50019255",
     "source": "tori",
-    "title": "Griffin kannettavan teline (ovh 85e)",
+    "title": "Griffin kannettavan teline",
     "price": 15.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/50019255",
     "image": "https://img.tori.net/dynamic/default/item/50019255/4acaacb8-637c-4950-96c1-92beb2029f05"
@@ -813,20 +805,20 @@
     "image": "https://img.tori.net/dynamic/default/item/45046764/75bc00e6-ef09-4dc0-b105-a695e564682e"
    },
    {
-    "id": "tradera-761534831",
-    "source": "tradera",
-    "title": "KOORUI KR20Y monitorarm för skrivbord",
-    "price": 36.66,
-    "url": "https://www.tradera.com/item/1000274/761534831/koorui-kr20y-monitorarm-for-skrivbord",
-    "image": "https://img.tradera.net/images/719/668654719_82eb972e-d0c4-42a5-b3be-85a1f09bab35.jpg"
-   },
-   {
     "id": "tradera-761534555",
     "source": "tradera",
     "title": "KOORUI KR20Y monitorarm för skrivbord",
     "price": 36.66,
     "url": "https://www.tradera.com/item/1000274/761534555/koorui-kr20y-monitorarm-for-skrivbord",
     "image": "https://img.tradera.net/images/557/668654557_1829a2d2-8a7c-4a9e-a599-c61a16d2c1cc.jpg"
+   },
+   {
+    "id": "tradera-761534831",
+    "source": "tradera",
+    "title": "KOORUI KR20Y monitorarm för skrivbord",
+    "price": 36.66,
+    "url": "https://www.tradera.com/item/1000274/761534831/koorui-kr20y-monitorarm-for-skrivbord",
+    "image": "https://img.tradera.net/images/719/668654719_82eb972e-d0c4-42a5-b3be-85a1f09bab35.jpg"
    },
    {
     "id": "blocket-25629840",
@@ -853,20 +845,20 @@
     "image": "https://img.tradera.net/images/575/655962575_779796dd-1f5a-469b-b492-c8ec07d181e7.jpg"
    },
    {
-    "id": "tradera-751112123",
-    "source": "tradera",
-    "title": "Monitorarm för skrivbord, justerbar skärmhållare",
-    "price": 39.27,
-    "url": "https://www.tradera.com/item/1000274/751112123/monitorarm-for-skrivbord-justerbar-skarmhallare",
-    "image": "https://img.tradera.net/images/408/660522408_675cfbe0-c1e8-4858-8ee2-5f9c8ca11bd6.jpg"
-   },
-   {
     "id": "tradera-757526267",
     "source": "tradera",
     "title": "Monitorarm för skrivbord, justerbar skärmhållare",
     "price": 39.27,
     "url": "https://www.tradera.com/item/1000274/757526267/monitorarm-for-skrivbord-justerbar-skarmhallare",
     "image": "https://img.tradera.net/images/357/657386357_dfdd2b13-9f07-46c6-9248-8061dc7da032.jpg"
+   },
+   {
+    "id": "tradera-761818945",
+    "source": "tradera",
+    "title": "Monitorarm för skrivbord, justerbar skärmhållare",
+    "price": 39.27,
+    "url": "https://www.tradera.com/item/1000274/761818945/monitorarm-for-skrivbord-justerbar-skarmhallare",
+    "image": "https://img.tradera.net/images/408/660522408_675cfbe0-c1e8-4858-8ee2-5f9c8ca11bd6.jpg"
    },
    {
     "id": "tori-45182530",
@@ -987,14 +979,6 @@
     "price": 50.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/19449340",
     "image": "https://img.tori.net/dynamic/default/2025/1/vertical-0/23/0/194/493/40_31c5d4b2-360f-4efa-a190-7e6e778258cf.jpg"
-   },
-   {
-    "id": "tori-48494710",
-    "source": "tori",
-    "title": "Ergotron S50-120 näytön varret",
-    "price": 50.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/48494710",
-    "image": "https://img.tori.net/dynamic/default/item/48494710/d80b2cd0-ff91-4dd4-9c72-67cd90864b09"
    },
    {
     "id": "tori-47000029",
