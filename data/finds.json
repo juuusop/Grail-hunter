@@ -1,5 +1,348 @@
 [
  {
+  "id": "tradera-761544787",
+  "brand": "Kansai Yamamoto · Tradera 🇸🇪",
+  "title": "1990s | Kansai Yamamoto | Kansai O2 | graphic knit sweater | Basara design",
+  "price": 190.96,
+  "value": 238,
+  "score": 1.24,
+  "label": "💎 HARVINAINEN",
+  "category": "neule",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1000656/761544787/1990s-kansai-yamamoto-kansai-o2-graphic-knit-sweater-basara-design",
+  "image": "https://img.tradera.net/images/787/638532787_a1777c8f-6152-4060-b298-66350bdde37a.jpg",
+  "reasons": [
+   "harvinainen brändi",
+   "taso B",
+   "Japanissa myyty (neule) mediaani 21 € (n=9)",
+   "⚠️ kate ~-197 € (ROI -95%, myy grailed ~15 €; Yahoo JP toteutuneet (neule): mediaani 21 €, p25 7 € (n=9) → geneerinen ~14 € × 1.15 EU-taso)",
+   "2195 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794938221,
+  "resale": 15,
+  "profit": -197,
+  "roi": -0.95,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (neule): mediaani 21 €, p25 7 € (n=9) → geneerinen ~14 € × 1.15 EU-taso",
+   "myynti grailed ~15 € → käteen ~10 € kulujen ja tinkimisen jälkeen",
+   "osto 191 € + toimitus = 207 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2467005359",
+  "brand": "Loro Piana · Marktplaats 🇳🇱",
+  "title": "Loro Piana Sneakers - Nieuw Maat 44",
+  "price": 170.0,
+  "value": 514,
+  "score": 3.03,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Nieuw",
+  "size": "SHOES-EU-44",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2467005359-loro-piana-sneakers-nieuw-maat-44",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/05b29dff-6c34-426f-bc93-2aa0a444b7cf?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 155 €",
+   "Japanissa myyty mediaani 120 € (n=100)",
+   "💰 kate ~99 € (ROI 58%, myy grailed ~386 €; brändiarvio ~386 € (ei mallivertailua eikä Yahoo-dataa))",
+   "150 EUR + ~20 € posti = 170 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794938221,
+  "resale": 386,
+  "profit": 99,
+  "roi": 0.58,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~386 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~386 € → käteen ~269 € kulujen ja tinkimisen jälkeen",
+   "osto 170 € + toimitus = 170 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2466686945",
+  "brand": "Loro Piana · Marktplaats 🇳🇱",
+  "title": "Loro Piana schoenen verschillende kleuren",
+  "price": 170.0,
+  "value": 735,
+  "score": 4.32,
+  "label": "🚨 INSANE",
+  "category": "kengät",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2466686945-loro-piana-schoenen-verschillende-kleuren",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/1dc36736-eb6e-4afe-b4fe-9cb02e06d12b?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "summer walk ×1.5",
+   "Sellpyn mediaani tälle brändille 155 €",
+   "Japanissa myyty mediaani 120 € (n=100)",
+   "💰 kate ~215 € (ROI 127%, myy grailed ~551 €; brändiarvio ~551 € (ei mallivertailua eikä Yahoo-dataa))",
+   "150 EUR + ~20 € posti = 170 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794938221,
+  "resale": 551,
+  "profit": 215,
+  "roi": 1.27,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~551 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~551 € → käteen ~385 € kulujen ja tinkimisen jälkeen",
+   "osto 170 € + toimitus = 170 €"
+  ],
+  "risk": {
+   "fake": 65,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2466993262",
+  "brand": "Loro Piana · Marktplaats 🇳🇱",
+  "title": "Loro Piana Summer Walk Loafers",
+  "price": 169.99,
+  "value": 735,
+  "score": 4.32,
+  "label": "🚨 INSANE",
+  "category": "kengät",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2466993262-loro-piana-summer-walk-loafers",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/c7a83203-bd18-4dec-9f32-996636ab1745?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "summer walk ×1.5",
+   "Sellpyn mediaani tälle brändille 155 €",
+   "Japanissa myyty mediaani 120 € (n=100)",
+   "💰 kate ~215 € (ROI 127%, myy grailed ~551 €; brändiarvio ~551 € (ei mallivertailua eikä Yahoo-dataa))",
+   "150 EUR + ~20 € posti = 170 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794938221,
+  "resale": 551,
+  "profit": 215,
+  "roi": 1.27,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~551 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~551 € → käteen ~385 € kulujen ja tinkimisen jälkeen",
+   "osto 170 € + toimitus = 170 €"
+  ],
+  "risk": {
+   "fake": 65,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2466143696",
+  "brand": "Comme des Garçons Homme · Marktplaats 🇳🇱",
+  "title": "Comme des Garçons Homme sweatshirt - Maat XL",
+  "price": 40.0,
+  "value": 112,
+  "score": 2.81,
+  "label": "🔥 KOVA DIILI",
+  "category": "huppari",
+  "condition": "Zo goed als nieuw",
+  "size": "MEN-INT-XL",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/truien-en-vesten/m2466143696-comme-des-garcons-homme-sweatshirt-maat-xl",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/9e033e14-8c9f-4e8d-9740-fc13b10ec660?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Japanissa myyty mediaani 59 € (n=41)",
+   "kate ~18 € (ROI 46%, myy grailed ~84 €; brändiarvio ~84 € (ei mallivertailua eikä Yahoo-dataa))",
+   "20 EUR + ~20 € posti = 40 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794938221,
+  "resale": 84,
+  "profit": 18,
+  "roi": 0.46,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~84 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~84 € → käteen ~58 € kulujen ja tinkimisen jälkeen",
+   "osto 40 € + toimitus = 40 €"
+  ],
+  "risk": {
+   "fake": 4,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "marktplaats-m2446746097",
+  "brand": "Louis Vuitton · Marktplaats 🇳🇱",
+  "title": "Louis Vuitton Run Away Sneaker Monogram Denim 41",
+  "price": 115.0,
+  "value": 240,
+  "score": 2.09,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2446746097-louis-vuitton-run-away-sneaker-monogram-denim-41",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/00f89d47-a980-4c6f-b537-4e4374badbc0?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 194 €",
+   "Japanissa myyty (muu) mediaani 14 € (n=11)",
+   "⚠️ kate ~-109 € (ROI -95%, myy grailed ~10 €; Yahoo JP toteutuneet (muu): mediaani 14 €, p25 10 € (n=11) → geneerinen ~12 € × 1.15 EU-taso)",
+   "95 EUR + ~20 € posti = 115 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794938221,
+  "resale": 10,
+  "profit": -109,
+  "roi": -0.95,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 14 €, p25 10 € (n=11) → geneerinen ~12 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~10 € → käteen ~6 € kulujen ja tinkimisen jälkeen",
+   "osto 115 € + toimitus = 115 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2448249162",
+  "brand": "Louis Vuitton · Marktplaats 🇳🇱",
+  "title": "Louis Vuitton Run Away Sneaker Monogram Denim 41 ✅",
+  "price": 115.0,
+  "value": 252,
+  "score": 2.19,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2448249162-louis-vuitton-run-away-sneaker-monogram-denim-41",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/9d26be21-5b42-4ad3-9fee-ab70f2900576?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 194 €",
+   "Japanissa myyty (muu) mediaani 14 € (n=11)",
+   "⚠️ kate ~-108 € (ROI -94%, myy grailed ~10 €; Yahoo JP toteutuneet (muu): mediaani 14 €, p25 10 € (n=11) → geneerinen ~12 € × 1.15 EU-taso)",
+   "95 EUR + ~20 € posti = 115 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794938221,
+  "resale": 10,
+  "profit": -108,
+  "roi": -0.94,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 14 €, p25 10 € (n=11) → geneerinen ~12 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~10 € → käteen ~7 € kulujen ja tinkimisen jälkeen",
+   "osto 115 € + toimitus = 115 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2453865835",
+  "brand": "Louis Vuitton · Marktplaats 🇳🇱",
+  "title": "Louis Vuitton Run Away Sneaker Monogram Denim 41",
+  "price": 115.0,
+  "value": 252,
+  "score": 2.19,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-dames/schoenen/m2453865835-louis-vuitton-run-away-sneaker-monogram-denim-41",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/1e29b1b4-02ff-4e10-9740-2f6ccf164116?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 194 €",
+   "Japanissa myyty (muu) mediaani 14 € (n=11)",
+   "⚠️ kate ~-108 € (ROI -94%, myy grailed ~10 €; Yahoo JP toteutuneet (muu): mediaani 14 €, p25 10 € (n=11) → geneerinen ~12 € × 1.15 EU-taso)",
+   "95 EUR + ~20 € posti = 115 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794938221,
+  "resale": 10,
+  "profit": -108,
+  "roi": -0.94,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 14 €, p25 10 € (n=11) → geneerinen ~12 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~10 € → käteen ~7 € kulujen ja tinkimisen jälkeen",
+   "osto 115 € + toimitus = 115 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "ockLhN1pdM",
   "brand": "Hermès",
   "title": "Hermès Muistilehtiö",
