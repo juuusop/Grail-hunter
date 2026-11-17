@@ -1,6 +1,6 @@
 # Feikki- ja kuntoriski löydöissä
 
-1252 löytöä (data/finds.json). Heuristiikka: risk.py.
+1259 löytöä (data/finds.json). Heuristiikka: risk.py.
 
 - korkea feikkiriski: **8%**, keskitaso: 20%
 - kulunut/huono kunto: **24%**, kunto ei tiedossa: 29%
@@ -9,9 +9,9 @@
 
 | alusta | n | feikki korkea | keski | kulunut/huono | kunto ? |
 |---|---|---|---|---|---|
-| sellpy.fi | 781 | 0% | 12% | 38% | 0% |
-| tradera.com | 207 | 4% | 35% | 0% | 100% |
-| tori.fi | 95 | 28% | 34% | 0% | 100% |
+| sellpy.fi | 786 | 0% | 12% | 37% | 0% |
+| tradera.com | 208 | 4% | 35% | 0% | 100% |
+| tori.fi | 96 | 28% | 34% | 0% | 100% |
 | marktplaats.nl | 70 | 46% | 26% | 11% | 7% |
 | 2dehands.be | 61 | 23% | 31% | 7% | 20% |
 | dba.dk | 13 | 46% | 31% | 0% | 100% |
@@ -22,17 +22,17 @@
 
 | kategoria | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
-| muu | 308 | 24% | 22% |
+| muu | 310 | 24% | 23% |
 | kengät | 249 | 53% | 27% |
-| takki | 228 | 27% | 25% |
-| housut | 161 | 5% | 22% |
+| takki | 231 | 27% | 24% |
+| housut | 162 | 5% | 22% |
 | neule | 96 | 10% | 20% |
 | t-paita | 50 | 24% | 38% |
 | huppari | 48 | 25% | 40% |
 | laukku | 46 | 57% | 9% |
 | kauluspaita | 45 | 0% | 33% |
 | asuste | 17 | 41% | 12% |
-| nahkatakki | 3 | 33% | 0% |
+| nahkatakki | 4 | 50% | 0% |
 | korut | 1 | 0% | 0% |
 
 ## Brändit, joissa eniten feikkiriskiä (n ≥ 3)
@@ -54,7 +54,7 @@
 | Brunello Cucinelli | 8 | 100% | 0% |
 | Alexander McQueen | 12 | 100% | 8% |
 | Arc'teryx | 15 | 93% | 0% |
-| Rick Owens | 12 | 92% | 8% |
+| Rick Owens | 13 | 92% | 8% |
 | Louis Vuitton | 8 | 88% | 12% |
 | Undercover | 5 | 80% | 0% |
 | Moncler | 19 | 79% | 37% |
