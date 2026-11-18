@@ -1,5 +1,340 @@
 [
  {
+  "id": "tradera-756771743",
+  "brand": "Celine · Tradera 🇸🇪",
+  "title": "Celine Axelremsväska Crossbody Väska Vintage",
+  "price": 139.2,
+  "value": 301,
+  "score": 2.16,
+  "label": "✅ DIILI",
+  "category": "laukku",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/302662/756771743/celine-axelremsvaska-crossbody-vaska-vintage",
+  "image": "https://img.tradera.net/images/299/664934299_27083a7a-e32a-4d92-a4a8-04e09a95c87d.jpg",
+  "reasons": [
+   "taso A",
+   "céline ×1.2",
+   "Sellpyn mediaani tälle brändille 156 €",
+   "Japanissa myyty (laukku) mediaani 124 € (n=31)",
+   "⚠️ kate ~-104 € (ROI -67%, myy vestiaire ~75 €; Yahoo JP toteutuneet (laukku): mediaani 124 €, p25 72 € (n=31) → geneerinen ~98 € × 1.15 EU-taso)",
+   "1600 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794963654,
+  "resale": 75,
+  "profit": -104,
+  "roi": -0.67,
+  "exit": "vestiaire",
+  "resale_why": [
+   "Yahoo JP toteutuneet (laukku): mediaani 124 €, p25 72 € (n=31) → geneerinen ~98 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti vestiaire ~75 € → käteen ~51 € kulujen ja tinkimisen jälkeen",
+   "osto 139 € + toimitus = 155 €"
+  ],
+  "risk": {
+   "fake": 51,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "laukku: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-760436577",
+  "brand": "Moncler · Tradera 🇸🇪",
+  "title": "Moncler vit t-shirt",
+  "price": 78.3,
+  "value": 167,
+  "score": 2.14,
+  "label": "✅ DIILI",
+  "category": "kauluspaita",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1000652/760436577/moncler-vit-t-shirt",
+  "image": "https://img.tradera.net/images/059/667799059_14979476-a192-4d67-b8a0-c223d8c1ad79.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 138 €",
+   "Japanissa myyty mediaani 172 € (n=91)",
+   "⚠️ kate ~-33 € (ROI -35%, myy grailed ~88 €; brändiarvio ~125 € (ei mallivertailua eikä Yahoo-dataa))",
+   "900 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1794963654,
+  "resale": 88,
+  "profit": -33,
+  "roi": -0.35,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~125 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~88 € → käteen ~61 € kulujen ja tinkimisen jälkeen",
+   "osto 78 € + toimitus = 94 €"
+  ],
+  "risk": {
+   "fake": 19,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "dba-26801379",
+  "brand": "Yohji Yamamoto · DBA 🇩🇰",
+  "title": "adidas y3 sneakers -  yohji yamamoto",
+  "price": 22.01,
+  "value": 372,
+  "score": 16.92,
+  "label": "🚨 INSANE",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.dba.dk/recommerce/forsale/item/26801379",
+  "image": "https://images.dbastatic.dk/dynamic/default/item/26801379/b3651221-3c45-4740-b28a-090d400444a3",
+  "reasons": [
+   "taso A",
+   "Japanissa myyty mediaani 57 € (n=63)",
+   "kate ~46 € (ROI 208%, myy grailed ~98 €; brändiarvio ~98 € (ei mallivertailua eikä Yahoo-dataa))",
+   "30 DKK + ~18 € posti = 22 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "dba",
+  "old_price": null,
+  "ts": 1794963655,
+  "resale": 98,
+  "profit": 46,
+  "roi": 2.08,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~98 € (ei mallivertailua eikä Yahoo-dataa)",
+   "massakollaboraatio/diffuusio 'adidas' ×0.35",
+   "myynti grailed ~98 € → käteen ~68 € kulujen ja tinkimisen jälkeen",
+   "osto 22 € + toimitus = 22 €"
+  ],
+  "risk": {
+   "fake": 4,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2466330119",
+  "brand": "Goyard · Marktplaats 🇳🇱",
+  "title": "Goyard  Toilettas Grijs | nieuw",
+  "price": 119.0,
+  "value": 252,
+  "score": 2.12,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/toilettassen/m2466330119-goyard-toilettas-grijs-nieuw",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/ebabcb0e-0c0b-4351-84ba-022901645552?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Japanissa myyty (muu) mediaani 421 € (n=44)",
+   "kate ~57 € (ROI 48%, myy grailed ~252 €; Yahoo JP toteutuneet (muu): mediaani 421 €, p25 175 € (n=44) → geneerinen ~298 € × 1.15 EU-taso)",
+   "99 EUR + ~20 € posti = 119 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794963655,
+  "resale": 252,
+  "profit": 57,
+  "roi": 0.48,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 421 €, p25 175 € (n=44) → geneerinen ~298 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~252 € → käteen ~176 € kulujen ja tinkimisen jälkeen",
+   "osto 119 € + toimitus = 119 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2466326021",
+  "brand": "Goyard · Marktplaats 🇳🇱",
+  "title": "Goyard Toilettas Groen | Nieuw",
+  "price": 119.0,
+  "value": 252,
+  "score": 2.12,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/tassen-damestassen/m2466326021-goyard-toilettas-groen-nieuw",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/5ae38e27-8bc9-4872-9168-f3faec74f871?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Japanissa myyty (muu) mediaani 421 € (n=44)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "99 EUR + ~20 € posti = 119 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794963655,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2466043083",
+  "brand": "Goyard · Marktplaats 🇳🇱",
+  "title": "Goyard tas in blauw - Stijlvolle schoudertas",
+  "price": 120.0,
+  "value": 240,
+  "score": 2.0,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/tassen-damestassen/m2466043083-goyard-tas-in-blauw-stijlvolle-schoudertas",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/22950913-bdde-4495-b24d-954cee0c4464?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Japanissa myyty (muu) mediaani 421 € (n=44)",
+   "kate ~47 € (ROI 40%, myy grailed ~240 €; Yahoo JP toteutuneet (muu): mediaani 421 €, p25 175 € (n=44) → geneerinen ~298 € × 1.15 EU-taso)",
+   "100 EUR + ~20 € posti = 120 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794963655,
+  "resale": 240,
+  "profit": 47,
+  "roi": 0.4,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 421 €, p25 175 € (n=44) → geneerinen ~298 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~240 € → käteen ~167 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 120 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2467062732",
+  "brand": "Yohji Yamamoto · Marktplaats 🇳🇱",
+  "title": "Nieuw Jurkje Y-3 Adidas/ Yohji Yamamoto",
+  "price": 58.0,
+  "value": 118,
+  "score": 2.03,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-dames/jurken/m2467062732-nieuw-jurkje-y-3-adidas-yohji-yamamoto",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/d3fb1364-a52a-4f4a-a70e-d70bbee13a18?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "y-3 ×0.5",
+   "Japanissa myyty (muu) mediaani 57 € (n=29)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "38 EUR + ~20 € posti = 58 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794963655,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "marktplaats-m2465106979",
+  "brand": "Maison Margiela · Marktplaats 🇳🇱",
+  "title": "Maison Margiela sneakers maat 45 - Navy Blauw",
+  "price": 134.99,
+  "value": 368,
+  "score": 2.72,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Nieuw",
+  "size": "SHOES-EU-45",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2465106979-maison-margiela-sneakers-maat-45-navy-blauw",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/e04056f0-29be-4550-b3e6-faabf48755d0?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 121 €",
+   "Japanissa myyty (kengät) mediaani 162 € (n=9)",
+   "⚠️ kate ~-59 € (ROI -43%, myy grailed ~110 €; Yahoo JP toteutuneet (kengät): mediaani 162 €, p25 98 € (n=9) → geneerinen ~130 € × 1.15 EU-taso)",
+   "115 EUR + ~20 € posti = 135 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1794963655,
+  "resale": 110,
+  "profit": -59,
+  "roi": -0.43,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 162 €, p25 98 € (n=9) → geneerinen ~130 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~110 € → käteen ~76 € kulujen ja tinkimisen jälkeen",
+   "osto 135 € + toimitus = 135 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "7SVIccfesf",
   "brand": "A.P.C.",
   "title": "A.P.C. Pullover",
