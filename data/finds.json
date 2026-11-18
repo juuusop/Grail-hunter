@@ -1,5 +1,732 @@
 [
  {
+  "id": "tori-50060785",
+  "brand": "Maison Margiela · Tori",
+  "title": "Maison Margiela kengät, koko 45",
+  "price": 120.0,
+  "value": 332,
+  "score": 2.77,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "SHOES-EU-45",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50060785",
+  "image": "https://img.tori.net/dynamic/default/item/50060785/0922fef8-e506-4d23-9642-9ffede514bf2",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 121 €",
+   "Japanissa myyty (kengät) mediaani 162 € (n=9)",
+   "⚠️ kate ~-58 € (ROI -46%, myy grailed ~99 €; Yahoo JP toteutuneet (kengät): mediaani 162 €, p25 98 € (n=9) → geneerinen ~130 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795023401,
+  "resale": 99,
+  "profit": -58,
+  "roi": -0.46,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 162 €, p25 98 € (n=9) → geneerinen ~130 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~99 € → käteen ~69 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 127 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-49392096",
+  "brand": "Maison Margiela · Tori",
+  "title": "Maison Margiela tennarit koko 43",
+  "price": 130.0,
+  "value": 332,
+  "score": 2.56,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "SHOES-EU-43",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49392096",
+  "image": "https://img.tori.net/dynamic/default/item/49392096/8dff1b6b-22a7-4241-b8cd-522828d53405",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 121 €",
+   "Japanissa myyty (kengät) mediaani 162 € (n=9)",
+   "⚠️ kate ~-68 € (ROI -50%, myy grailed ~99 €; Yahoo JP toteutuneet (kengät): mediaani 162 €, p25 98 € (n=9) → geneerinen ~130 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795023401,
+  "resale": 99,
+  "profit": -68,
+  "roi": -0.5,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 162 €, p25 98 € (n=9) → geneerinen ~130 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~99 € → käteen ~69 € kulujen ja tinkimisen jälkeen",
+   "osto 130 € + toimitus = 137 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50083737",
+  "brand": "Undercover · Tori",
+  "title": "Undercover Team GIRA käännettävä liivi, FW2010, koko 4 (L–XL), Made in Japan",
+  "price": 145.0,
+  "value": 262,
+  "score": 1.81,
+  "label": "💎 HARVINAINEN",
+  "category": "muu",
+  "condition": "-",
+  "size": "MEN-INT-XL",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50083737",
+  "image": "https://img.tori.net/dynamic/default/item/50083737/787a735d-f0b5-42cc-8145-5089bed976df",
+  "reasons": [
+   "taso A",
+   "made in japan ×1.15",
+   "sesonkikoodi FW2010",
+   "Sellpyn mediaani tälle brändille 30 €",
+   "Japanissa myyty (muu) mediaani 96 € (n=15)",
+   "⚠️ kate ~-91 € (ROI -60%, myy grailed ~88 €; Yahoo JP toteutuneet (muu): mediaani 96 €, p25 37 € (n=15) → geneerinen ~66 € × 1.4 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795023401,
+  "resale": 88,
+  "profit": -91,
+  "roi": -0.6,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 96 €, p25 37 € (n=15) → geneerinen ~66 € × 1.4 EU-taso",
+   "myynti grailed ~88 € → käteen ~61 € kulujen ja tinkimisen jälkeen",
+   "osto 145 € + toimitus = 152 €"
+  ],
+  "risk": {
+   "fake": 18,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50084632",
+  "brand": "Canada Goose · Tori",
+  "title": "Canada Goose untuvatakki",
+  "price": 90.0,
+  "value": 380,
+  "score": 4.22,
+  "label": "🚨 INSANE",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50084632",
+  "image": "https://img.tori.net/dynamic/default/item/50084632/acb0eb79-52e2-4824-baa5-12f973767ac0",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 169 €",
+   "Japanissa myyty (takki) mediaani 278 € (n=27)",
+   "kate ~34 € (ROI 35%, myy grailed ~188 €; Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795023401,
+  "resale": 188,
+  "profit": 34,
+  "roi": 0.35,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~188 € → käteen ~131 € kulujen ja tinkimisen jälkeen",
+   "osto 90 € + toimitus = 97 €"
+  ],
+  "risk": {
+   "fake": 50,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50089328",
+  "brand": "Canada Goose · Tori",
+  "title": "Canada Goose Montebello parka",
+  "price": 150.0,
+  "value": 380,
+  "score": 2.53,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50089328",
+  "image": "https://img.tori.net/dynamic/default/item/50089328/bd7d09c0-4375-4b94-9e5f-2080c82dfa7f",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 169 €",
+   "Japanissa myyty (takki) mediaani 278 € (n=27)",
+   "⚠️ kate ~-26 € (ROI -16%, myy grailed ~188 €; Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795023401,
+  "resale": 188,
+  "profit": -26,
+  "roi": -0.16,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~188 € → käteen ~131 € kulujen ja tinkimisen jälkeen",
+   "osto 150 € + toimitus = 157 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50088250",
+  "brand": "Canada Goose · Tori",
+  "title": "Canada Goose -takki",
+  "price": 150.0,
+  "value": 380,
+  "score": 2.53,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50088250",
+  "image": "https://img.tori.net/dynamic/default/item/50088250/8f76cb93-0d93-459b-827a-4399089a5490",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 169 €",
+   "Japanissa myyty (takki) mediaani 278 € (n=27)",
+   "⚠️ kate ~-26 € (ROI -16%, myy grailed ~188 €; Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795023401,
+  "resale": 188,
+  "profit": -26,
+  "roi": -0.16,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~188 € → käteen ~131 € kulujen ja tinkimisen jälkeen",
+   "osto 150 € + toimitus = 157 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50060971",
+  "brand": "Canada Goose · Tori",
+  "title": "Canada goose bomber takki",
+  "price": 150.0,
+  "value": 380,
+  "score": 2.53,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50060971",
+  "image": "https://img.tori.net/dynamic/default/item/50060971/78086c6d-8c0e-47ef-a6fd-65d86d095a33",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 169 €",
+   "Japanissa myyty (takki) mediaani 278 € (n=27)",
+   "⚠️ kate ~-26 € (ROI -16%, myy grailed ~188 €; Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795023401,
+  "resale": 188,
+  "profit": -26,
+  "roi": -0.16,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~188 € → käteen ~131 € kulujen ja tinkimisen jälkeen",
+   "osto 150 € + toimitus = 157 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50048270",
+  "brand": "Canada Goose · Tori",
+  "title": "Canada goose beige takki",
+  "price": 120.0,
+  "value": 380,
+  "score": 3.17,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50048270",
+  "image": "https://img.tori.net/dynamic/default/item/50048270/35736e1c-4bfd-4b6f-8f24-e64bb5151025",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 169 €",
+   "Japanissa myyty (takki) mediaani 278 € (n=27)",
+   "kate ~4 € (ROI 3%, myy grailed ~188 €; Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795023401,
+  "resale": 188,
+  "profit": 4,
+  "roi": 0.03,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~188 € → käteen ~131 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 127 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-49989233",
+  "brand": "Canada Goose · Tori",
+  "title": "Canada Goose Parka, coyote-reunus",
+  "price": 80.0,
+  "value": 380,
+  "score": 4.75,
+  "label": "🚨 INSANE",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49989233",
+  "image": "https://img.tori.net/dynamic/default/item/49989233/54783d52-4bc6-4d37-b7bb-9c729382b805",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 169 €",
+   "Japanissa myyty (takki) mediaani 278 € (n=27)",
+   "kate ~44 € (ROI 51%, myy grailed ~188 €; Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795023401,
+  "resale": 188,
+  "profit": 44,
+  "roi": 0.51,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~188 € → käteen ~131 € kulujen ja tinkimisen jälkeen",
+   "osto 80 € + toimitus = 87 €"
+  ],
+  "risk": {
+   "fake": 50,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-49985878",
+  "brand": "Canada Goose · Tori",
+  "title": "Canada Goose tikattu takki, musta, L",
+  "price": 110.0,
+  "value": 380,
+  "score": 3.45,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49985878",
+  "image": "https://img.tori.net/dynamic/default/item/49985878/31ff0bdd-5b6b-4839-ae0d-9ec20e6e5d55",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 169 €",
+   "Japanissa myyty (takki) mediaani 278 € (n=27)",
+   "kate ~14 € (ROI 12%, myy grailed ~188 €; Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795023401,
+  "resale": 188,
+  "profit": 14,
+  "roi": 0.12,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~188 € → käteen ~131 € kulujen ja tinkimisen jälkeen",
+   "osto 110 € + toimitus = 117 €"
+  ],
+  "risk": {
+   "fake": 50,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761362276",
+  "brand": "Private White V.C. · Tradera 🇸🇪",
+  "title": "Private White V.C. beige och vit randig skjorta, storlek 5 (M)",
+  "price": 43.41,
+  "value": 152,
+  "score": 3.5,
+  "label": "🔥 KOVA DIILI",
+  "category": "kauluspaita",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1000678/761362276/private-white-v-c-beige-och-vit-randig-skjorta-storlek-5-m-",
+  "image": "https://img.tradera.net/images/187/668523187_95e517bc-e647-44b1-b762-863a4e099b57.jpg",
+  "reasons": [
+   "taso B",
+   "Japanissa myyty mediaani 85 € (n=7)",
+   "kate ~20 € (ROI 33%, myy grailed ~114 €; brändiarvio ~114 € (ei mallivertailua eikä Yahoo-dataa))",
+   "499 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1795023402,
+  "resale": 114,
+  "profit": 20,
+  "roi": 0.33,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~114 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~114 € → käteen ~79 € kulujen ja tinkimisen jälkeen",
+   "osto 43 € + toimitus = 59 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761459761",
+  "brand": "Mackintosh · Tradera 🇸🇪",
+  "title": "Mackintosh Väst Herr Storlek Medium Ull Brun Grå Rutigt Mönster Skottland",
+  "price": 34.71,
+  "value": 152,
+  "score": 4.38,
+  "label": "🚨 INSANE",
+  "category": "muu",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1637/761459761/mackintosh-vast-herr-storlek-medium-ull-brun-gra-rutigt-monster-skottland",
+  "image": "https://img.tradera.net/images/832/668600832_eff73902-341b-44d0-82dd-d01f3df245ec.jpg",
+  "reasons": [
+   "taso B",
+   "Japanissa myyty (muu) mediaani 28 € (n=38)",
+   "⚠️ kate ~-38 € (ROI -75%, myy grailed ~19 €; Yahoo JP toteutuneet (muu): mediaani 28 €, p25 6 € (n=38) → geneerinen ~17 € × 1.15 EU-taso)",
+   "399 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1795023402,
+  "resale": 19,
+  "profit": -38,
+  "roi": -0.75,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 28 €, p25 6 € (n=38) → geneerinen ~17 € × 1.15 EU-taso",
+   "myynti grailed ~19 € → käteen ~13 € kulujen ja tinkimisen jälkeen",
+   "osto 35 € + toimitus = 51 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761817380",
+  "brand": "Vetements · Tradera 🇸🇪",
+  "title": "Vetements svarta byxor med volym vid knäna",
+  "price": 60.9,
+  "value": 154,
+  "score": 2.53,
+  "label": "🔥 KOVA DIILI",
+  "category": "housut",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1631/761817380/vetements-svarta-byxor-med-volym-vid-knana",
+  "image": "https://img.tradera.net/images/425/660521425_67e1e34b-5350-4028-9f37-78656f2bf606.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 142 €",
+   "Japanissa myyty (housut) mediaani 110 € (n=10)",
+   "⚠️ kate ~-4 € (ROI -6%, myy grailed ~104 €; Yahoo JP toteutuneet (housut): mediaani 110 €, p25 81 € (n=10) → geneerinen ~96 € × 1.15 EU-taso)",
+   "700 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1795023402,
+  "resale": 104,
+  "profit": -4,
+  "roi": -0.06,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (housut): mediaani 110 €, p25 81 € (n=10) → geneerinen ~96 € × 1.15 EU-taso",
+   "myynti grailed ~104 € → käteen ~73 € kulujen ja tinkimisen jälkeen",
+   "osto 61 € + toimitus = 77 €"
+  ],
+  "risk": {
+   "fake": 10,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761253931",
+  "brand": "Isabel Marant · Tradera 🇸🇪",
+  "title": "Isabel Marant Dileskoa-jeans",
+  "price": 28.71,
+  "value": 94,
+  "score": 3.28,
+  "label": "🔥 KOVA DIILI",
+  "category": "housut",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340326/761253931/isabel-marant-dileskoa-jeans",
+  "image": "https://img.tradera.net/images/962/668438962_f4e95571-119a-46e7-8da6-78df0edb2453.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 118 €",
+   "kate ~4 € (ROI 9%, myy grailed ~70 €; brändiarvio ~70 € (ei mallivertailua eikä Yahoo-dataa))",
+   "330 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1795023402,
+  "resale": 70,
+  "profit": 4,
+  "roi": 0.09,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~70 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~70 € → käteen ~49 € kulujen ja tinkimisen jälkeen",
+   "osto 29 € + toimitus = 45 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "blocket-27684800",
+  "brand": "Saint Laurent · Blocket 🇸🇪",
+  "title": "Saint Laurent sneakers tyg stl 44 vit med palmtryck",
+  "price": 145.5,
+  "value": 293,
+  "score": 2.01,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "SHOES-EU-44",
+  "link": "https://www.blocket.se/recommerce/forsale/item/27684800",
+  "image": "https://images.blocketcdn.se/dynamic/default/item/27684800/b7fa02ee-6435-4c7b-973a-bab6fb4f7721",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 156 €",
+   "Japanissa myyty mediaani 8 € (n=86)",
+   "⚠️ kate ~-38 € (ROI -26%, myy grailed ~154 €; brändiarvio ~220 € (ei mallivertailua eikä Yahoo-dataa))",
+   "1500 SEK + ~15 € posti = 146 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "blocket",
+  "old_price": null,
+  "ts": 1795023402,
+  "resale": 154,
+  "profit": -38,
+  "roi": -0.26,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~220 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~154 € → käteen ~107 € kulujen ja tinkimisen jälkeen",
+   "osto 146 € + toimitus = 146 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "blocket-27684705",
+  "brand": "Saint Laurent · Blocket 🇸🇪",
+  "title": "Saint Laurent sneakers läder stl 44 vita",
+  "price": 145.5,
+  "value": 293,
+  "score": 2.01,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "SHOES-EU-44",
+  "link": "https://www.blocket.se/recommerce/forsale/item/27684705",
+  "image": "https://images.blocketcdn.se/dynamic/default/item/27684705/34389063-7e6e-4b82-8ce7-cc919b2649cb",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 156 €",
+   "Japanissa myyty mediaani 8 € (n=86)",
+   "⚠️ kate ~-38 € (ROI -26%, myy grailed ~154 €; brändiarvio ~220 € (ei mallivertailua eikä Yahoo-dataa))",
+   "1500 SEK + ~15 € posti = 146 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "blocket",
+  "old_price": null,
+  "ts": 1795023402,
+  "resale": 154,
+  "profit": -38,
+  "roi": -0.26,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~220 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~154 € → käteen ~107 € kulujen ja tinkimisen jälkeen",
+   "osto 146 € + toimitus = 146 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2465581845",
+  "brand": "Tom Ford · Marktplaats 🇳🇱",
+  "title": "Tom Ford - Noir EDP sample",
+  "price": 23.5,
+  "value": 260,
+  "score": 11.06,
+  "label": "🚨 INSANE",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/uiterlijk-parfum/m2465581845-tom-ford-noir-edp-sample",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/116ad376-3c46-4c70-aedd-ec5093f4fc86?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "sample ×1.3",
+   "harvinainen: sample",
+   "Sellpyn mediaani tälle brändille 128 €",
+   "Japanissa myyty (muu) mediaani 67 € (n=59)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "4 EUR + ~20 € posti = 24 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795023402,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 29,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "hinta vain 9% arvosta",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "G5D2dOIulV",
   "brand": "Jil Sander",
   "title": "Jil Sander Aurinkolasit",
