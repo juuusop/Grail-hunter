@@ -1,5 +1,5 @@
 {
- "generated": 1794949983,
+ "generated": 1794971121,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -1053,6 +1053,14 @@
     "image": "https://img.tori.net/dynamic/default/item/50058751/c4de5fec-959f-48b8-ac1d-154bdbbda49a"
    },
    {
+    "id": "blocket-28344053",
+    "source": "blocket",
+    "title": "Ergotron LX skärmarm 45-241-224 - Svart - Mycket fint skick",
+    "price": 93.21,
+    "url": "https://www.blocket.se/recommerce/forsale/item/28344053",
+    "image": "https://images.blocketcdn.se/dynamic/default/item/28344053/012f716b-6374-4058-95d2-485b9593b6b2"
+   },
+   {
     "id": "tori-38001781",
     "source": "tori",
     "title": "Monitorivarsi Deltaco Gaming valkoinen RGB",
@@ -1131,6 +1139,14 @@
     "price": 276.0,
     "url": "https://www.blocket.se/recommerce/forsale/item/23049442",
     "image": "https://images.blocketcdn.se/dynamic/default/item/23049442/47b77dbc-0bdb-4c92-b873-5548b4e18354"
+   },
+   {
+    "id": "tradera-756619928",
+    "source": "tradera",
+    "title": "GRUNDIG MillPlus Monitor, Bildskärm",
+    "price": 993.75,
+    "url": "https://www.tradera.com/item/2805/756619928/grundig-millplus-monitor-bildskarm",
+    "image": "https://img.tradera.net/images/731/660755731_c856ddbc-db6a-435f-9dfa-d411a3568b78.jpg"
    }
   ]
  }
