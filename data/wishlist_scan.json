@@ -1,15 +1,7 @@
 {
- "generated": 1795003431,
+ "generated": 1795035122,
  "items": {
   "Läppäriteline MacBookille": [
-   {
-    "id": "tori-50082218",
-    "source": "tori",
-    "title": "Saadettava alumiini kannettavan/tabletin/kirjan teline",
-    "price": 0.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/50082218",
-    "image": "https://img.tori.net/dynamic/default/item/50082218/42ef2bc6-da96-4443-b51e-b9a0e20990e6"
-   },
    {
     "id": "tori-32382607",
     "source": "tori",
@@ -147,12 +139,12 @@
     "image": "https://img.tori.net/dynamic/default/item/48151642/8a479cd1-3e61-4bac-b0b7-6a1b4130c5b1"
    },
    {
-    "id": "tori-49907579",
+    "id": "tori-50082218",
     "source": "tori",
-    "title": "Alumiininen kannettavan tietokoneen teline",
+    "title": "Saadettava alumiini kannettavan/tabletin/kirjan teline",
     "price": 10.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49907579",
-    "image": "https://img.tori.net/dynamic/default/item/49907579/0ce49a5a-4fb8-4050-9763-183173ba2479"
+    "url": "https://www.tori.fi/recommerce/forsale/item/50082218",
+    "image": "https://img.tori.net/dynamic/default/item/50082218/42ef2bc6-da96-4443-b51e-b9a0e20990e6"
    },
    {
     "id": "tori-48923937",
@@ -283,28 +275,20 @@
     "image": "https://img.tori.net/dynamic/default/item/49903741/73822b70-bc5b-4e4e-94de-016ace3adc4e"
    },
    {
+    "id": "tradera-762037958",
+    "source": "tradera",
+    "title": "Deltaco laptopställ, justerbart",
+    "price": 21.52,
+    "url": "https://www.tradera.com/item/1000651/762037958/deltaco-laptopstall-justerbart",
+    "image": "https://img.tradera.net/images/568/669052568_c267eae7-3bd0-4cdb-9191-6f99cd54e9bc.jpg"
+   },
+   {
     "id": "tradera-758802063",
     "source": "tradera",
     "title": "IKEA SIGFINN bildskärms- eller laptopställ",
     "price": 21.52,
     "url": "https://www.tradera.com/item/1000651/758802063/ikea-sigfinn-bildskarms-eller-laptopstall",
     "image": "https://img.tradera.net/images/781/666530781_72235632-23a5-441c-ba19-f6108c6f844e.jpg"
-   },
-   {
-    "id": "tradera-761307307",
-    "source": "tradera",
-    "title": "Clas Ohlson Laptopställ Single, justerbart",
-    "price": 22.74,
-    "url": "https://www.tradera.com/item/1000651/761307307/clas-ohlson-laptopstall-single-justerbart",
-    "image": "https://img.tradera.net/images/950/668478950_38303dc3-d42e-4b1f-b3ee-cc3c5007afe6.jpg"
-   },
-   {
-    "id": "tradera-760757100",
-    "source": "tradera",
-    "title": "Deltaco laptopställ, justerbart",
-    "price": 22.83,
-    "url": "https://www.tradera.com/item/1000651/760757100/deltaco-laptopstall-justerbart",
-    "image": "https://img.tradera.net/images/231/668054231_fca76489-374d-4051-886d-dca1cc13dd53.jpg"
    },
    {
     "id": "blocket-25689995",
@@ -605,14 +589,6 @@
   ],
   "Näyttövarsi yhdelle näytölle": [
    {
-    "id": "tori-49889400",
-    "source": "tori",
-    "title": "näyttövarsi",
-    "price": 10.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49889400",
-    "image": "https://img.tori.net/dynamic/default/item/49889400/83196c72-d14c-4785-b413-1d32a1ccb02f"
-   },
-   {
     "id": "tori-47823822",
     "source": "tori",
     "title": "Näytön pöytäteline / monitorivarsi",
@@ -675,6 +651,14 @@
     "price": 20.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/50053210",
     "image": "https://img.tori.net/dynamic/default/item/50053210/1daaeeaf-ff68-415a-908d-df8a6fcd7b43"
+   },
+   {
+    "id": "tori-50088262",
+    "source": "tori",
+    "title": "Alterzone Arm One monitorivarsi 17”-32”",
+    "price": 20.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/50088262",
+    "image": "https://img.tori.net/dynamic/default/item/50088262/0a7a33ef-049d-4738-b598-8dd4cbd92695"
    },
    {
     "id": "tori-49702688",
@@ -1021,6 +1005,14 @@
     "image": "https://img.tori.net/dynamic/default/item/38969723/8a20a381-56d6-4260-a1ac-1de3111be3e1"
    },
    {
+    "id": "tori-50086787",
+    "source": "tori",
+    "title": "Vogel’s premium-monitorivarsi, hopeinen – 1 jäljellä, läpivientikiinnitys",
+    "price": 75.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/50086787",
+    "image": "https://img.tori.net/dynamic/default/item/50086787/cff6667f-6dfc-41b2-85ce-0ccbe0e996b3"
+   },
+   {
     "id": "tori-47756932",
     "source": "tori",
     "title": "Monitorivarsi Vogel PFD 8522",
@@ -1043,14 +1035,6 @@
     "price": 75.9,
     "url": "https://www.tradera.com/item/302388/755801816/invision-mx450-ergonomisk-gasassisterad-skarmarm",
     "image": "https://img.tradera.net/images/536/664172536_bb8b5c60-b5e5-4e62-8f65-1390d46532ad.jpg"
-   },
-   {
-    "id": "tori-49101961",
-    "source": "tori",
-    "title": "Vogel's premium-monitorivarsi 80 €/kpl (1 jäljellä)",
-    "price": 80.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49101961",
-    "image": "https://img.tori.net/dynamic/default/item/49101961/b9fc9371-b56a-4d44-ad98-5a8b94c39fbb"
    },
    {
     "id": "tori-50058751",
