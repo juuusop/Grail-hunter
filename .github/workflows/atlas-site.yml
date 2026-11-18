@@ -1,0 +1,50 @@
+name: Atlas site
+
+# Public copy of the Grail Atlas at https://juuusop.github.io/grail-hunter/ (for sharing without claude.ai access).
+# Rebuilt hourly from the latest scan data + after new sharp pictures; force-pushed as a single commit to `gh-pages`.
+on:
+  schedule:
+    - cron: "25 * * * *"
+  workflow_run:
+    workflows: ["Atlas images"]
+    types: [completed]
+  push:
+    branches: [claude/designer-thrift-scraper-KF3Wi]
+    paths: [atlas/**, .github/workflows/atlas-site.yml]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atlas-site
+  cancel-in-progress: true
+
+jobs:
+  site:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: claude/designer-thrift-scraper-KF3Wi
+      - uses: actions/checkout@v4
+        with:
+          ref: atlas-images
+          path: _atlas_images
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt Pillow
+      - run: python atlas/build_page.py . "$RUNNER_TEMP/site/index.html" _atlas_images
+      - name: Push gh-pages
+        run: |
+          cd "$RUNNER_TEMP/site"
+          touch .nojekyll
+          git init -q -b gh-pages
+          git config user.name "grail-hunter-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Atlas site [skip ci]"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" gh-pages
