@@ -1,7 +1,15 @@
 {
- "generated": 1794971121,
+ "generated": 1795003431,
  "items": {
   "Läppäriteline MacBookille": [
+   {
+    "id": "tori-50082218",
+    "source": "tori",
+    "title": "Saadettava alumiini kannettavan/tabletin/kirjan teline",
+    "price": 0.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/50082218",
+    "image": "https://img.tori.net/dynamic/default/item/50082218/42ef2bc6-da96-4443-b51e-b9a0e20990e6"
+   },
    {
     "id": "tori-32382607",
     "source": "tori",
@@ -197,7 +205,7 @@
    {
     "id": "tori-50019255",
     "source": "tori",
-    "title": "Griffin kannettavan teline",
+    "title": "Kannettavan teline",
     "price": 15.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/50019255",
     "image": "https://img.tori.net/dynamic/default/item/50019255/4acaacb8-637c-4950-96c1-92beb2029f05"
@@ -661,14 +669,6 @@
     "image": "https://img.tori.net/dynamic/default/item/34378118/a4d1846c-d62a-4e9a-b1ac-a63f1e56e9d7"
    },
    {
-    "id": "tori-47414896",
-    "source": "tori",
-    "title": "Säädettävä näyttövarsi ja USB-pöytäkiinnikkeellä",
-    "price": 20.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/47414896",
-    "image": "https://img.tori.net/dynamic/default/item/47414896/ae051552-1498-4459-8c30-8e0e280e7afc"
-   },
-   {
     "id": "tori-50053210",
     "source": "tori",
     "title": "Essentials monitorivarsi",
@@ -909,6 +909,14 @@
     "image": "https://img.tori.net/dynamic/default/item/46401494/8542e58b-d9cb-4dfb-8393-f7e6d9f43e00"
    },
    {
+    "id": "tradera-761964757",
+    "source": "tradera",
+    "title": "Deltaco Gaming WA95 Monitorarm - Vit",
+    "price": 48.93,
+    "url": "https://www.tradera.com/item/1000274/761964757/deltaco-gaming-wa95-monitorarm-vit",
+    "image": "https://img.tradera.net/images/096/668992096_4254c0d1-3969-449f-8b67-b25038613eed.jpg"
+   },
+   {
     "id": "blocket-27532060",
     "source": "blocket",
     "title": "Monitorarm med gasfjäder och bordsklämma, svart",
@@ -1139,14 +1147,6 @@
     "price": 276.0,
     "url": "https://www.blocket.se/recommerce/forsale/item/23049442",
     "image": "https://images.blocketcdn.se/dynamic/default/item/23049442/47b77dbc-0bdb-4c92-b873-5548b4e18354"
-   },
-   {
-    "id": "tradera-756619928",
-    "source": "tradera",
-    "title": "GRUNDIG MillPlus Monitor, Bildskärm",
-    "price": 993.75,
-    "url": "https://www.tradera.com/item/2805/756619928/grundig-millplus-monitor-bildskarm",
-    "image": "https://img.tradera.net/images/731/660755731_c856ddbc-db6a-435f-9dfa-d411a3568b78.jpg"
    }
   ]
  }
