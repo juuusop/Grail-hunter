@@ -1,5 +1,568 @@
 [
  {
+  "id": "tori-50067054",
+  "brand": "Moncler · Tori",
+  "title": "Moncler Cardigan toppahupulla — tummansininen",
+  "price": 99.0,
+  "value": 209,
+  "score": 2.11,
+  "label": "✅ DIILI",
+  "category": "neule",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50067054",
+  "image": "https://img.tori.net/dynamic/default/item/50067054/5197fdeb-44f6-40d8-ad2f-4d27842167f0",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 138 €",
+   "Japanissa myyty mediaani 172 € (n=91)",
+   "⚠️ kate ~-30 € (ROI -28%, myy grailed ~110 €; brändiarvio ~157 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795045192,
+  "resale": 110,
+  "profit": -30,
+  "roi": -0.28,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~157 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~110 € → käteen ~76 € kulujen ja tinkimisen jälkeen",
+   "osto 99 € + toimitus = 106 €"
+  ],
+  "risk": {
+   "fake": 28,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50039074",
+  "brand": "Moncler · Tori",
+  "title": "Moncler untuvatakki M valkoinen",
+  "price": 100.0,
+  "value": 334,
+  "score": 3.34,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50039074",
+  "image": "https://img.tori.net/dynamic/default/item/50039074/a7264eea-7758-42d4-a2df-bf69839e4db9",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 138 €",
+   "Japanissa myyty (takki) mediaani 251 € (n=54)",
+   "⚠️ kate ~-16 € (ROI -15%, myy grailed ~130 €; Yahoo JP toteutuneet (takki): mediaani 251 €, p25 90 € (n=54) → geneerinen ~170 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795045192,
+  "resale": 130,
+  "profit": -16,
+  "roi": -0.15,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 251 €, p25 90 € (n=54) → geneerinen ~170 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~130 € → käteen ~91 € kulujen ja tinkimisen jälkeen",
+   "osto 100 € + toimitus = 107 €"
+  ],
+  "risk": {
+   "fake": 50,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-49992558",
+  "brand": "Moncler · Tori",
+  "title": "Moncler saappaat",
+  "price": 70.0,
+  "value": 293,
+  "score": 4.18,
+  "label": "🚨 INSANE",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/49992558",
+  "image": "https://img.tori.net/dynamic/default/item/49992558/7e46b66c-fb1d-460a-abec-c2cd0dbe0bf8",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 138 €",
+   "Japanissa myyty mediaani 172 € (n=91)",
+   "kate ~30 € (ROI 39%, myy grailed ~154 €; brändiarvio ~220 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795045192,
+  "resale": 154,
+  "profit": 30,
+  "roi": 0.39,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~220 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~154 € → käteen ~107 € kulujen ja tinkimisen jälkeen",
+   "osto 70 € + toimitus = 77 €"
+  ],
+  "risk": {
+   "fake": 65,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-762046059",
+  "brand": "Wales Bonner · Tradera 🇸🇪",
+  "title": "Adidas Wales Bonner SL76-sneakers, gula, storlek 43 1/3",
+  "price": 115.8,
+  "value": 239,
+  "score": 2.07,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "SHOES-EU-43",
+  "link": "https://www.tradera.com/item/340304/762046059/adidas-wales-bonner-sl76-sneakers-gula-storlek-43-1-3",
+  "image": "https://img.tradera.net/images/203/669059203_9d25565d-6099-4f83-8b2e-64f2d379e485.jpg",
+  "reasons": [
+   "taso B",
+   "Japanissa myyty (kengät) mediaani 100 € (n=45)",
+   "⚠️ kate ~-112 € (ROI -85%, myy grailed ~29 €; Yahoo JP toteutuneet (kengät): mediaani 100 €, p25 50 € (n=45) → geneerinen ~75 € × 1.15 EU-taso)",
+   "1331 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1795045192,
+  "resale": 29,
+  "profit": -112,
+  "roi": -0.85,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 100 €, p25 50 € (n=45) → geneerinen ~75 € × 1.15 EU-taso",
+   "massakollaboraatio/diffuusio 'adidas' ×0.35",
+   "myynti grailed ~29 € → käteen ~20 € kulujen ja tinkimisen jälkeen",
+   "osto 116 € + toimitus = 132 €"
+  ],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-762046059",
+  "brand": "Wales Bonner · Tradera 🇸🇪",
+  "title": "Adidas Wales Bonner SL76-sneakers, gula, storlek 43 1/3",
+  "price": 115.8,
+  "value": 239,
+  "score": 2.07,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "SHOES-EU-43",
+  "link": "https://www.tradera.com/item/340304/762046059/adidas-wales-bonner-sl76-sneakers-gula-storlek-43-1-3",
+  "image": "https://img.tradera.net/images/203/669059203_9d25565d-6099-4f83-8b2e-64f2d379e485.jpg",
+  "reasons": [
+   "taso B",
+   "Japanissa myyty (kengät) mediaani 100 € (n=45)",
+   "⚠️ kate ~-112 € (ROI -85%, myy grailed ~29 €; Yahoo JP toteutuneet (kengät): mediaani 100 €, p25 50 € (n=45) → geneerinen ~75 € × 1.15 EU-taso)",
+   "1331 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1795045192,
+  "resale": 29,
+  "profit": -112,
+  "roi": -0.85,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 100 €, p25 50 € (n=45) → geneerinen ~75 € × 1.15 EU-taso",
+   "massakollaboraatio/diffuusio 'adidas' ×0.35",
+   "myynti grailed ~29 € → käteen ~20 € kulujen ja tinkimisen jälkeen",
+   "osto 116 € + toimitus = 132 €"
+  ],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2467432532",
+  "brand": "Balenciaga · Marktplaats 🇳🇱",
+  "title": "balenciaga sportschoenen sneakers kleur zwart",
+  "price": 95.0,
+  "value": 308,
+  "score": 3.24,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2467432532-balenciaga-sportschoenen-sneakers-kleur-zwart",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/5d95a4b3-a930-41fb-a26d-af52a3833fe2?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 160 €",
+   "Japanissa myyty mediaani 86 € (n=88)",
+   "kate ~18 € (ROI 19%, myy grailed ~162 €; brändiarvio ~231 € (ei mallivertailua eikä Yahoo-dataa))",
+   "75 EUR + ~20 € posti = 95 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795045192,
+  "resale": 162,
+  "profit": 18,
+  "roi": 0.19,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~231 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~162 € → käteen ~113 € kulujen ja tinkimisen jälkeen",
+   "osto 95 € + toimitus = 95 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2467384332",
+  "brand": "Balenciaga · Marktplaats 🇳🇱",
+  "title": "Balenciaga Track Sneakers Zwart - Maat 44",
+  "price": 90.0,
+  "value": 308,
+  "score": 3.42,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Zo goed als nieuw",
+  "size": "SHOES-EU-44",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2467384332-balenciaga-track-sneakers-zwart-maat-44",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/be153701-f07e-4192-adb7-8c7ab8c0594e?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 160 €",
+   "Japanissa myyty mediaani 86 € (n=88)",
+   "kate ~23 € (ROI 25%, myy grailed ~162 €; brändiarvio ~231 € (ei mallivertailua eikä Yahoo-dataa))",
+   "70 EUR + ~20 € posti = 90 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795045192,
+  "resale": 162,
+  "profit": 23,
+  "roi": 0.25,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~231 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~162 € → käteen ~113 € kulujen ja tinkimisen jälkeen",
+   "osto 90 € + toimitus = 90 €"
+  ],
+  "risk": {
+   "fake": 65,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2467344219",
+  "brand": "Balenciaga · Marktplaats 🇳🇱",
+  "title": "Balenciaga Runner Sneakers - Maat 44- Zo goed als nieuw",
+  "price": 125.0,
+  "value": 308,
+  "score": 2.46,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "Zo goed als nieuw",
+  "size": "SHOES-EU-44",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2467344219-balenciaga-runner-sneakers-maat-44-zo-goed-als-nieuw",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/e4b78ae3-46a6-445f-80ec-ce01bdc80469?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 160 €",
+   "Japanissa myyty mediaani 86 € (n=88)",
+   "⚠️ kate ~-12 € (ROI -10%, myy grailed ~162 €; brändiarvio ~231 € (ei mallivertailua eikä Yahoo-dataa))",
+   "105 EUR + ~20 € posti = 125 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795045192,
+  "resale": 162,
+  "profit": -12,
+  "roi": -0.1,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~231 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~162 € → käteen ~113 € kulujen ja tinkimisen jälkeen",
+   "osto 125 € + toimitus = 125 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2466743230",
+  "brand": "Loewe · Marktplaats 🇳🇱",
+  "title": "Oncloud X Loewe",
+  "price": 90.0,
+  "value": 323,
+  "score": 3.59,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2466743230-oncloud-x-loewe",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/02b2d341-8347-4970-a346-abcad7d571b0?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 161 €",
+   "Japanissa myyty mediaani 116 € (n=85)",
+   "kate ~28 € (ROI 31%, myy grailed ~170 €; brändiarvio ~242 € (ei mallivertailua eikä Yahoo-dataa))",
+   "70 EUR + ~20 € posti = 90 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795045193,
+  "resale": 170,
+  "profit": 28,
+  "roi": 0.31,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~242 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~170 € → käteen ~118 € kulujen ja tinkimisen jälkeen",
+   "osto 90 € + toimitus = 90 €"
+  ],
+  "risk": {
+   "fake": 65,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2466743087",
+  "brand": "Loewe · Marktplaats 🇳🇱",
+  "title": "Oncloud X Loewe Zwart",
+  "price": 90.0,
+  "value": 308,
+  "score": 3.42,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2466743087-oncloud-x-loewe-zwart",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/61123409-0846-4e93-8598-39824c66a363?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 161 €",
+   "Japanissa myyty mediaani 116 € (n=85)",
+   "kate ~23 € (ROI 25%, myy grailed ~162 €; brändiarvio ~231 € (ei mallivertailua eikä Yahoo-dataa))",
+   "70 EUR + ~20 € posti = 90 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795045193,
+  "resale": 162,
+  "profit": 23,
+  "roi": 0.25,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~231 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~162 € → käteen ~113 € kulujen ja tinkimisen jälkeen",
+   "osto 90 € + toimitus = 90 €"
+  ],
+  "risk": {
+   "fake": 65,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2466822403",
+  "brand": "Moncler · 2dehands 🇧🇪",
+  "title": "Moncler abeya M unisex",
+  "price": 140.0,
+  "value": 370,
+  "score": 2.64,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/kleding-heren/jassen-winter/m2466822403-moncler-abeya-m-unisex",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/98b4ad3a-f9e1-4519-bd59-c699bfa74625?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 138 €",
+   "Japanissa myyty (takki) mediaani 251 € (n=54)",
+   "⚠️ kate ~-40 € (ROI -28%, myy grailed ~144 €; Yahoo JP toteutuneet (takki): mediaani 251 €, p25 90 € (n=54) → geneerinen ~170 € × 1.15 EU-taso)",
+   "120 EUR + ~20 € posti = 140 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1795045193,
+  "resale": 144,
+  "profit": -40,
+  "roi": -0.28,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 251 €, p25 90 € (n=54) → geneerinen ~170 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~144 € → käteen ~100 € kulujen ja tinkimisen jälkeen",
+   "osto 140 € + toimitus = 140 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2465920252",
+  "brand": "Moncler · 2dehands 🇧🇪",
+  "title": "Moncler cardigan",
+  "price": 110.0,
+  "value": 220,
+  "score": 2.0,
+  "label": "✅ DIILI",
+  "category": "neule",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/kleding-heren/bodywarmers/m2465920252-moncler-cardigan",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/c0b39ab2-9890-4540-97e2-40f2f8bfc00d?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 138 €",
+   "Japanissa myyty mediaani 172 € (n=91)",
+   "⚠️ kate ~-30 € (ROI -27%, myy grailed ~115 €; brändiarvio ~165 € (ei mallivertailua eikä Yahoo-dataa))",
+   "90 EUR + ~20 € posti = 110 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1795045193,
+  "resale": 115,
+  "profit": -30,
+  "roi": -0.27,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~165 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~115 € → käteen ~80 € kulujen ja tinkimisen jälkeen",
+   "osto 110 € + toimitus = 110 €"
+  ],
+  "risk": {
+   "fake": 28,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2467308065",
+  "brand": "Haider Ackermann · 2dehands 🇧🇪",
+  "title": "Haider Ackermann designer zwart t-shirt met print",
+  "price": 55.0,
+  "value": 112,
+  "score": 2.04,
+  "label": "✅ DIILI",
+  "category": "kauluspaita",
+  "condition": "Gedragen",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/kleding-heren/t-shirts/m2467308065-haider-ackermann-designer-zwart-t-shirt-met-print",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/288e6127-97f1-4e85-abcd-c60999d34275?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Japanissa myyty mediaani 105 € (n=18)",
+   "kate ~3 € (ROI 6%, myy grailed ~84 €; brändiarvio ~84 € (ei mallivertailua eikä Yahoo-dataa))",
+   "35 EUR + ~20 € posti = 55 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1795045193,
+  "resale": 84,
+  "profit": 3,
+  "roi": 0.06,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~84 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~84 € → käteen ~58 € kulujen ja tinkimisen jälkeen",
+   "osto 55 € + toimitus = 55 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "kulunut",
+   "why": [
+    "selviä käytön jälkiä/vikoja"
+   ]
+  }
+ },
+ {
   "id": "O00tgyCS70",
   "brand": "Gucci",
   "title": "Gucci Vaatepussi",
