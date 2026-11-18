@@ -1,32 +1,33 @@
 # Feikki- ja kuntoriski löydöissä
 
-1322 löytöä (data/finds.json). Heuristiikka: risk.py.
+1353 löytöä (data/finds.json). Heuristiikka: risk.py.
 
 - korkea feikkiriski: **8%**, keskitaso: 20%
-- kulunut/huono kunto: **24%**, kunto ei tiedossa: 28%
+- kulunut/huono kunto: **23%**, kunto ei tiedossa: 27%
 
 ## Alustoittain
 
 | alusta | n | feikki korkea | keski | kulunut/huono | kunto ? |
 |---|---|---|---|---|---|
-| sellpy.fi | 828 | 0% | 12% | 36% | 0% |
+| sellpy.fi | 841 | 0% | 12% | 36% | 0% |
 | tradera.com | 212 | 5% | 34% | 0% | 100% |
-| tori.fi | 99 | 29% | 33% | 0% | 100% |
-| marktplaats.nl | 83 | 45% | 29% | 10% | 6% |
-| 2dehands.be | 61 | 23% | 31% | 7% | 20% |
+| tori.fi | 100 | 30% | 33% | 0% | 100% |
+| marktplaats.nl | 95 | 39% | 35% | 8% | 6% |
+| 2dehands.be | 63 | 22% | 32% | 6% | 19% |
+| finn.no | 15 | 13% | 20% | 0% | 100% |
 | dba.dk | 14 | 43% | 29% | 0% | 100% |
-| finn.no | 13 | 15% | 8% | 0% | 100% |
 | blocket.se | 12 | 58% | 42% | 0% | 100% |
+| emmy.fi | 1 | 0% | 100% | 0% | 0% |
 
 ## Kategorioittain
 
 | kategoria | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
-| muu | 331 | 25% | 22% |
-| kengät | 262 | 53% | 26% |
-| takki | 243 | 26% | 24% |
-| housut | 166 | 5% | 22% |
-| neule | 102 | 10% | 19% |
+| muu | 352 | 26% | 20% |
+| kengät | 264 | 53% | 26% |
+| takki | 249 | 27% | 24% |
+| housut | 167 | 5% | 22% |
+| neule | 103 | 10% | 18% |
 | huppari | 50 | 26% | 40% |
 | t-paita | 50 | 24% | 38% |
 | laukku | 47 | 57% | 9% |
@@ -39,6 +40,7 @@
 
 | brändi | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
+| Canada Goose | 34 | 100% | 0% |
 | Brunello Cucinelli | 9 | 100% | 11% |
 | Celine | 7 | 100% | 0% |
 | Goyard | 10 | 100% | 0% |
@@ -48,7 +50,6 @@
 | Alexander McQueen | 13 | 100% | 8% |
 | Miu Miu | 10 | 100% | 10% |
 | Valentino | 28 | 100% | 11% |
-| Canada Goose | 25 | 100% | 0% |
 | Balenciaga | 16 | 100% | 19% |
 | Loewe | 5 | 100% | 0% |
 | Givenchy | 6 | 100% | 33% |
@@ -57,7 +58,7 @@
 | Arc'teryx | 16 | 94% | 0% |
 | Dior | 13 | 92% | 15% |
 | Rick Owens | 13 | 92% | 8% |
-| Louis Vuitton | 11 | 91% | 9% |
+| Louis Vuitton | 12 | 92% | 8% |
 | Undercover | 5 | 80% | 0% |
 | Moncler | 20 | 75% | 35% |
 | Gucci | 16 | 75% | 44% |
