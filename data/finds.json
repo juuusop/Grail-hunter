@@ -1,5 +1,165 @@
 [
  {
+  "id": "CtZWjH6xnr",
+  "brand": "Dior",
+  "title": "Christian Dior Nylonsukkahousut Diorella Ultra",
+  "price": 54.0,
+  "value": 168,
+  "score": 3.11,
+  "label": "🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "Uusi",
+  "size": "ONE SIZE",
+  "link": "https://www.sellpy.fi/item/CtZWjH6xnr",
+  "image": "https://prod.images.sellpy.net/photoRobot-fixed-5-k-21/CtZWjH6xnr-eaac-0-timed-sequence.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 142 €",
+   "Japanissa myyty (muu) mediaani 17 € (n=7)",
+   "⚠️ kate ~-50 € (ROI -83%, myy grailed ~15 €; Yahoo JP toteutuneet (muu): mediaani 17 €, p25 8 € (n=7) → geneerinen ~12 € × 1.15 EU-taso)"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794967959,
+  "resale": 15,
+  "profit": -50,
+  "roi": -0.83,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 17 €, p25 8 € (n=7) → geneerinen ~12 € × 1.15 EU-taso",
+   "myynti grailed ~15 € → käteen ~10 € kulujen ja tinkimisen jälkeen",
+   "osto 54 € + toimitus = 60 €"
+  ],
+  "risk": {
+   "fake": 18,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv"
+   ]
+  }
+ },
+ {
+  "id": "YxOecknlZg",
+  "brand": "Helmut Lang",
+  "title": "Helmut Lang Chinos-housut",
+  "price": 50.0,
+  "value": 122,
+  "score": 2.43,
+  "label": "📉 ✅ DIILI",
+  "category": "housut",
+  "condition": "Hyvä",
+  "size": "WMN-EU-46",
+  "link": "https://www.sellpy.fi/item/YxOecknlZg",
+  "image": "https://prod.images.sellpy.net/photoRobot-hanging-3-k-21/YxOecknlZg-11b6-0.jpg",
+  "reasons": [
+   "hinta laski 56 → 50 €",
+   "taso A",
+   "Sellpyn mediaani tälle brändille 71 €",
+   "Japanissa myyty (housut) mediaani 102 € (n=13)",
+   "⚠️ kate ~-6 € (ROI -11%, myy grailed ~72 €; Yahoo JP toteutuneet (housut): mediaani 102 €, p25 37 € (n=13) → geneerinen ~70 € × 1.15 EU-taso)"
+  ],
+  "source": "brändi",
+  "old_price": 56.0,
+  "ts": 1794967959,
+  "resale": 72,
+  "profit": -6,
+  "roi": -0.11,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (housut): mediaani 102 €, p25 37 € (n=13) → geneerinen ~70 € × 1.15 EU-taso",
+   "myynti grailed ~72 € → käteen ~50 € kulujen ja tinkimisen jälkeen",
+   "osto 50 € + toimitus = 56 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "FZoTMtp3lv",
+  "brand": "Brunello Cucinelli",
+  "title": "Brunello Cucinelli Lenkkarit",
+  "price": 54.0,
+  "value": 245,
+  "score": 4.54,
+  "label": "🚨 INSANE",
+  "category": "kengät",
+  "condition": "Hyväksyttävä",
+  "size": "SHOES-EU-45",
+  "link": "https://www.sellpy.fi/item/FZoTMtp3lv",
+  "image": "https://prod.images.sellpy.net/photoRobot-case-6-k-21/jKQ1JyMtxr-3f82-0.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 119 €",
+   "Japanissa myyty mediaani 195 € (n=55)",
+   "💰 kate ~68 € (ROI 114%, myy grailed ~184 €; brändiarvio ~184 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794967959,
+  "resale": 184,
+  "profit": 68,
+  "roi": 1.14,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~184 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~184 € → käteen ~128 € kulujen ja tinkimisen jälkeen",
+   "osto 54 € + toimitus = 60 €"
+  ],
+  "risk": {
+   "fake": 29,
+   "fake_level": "keski",
+   "cond": "kulunut",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv",
+    "selviä käytön jälkiä/vikoja (kengissä/laukuissa kuluma syö resale-hintaa)"
+   ]
+  }
+ },
+ {
+  "id": "GRKEnDI86z",
+  "brand": "Courrèges",
+  "title": "Courrèges Bleiseri",
+  "price": 45.0,
+  "value": 144,
+  "score": 3.2,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "Hyvä",
+  "size": "MEN-EU-52",
+  "link": "https://www.sellpy.fi/item/GRKEnDI86z",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-16-k-13/HiNZfhCJCu-c18d-0.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 68 €",
+   "kate ~24 € (ROI 48%, myy grailed ~108 €; brändiarvio ~108 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1794967960,
+  "resale": 108,
+  "profit": 24,
+  "roi": 0.48,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~108 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~108 € → käteen ~75 € kulujen ja tinkimisen jälkeen",
+   "osto 45 € + toimitus = 51 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
   "id": "tradera-756771743",
   "brand": "Celine · Tradera 🇸🇪",
   "title": "Celine Axelremsväska Crossbody Väska Vintage",
