@@ -1,5 +1,532 @@
 [
  {
+  "id": "unhEoJxBn1",
+  "brand": "Dior",
+  "title": "Christian Dior Pikeepaita",
+  "price": 26.0,
+  "value": 144,
+  "score": 5.54,
+  "label": "🚨 INSANE",
+  "category": "muu",
+  "condition": "Hyvä",
+  "size": "MEN-INT-L",
+  "link": "https://www.sellpy.fi/item/unhEoJxBn1",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-k-21/qqHKm3nYSh-b88c-0.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 142 €",
+   "Japanissa myyty (muu) mediaani 17 € (n=7)",
+   "⚠️ kate ~-23 € (ROI -73%, myy grailed ~13 €; Yahoo JP toteutuneet (muu): mediaani 17 €, p25 8 € (n=7) → geneerinen ~12 € × 1.15 EU-taso)"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795077484,
+  "resale": 13,
+  "profit": -23,
+  "roi": -0.73,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 17 €, p25 8 € (n=7) → geneerinen ~12 € × 1.15 EU-taso",
+   "myynti grailed ~13 € → käteen ~9 € kulujen ja tinkimisen jälkeen",
+   "osto 26 € + toimitus = 32 €"
+  ],
+  "risk": {
+   "fake": 22,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv"
+   ]
+  }
+ },
+ {
+  "id": "Z3gA33iq4F",
+  "brand": "Klättermusen",
+  "title": "Klättermusen Puhelinlaukku",
+  "price": 50.0,
+  "value": 144,
+  "score": 2.88,
+  "label": "🔥 KOVA DIILI",
+  "category": "laukku",
+  "condition": "Erittäin hyvä",
+  "size": "-",
+  "link": "https://www.sellpy.fi/item/Z3gA33iq4F",
+  "image": "https://prod.images.sellpy.net/photoRobot-fixed-11-k-7/Z3gA33iq4F-74ad-0-timed-sequence.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 86 €",
+   "kate ~18 € (ROI 31%, myy vestiaire ~108 €; brändiarvio ~108 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795077484,
+  "resale": 108,
+  "profit": 18,
+  "roi": 0.31,
+  "exit": "vestiaire",
+  "resale_why": [
+   "brändiarvio ~108 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vestiaire ~108 € → käteen ~73 € kulujen ja tinkimisen jälkeen",
+   "osto 50 € + toimitus = 56 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "q8lDJY43Lt",
+  "brand": "Our Legacy",
+  "title": "Our Legacy T-paita",
+  "price": 11.0,
+  "value": 50,
+  "score": 4.5,
+  "label": "🚨 INSANE",
+  "category": "t-paita",
+  "condition": "Hyvä",
+  "size": "MEN-EU-52",
+  "link": "https://www.sellpy.fi/item/q8lDJY43Lt",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-9-k-9/4HiK8lKPdk-5b45-0.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 71 €",
+   "kate ~9 € (ROI 52%, myy grailed ~38 €; brändiarvio ~38 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795077484,
+  "resale": 38,
+  "profit": 9,
+  "roi": 0.52,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~38 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~38 € → käteen ~26 € kulujen ja tinkimisen jälkeen",
+   "osto 11 € + toimitus = 17 €",
+   "t-paita: matala kate-kategoria, paljon tarjontaa"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "UsJaQnK2qW",
+  "brand": "Valentino",
+  "title": "Valentino Silmälasit V2619",
+  "price": 30.0,
+  "value": 108,
+  "score": 3.6,
+  "label": "🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "Hyvä",
+  "size": "-",
+  "link": "https://www.sellpy.fi/item/UsJaQnK2qW",
+  "image": "https://prod.images.sellpy.net/photoRobot-manual-7-k-21/SUwvnaoRfV-bcc1-single.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 132 €",
+   "Japanissa myyty (muu) mediaani 19 € (n=38)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795077484,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 34,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "aurinkolasit: väärennetyimpiä tuotetyyppejä",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv"
+   ]
+  }
+ },
+ {
+  "id": "LNyxa4MDLj",
+  "brand": "Chanel",
+  "title": "Chanel Aurinkolasit 1242",
+  "price": 72.0,
+  "value": 320,
+  "score": 4.44,
+  "label": "🚨 INSANE",
+  "category": "muu",
+  "condition": "Erittäin hyvä",
+  "size": "-",
+  "link": "https://www.sellpy.fi/item/LNyxa4MDLj",
+  "image": "https://prod.images.sellpy.net/photoRobot-manual-23-l-2/kLJ11J3Xjc-8f21-single.jpg",
+  "reasons": [
+   "taso S",
+   "Sellpyn mediaani tälle brändille 134 €",
+   "Japanissa myyty (muu) mediaani 54 € (n=5)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795077484,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 34,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "aurinkolasit: väärennetyimpiä tuotetyyppejä",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv"
+   ]
+  }
+ },
+ {
+  "id": "D5xCs0GONy",
+  "brand": "John Smedley",
+  "title": "John Smedley Neulepaita",
+  "price": 20.0,
+  "value": 42,
+  "score": 2.1,
+  "label": "✅ DIILI",
+  "category": "neule",
+  "condition": "Hyväksyttävä",
+  "size": "MEN-INT-L",
+  "link": "https://www.sellpy.fi/item/D5xCs0GONy",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-k-1/m8ZAtIU4Hz-4fbf-0.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 46 €",
+   "⚠️ kate ~-6 € (ROI -23%, myy vinted ~22 €; brändiarvio ~32 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795077484,
+  "resale": 22,
+  "profit": -6,
+  "roi": -0.23,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~32 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~22 € → käteen ~20 € kulujen ja tinkimisen jälkeen",
+   "osto 20 € + toimitus = 26 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "kulunut",
+   "why": [
+    "selviä käytön jälkiä/vikoja"
+   ]
+  }
+ },
+ {
+  "id": "PDLyDiNz8L",
+  "brand": "Oscar Jacobson",
+  "title": "Oscar Jacobson Chinos-housut",
+  "price": 16.0,
+  "value": 49,
+  "score": 3.04,
+  "label": "🔥 KOVA DIILI",
+  "category": "housut",
+  "condition": "Hyvä",
+  "size": "MEN-INT-L",
+  "link": "https://www.sellpy.fi/item/PDLyDiNz8L",
+  "image": "https://prod.images.sellpy.net/photoRobot-hanging-8-k-7/PDLyDiNz8L-e676-0.jpg",
+  "reasons": [
+   "taso D",
+   "Sellpyn mediaani tälle brändille 38 €",
+   "kate ~1 € (ROI 6%, myy vinted ~26 €; brändiarvio ~37 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795077484,
+  "resale": 26,
+  "profit": 1,
+  "roi": 0.06,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~37 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~26 € → käteen ~23 € kulujen ja tinkimisen jälkeen",
+   "osto 16 € + toimitus = 22 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "XPqsAWQLRj",
+  "brand": "Gran Sasso",
+  "title": "Gran Sasso Pullover",
+  "price": 18.0,
+  "value": 54,
+  "score": 3.0,
+  "label": "🔥 KOVA DIILI",
+  "category": "neule",
+  "condition": "Hyvä",
+  "size": "WMN-EU-48",
+  "link": "https://www.sellpy.fi/item/XPqsAWQLRj",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-3-k-12/AAEG1wHOZB-7139-0.jpg",
+  "reasons": [
+   "taso D",
+   "Sellpyn mediaani tälle brändille 45 €",
+   "kate ~2 € (ROI 7%, myy vinted ~28 €; brändiarvio ~40 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795077484,
+  "resale": 28,
+  "profit": 2,
+  "roi": 0.07,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~40 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~28 € → käteen ~26 € kulujen ja tinkimisen jälkeen",
+   "osto 18 € + toimitus = 24 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "bHsLqQZsFa",
+  "brand": "Oscar Jacobson",
+  "title": "Oscar Jacobson Bleiseri Floyd V",
+  "price": 23.0,
+  "value": 86,
+  "score": 3.76,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "Hyvä",
+  "size": "MEN-EU-54",
+  "link": "https://www.sellpy.fi/item/bHsLqQZsFa",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-k-6/bHsLqQZsFa-b39f-0.jpg",
+  "reasons": [
+   "taso D",
+   "Sellpyn mediaani tälle brändille 38 €",
+   "kate ~12 € (ROI 41%, myy vinted ~45 €; brändiarvio ~64 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795077484,
+  "resale": 45,
+  "profit": 12,
+  "roi": 0.41,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~64 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~45 € → käteen ~41 € kulujen ja tinkimisen jälkeen",
+   "osto 23 € + toimitus = 29 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "8sicx9rtja",
+  "brand": "The North Face",
+  "title": "The North Face Lyhythihainen pusero",
+  "price": 24.0,
+  "value": 50,
+  "score": 2.08,
+  "label": "✅ DIILI",
+  "category": "neule",
+  "condition": "Erittäin hyvä",
+  "size": "MEN-INT-L",
+  "link": "https://www.sellpy.fi/item/8sicx9rtja",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-15-k-11/baCFf0jTqM-2c5e-0.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 46 €",
+   "⚠️ kate ~-6 € (ROI -21%, myy vinted ~26 €; brändiarvio ~38 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795077484,
+  "resale": 26,
+  "profit": -6,
+  "roi": -0.21,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~38 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~26 € → käteen ~24 € kulujen ja tinkimisen jälkeen",
+   "osto 24 € + toimitus = 30 €"
+  ],
+  "risk": {
+   "fake": 6,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv"
+   ]
+  }
+ },
+ {
+  "id": "v5BC97YORw",
+  "brand": "Hope",
+  "title": "Hope Housut",
+  "price": 16.0,
+  "value": 49,
+  "score": 3.04,
+  "label": "🔥 KOVA DIILI",
+  "category": "housut",
+  "condition": "Hyvä",
+  "size": "PANTS-INCH-38",
+  "link": "https://www.sellpy.fi/item/v5BC97YORw",
+  "image": "https://prod.images.sellpy.net/photoRobot-hanging-8-k-7/e1em014uwG-d985-0.jpg",
+  "reasons": [
+   "taso D",
+   "Sellpyn mediaani tälle brändille 36 €",
+   "kate ~1 € (ROI 6%, myy vinted ~26 €; brändiarvio ~37 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795077484,
+  "resale": 26,
+  "profit": 1,
+  "roi": 0.06,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~37 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~26 € → käteen ~23 € kulujen ja tinkimisen jälkeen",
+   "osto 16 € + toimitus = 22 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "dQYexJPQYi",
+  "brand": "Paul Smith",
+  "title": "Paul Smith Pullover",
+  "price": 10.0,
+  "value": 49,
+  "score": 4.9,
+  "label": "🚨 INSANE",
+  "category": "neule",
+  "condition": "Hyväksyttävä",
+  "size": "MEN-INT-L",
+  "link": "https://www.sellpy.fi/item/dQYexJPQYi",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-16/zhLQmnytvQ-0eea-0.jpg",
+  "reasons": [
+   "taso D",
+   "Sellpyn mediaani tälle brändille 35 €",
+   "kate ~7 € (ROI 46%, myy vinted ~26 €; brändiarvio ~37 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795077484,
+  "resale": 26,
+  "profit": 7,
+  "roi": 0.46,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~37 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~26 € → käteen ~23 € kulujen ja tinkimisen jälkeen",
+   "osto 10 € + toimitus = 16 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "kulunut",
+   "why": [
+    "selviä käytön jälkiä/vikoja"
+   ]
+  }
+ },
+ {
+  "id": "5fT6TzpCSH",
+  "brand": "Tiger of Sweden",
+  "title": "Tiger of Sweden Bleiseri",
+  "price": 20.0,
+  "value": 65,
+  "score": 3.24,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "Hyvä",
+  "size": "MEN-EU-54",
+  "link": "https://www.sellpy.fi/item/5fT6TzpCSH",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-7-k-6/5fT6TzpCSH-45ba-0.jpg",
+  "reasons": [
+   "taso D",
+   "Sellpyn mediaani tälle brändille 26 €",
+   "kate ~5 € (ROI 19%, myy vinted ~34 €; brändiarvio ~49 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795077484,
+  "resale": 34,
+  "profit": 5,
+  "roi": 0.19,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~49 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~34 € → käteen ~31 € kulujen ja tinkimisen jälkeen",
+   "osto 20 € + toimitus = 26 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "ceDWcYMKCu",
+  "brand": "New Balance (haku: made in usa new balance)",
+  "title": "New Balance Lenkkitossut 990v5",
+  "price": 90.0,
+  "value": 129,
+  "score": 1.43,
+  "label": "💎 HARVINAINEN",
+  "category": "kengät",
+  "condition": "Hyvä",
+  "size": "SHOES-EU-44",
+  "link": "https://www.sellpy.fi/item/ceDWcYMKCu",
+  "image": "https://prod.images.sellpy.net/photoRobot-case-14-k-7/ceDWcYMKCu-e23c-0.jpg",
+  "reasons": [
+   "tiedoissa 'made in usa', brändiksi listattu 'New Balance'",
+   "harvinainen: verkko"
+  ],
+  "source": "haku",
+  "old_price": null,
+  "ts": 1795077486,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
   "id": "tori-50080940",
   "brand": "Fendi · Tori",
   "title": "Fendi vetoketjullinen college",
