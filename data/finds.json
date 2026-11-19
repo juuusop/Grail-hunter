@@ -1,5 +1,181 @@
 [
  {
+  "id": "tori-50074609",
+  "brand": "Stone Island · Tori",
+  "title": "Stone Island Shadow Project -housut",
+  "price": 130.0,
+  "value": 192,
+  "score": 1.47,
+  "label": "💎 HARVINAINEN",
+  "category": "housut",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50074609",
+  "image": "https://img.tori.net/dynamic/default/item/50074609/edffab48-6e34-4619-9cf6-8c697bd5ad55",
+  "reasons": [
+   "taso B",
+   "shadow project ×1.6",
+   "harvinainen: shadow project",
+   "Sellpyn mediaani tälle brändille 118 €",
+   "⚠️ kate ~-67 € (ROI -49%, myy grailed ~101 €; brändiarvio ~144 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795096582,
+  "resale": 101,
+  "profit": -67,
+  "roi": -0.49,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~144 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~101 € → käteen ~70 € kulujen ja tinkimisen jälkeen",
+   "osto 130 € + toimitus = 137 €"
+  ],
+  "risk": {
+   "fake": 28,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761814329",
+  "brand": "Alexander McQueen · Tradera 🇸🇪",
+  "title": "Alexander McQueen sneakers",
+  "price": 93.87,
+  "value": 200,
+  "score": 2.13,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340303/761814329/alexander-mcqueen-sneakers",
+  "image": "https://img.tradera.net/images/606/668873606_8b0b0e5a-013d-409c-b2a8-6720a9686f00.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 124 €",
+   "Japanissa myyty (kengät) mediaani 56 € (n=5)",
+   "⚠️ kate ~-88 € (ROI -80%, myy grailed ~33 €; Yahoo JP toteutuneet (kengät): mediaani 56 €, p25 29 € (n=5) → geneerinen ~42 € × 1.15 EU-taso)",
+   "1079 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1795096582,
+  "resale": 33,
+  "profit": -88,
+  "roi": -0.8,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 56 €, p25 29 € (n=5) → geneerinen ~42 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~33 € → käteen ~22 € kulujen ja tinkimisen jälkeen",
+   "osto 94 € + toimitus = 110 €"
+  ],
+  "risk": {
+   "fake": 42,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761819262",
+  "brand": "1017 Alyx 9SM · Tradera 🇸🇪",
+  "title": "ALYX flerfärgad klänning, storlek 4",
+  "price": 13.05,
+  "value": 114,
+  "score": 8.74,
+  "label": "🚨 INSANE",
+  "category": "muu",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1000721/761819262/alyx-flerfargad-klanning-storlek-4",
+  "image": "https://img.tradera.net/images/364/668877364_834dc783-0092-4b6e-9486-769617d70c7a.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 22 €",
+   "Japanissa myyty (muu) mediaani 86 € (n=8)",
+   "kate ~30 € (ROI 102%, myy grailed ~85 €; Yahoo JP toteutuneet (muu): mediaani 86 €, p25 69 € (n=8) → geneerinen ~78 € × 1.15 EU-taso)",
+   "150 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1795096582,
+  "resale": 85,
+  "profit": 30,
+  "roi": 1.02,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 86 €, p25 69 € (n=8) → geneerinen ~78 € × 1.15 EU-taso",
+   "myynti grailed ~85 € → käteen ~59 € kulujen ja tinkimisen jälkeen",
+   "osto 13 € + toimitus = 29 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-759756574",
+  "brand": "Fear of God · Tradera 🇸🇪",
+  "title": "Adidas X Fear of God 86 Hi-sneakers",
+  "price": 64.73,
+  "value": 200,
+  "score": 3.08,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340304/759756574/adidas-x-fear-of-god-86-hi-sneakers",
+  "image": "https://img.tradera.net/images/916/667268916_65ad6e48-df61-4111-a88a-9209dbf4d2c8.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 64 €",
+   "Japanissa myyty (kengät) mediaani 39 € (n=10)",
+   "⚠️ kate ~-75 € (ROI -93%, myy vestiaire ~8 €; Yahoo JP toteutuneet (kengät): mediaani 39 €, p25 23 € (n=10) → geneerinen ~31 € × 1.15 EU-taso)",
+   "744 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1795096582,
+  "resale": 8,
+  "profit": -75,
+  "roi": -0.93,
+  "exit": "vestiaire",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 39 €, p25 23 € (n=10) → geneerinen ~31 € × 1.15 EU-taso",
+   "massakollaboraatio/diffuusio 'adidas' ×0.35",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti vestiaire ~8 € → käteen ~6 € kulujen ja tinkimisen jälkeen",
+   "osto 65 € + toimitus = 81 €"
+  ],
+  "risk": {
+   "fake": 42,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
   "id": "unhEoJxBn1",
   "brand": "Dior",
   "title": "Christian Dior Pikeepaita",
