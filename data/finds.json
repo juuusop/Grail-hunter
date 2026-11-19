@@ -1,5 +1,441 @@
 [
  {
+  "id": "tori-50080940",
+  "brand": "Fendi · Tori",
+  "title": "Fendi vetoketjullinen college",
+  "price": 60.0,
+  "value": 128,
+  "score": 2.14,
+  "label": "✅ DIILI",
+  "category": "huppari",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50080940",
+  "image": "https://img.tori.net/dynamic/default/item/50080940/9b38c1e6-7cd7-4577-9d55-afa8ca11f41f",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 140 €",
+   "Japanissa myyty mediaani 45 € (n=84)",
+   "⚠️ kate ~-20 € (ROI -31%, myy grailed ~67 €; brändiarvio ~96 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795062897,
+  "resale": 67,
+  "profit": -20,
+  "roi": -0.31,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~96 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~67 € → käteen ~47 € kulujen ja tinkimisen jälkeen",
+   "osto 60 € + toimitus = 67 €"
+  ],
+  "risk": {
+   "fake": 48,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761851565",
+  "brand": "Arc'teryx · Tradera 🇸🇪",
+  "title": "Arc'teryx svarta shorts, storlek 8 (38)",
+  "price": 48.28,
+  "value": 137,
+  "score": 2.83,
+  "label": "🔥 KOVA DIILI",
+  "category": "housut",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/341736/761851565/arc-teryx-svarta-shorts-storlek-8-38-",
+  "image": "https://img.tradera.net/images/304/668904304_27e39b93-64fe-4dee-9640-eff6ede43246.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 95 €",
+   "Japanissa myyty mediaani 76 € (n=70)",
+   "⚠️ kate ~-14 € (ROI -22%, myy grailed ~72 €; brändiarvio ~103 € (ei mallivertailua eikä Yahoo-dataa))",
+   "555 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1795062897,
+  "resale": 72,
+  "profit": -14,
+  "roi": -0.22,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~103 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~72 € → käteen ~50 € kulujen ja tinkimisen jälkeen",
+   "osto 48 € + toimitus = 64 €"
+  ],
+  "risk": {
+   "fake": 22,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761713250",
+  "brand": "Helmut Lang · Tradera 🇸🇪",
+  "title": "Helmut Lang-kjol",
+  "price": 23.49,
+  "value": 114,
+  "score": 4.85,
+  "label": "🚨 INSANE",
+  "category": "muu",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340347/761713250/helmut-lang-kjol",
+  "image": "https://img.tradera.net/images/508/667268508_db327c4d-1705-4897-a795-2d52f5de7726.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 71 €",
+   "Japanissa myyty (muu) mediaani 71 € (n=43)",
+   "kate ~1 € (ROI 1%, myy grailed ~58 €; Yahoo JP toteutuneet (muu): mediaani 71 €, p25 35 € (n=43) → geneerinen ~53 € × 1.15 EU-taso)",
+   "270 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1795062897,
+  "resale": 58,
+  "profit": 1,
+  "roi": 0.01,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 71 €, p25 35 € (n=43) → geneerinen ~53 € × 1.15 EU-taso",
+   "myynti grailed ~58 € → käteen ~40 € kulujen ja tinkimisen jälkeen",
+   "osto 23 € + toimitus = 39 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-762004476",
+  "brand": "Helmut Lang · Tradera 🇸🇪",
+  "title": "Helmut Lang-byxor",
+  "price": 46.98,
+  "value": 128,
+  "score": 2.73,
+  "label": "🔥 KOVA DIILI",
+  "category": "housut",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1631/762004476/helmut-lang-byxor",
+  "image": "https://img.tradera.net/images/985/669024985_911c73aa-5943-465a-8622-b2476d4d61db.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 71 €",
+   "Japanissa myyty (housut) mediaani 102 € (n=13)",
+   "⚠️ kate ~-10 € (ROI -16%, myy grailed ~76 €; Yahoo JP toteutuneet (housut): mediaani 102 €, p25 37 € (n=13) → geneerinen ~70 € × 1.15 EU-taso)",
+   "540 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1795062897,
+  "resale": 76,
+  "profit": -10,
+  "roi": -0.16,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (housut): mediaani 102 €, p25 37 € (n=13) → geneerinen ~70 € × 1.15 EU-taso",
+   "myynti grailed ~76 € → käteen ~53 € kulujen ja tinkimisen jälkeen",
+   "osto 47 € + toimitus = 63 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-761873282",
+  "brand": "Helmut Lang · Tradera 🇸🇪",
+  "title": "Helmut Lang-tröja",
+  "price": 28.71,
+  "value": 142,
+  "score": 4.96,
+  "label": "🚨 INSANE",
+  "category": "neule",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1629/761873282/helmut-lang-troja",
+  "image": "https://img.tradera.net/images/655/668921655_3788d84a-3454-45ca-8523-57c6428de9f2.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 71 €",
+   "Japanissa myyty mediaani 84 € (n=78)",
+   "kate ~29 € (ROI 66%, myy grailed ~106 €; brändiarvio ~106 € (ei mallivertailua eikä Yahoo-dataa))",
+   "330 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1795062897,
+  "resale": 106,
+  "profit": 29,
+  "roi": 0.66,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~106 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~106 € → käteen ~74 € kulujen ja tinkimisen jälkeen",
+   "osto 29 € + toimitus = 45 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2467462866",
+  "brand": "Dior · Marktplaats 🇳🇱",
+  "title": "Dior B25 Sneakers - Zwart/Wit",
+  "price": 85.0,
+  "value": 280,
+  "score": 3.29,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2467462866-dior-b25-sneakers-zwart-wit",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/52af59eb-de21-4000-a783-37f0fb8b1c6d?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 142 €",
+   "Japanissa myyty mediaani 26 € (n=83)",
+   "kate ~17 € (ROI 20%, myy grailed ~147 €; brändiarvio ~210 € (ei mallivertailua eikä Yahoo-dataa))",
+   "65 EUR + ~20 € posti = 85 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795062897,
+  "resale": 147,
+  "profit": 17,
+  "roi": 0.2,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~210 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~147 € → käteen ~102 € kulujen ja tinkimisen jälkeen",
+   "osto 85 € + toimitus = 85 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2467452277",
+  "brand": "Dior · Marktplaats 🇳🇱",
+  "title": "Dior B22 Sneakers – Black |Maat 43",
+  "price": 120.0,
+  "value": 280,
+  "score": 2.33,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "Zo goed als nieuw",
+  "size": "SHOES-EU-43",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2467452277-dior-b22-sneakers-black-maat-43",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/7028f005-67e1-4697-a8e8-88c860eff206?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "harvinainen: mesh",
+   "Sellpyn mediaani tälle brändille 142 €",
+   "Japanissa myyty mediaani 26 € (n=83)",
+   "⚠️ kate ~-18 € (ROI -15%, myy grailed ~147 €; brändiarvio ~210 € (ei mallivertailua eikä Yahoo-dataa))",
+   "100 EUR + ~20 € posti = 120 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795062897,
+  "resale": 147,
+  "profit": -18,
+  "roi": -0.15,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~210 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~147 € → käteen ~102 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 120 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2467449667",
+  "brand": "Dior · Marktplaats 🇳🇱",
+  "title": "Dior B30 Sneakers – Black / White  | Maat 44",
+  "price": 120.0,
+  "value": 280,
+  "score": 2.33,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "Zo goed als nieuw",
+  "size": "SHOES-EU-44",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2467449667-dior-b30-sneakers-black-white-maat-44",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/8c3d4faa-c3a2-4442-aff6-6072bd69ab73?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "harvinainen: mesh",
+   "Sellpyn mediaani tälle brändille 142 €",
+   "Japanissa myyty mediaani 26 € (n=83)",
+   "⚠️ kate ~-18 € (ROI -15%, myy grailed ~147 €; brändiarvio ~210 € (ei mallivertailua eikä Yahoo-dataa))",
+   "100 EUR + ~20 € posti = 120 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795062897,
+  "resale": 147,
+  "profit": -18,
+  "roi": -0.15,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~210 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~147 € → käteen ~102 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 120 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2467449338",
+  "brand": "Dior · Marktplaats 🇳🇱",
+  "title": "Dior B30 Sneakers – Black / White| Maat 43",
+  "price": 120.0,
+  "value": 280,
+  "score": 2.33,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "Zo goed als nieuw",
+  "size": "SHOES-EU-43",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2467449338-dior-b30-sneakers-black-white-maat-43",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/cb274e5d-6458-47af-8979-67616bf0e571?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "harvinainen: mesh",
+   "Sellpyn mediaani tälle brändille 142 €",
+   "Japanissa myyty mediaani 26 € (n=83)",
+   "⚠️ kate ~-18 € (ROI -15%, myy grailed ~147 €; brändiarvio ~210 € (ei mallivertailua eikä Yahoo-dataa))",
+   "100 EUR + ~20 € posti = 120 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795062897,
+  "resale": 147,
+  "profit": -18,
+  "roi": -0.15,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~210 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~147 € → käteen ~102 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 120 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2467445998",
+  "brand": "Dior · Marktplaats 🇳🇱",
+  "title": "Dior B22 Sneakers – Navy / Grey / Black Maat 43",
+  "price": 125.0,
+  "value": 280,
+  "score": 2.24,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "Zo goed als nieuw",
+  "size": "SHOES-EU-43",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2467445998-dior-b22-sneakers-navy-grey-black-maat-43",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/f8773e11-c15a-44b6-9020-ccdebf7f3b61?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "harvinainen: mesh",
+   "Sellpyn mediaani tälle brändille 142 €",
+   "Japanissa myyty mediaani 26 € (n=83)",
+   "⚠️ kate ~-23 € (ROI -18%, myy grailed ~147 €; brändiarvio ~210 € (ei mallivertailua eikä Yahoo-dataa))",
+   "105 EUR + ~20 € posti = 125 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795062897,
+  "resale": 147,
+  "profit": -23,
+  "roi": -0.18,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~210 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~147 € → käteen ~102 € kulujen ja tinkimisen jälkeen",
+   "osto 125 € + toimitus = 125 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "iFqy3A3TBD",
   "brand": "The North Face",
   "title": "The North Face Fleece-takki",
