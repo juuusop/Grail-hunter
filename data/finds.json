@@ -1,5 +1,489 @@
 [
  {
+  "id": "iFqy3A3TBD",
+  "brand": "The North Face",
+  "title": "The North Face Fleece-takki",
+  "price": 21.0,
+  "value": 72,
+  "score": 3.43,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "Hyvä",
+  "size": "MEN-INT-XXL",
+  "link": "https://www.sellpy.fi/item/iFqy3A3TBD",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-3-k-12/fdDgiQIBLf-cc70-0.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 46 €",
+   "kate ~7 € (ROI 26%, myy vinted ~38 €; brändiarvio ~54 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795049946,
+  "resale": 38,
+  "profit": 7,
+  "roi": 0.26,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~54 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~38 € → käteen ~34 € kulujen ja tinkimisen jälkeen",
+   "osto 21 € + toimitus = 27 €"
+  ],
+  "risk": {
+   "fake": 10,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv"
+   ]
+  }
+ },
+ {
+  "id": "OTLqpPBDYS",
+  "brand": "A.P.C.",
+  "title": "A.P.C. Housut",
+  "price": 14.0,
+  "value": 31,
+  "score": 2.25,
+  "label": "✅ DIILI",
+  "category": "housut",
+  "condition": "Hyväksyttävä",
+  "size": "MEN-EU-52",
+  "link": "https://www.sellpy.fi/item/OTLqpPBDYS",
+  "image": "https://prod.images.sellpy.net/photoRobot-hanging-9-k-4/RhzFGDFfPq-a0cb-0.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 44 €",
+   "⚠️ kate ~-5 € (ROI -26%, myy vinted ~16 €; brändiarvio ~23 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795049946,
+  "resale": 16,
+  "profit": -5,
+  "roi": -0.26,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~23 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~16 € → käteen ~15 € kulujen ja tinkimisen jälkeen",
+   "osto 14 € + toimitus = 20 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "kulunut",
+   "why": [
+    "selviä käytön jälkiä/vikoja"
+   ]
+  }
+ },
+ {
+  "id": "GCNxcVA5r6",
+  "brand": "Etro",
+  "title": "Etro Neuletakki",
+  "price": 28.0,
+  "value": 72,
+  "score": 2.57,
+  "label": "🔥 KOVA DIILI",
+  "category": "neule",
+  "condition": "Hyvä",
+  "size": "WMN-EU-46",
+  "link": "https://www.sellpy.fi/item/GCNxcVA5r6",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-14/qtXtecMvBn-a54a-0.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 73 €",
+   "kate ~0 € (ROI 0%, myy vinted ~38 €; brändiarvio ~54 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795049946,
+  "resale": 38,
+  "profit": 0,
+  "roi": 0.0,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~54 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~38 € → käteen ~34 € kulujen ja tinkimisen jälkeen",
+   "osto 28 € + toimitus = 34 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "mJG1DjBm1v",
+  "brand": "Etro",
+  "title": "Etro Mekko",
+  "price": 26.0,
+  "value": 58,
+  "score": 2.22,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Hyvä",
+  "size": "WMN-EU-48",
+  "link": "https://www.sellpy.fi/item/mJG1DjBm1v",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-5/3F87WpToVE-ee5e-0.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 73 €",
+   "⚠️ kate ~-4 € (ROI -14%, myy vinted ~30 €; brändiarvio ~44 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795049946,
+  "resale": 30,
+  "profit": -4,
+  "roi": -0.14,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~44 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~30 € → käteen ~27 € kulujen ja tinkimisen jälkeen",
+   "osto 26 € + toimitus = 32 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "9sJlnqaWMB",
+  "brand": "Etro",
+  "title": "Etro Yläosa",
+  "price": 27.0,
+  "value": 72,
+  "score": 2.67,
+  "label": "🔥 KOVA DIILI",
+  "category": "neule",
+  "condition": "Hyvä",
+  "size": "WMN-INT-XL",
+  "link": "https://www.sellpy.fi/item/9sJlnqaWMB",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-15-k-10/LdILnDFG4R-c060-0.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 73 €",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795049946,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "G6ElHZ0ByK",
+  "brand": "Filippa K",
+  "title": "Filippa K Paita",
+  "price": 11.0,
+  "value": 36,
+  "score": 3.27,
+  "label": "🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "Hyvä",
+  "size": "MEN-INT-L",
+  "link": "https://www.sellpy.fi/item/G6ElHZ0ByK",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-5-k-8/G6ElHZ0ByK-eabd-0.jpg",
+  "reasons": [
+   "taso D",
+   "Sellpyn mediaani tälle brändille 34 €",
+   "kate ~0 € (ROI 1%, myy vinted ~19 €; brändiarvio ~27 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795049946,
+  "resale": 19,
+  "profit": 0,
+  "roi": 0.01,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~27 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~19 € → käteen ~17 € kulujen ja tinkimisen jälkeen",
+   "osto 11 € + toimitus = 17 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "FOElI78BRz",
+  "brand": "Carhartt",
+  "title": "Carhartt Lyhythihainen pusero",
+  "price": 17.0,
+  "value": 35,
+  "score": 2.06,
+  "label": "✅ DIILI",
+  "category": "neule",
+  "condition": "Erittäin hyvä",
+  "size": "MEN-INT-L",
+  "link": "https://www.sellpy.fi/item/FOElI78BRz",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-6-k-11/IviBgsjZfH-01b8-0.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 45 €",
+   "⚠️ kate ~-6 € (ROI -28%, myy vinted ~18 €; brändiarvio ~26 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795049946,
+  "resale": 18,
+  "profit": -6,
+  "roi": -0.28,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~26 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~18 € → käteen ~17 € kulujen ja tinkimisen jälkeen",
+   "osto 17 € + toimitus = 23 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "3GM0usBxaa",
+  "brand": "Hestra",
+  "title": "Hestra Polkupyörän lisävaruste",
+  "price": 15.0,
+  "value": 32,
+  "score": 2.13,
+  "label": "💎 HARVINAINEN",
+  "category": "muu",
+  "condition": "Erittäin hyvä",
+  "size": "-",
+  "link": "https://www.sellpy.fi/item/3GM0usBxaa",
+  "image": "https://prod.images.sellpy.net/photoRobot-fixed-11-k-10/1joW6fnfGZ-0712-0-timed-sequence.jpg",
+  "reasons": [
+   "taso D",
+   "harvinainen: verkko",
+   "Sellpyn mediaani tälle brändille 33 €",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795049946,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "j7AHXeBB3i",
+  "brand": "Filippa K",
+  "title": "Filippa K Shortsit",
+  "price": 12.0,
+  "value": 45,
+  "score": 3.75,
+  "label": "🔥 KOVA DIILI",
+  "category": "housut",
+  "condition": "Erittäin hyvä",
+  "size": "MEN-EU-56",
+  "link": "https://www.sellpy.fi/item/j7AHXeBB3i",
+  "image": "https://prod.images.sellpy.net/photoRobot-hanging-9-k-8/SmQhG1JjAa-b01f-0.jpg",
+  "reasons": [
+   "taso D",
+   "Sellpyn mediaani tälle brändille 34 €",
+   "kate ~3 € (ROI 19%, myy vinted ~24 €; brändiarvio ~34 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795049946,
+  "resale": 24,
+  "profit": 3,
+  "roi": 0.19,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~34 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~24 € → käteen ~21 € kulujen ja tinkimisen jälkeen",
+   "osto 12 € + toimitus = 18 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "WGgDqlUGPH",
+  "brand": "Santoni",
+  "title": "Santoni Urheilukengät",
+  "price": 72.0,
+  "value": 118,
+  "score": 1.63,
+  "label": "💎 HARVINAINEN",
+  "category": "kengät",
+  "condition": "Hyväksyttävä",
+  "size": "SHOES-EU-44",
+  "link": "https://www.sellpy.fi/item/WGgDqlUGPH",
+  "image": "https://prod.images.sellpy.net/photoRobot-case-14-k-12/A5l7wD26yB-6ca2-0.jpg",
+  "reasons": [
+   "taso C",
+   "harvinainen: verkko",
+   "Sellpyn mediaani tälle brändille 104 €",
+   "⚠️ kate ~-16 € (ROI -21%, myy grailed ~88 €; brändiarvio ~88 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795049946,
+  "resale": 88,
+  "profit": -16,
+  "roi": -0.21,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~88 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~88 € → käteen ~61 € kulujen ja tinkimisen jälkeen",
+   "osto 72 € + toimitus = 78 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "kulunut",
+   "why": [
+    "selviä käytön jälkiä/vikoja (kengissä/laukuissa kuluma syö resale-hintaa)"
+   ]
+  }
+ },
+ {
+  "id": "xSAGZalhDk",
+  "brand": "Celine",
+  "title": "Celine Kaulaliina Vintage",
+  "price": 87.0,
+  "value": 190,
+  "score": 2.18,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Hyvä",
+  "size": "-",
+  "link": "https://www.sellpy.fi/item/xSAGZalhDk",
+  "image": "https://prod.images.sellpy.net/photoRobot-fixed-5-k-21/jGhrC7TsrF-3d96-0-timed-sequence.jpg",
+  "reasons": [
+   "taso A",
+   "céline ×1.2",
+   "Sellpyn mediaani tälle brändille 156 €",
+   "Japanissa myyty (muu) mediaani 48 € (n=8)",
+   "⚠️ kate ~-61 € (ROI -66%, myy grailed ~46 €; Yahoo JP toteutuneet (muu): mediaani 48 €, p25 41 € (n=8) → geneerinen ~44 € × 1.15 EU-taso)"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795049947,
+  "resale": 46,
+  "profit": -61,
+  "roi": -0.66,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 48 €, p25 41 € (n=8) → geneerinen ~44 € × 1.15 EU-taso",
+   "myynti grailed ~46 € → käteen ~32 € kulujen ja tinkimisen jälkeen",
+   "osto 87 € + toimitus = 93 €"
+  ],
+  "risk": {
+   "fake": 18,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv"
+   ]
+  }
+ },
+ {
+  "id": "E9VjhHVgpb",
+  "brand": "Corneliani",
+  "title": "Corneliani Bleiseri",
+  "price": 15.0,
+  "value": 86,
+  "score": 5.76,
+  "label": "🚨 INSANE",
+  "category": "takki",
+  "condition": "Hyvä",
+  "size": "MEN-EU-52",
+  "link": "https://www.sellpy.fi/item/E9VjhHVgpb",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-l-1/FKUIprALzK-2a70-0.jpg",
+  "reasons": [
+   "taso D",
+   "Sellpyn mediaani tälle brändille 59 €",
+   "kate ~20 € (ROI 94%, myy vinted ~45 €; brändiarvio ~64 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795049947,
+  "resale": 45,
+  "profit": 20,
+  "roi": 0.94,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~64 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~45 € → käteen ~41 € kulujen ja tinkimisen jälkeen",
+   "osto 15 € + toimitus = 21 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "CBxYhGxLbM",
+  "brand": "Nike (haku: sacai)",
+  "title": "Nike Lenkkarit Nike sacai",
+  "price": 76.0,
+  "value": 210,
+  "score": 2.76,
+  "label": "📉 🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Hyvä",
+  "size": "SHOES-EU-44",
+  "link": "https://www.sellpy.fi/item/CBxYhGxLbM",
+  "image": "https://prod.images.sellpy.net/photoRobot-case-14-k-5/CBxYhGxLbM-b2d4-0.jpg",
+  "reasons": [
+   "hinta laski 78 → 76 €",
+   "tiedoissa 'sacai', brändiksi listattu 'Nike'",
+   "runway ×1.4",
+   "harvinainen: runway"
+  ],
+  "source": "haku",
+  "old_price": 78.0,
+  "ts": 1795049948,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
   "id": "tori-50067054",
   "brand": "Moncler · Tori",
   "title": "Moncler Cardigan toppahupulla — tummansininen",
