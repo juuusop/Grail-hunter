@@ -9,11 +9,11 @@
 
 | alusta | n | feikki korkea | keski | kulunut/huono | kunto ? |
 |---|---|---|---|---|---|
-| sellpy.fi | 910 | 0% | 12% | 35% | 0% |
+| sellpy.fi | 908 | 0% | 12% | 35% | 0% |
 | tradera.com | 224 | 4% | 34% | 0% | 100% |
 | tori.fi | 115 | 33% | 34% | 0% | 100% |
-| marktplaats.nl | 106 | 44% | 32% | 8% | 6% |
-| 2dehands.be | 66 | 21% | 33% | 8% | 18% |
+| marktplaats.nl | 107 | 45% | 32% | 7% | 6% |
+| 2dehands.be | 67 | 22% | 33% | 7% | 18% |
 | finn.no | 15 | 13% | 20% | 0% | 100% |
 | blocket.se | 14 | 64% | 36% | 0% | 100% |
 | dba.dk | 14 | 43% | 29% | 0% | 100% |
@@ -24,12 +24,12 @@
 | kategoria | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
 | muu | 381 | 27% | 20% |
-| kengät | 288 | 55% | 24% |
-| takki | 271 | 28% | 23% |
-| housut | 173 | 6% | 21% |
+| kengät | 283 | 56% | 24% |
+| takki | 275 | 28% | 23% |
+| housut | 175 | 6% | 21% |
 | neule | 120 | 10% | 18% |
 | huppari | 54 | 26% | 37% |
-| t-paita | 53 | 23% | 40% |
+| t-paita | 52 | 23% | 38% |
 | laukku | 50 | 54% | 8% |
 | kauluspaita | 48 | 0% | 33% |
 | asuste | 21 | 38% | 14% |
@@ -40,8 +40,8 @@
 
 | brändi | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
+| Hermès | 6 | 100% | 17% |
 | Givenchy | 7 | 100% | 29% |
-| Valentino | 29 | 100% | 10% |
 | Chanel | 3 | 100% | 0% |
 | Balenciaga | 19 | 100% | 16% |
 | Loewe | 7 | 100% | 0% |
@@ -51,9 +51,9 @@
 | Goyard | 10 | 100% | 0% |
 | Supreme | 3 | 100% | 0% |
 | Loro Piana | 46 | 100% | 2% |
-| Hermès | 4 | 100% | 25% |
 | Miu Miu | 10 | 100% | 10% |
 | Bottega Veneta | 8 | 100% | 0% |
+| Valentino | 30 | 97% | 10% |
 | Dior | 19 | 95% | 11% |
 | Arc'teryx | 17 | 94% | 0% |
 | Alexander McQueen | 15 | 93% | 7% |
@@ -73,6 +73,8 @@
 - 80 · [Käyttämätön Valentino tum.sininen medium laukku käsilaukku.,.,](https://www.tori.fi/recommerce/forsale/item/48775403) 50 € (arvio 171 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 80 · [Valentino Nero laukku, UUSI 💼](https://www.tori.fi/recommerce/forsale/item/48415990) 45 € (arvio 171 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 80 · [Goyard tekonahkainen laukku vihreä unisex](https://www.tori.fi/recommerce/forsale/item/46805357) 59 € (arvio 342 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
+- 65 · [Hermès Sneakers Maat 45 - Nieuw met Snelle Verzending](https://www.marktplaats.nl/v/kleding-heren/schoenen/m2467708618-hermes-sneakers-maat-45-nieuw-met-snelle-verzending) 155 € (arvio 588 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta
+- 65 · [Hermes Schoenen](https://www.2dehands.be/v/kleding-heren/schoenen/m2467464773-hermes-schoenen) 155 € (arvio 560 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta
 - 65 · [Moncler saappaat](https://www.tori.fi/recommerce/forsale/item/49992558) 70 € (arvio 293 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 65 · [Balenciaga Track Sneakers Zwart - Maat 44](https://www.marktplaats.nl/v/kleding-heren/schoenen/m2467384332-balenciaga-track-sneakers-zwart-maat-44) 90 € (arvio 308 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta
 - 65 · [Oncloud X Loewe](https://www.marktplaats.nl/v/kleding-heren/schoenen/m2466743230-oncloud-x-loewe) 90 € (arvio 323 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta
@@ -86,5 +88,3 @@
 - 65 · [Loro Piana Bruine Sneakers Maat 43](https://www.marktplaats.nl/v/kleding-heren/schoenen/m2464016644-loro-piana-bruine-sneakers-maat-43) 125 € (arvio 465 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; selviä käytön jälkiä/vikoja (kengissä/laukuissa kuluma syö resale-hintaa)
 - 65 · [Rick Owens Bozo Tractor Leather Boots](https://www.tori.fi/recommerce/forsale/item/43829485) 100 € (arvio 596 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 64 · [Maison Margiela 5AC Bucket Bag – Vit](https://www.tradera.com/item/302662/760862238/maison-margiela-5ac-bucket-bag-vit) 96 € (arvio 370 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; Traderan ostajansuoja kattaa 'ei vastaa kuvausta'; kunto ei tiedossa, pyydä lisäkuvat
-- 64 · [Miu Miu Shopping -laukku](https://www.tori.fi/recommerce/forsale/item/49820639) 85 € (arvio 182 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
-- 64 · [Balenciaga city bag](https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/tassen-damestassen/m2464778833-balenciaga-city-bag) 90 € (arvio 251 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta
