@@ -1,5 +1,5 @@
 {
- "generated": 1795035122,
+ "generated": 1795056415,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -653,14 +653,6 @@
     "image": "https://img.tori.net/dynamic/default/item/50053210/1daaeeaf-ff68-415a-908d-df8a6fcd7b43"
    },
    {
-    "id": "tori-50088262",
-    "source": "tori",
-    "title": "Alterzone Arm One monitorivarsi 17”-32”",
-    "price": 20.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/50088262",
-    "image": "https://img.tori.net/dynamic/default/item/50088262/0a7a33ef-049d-4738-b598-8dd4cbd92695"
-   },
-   {
     "id": "tori-49702688",
     "source": "tori",
     "title": "Deltaco monitorivarsi",
@@ -973,6 +965,14 @@
     "image": "https://img.tori.net/dynamic/default/item/45557942/f4d44b06-5b9b-4cf7-8ade-0f0e1e4f9fe0"
    },
    {
+    "id": "tori-46087782",
+    "source": "tori",
+    "title": "LCD ViewMaster näytönvarsi pöytäkiinnityksellä",
+    "price": 55.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/46087782",
+    "image": "https://img.tori.net/dynamic/default/item/46087782/fd2badaa-8763-46c3-8cbf-c2715b0e6870"
+   },
+   {
     "id": "blocket-24642329",
     "source": "blocket",
     "title": "Skärmfäste / monitorarm för skrivbord",
@@ -1091,6 +1091,14 @@
     "price": 128.1,
     "url": "https://www.blocket.se/recommerce/forsale/item/25651452",
     "image": "https://images.blocketcdn.se/dynamic/default/item/25651452/fc5492fd-9aa7-4f60-abc2-f5339c8737e8"
+   },
+   {
+    "id": "tradera-758183379",
+    "source": "tradera",
+    "title": "FEC XM-1010W 10,1'' POS Kundskärm/Monitor (VGA) – Begagnad- Otestad",
+    "price": 136.8,
+    "url": "https://www.tradera.com/item/301824/758183379/fec-xm-1010w-10-1-pos-kundskarm-monitor-vga-begagnad-otestad",
+    "image": "https://img.tradera.net/images/825/666063825_049af518-6291-4173-9352-520603937a8c.jpg"
    },
    {
     "id": "blocket-26849000",
