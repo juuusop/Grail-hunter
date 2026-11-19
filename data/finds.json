@@ -1,5 +1,95 @@
 [
  {
+  "id": "marktplaats-m2467708618",
+  "brand": "Hermès · Marktplaats 🇳🇱",
+  "title": "Hermès Sneakers Maat 45 - Nieuw met Snelle Verzending",
+  "price": 155.0,
+  "value": 588,
+  "score": 3.79,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Nieuw",
+  "size": "SHOES-EU-45",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2467708618-hermes-sneakers-maat-45-nieuw-met-snelle-verzending",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/f297a1a5-f2ba-416d-80e7-57e164a09d04?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso S",
+   "Sellpyn mediaani tälle brändille 145 €",
+   "Japanissa myyty (kengät) mediaani 386 € (n=8)",
+   "kate ~39 € (ROI 25%, myy grailed ~279 €; Yahoo JP toteutuneet (kengät): mediaani 386 €, p25 273 € (n=8) → geneerinen ~330 € × 1.15 EU-taso)",
+   "135 EUR + ~20 € posti = 155 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795126345,
+  "resale": 279,
+  "profit": 39,
+  "roi": 0.25,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 386 €, p25 273 € (n=8) → geneerinen ~330 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~279 € → käteen ~194 € kulujen ja tinkimisen jälkeen",
+   "osto 155 € + toimitus = 155 €"
+  ],
+  "risk": {
+   "fake": 65,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2467464773",
+  "brand": "Hermès · 2dehands 🇧🇪",
+  "title": "Hermes Schoenen",
+  "price": 155.0,
+  "value": 560,
+  "score": 3.61,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/kleding-heren/schoenen/m2467464773-hermes-schoenen",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/ecff999e-2d39-44dd-92ae-ae9189b73999?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso S",
+   "Sellpyn mediaani tälle brändille 145 €",
+   "Japanissa myyty (kengät) mediaani 386 € (n=8)",
+   "kate ~30 € (ROI 19%, myy grailed ~265 €; Yahoo JP toteutuneet (kengät): mediaani 386 €, p25 273 € (n=8) → geneerinen ~330 € × 1.15 EU-taso)",
+   "135 EUR + ~20 € posti = 155 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1795126345,
+  "resale": 265,
+  "profit": 30,
+  "roi": 0.19,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 386 €, p25 273 € (n=8) → geneerinen ~330 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~265 € → käteen ~185 € kulujen ja tinkimisen jälkeen",
+   "osto 155 € + toimitus = 155 €"
+  ],
+  "risk": {
+   "fake": 65,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "M8MxNVUZsv",
   "brand": "Deepti",
   "title": "Deepti S.C. Kaulahuivi",
@@ -42238,48 +42328,6 @@
   "image": "https://prod.images.sellpy.net/photoRobot-hanging-20-l-3/GFU8LvEsNL-9266-0.jpg",
   "reasons": [
    "tiedoissa 'made in japan', brändiksi listattu 'Jeans Edwin'",
-   "made in japan ×1.15"
-  ],
-  "source": "haku",
-  "old_price": null,
-  "ts": 1794347670
- },
- {
-  "id": "uMJNqjuBDx",
-  "brand": "Christian Roth (haku: made in japan)",
-  "title": "Christian Roth Aurinkolasit",
-  "price": 27.0,
-  "value": 55,
-  "score": 2.03,
-  "label": "✅ DIILI",
-  "category": "muu",
-  "condition": "Erittäin hyvä",
-  "size": "-",
-  "link": "https://www.sellpy.fi/item/uMJNqjuBDx",
-  "image": "https://prod.images.sellpy.net/photoRobot-manual-12-k-15/eRtgJbffpv-f912-single.jpg",
-  "reasons": [
-   "tiedoissa 'made in japan', brändiksi listattu 'Christian Roth'",
-   "made in japan ×1.15"
-  ],
-  "source": "haku",
-  "old_price": null,
-  "ts": 1794347670
- },
- {
-  "id": "7VB3XgIMcC",
-  "brand": "Yukyu Odyssey (haku: made in japan)",
-  "title": "Yukyu Odyssey Silmälasit",
-  "price": 15.0,
-  "value": 55,
-  "score": 3.65,
-  "label": "🔥 KOVA DIILI",
-  "category": "muu",
-  "condition": "Erittäin hyvä",
-  "size": "-",
-  "link": "https://www.sellpy.fi/item/7VB3XgIMcC",
-  "image": "https://prod.images.sellpy.net/photoRobot-manual-13-k-11/7VB3XgIMcC-0e2c-single.jpg",
-  "reasons": [
-   "tiedoissa 'made in japan', brändiksi listattu 'Yukyu Odyssey'",
    "made in japan ×1.15"
   ],
   "source": "haku",
