@@ -1,5 +1,5 @@
 {
- "generated": 1795089687,
+ "generated": 1795121761,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -145,6 +145,14 @@
     "price": 10.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/50082218",
     "image": "https://img.tori.net/dynamic/default/item/50082218/42ef2bc6-da96-4443-b51e-b9a0e20990e6"
+   },
+   {
+    "id": "tori-50147808",
+    "source": "tori",
+    "title": "Läppäriteline vesa-kiinnityksellä",
+    "price": 10.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/50147808",
+    "image": "https://img.tori.net/dynamic/default/item/50147808/8c5e8da5-921a-4608-b58d-c1370d600600"
    },
    {
     "id": "tori-48923937",
@@ -459,14 +467,6 @@
     "image": "https://img.tradera.net/images/609/667275609_ee5ff640-aaf2-41bb-ac08-2ecfc79b1c44.jpg"
    },
    {
-    "id": "blocket-27994843",
-    "source": "blocket",
-    "title": "Twelve South HiRise ställ för MacBook Pro/Air",
-    "price": 41.1,
-    "url": "https://www.blocket.se/recommerce/forsale/item/27994843",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/27994843/af63ea1c-6ac4-4f76-b97f-2b1695b5b1b5"
-   },
-   {
     "id": "blocket-26945648",
     "source": "blocket",
     "title": "Plexgear laptopställ aluminium silver",
@@ -627,14 +627,6 @@
     "price": 15.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/46317082",
     "image": "https://img.tori.net/dynamic/default/item/46317082/2bd5b44f-43ac-4f47-aef8-609bca60de00"
-   },
-   {
-    "id": "tori-49889614",
-    "source": "tori",
-    "title": "näyttövarsi",
-    "price": 15.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49889614",
-    "image": "https://img.tori.net/dynamic/default/item/49889614/36e92055-71ce-491a-8fe8-2845ec7b2b32"
    },
    {
     "id": "tori-45743538",
@@ -877,6 +869,14 @@
     "image": "https://img.tori.net/dynamic/default/item/47948520/2b5ac0d1-500c-4900-8c0b-0687fdf31984"
    },
    {
+    "id": "blocket-21952714",
+    "source": "blocket",
+    "title": "Monitorarm Apple / Ergotron – aluminium, pelarsystem (endast arm)",
+    "price": 45.45,
+    "url": "https://www.blocket.se/recommerce/forsale/item/21952714",
+    "image": "https://images.blocketcdn.se/dynamic/default/item/21952714/26a35f4f-df53-4d47-b9e6-2d33f5a0963d"
+   },
+   {
     "id": "blocket-28123748",
     "source": "blocket",
     "title": "Invision MX450 Skärmarm 24–49 tum – Nyskick",
@@ -979,14 +979,6 @@
     "price": 58.5,
     "url": "https://www.blocket.se/recommerce/forsale/item/24642329",
     "image": "https://images.blocketcdn.se/dynamic/default/item/24642329/f66b10f2-85af-4fee-a9d0-7c68f31aaeb1"
-   },
-   {
-    "id": "blocket-21952714",
-    "source": "blocket",
-    "title": "Monitorarm Apple / Ergotron – aluminium, pelarsystem (endast arm)",
-    "price": 58.5,
-    "url": "https://www.blocket.se/recommerce/forsale/item/21952714",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/21952714/26a35f4f-df53-4d47-b9e6-2d33f5a0963d"
    },
    {
     "id": "blocket-27997349",
@@ -1093,6 +1085,14 @@
     "image": "https://images.blocketcdn.se/dynamic/default/item/25651452/fc5492fd-9aa7-4f60-abc2-f5339c8737e8"
    },
    {
+    "id": "tradera-758183379",
+    "source": "tradera",
+    "title": "FEC XM-1010W 10,1'' POS Kundskärm/Monitor (VGA) – Begagnad- Otestad",
+    "price": 136.8,
+    "url": "https://www.tradera.com/item/301824/758183379/fec-xm-1010w-10-1-pos-kundskarm-monitor-vga-begagnad-otestad",
+    "image": "https://img.tradera.net/images/825/666063825_049af518-6291-4173-9352-520603937a8c.jpg"
+   },
+   {
     "id": "blocket-26849000",
     "source": "blocket",
     "title": "Ergotron hx desk monitor arm hd pivot",
@@ -1115,14 +1115,6 @@
     "price": 180.3,
     "url": "https://www.blocket.se/recommerce/forsale/item/28218161",
     "image": "https://images.blocketcdn.se/dynamic/default/item/28218161/684a3fbf-cc30-4501-b53d-2734b4417c6e"
-   },
-   {
-    "id": "blocket-26898357",
-    "source": "blocket",
-    "title": "2st Monitorarmar",
-    "price": 188.56,
-    "url": "https://www.blocket.se/recommerce/forsale/item/26898357",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/26898357/53ed6c33-0f20-427b-9dd7-ca9845cda0e8"
    },
    {
     "id": "blocket-23049442",
