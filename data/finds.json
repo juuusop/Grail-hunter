@@ -1,5 +1,183 @@
 [
  {
+  "id": "tradera-762019007",
+  "brand": "Givenchy · Tradera 🇸🇪",
+  "title": "Givenchy sneakers",
+  "price": 60.9,
+  "value": 200,
+  "score": 3.28,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/340303/762019007/givenchy-sneakers",
+  "image": "https://img.tradera.net/images/483/669037483_214738b0-d98a-4290-bbe1-e147c2890fa7.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 87 €",
+   "Japanissa myyty mediaani 18 € (n=72)",
+   "⚠️ kate ~-4 € (ROI -5%, myy grailed ~105 €; brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa))",
+   "700 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1795144203,
+  "resale": 105,
+  "profit": -4,
+  "roi": -0.05,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~105 € → käteen ~73 € kulujen ja tinkimisen jälkeen",
+   "osto 61 € + toimitus = 77 €"
+  ],
+  "risk": {
+   "fake": 42,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-757363444",
+  "brand": "Valentino · Tradera 🇸🇪",
+  "title": "Mario Valentino svart väska",
+  "price": 47.85,
+  "value": 171,
+  "score": 3.57,
+  "label": "🔥 KOVA DIILI",
+  "category": "laukku",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/302662/757363444/mario-valentino-svart-vaska",
+  "image": "https://img.tradera.net/images/472/665403472_2853bcf6-5993-4301-a318-8b63d4ebfe18.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 132 €",
+   "Japanissa myyty mediaani 16 € (n=53)",
+   "⚠️ kate ~-3 € (ROI -4%, myy vestiaire ~90 €; brändiarvio ~128 € (ei mallivertailua eikä Yahoo-dataa))",
+   "550 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1795144203,
+  "resale": 90,
+  "profit": -3,
+  "roi": -0.04,
+  "exit": "vestiaire",
+  "resale_why": [
+   "brändiarvio ~128 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti vestiaire ~90 € → käteen ~61 € kulujen ja tinkimisen jälkeen",
+   "osto 48 € + toimitus = 64 €"
+  ],
+  "risk": {
+   "fake": 64,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "laukku: väärennetyimpiä tuotetyyppejä",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tradera-760293459",
+  "brand": "Valentino · Tradera 🇸🇪",
+  "title": "Valentino blå jacka vintage",
+  "price": 84.82,
+  "value": 228,
+  "score": 2.69,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tradera.com/item/1000733/760293459/valentino-bla-jacka-vintage",
+  "image": "https://img.tradera.net/images/011/663789011_6874e2e5-23b7-4906-8f47-9b320276ee22.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 132 €",
+   "Japanissa myyty mediaani 16 € (n=53)",
+   "⚠️ kate ~-18 € (ROI -17%, myy grailed ~120 €; brändiarvio ~171 € (ei mallivertailua eikä Yahoo-dataa))",
+   "975 SEK, Ruotsi: tarkista toimitus Suomeen"
+  ],
+  "source": "tradera",
+  "old_price": null,
+  "ts": 1795144203,
+  "resale": 120,
+  "profit": -18,
+  "roi": -0.17,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~171 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~120 € → käteen ~83 € kulujen ja tinkimisen jälkeen",
+   "osto 85 € + toimitus = 101 €"
+  ],
+  "risk": {
+   "fake": 32,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "Traderan ostajansuoja kattaa 'ei vastaa kuvausta'",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2467456763",
+  "brand": "Loro Piana · Marktplaats 🇳🇱",
+  "title": "Loro Piana Loafers",
+  "price": 125.0,
+  "value": 514,
+  "score": 4.12,
+  "label": "🚨 INSANE",
+  "category": "kengät",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2467456763-loro-piana-loafers",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/c7c19959-7f6f-49f9-8a82-1a1416d2621e?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 155 €",
+   "Japanissa myyty mediaani 120 € (n=100)",
+   "💰 kate ~144 € (ROI 115%, myy grailed ~386 €; brändiarvio ~386 € (ei mallivertailua eikä Yahoo-dataa))",
+   "105 EUR + ~20 € posti = 125 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795144204,
+  "resale": 386,
+  "profit": 144,
+  "roi": 1.15,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~386 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~386 € → käteen ~269 € kulujen ja tinkimisen jälkeen",
+   "osto 125 € + toimitus = 125 €"
+  ],
+  "risk": {
+   "fake": 65,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "4OHPkIaP9C",
   "brand": "Ermenegildo Zegna",
   "title": "Ermenegildo Zegna Paita",
@@ -42471,88 +42649,6 @@
   "image": "https://prod.images.sellpy.net/photoRobot-case-14-k-9/8q4pVSNi4s-9489-0.jpg",
   "reasons": [
    "tiedoissa 'jun takahashi', brändiksi listattu 'Nike'"
-  ],
-  "source": "haku",
-  "old_price": null,
-  "ts": 1794347669
- },
- {
-  "id": "lbpTkozM5g",
-  "brand": "Designers Remix Charlotte Eskildsen (haku: junya)",
-  "title": "Designers Remix Charlotte Eskildsen Kirjekuorilaukku Junya",
-  "price": 5.0,
-  "value": 200,
-  "score": 39.99,
-  "label": "🚨 INSANE",
-  "category": "laukku",
-  "condition": "Hyvä",
-  "size": "-",
-  "link": "https://www.sellpy.fi/item/lbpTkozM5g",
-  "image": "https://prod.images.sellpy.net/photoRobot-fixed-11-k-2/lbpTkozM5g-aab6-0-timed-sequence.jpg",
-  "reasons": [
-   "tiedoissa 'junya', brändiksi listattu 'Designers Remix Charlotte Eskildsen'",
-   "nahka ×1.1",
-   "leather ×1.1"
-  ],
-  "source": "haku",
-  "old_price": null,
-  "ts": 1794347669
- },
- {
-  "id": "k3vwgyN5AG",
-  "brand": "St-Martins (haku: junya)",
-  "title": "St-Martins Housut Junya",
-  "price": 3.5,
-  "value": 145,
-  "score": 41.31,
-  "label": "🚨 INSANE",
-  "category": "housut",
-  "condition": "Uusi",
-  "size": "WMN-EU-38",
-  "link": "https://www.sellpy.fi/item/k3vwgyN5AG",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-9-k-13/k3vwgyN5AG-1f95-0.jpg",
-  "reasons": [
-   "tiedoissa 'junya', brändiksi listattu 'St-Martins'"
-  ],
-  "source": "haku",
-  "old_price": null,
-  "ts": 1794347669
- },
- {
-  "id": "INzvZiBsLE",
-  "brand": "Lufian (haku: junya)",
-  "title": "Lufian T-paita Junya",
-  "price": 3.5,
-  "value": 76,
-  "score": 21.86,
-  "label": "🚨 INSANE",
-  "category": "t-paita",
-  "condition": "Erittäin hyvä",
-  "size": "MEN-INT-M",
-  "link": "https://www.sellpy.fi/item/INzvZiBsLE",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-l-2/INzvZiBsLE-e5a4-0.jpg",
-  "reasons": [
-   "tiedoissa 'junya', brändiksi listattu 'Lufian'"
-  ],
-  "source": "haku",
-  "old_price": null,
-  "ts": 1794347669
- },
- {
-  "id": "cPa25w05gR",
-  "brand": "New Balance (haku: junya)",
-  "title": "New Balance Lenkkarit RC42",
-  "price": 85.0,
-  "value": 214,
-  "score": 2.52,
-  "label": "🔥 KOVA DIILI",
-  "category": "kengät",
-  "condition": "Erittäin hyvä",
-  "size": "SHOES-EU-44",
-  "link": "https://www.sellpy.fi/item/cPa25w05gR",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-14-k-13/cPa25w05gR-35b5-0.jpg",
-  "reasons": [
-   "tiedoissa 'junya', brändiksi listattu 'New Balance'"
   ],
   "source": "haku",
   "old_price": null,
