@@ -1,5 +1,665 @@
 [
  {
+  "id": "tori-50116369",
+  "brand": "Number (N)ine · Tori",
+  "title": "Number (N)ine Skeleton Rocker -t-paita, valkoinen, koko 4 (L)",
+  "price": 140.0,
+  "value": 166,
+  "score": 1.19,
+  "label": "💎 HARVINAINEN",
+  "category": "t-paita",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50116369",
+  "image": "https://img.tori.net/dynamic/default/item/50116369/3ed97366-23e2-4fd6-a622-0802c292faf6",
+  "reasons": [
+   "harvinainen brändi",
+   "taso S",
+   "Japanissa myyty (t-paita) mediaani 67 € (n=21)",
+   "⚠️ kate ~-102 € (ROI -70%, myy grailed ~65 €; Yahoo JP toteutuneet (t-paita): mediaani 67 €, p25 30 € (n=21) → geneerinen ~48 € × 1.4 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795202416,
+  "resale": 65,
+  "profit": -102,
+  "roi": -0.7,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (t-paita): mediaani 67 €, p25 30 € (n=21) → geneerinen ~48 € × 1.4 EU-taso",
+   "myynti grailed ~65 € → käteen ~45 € kulujen ja tinkimisen jälkeen",
+   "osto 140 € + toimitus = 147 €",
+   "t-paita: matala kate-kategoria, paljon tarjontaa"
+  ],
+  "risk": {
+   "fake": 4,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50083623",
+  "brand": "Visvim · Tori",
+  "title": "Visvim MA-1 -untuvatakki, musta, keltainen vuori, koko L, käytetty 2 kertaa",
+  "price": 520.0,
+  "value": 532,
+  "score": 1.02,
+  "label": "💎 HARVINAINEN",
+  "category": "takki",
+  "condition": "-",
+  "size": "MEN-INT-L",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50083623",
+  "image": "https://img.tori.net/dynamic/default/item/50083623/2591549d-4524-4319-9ea2-740325093abf",
+  "reasons": [
+   "harvinainen brändi",
+   "taso S",
+   "Japanissa myyty (takki) mediaani 360 € (n=21)",
+   "⚠️ kate ~-292 € (ROI -55%, myy grailed ~336 €; Yahoo JP toteutuneet (takki): mediaani 360 €, p25 145 € (n=21) → geneerinen ~252 € × 1.4 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795202416,
+  "resale": 336,
+  "profit": -292,
+  "roi": -0.55,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 360 €, p25 145 € (n=21) → geneerinen ~252 € × 1.4 EU-taso",
+   "myynti grailed ~336 € → käteen ~235 € kulujen ja tinkimisen jälkeen",
+   "osto 520 € + toimitus = 527 €"
+  ],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50136840",
+  "brand": "Yohji Yamamoto · Tori",
+  "title": "Yohji Yamamoto Pour Homme Logo x New Era Huppari",
+  "price": 115.0,
+  "value": 332,
+  "score": 2.89,
+  "label": "🔥 KOVA DIILI",
+  "category": "huppari",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50136840",
+  "image": "https://img.tori.net/dynamic/default/item/50136840/909c9f18-61c6-4610-8b97-85b8265984f9",
+  "reasons": [
+   "taso A",
+   "new era ×0.5",
+   "pour homme ×1.4",
+   "malli 'pour homme' ~350 €",
+   "Japanissa myyty mediaani 57 € (n=63)",
+   "💰 kate ~110 € (ROI 90%, myy grailed ~332 €; malli 'pour homme' ~350 € (taulukko))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795202416,
+  "resale": 332,
+  "profit": 110,
+  "roi": 0.9,
+  "exit": "grailed",
+  "resale_why": [
+   "malli 'pour homme' ~350 € (taulukko)",
+   "myynti grailed ~332 € → käteen ~232 € kulujen ja tinkimisen jälkeen",
+   "osto 115 € + toimitus = 122 €"
+  ],
+  "risk": {
+   "fake": 4,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50136728",
+  "brand": "Yohji Yamamoto · Tori",
+  "title": "Yohji Yamamoto Pour Homme x New Era Huppari",
+  "price": 105.0,
+  "value": 332,
+  "score": 3.17,
+  "label": "🔥 KOVA DIILI",
+  "category": "huppari",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50136728",
+  "image": "https://img.tori.net/dynamic/default/item/50136728/3fbb2899-19ba-480c-8177-972af6ccf77f",
+  "reasons": [
+   "taso A",
+   "new era ×0.5",
+   "pour homme ×1.4",
+   "malli 'pour homme' ~350 €",
+   "Japanissa myyty mediaani 57 € (n=63)",
+   "💰 kate ~120 € (ROI 107%, myy grailed ~332 €; malli 'pour homme' ~350 € (taulukko))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795202416,
+  "resale": 332,
+  "profit": 120,
+  "roi": 1.07,
+  "exit": "grailed",
+  "resale_why": [
+   "malli 'pour homme' ~350 € (taulukko)",
+   "myynti grailed ~332 € → käteen ~232 € kulujen ja tinkimisen jälkeen",
+   "osto 105 € + toimitus = 112 €"
+  ],
+  "risk": {
+   "fake": 4,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "finn-449768698",
+  "brand": "Canada Goose · Finn 🇳🇴",
+  "title": "Canada Goose Trillium Parka",
+  "price": 181.97,
+  "value": 380,
+  "score": 2.09,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.finn.no/recommerce/forsale/item/449768698",
+  "image": "https://images.finncdn.no/dynamic/default/item/449768698/cd32c67e-9dd3-4644-a654-d6b71d8ba447",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 169 €",
+   "Japanissa myyty (takki) mediaani 278 € (n=27)",
+   "⚠️ kate ~-51 € (ROI -28%, myy grailed ~188 €; Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso)",
+   "1250 NOK + ~22 € posti + ALV 25.5 % + 8 € tullaus (Norja ei EU) = 182 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "finn",
+  "old_price": null,
+  "ts": 1795202416,
+  "resale": 188,
+  "profit": -51,
+  "roi": -0.28,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~188 € → käteen ~131 € kulujen ja tinkimisen jälkeen",
+   "osto 182 € + toimitus = 182 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "blocket-27422268",
+  "brand": "Maison Margiela · Blocket 🇸🇪",
+  "title": "Maison Margiela sneakers stl 43 vita med svart stänkmönster",
+  "price": 130.86,
+  "value": 332,
+  "score": 2.54,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "SHOES-EU-43",
+  "link": "https://www.blocket.se/recommerce/forsale/item/27422268",
+  "image": "https://images.blocketcdn.se/dynamic/default/item/27422268/6e4ed655-79aa-442c-ba10-8d6519d46312",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 121 €",
+   "Japanissa myyty (kengät) mediaani 162 € (n=9)",
+   "⚠️ kate ~-62 € (ROI -47%, myy grailed ~99 €; Yahoo JP toteutuneet (kengät): mediaani 162 €, p25 98 € (n=9) → geneerinen ~130 € × 1.15 EU-taso)",
+   "1299 SEK + ~15 € posti = 131 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "blocket",
+  "old_price": null,
+  "ts": 1795202416,
+  "resale": 99,
+  "profit": -62,
+  "roi": -0.47,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 162 €, p25 98 € (n=9) → geneerinen ~130 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~99 € → käteen ~69 € kulujen ja tinkimisen jälkeen",
+   "osto 131 € + toimitus = 131 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "blocket-28391892",
+  "brand": "Canada Goose · Blocket 🇸🇪",
+  "title": "Canada Goose dunjacka M svart",
+  "price": 148.78,
+  "value": 380,
+  "score": 2.55,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.blocket.se/recommerce/forsale/item/28391892",
+  "image": "https://images.blocketcdn.se/dynamic/default/item/28391892/2d1892a3-7532-4e85-9f18-3a54eefb95ef",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 169 €",
+   "Japanissa myyty (takki) mediaani 278 € (n=27)",
+   "⚠️ kate ~-18 € (ROI -12%, myy grailed ~188 €; Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso)",
+   "1500 SEK + ~15 € posti = 149 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "blocket",
+  "old_price": null,
+  "ts": 1795202416,
+  "resale": 188,
+  "profit": -18,
+  "roi": -0.12,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~188 € → käteen ~131 € kulujen ja tinkimisen jälkeen",
+   "osto 149 € + toimitus = 149 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2468038030",
+  "brand": "Tom Ford · Marktplaats 🇳🇱",
+  "title": "Tom ford grey vetiver",
+  "price": 80.0,
+  "value": 200,
+  "score": 2.5,
+  "label": "🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/uiterlijk-parfum/m2468038030-tom-ford-grey-vetiver",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/ce6acc6a-8d34-4205-8403-3fd65f6e4a36?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 128 €",
+   "Japanissa myyty (muu) mediaani 67 € (n=59)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "60 EUR + ~20 € posti = 80 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795202416,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 18,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2467740706",
+  "brand": "Canada Goose · Marktplaats 🇳🇱",
+  "title": "Canada Goose Macmillan Parka - Nieuw met labels (L/XL)",
+  "price": 194.99,
+  "value": 420,
+  "score": 2.15,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "Nieuw",
+  "size": "MEN-INT-XL",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/jassen-winter/m2467740706-canada-goose-macmillan-parka-nieuw-met-labels-l-xl",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/e6755a09-fed9-4c38-b8d6-2acce598f77a?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 169 €",
+   "Japanissa myyty (takki) mediaani 278 € (n=27)",
+   "⚠️ kate ~-50 € (ROI -26%, myy grailed ~208 €; Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso)",
+   "175 EUR + ~20 € posti = 195 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795202416,
+  "resale": 208,
+  "profit": -50,
+  "roi": -0.26,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~208 € → käteen ~145 € kulujen ja tinkimisen jälkeen",
+   "osto 195 € + toimitus = 195 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2467245874",
+  "brand": "Canada Goose · Marktplaats 🇳🇱",
+  "title": "Canada Goose MacMillan Parka Maat L",
+  "price": 140.0,
+  "value": 420,
+  "score": 3.0,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "Nieuw",
+  "size": "MEN-INT-L",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/jassen-winter/m2467245874-canada-goose-macmillan-parka-maat-l",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/90038851-c051-4fc3-9fc1-4c811983755d?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 169 €",
+   "Japanissa myyty (takki) mediaani 278 € (n=27)",
+   "kate ~5 € (ROI 4%, myy grailed ~208 €; Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso)",
+   "120 EUR + ~20 € posti = 140 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795202416,
+  "resale": 208,
+  "profit": 5,
+  "roi": 0.04,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~208 € → käteen ~145 € kulujen ja tinkimisen jälkeen",
+   "osto 140 € + toimitus = 140 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2467679286",
+  "brand": "Ann Demeulemeester · 2dehands 🇧🇪",
+  "title": "Ann Demeulemeester designer zwarte lederen bag",
+  "price": 120.0,
+  "value": 300,
+  "score": 2.5,
+  "label": "🔥 KOVA DIILI",
+  "category": "laukku",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/handtassen-en-accessoires/toilettassen/m2467679286-ann-demeulemeester-designer-zwarte-lederen-bag",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/baea755c-cbea-4d64-b00b-ef2b8bf8c2c3?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 158 €",
+   "Japanissa myyty mediaani 130 € (n=84)",
+   "kate ~33 € (ROI 28%, myy vestiaire ~225 €; brändiarvio ~225 € (ei mallivertailua eikä Yahoo-dataa))",
+   "100 EUR + ~20 € posti = 120 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1795202416,
+  "resale": 225,
+  "profit": 33,
+  "roi": 0.28,
+  "exit": "vestiaire",
+  "resale_why": [
+   "brändiarvio ~225 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vestiaire ~225 € → käteen ~153 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 120 €"
+  ],
+  "risk": {
+   "fake": 5,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "2dehands-m2467674320",
+  "brand": "Ann Demeulemeester · 2dehands 🇧🇪",
+  "title": "Ann Demeulemeester designer lederen bag beige",
+  "price": 120.0,
+  "value": 300,
+  "score": 2.5,
+  "label": "🔥 KOVA DIILI",
+  "category": "laukku",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/handtassen-en-accessoires/toilettassen/m2467674320-ann-demeulemeester-designer-lederen-bag-beige",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/e515abea-59b7-472a-86d8-f25227a88f85?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 158 €",
+   "Japanissa myyty mediaani 130 € (n=84)",
+   "kate ~33 € (ROI 28%, myy vestiaire ~225 €; brändiarvio ~225 € (ei mallivertailua eikä Yahoo-dataa))",
+   "100 EUR + ~20 € posti = 120 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1795202416,
+  "resale": 225,
+  "profit": 33,
+  "roi": 0.28,
+  "exit": "vestiaire",
+  "resale_why": [
+   "brändiarvio ~225 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vestiaire ~225 € → käteen ~153 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 120 €"
+  ],
+  "risk": {
+   "fake": 5,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "2dehands-m2467613314",
+  "brand": "Ann Demeulemeester · 2dehands 🇧🇪",
+  "title": "Ann Demeulemeester designer zwarte sjaal cotton",
+  "price": 70.0,
+  "value": 200,
+  "score": 2.86,
+  "label": "🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/kleding-heren/mutsen-sjaals-en-handschoenen/m2467613314-ann-demeulemeester-designer-zwarte-sjaal-cotton",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/62943b47-c1e7-4a20-8d86-dea301177fd8?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 158 €",
+   "Japanissa myyty (muu) mediaani 129 € (n=73)",
+   "kate ~16 € (ROI 22%, myy grailed ~123 €; Yahoo JP toteutuneet (muu): mediaani 129 €, p25 85 € (n=73) → geneerinen ~107 € × 1.15 EU-taso)",
+   "50 EUR + ~20 € posti = 70 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1795202416,
+  "resale": 123,
+  "profit": 16,
+  "roi": 0.22,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 129 €, p25 85 € (n=73) → geneerinen ~107 € × 1.15 EU-taso",
+   "myynti grailed ~123 € → käteen ~86 € kulujen ja tinkimisen jälkeen",
+   "osto 70 € + toimitus = 70 €"
+  ],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "2dehands-m2467330285",
+  "brand": "Ann Demeulemeester · 2dehands 🇧🇪",
+  "title": "Ann Demeulemeester designer men shirt cotton XL",
+  "price": 70.0,
+  "value": 210,
+  "score": 3.0,
+  "label": "🔥 KOVA DIILI",
+  "category": "kauluspaita",
+  "condition": "Nieuw",
+  "size": "MEN-INT-XL",
+  "link": "https://www.2dehands.be/v/kleding-heren/overhemden/m2467330285-ann-demeulemeester-designer-men-shirt-cotton-xl",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/a163d7bb-39db-4ed0-ad00-10208b184613?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 158 €",
+   "Japanissa myyty mediaani 130 € (n=84)",
+   "kate ~40 € (ROI 57%, myy grailed ~158 €; brändiarvio ~158 € (ei mallivertailua eikä Yahoo-dataa))",
+   "50 EUR + ~20 € posti = 70 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1795202416,
+  "resale": 158,
+  "profit": 40,
+  "roi": 0.57,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~158 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~158 € → käteen ~110 € kulujen ja tinkimisen jälkeen",
+   "osto 70 € + toimitus = 70 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "2dehands-m2467272646",
+  "brand": "Ann Demeulemeester · 2dehands 🇧🇪",
+  "title": "Ann Demeulemeester designer kleine metalic leder schoudertas",
+  "price": 55.0,
+  "value": 140,
+  "score": 2.55,
+  "label": "🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "Gebruikt",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/handtassen-en-accessoires/tassen-damestassen/m2467272646-ann-demeulemeester-designer-kleine-metalic-leder-schoudertas",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/f4faf5bc-340a-44bd-9638-eb04e3740fda?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 158 €",
+   "Japanissa myyty (muu) mediaani 129 € (n=73)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "35 EUR + ~20 € posti = 55 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1795202416,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "kulunut",
+   "why": [
+    "selviä käytön jälkiä/vikoja"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2468040312",
+  "brand": "Tom Ford · 2dehands 🇧🇪",
+  "title": "Tom ford grey vetiver 50 ml",
+  "price": 80.0,
+  "value": 200,
+  "score": 2.5,
+  "label": "🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/handtassen-en-accessoires/uiterlijk-parfum/m2468040312-tom-ford-grey-vetiver-50-ml",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/4478e58c-c01c-47b1-a3f7-962a2440e412?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 128 €",
+   "Japanissa myyty (muu) mediaani 67 € (n=59)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "60 EUR + ~20 € posti = 80 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1795202416,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 18,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "PQHclccwjK",
   "brand": "Y-3",
   "title": "Y-3 T-paita",
@@ -43077,326 +43737,6 @@
   "size": "WMN-INT-L",
   "link": "https://www.sellpy.fi/item/AzPFOPAzGh",
   "image": "https://prod.images.sellpy.net/photoRobot-standard-15-k-1/D2shvahRxL-2670-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347669
- },
- {
-  "id": "Unc8FvIIgf",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Farkut",
-  "price": 15.0,
-  "value": 65,
-  "score": 4.32,
-  "label": "🚨 INSANE",
-  "category": "housut",
-  "condition": "Hyvä",
-  "size": "PANTS-INCH-30",
-  "link": "https://www.sellpy.fi/item/Unc8FvIIgf",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-9-k-1/5FUSSdXpqu-525f-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347669
- },
- {
-  "id": "H79AGsyegG",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Farkkupaita",
-  "price": 12.0,
-  "value": 61,
-  "score": 5.07,
-  "label": "🚨 INSANE",
-  "category": "kauluspaita",
-  "condition": "Hyväksyttävä",
-  "size": "WMN-INT-M",
-  "link": "https://www.sellpy.fi/item/H79AGsyegG",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-k-14/Mb31i8FJLt-0855-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347669
- },
- {
-  "id": "mMUyEbRnjU",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Kangaskengät",
-  "price": 24.0,
-  "value": 106,
-  "score": 4.43,
-  "label": "🚨 INSANE",
-  "category": "kengät",
-  "condition": "Hyväksyttävä",
-  "size": "SHOES-EU-37",
-  "link": "https://www.sellpy.fi/item/mMUyEbRnjU",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-14-k-1/mMUyEbRnjU-3634-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347669
- },
- {
-  "id": "59QNN7MJoL",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Farkut",
-  "price": 17.0,
-  "value": 68,
-  "score": 4.02,
-  "label": "🚨 INSANE",
-  "category": "housut",
-  "condition": "Hyväksyttävä",
-  "size": "PANTS-INCH-24",
-  "link": "https://www.sellpy.fi/item/59QNN7MJoL",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-10-k-9/59QNN7MJoL-bc81-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347669
- },
- {
-  "id": "mx13XeK4Iu",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Farkut",
-  "price": 31.0,
-  "value": 72,
-  "score": 2.32,
-  "label": "✅ DIILI",
-  "category": "housut",
-  "condition": "Erittäin hyvä",
-  "size": "PANTS-INCH-24",
-  "link": "https://www.sellpy.fi/item/mx13XeK4Iu",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-10-k-9/mx13XeK4Iu-3a6c-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347669
- },
- {
-  "id": "ZBt1Cli4oh",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Farkut",
-  "price": 36.0,
-  "value": 72,
-  "score": 2.0,
-  "label": "✅ DIILI",
-  "category": "housut",
-  "condition": "Erittäin hyvä",
-  "size": "PANTS-INCH-25",
-  "link": "https://www.sellpy.fi/item/ZBt1Cli4oh",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-10-k-9/ZBt1Cli4oh-dcd7-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347669
- },
- {
-  "id": "xmqk1SvPf5",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Huppu",
-  "price": 21.0,
-  "value": 61,
-  "score": 2.9,
-  "label": "🔥 KOVA DIILI",
-  "category": "muu",
-  "condition": "Hyväksyttävä",
-  "size": "-",
-  "link": "https://www.sellpy.fi/item/xmqk1SvPf5",
-  "image": "https://prod.images.sellpy.net/photoRobot-fixed-11-k-9/ns1TglBH66-a923-single.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347669
- },
- {
-  "id": "UCqQTdrm3d",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Chinos-housut",
-  "price": 13.0,
-  "value": 65,
-  "score": 4.98,
-  "label": "🚨 INSANE",
-  "category": "housut",
-  "condition": "Hyvä",
-  "size": "WMN-EU-38",
-  "link": "https://www.sellpy.fi/item/UCqQTdrm3d",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-6-k-13/nIs7U3CACc-38c4-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347669
- },
- {
-  "id": "I9KVoBfCX2",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Neulepaita MISTY CLEAN PSS16",
-  "price": 11.0,
-  "value": 72,
-  "score": 6.55,
-  "label": "🚨 INSANE",
-  "category": "neule",
-  "condition": "Hyvä",
-  "size": "WMN-INT-S",
-  "link": "https://www.sellpy.fi/item/I9KVoBfCX2",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-14/hpQ0p8LCuY-de08-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347669
- },
- {
-  "id": "ULckKMUurZ",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Neulepaita",
-  "price": 35.0,
-  "value": 72,
-  "score": 2.06,
-  "label": "✅ DIILI",
-  "category": "neule",
-  "condition": "Hyvä",
-  "size": "WMN-INT-S",
-  "link": "https://www.sellpy.fi/item/ULckKMUurZ",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-3-k-14/zgdtiJdemR-4689-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347669
- },
- {
-  "id": "ABg3bsbqjJ",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Mekko",
-  "price": 24.0,
-  "value": 61,
-  "score": 2.53,
-  "label": "🔥 KOVA DIILI",
-  "category": "muu",
-  "condition": "Hyväksyttävä",
-  "size": "WMN-EU-36",
-  "link": "https://www.sellpy.fi/item/ABg3bsbqjJ",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-4-k-7/Rl6AGyOaYY-9a0e-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347669
- },
- {
-  "id": "iBy4mo6tfM",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Farkut LITA STR VINTAGE",
-  "price": 13.0,
-  "value": 65,
-  "score": 4.98,
-  "label": "🚨 INSANE",
-  "category": "housut",
-  "condition": "Hyvä",
-  "size": "PANTS-INCH-27",
-  "link": "https://www.sellpy.fi/item/iBy4mo6tfM",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-9-k-8/yMyj0MMEqW-c066-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347669
- },
- {
-  "id": "uG6BImdVAD",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Farkut",
-  "price": 17.0,
-  "value": 65,
-  "score": 3.81,
-  "label": "🔥 KOVA DIILI",
-  "category": "housut",
-  "condition": "Hyvä",
-  "size": "WMN-INT-S",
-  "link": "https://www.sellpy.fi/item/uG6BImdVAD",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-9-k-16/22deBeQsxP-8445-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347669
- },
- {
-  "id": "LejT2MIb4V",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Puvunhousut SAVILLE CR MOH",
-  "price": 21.0,
-  "value": 65,
-  "score": 3.09,
-  "label": "🔥 KOVA DIILI",
-  "category": "housut",
-  "condition": "Hyvä",
-  "size": "WMN-EU-36",
-  "link": "https://www.sellpy.fi/item/LejT2MIb4V",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-9-l-2/f1beHSMCws-c353-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347669
- },
- {
-  "id": "3LuFKU9KqA",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Puvunhousut Saville Cr Bi S",
-  "price": 20.0,
-  "value": 72,
-  "score": 3.6,
-  "label": "🔥 KOVA DIILI",
-  "category": "housut",
-  "condition": "Erittäin hyvä",
-  "size": "PANTS-INCH-38",
-  "link": "https://www.sellpy.fi/item/3LuFKU9KqA",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-10-k-4/QHCLU6MkLQ-cbf7-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347669
- },
- {
-  "id": "bV2p4ojLU9",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Farkut",
-  "price": 18.0,
-  "value": 68,
-  "score": 3.8,
-  "label": "🔥 KOVA DIILI",
-  "category": "housut",
-  "condition": "Hyväksyttävä",
-  "size": "PANTS-INCH-27",
-  "link": "https://www.sellpy.fi/item/bV2p4ojLU9",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-10-k-15/bV2p4ojLU9-5035-0.jpg",
   "reasons": [
    "Sellpyn mediaani tälle brändille 84 €"
   ],
