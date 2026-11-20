@@ -1,5 +1,5 @@
 {
- "generated": 1795121761,
+ "generated": 1795141947,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -797,20 +797,20 @@
     "image": "https://images.blocketcdn.se/dynamic/default/item/28095295/a36f8702-1ffe-47d0-ac5e-c29dd4b24935"
    },
    {
-    "id": "tradera-755647966",
-    "source": "tradera",
-    "title": "Monitorarm för skrivbord, justerbar skärmhållare",
-    "price": 39.27,
-    "url": "https://www.tradera.com/item/1000274/755647966/monitorarm-for-skrivbord-justerbar-skarmhallare",
-    "image": "https://img.tradera.net/images/575/655962575_779796dd-1f5a-469b-b492-c8ec07d181e7.jpg"
-   },
-   {
     "id": "tradera-761818945",
     "source": "tradera",
     "title": "Monitorarm för skrivbord, justerbar skärmhållare",
     "price": 39.27,
     "url": "https://www.tradera.com/item/1000274/761818945/monitorarm-for-skrivbord-justerbar-skarmhallare",
     "image": "https://img.tradera.net/images/408/660522408_675cfbe0-c1e8-4858-8ee2-5f9c8ca11bd6.jpg"
+   },
+   {
+    "id": "tradera-755647966",
+    "source": "tradera",
+    "title": "Monitorarm för skrivbord, justerbar skärmhållare",
+    "price": 39.27,
+    "url": "https://www.tradera.com/item/1000274/755647966/monitorarm-for-skrivbord-justerbar-skarmhallare",
+    "image": "https://img.tradera.net/images/575/655962575_779796dd-1f5a-469b-b492-c8ec07d181e7.jpg"
    },
    {
     "id": "tradera-757526267",
@@ -973,6 +973,14 @@
     "image": "https://img.tori.net/dynamic/default/item/45557942/f4d44b06-5b9b-4cf7-8ade-0f0e1e4f9fe0"
    },
    {
+    "id": "tori-46087782",
+    "source": "tori",
+    "title": "LCD ViewMaster näytönvarsi pöytäkiinnityksellä",
+    "price": 55.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/46087782",
+    "image": "https://img.tori.net/dynamic/default/item/46087782/fd2badaa-8763-46c3-8cbf-c2715b0e6870"
+   },
+   {
     "id": "blocket-24642329",
     "source": "blocket",
     "title": "Skärmfäste / monitorarm för skrivbord",
@@ -1083,14 +1091,6 @@
     "price": 128.1,
     "url": "https://www.blocket.se/recommerce/forsale/item/25651452",
     "image": "https://images.blocketcdn.se/dynamic/default/item/25651452/fc5492fd-9aa7-4f60-abc2-f5339c8737e8"
-   },
-   {
-    "id": "tradera-758183379",
-    "source": "tradera",
-    "title": "FEC XM-1010W 10,1'' POS Kundskärm/Monitor (VGA) – Begagnad- Otestad",
-    "price": 136.8,
-    "url": "https://www.tradera.com/item/301824/758183379/fec-xm-1010w-10-1-pos-kundskarm-monitor-vga-begagnad-otestad",
-    "image": "https://img.tradera.net/images/825/666063825_049af518-6291-4173-9352-520603937a8c.jpg"
    },
    {
     "id": "blocket-26849000",
