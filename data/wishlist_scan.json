@@ -1,5 +1,5 @@
 {
- "generated": 1795141947,
+ "generated": 1795170141,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -259,14 +259,6 @@
     "image": "https://img.tori.net/dynamic/default/item/46611958/74d4f57b-fc8c-4723-a0d1-c5c736ee1a39"
    },
    {
-    "id": "tradera-760110855",
-    "source": "tradera",
-    "title": "Laptopställ / stativ ihopfällbart",
-    "price": 19.35,
-    "url": "https://www.tradera.com/item/1000651/760110855/laptopstall-stativ-ihopfallbart",
-    "image": "https://img.tradera.net/images/484/667544484_505332e7-cf0e-47fa-8640-bedbc86ce403.jpg"
-   },
-   {
     "id": "tori-47052657",
     "source": "tori",
     "title": "Kannettavan tietokoneen teline 11-13\" läppäreille",
@@ -281,22 +273,6 @@
     "price": 20.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/49903741",
     "image": "https://img.tori.net/dynamic/default/item/49903741/73822b70-bc5b-4e4e-94de-016ace3adc4e"
-   },
-   {
-    "id": "tradera-762037958",
-    "source": "tradera",
-    "title": "Deltaco laptopställ, justerbart",
-    "price": 21.52,
-    "url": "https://www.tradera.com/item/1000651/762037958/deltaco-laptopstall-justerbart",
-    "image": "https://img.tradera.net/images/568/669052568_c267eae7-3bd0-4cdb-9191-6f99cd54e9bc.jpg"
-   },
-   {
-    "id": "tradera-758802063",
-    "source": "tradera",
-    "title": "IKEA SIGFINN bildskärms- eller laptopställ",
-    "price": 21.52,
-    "url": "https://www.tradera.com/item/1000651/758802063/ikea-sigfinn-bildskarms-eller-laptopstall",
-    "image": "https://img.tradera.net/images/781/666530781_72235632-23a5-441c-ba19-f6108c6f844e.jpg"
    },
    {
     "id": "blocket-25689995",
@@ -331,14 +307,6 @@
     "image": "https://img.tori.net/dynamic/default/item/44732137/741458e8-1409-40a2-8ee6-fb816964430f"
    },
    {
-    "id": "tradera-754924156",
-    "source": "tradera",
-    "title": "Laptopställ med två användningslägen",
-    "price": 27.96,
-    "url": "https://www.tradera.com/item/1000651/754924156/laptopstall-med-tva-anvandningslagen",
-    "image": "https://img.tradera.net/images/871/663474871_f43047a7-f368-4f1a-b648-e1278b3020ef.jpg"
-   },
-   {
     "id": "blocket-27431471",
     "source": "blocket",
     "title": "Twelve South Curve Riser",
@@ -355,36 +323,12 @@
     "image": "https://img.tori.net/dynamic/default/item/49794288/b3f31ab9-6a3c-488a-ad7d-fbede7cfb4dd"
    },
    {
-    "id": "tradera-761460349",
-    "source": "tradera",
-    "title": "*Helt nytt* Hopfällbart laptopställ i aluminium – Modell N8",
-    "price": 31.96,
-    "url": "https://www.tradera.com/item/1000651/761460349/-helt-nytt-hopfallbart-laptopstall-i-aluminium-modell-n8",
-    "image": "https://img.tradera.net/images/336/668601336_91c4119b-ed11-4fda-be08-c1d31db38aec.jpg"
-   },
-   {
-    "id": "tradera-760708672",
-    "source": "tradera",
-    "title": "Desire2 View Supreme Lite Laptopställ",
-    "price": 32.4,
-    "url": "https://www.tradera.com/item/1000651/760708672/desire2-view-supreme-lite-laptopstall",
-    "image": "https://img.tradera.net/images/146/668015146_f5cf80c1-c376-4612-aef9-56754ec4235c.jpg"
-   },
-   {
     "id": "blocket-28146363",
     "source": "blocket",
     "title": "Griffin laptopställ i aluminium (ej dator!)",
     "price": 32.4,
     "url": "https://www.blocket.se/recommerce/forsale/item/28146363",
     "image": "https://images.blocketcdn.se/dynamic/default/item/28146363/8530a637-89ca-483c-baf2-1961d10b6a6e"
-   },
-   {
-    "id": "tradera-756608819",
-    "source": "tradera",
-    "title": "Desire2 Laptopställ",
-    "price": 34.23,
-    "url": "https://www.tradera.com/item/1000651/756608819/desire2-laptopstall",
-    "image": "https://img.tradera.net/images/181/664805181_67264947-e405-4d83-9809-744e6553cae7.jpg"
    },
    {
     "id": "tori-47821945",
@@ -451,22 +395,6 @@
     "image": "https://images.blocketcdn.se/dynamic/default/item/28373920/ad90a630-7e66-4d78-8b70-53503298ceba"
    },
    {
-    "id": "tradera-761170965",
-    "source": "tradera",
-    "title": "Laptop Stand / Stativ – superportabel & ergonomisk!",
-    "price": 41.1,
-    "url": "https://www.tradera.com/item/1000651/761170965/laptop-stand-stativ-superportabel-ergonomisk-",
-    "image": "https://img.tradera.net/images/326/668374326_6e5d2352-dba8-4f9c-9b85-58fcbe8dc162.jpg"
-   },
-   {
-    "id": "tradera-759764392",
-    "source": "tradera",
-    "title": "Plexgear Laptopställ",
-    "price": 41.1,
-    "url": "https://www.tradera.com/item/1000651/759764392/plexgear-laptopstall",
-    "image": "https://img.tradera.net/images/609/667275609_ee5ff640-aaf2-41bb-ac08-2ecfc79b1c44.jpg"
-   },
-   {
     "id": "blocket-26945648",
     "source": "blocket",
     "title": "Plexgear laptopställ aluminium silver",
@@ -483,14 +411,6 @@
     "image": "https://images.blocketcdn.se/dynamic/default/item/23621975/da536a87-1447-4462-82cf-eb76259f72de"
    },
    {
-    "id": "tradera-755115300",
-    "source": "tradera",
-    "title": "AVHÄMTAS - BJÖRKÅSEN Laptopställ, antracit - NYTT/oanvänt",
-    "price": 43.97,
-    "url": "https://www.tradera.com/item/1000651/755115300/avhamtas-bjorkasen-laptopstall-antracit-nytt-oanvant",
-    "image": "https://img.tradera.net/images/867/663625867_287de823-b027-4524-9087-9028f403e631.jpg"
-   },
-   {
     "id": "tori-44916302",
     "source": "tori",
     "title": "Puinen tyylikäs läppäriteline",
@@ -499,28 +419,12 @@
     "image": "https://img.tori.net/dynamic/default/item/44916302/786f99a1-0963-4ced-9844-9d74dc27f47a"
    },
    {
-    "id": "tradera-759827126",
-    "source": "tradera",
-    "title": "J5Create Laptopställ",
-    "price": 45.45,
-    "url": "https://www.tradera.com/item/1000651/759827126/j5create-laptopstall",
-    "image": "https://img.tradera.net/images/995/667325995_453f4969-2fc9-4034-8c57-3e426d56cb13.jpg"
-   },
-   {
     "id": "blocket-28236011",
     "source": "blocket",
     "title": "Twelve South Curve-stativ till Laptops",
     "price": 48.93,
     "url": "https://www.blocket.se/recommerce/forsale/item/28236011",
     "image": "https://images.blocketcdn.se/dynamic/default/item/28236011/bd0b017b-ab38-442a-b415-0f48bbac84af"
-   },
-   {
-    "id": "tradera-679482094",
-    "source": "tradera",
-    "title": "Rain Design mStand Stativ ställ för MacBook för MacBook Laptop Stand",
-    "price": 49.8,
-    "url": "https://www.tradera.com/item/1000651/679482094/rain-design-mstand-stativ-stall-for-macbook-for-macbook-laptop-stand",
-    "image": "https://img.tradera.net/images/876/603914876_5aa9b001-62b7-433f-9194-11738f8217f9.jpg"
    },
    {
     "id": "blocket-25917452",
@@ -555,36 +459,12 @@
     "image": "https://images.blocketcdn.se/dynamic/default/item/26001124/df1ab904-b859-446e-afa6-e6d6fec9ab72"
    },
    {
-    "id": "tradera-761751087",
-    "source": "tradera",
-    "title": "Twelve South HiRise för MacBook – Höjdjusterbart laptopställ i aluminium",
-    "price": 62.76,
-    "url": "https://www.tradera.com/item/1000651/761751087/twelve-south-hirise-for-macbook-hojdjusterbart-laptopstall-i-aluminium",
-    "image": "https://img.tradera.net/images/757/668821757_27f07df9-56ce-4627-a1bc-06d196da0c06.jpg"
-   },
-   {
     "id": "blocket-22528144",
     "source": "blocket",
     "title": "Twelve South HiRise laptopställ aluminium silver",
     "price": 62.85,
     "url": "https://www.blocket.se/recommerce/forsale/item/22528144",
     "image": "https://images.blocketcdn.se/dynamic/default/item/22528144/3098d9e6-414a-45a1-bdfe-4ed7bb74e5df"
-   },
-   {
-    "id": "tradera-762134460",
-    "source": "tradera",
-    "title": "Secretlab Magnus Laptopställ",
-    "price": 71.55,
-    "url": "https://www.tradera.com/item/1000651/762134460/secretlab-magnus-laptopstall",
-    "image": "https://img.tradera.net/images/212/669127212_4d861b6b-6ca9-426b-a524-68a6a241b33f.jpg"
-   },
-   {
-    "id": "tradera-601780434",
-    "source": "tradera",
-    "title": "Bakker Elkhuizen Ergo-Q Portable Laptop Stand v.2.20 Ställ för bärbar dator",
-    "price": 80.25,
-    "url": "https://www.tradera.com/item/340849/601780434/bakker-elkhuizen-ergo-q-portable-laptop-stand-v-2-20-stall-for-barbar-dator",
-    "image": "https://img.tradera.net/images/683/537620683_e53311d1-9c73-46a4-984b-42a9147a00d4.jpg"
    },
    {
     "id": "tori-42283684",
@@ -733,52 +613,12 @@
     "image": "https://img.tori.net/dynamic/default/item/45932080/68773e1e-51ff-4c77-8bbe-4e7653d58474"
    },
    {
-    "id": "tradera-758155102",
-    "source": "tradera",
-    "title": "Justerbart bordsfäste för bildskärm / VESA-skärmarm (Svart)",
-    "price": 32.31,
-    "url": "https://www.tradera.com/item/1000274/758155102/justerbart-bordsfaste-for-bildskarm-vesa-skarmarm-svart-",
-    "image": "https://img.tradera.net/images/409/666041409_48da7120-8ef4-4a91-af4c-6c920a1bf7ed.jpg"
-   },
-   {
-    "id": "tradera-760772302",
-    "source": "tradera",
-    "title": "Monitorarm med bordsfäste",
-    "price": 32.4,
-    "url": "https://www.tradera.com/item/1000274/760772302/monitorarm-med-bordsfaste",
-    "image": "https://img.tradera.net/images/804/668065804_97427ce9-d44d-47f9-8b68-0a0f0305b30a.jpg"
-   },
-   {
-    "id": "tradera-761780925",
-    "source": "tradera",
-    "title": "Monitorfäste med en arm för 13–27 tum platt och böjd skärm",
-    "price": 34.57,
-    "url": "https://www.tradera.com/item/1000274/761780925/monitorfaste-med-en-arm-for-13-27-tum-platt-och-bojd-skarm",
-    "image": "https://img.tradera.net/images/492/668846492_3937c1f8-d499-47d7-b59a-0b0c72476ac5.jpg"
-   },
-   {
     "id": "tori-45046764",
     "source": "tori",
     "title": "Monitorivarsi - Multibrackets",
     "price": 35.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/45046764",
     "image": "https://img.tori.net/dynamic/default/item/45046764/75bc00e6-ef09-4dc0-b105-a695e564682e"
-   },
-   {
-    "id": "tradera-761534831",
-    "source": "tradera",
-    "title": "KOORUI KR20Y monitorarm för skrivbord",
-    "price": 36.66,
-    "url": "https://www.tradera.com/item/1000274/761534831/koorui-kr20y-monitorarm-for-skrivbord",
-    "image": "https://img.tradera.net/images/719/668654719_82eb972e-d0c4-42a5-b3be-85a1f09bab35.jpg"
-   },
-   {
-    "id": "tradera-761534555",
-    "source": "tradera",
-    "title": "KOORUI KR20Y monitorarm för skrivbord",
-    "price": 36.66,
-    "url": "https://www.tradera.com/item/1000274/761534555/koorui-kr20y-monitorarm-for-skrivbord",
-    "image": "https://img.tradera.net/images/557/668654557_1829a2d2-8a7c-4a9e-a599-c61a16d2c1cc.jpg"
    },
    {
     "id": "blocket-25629840",
@@ -795,54 +635,6 @@
     "price": 36.75,
     "url": "https://www.blocket.se/recommerce/forsale/item/28095295",
     "image": "https://images.blocketcdn.se/dynamic/default/item/28095295/a36f8702-1ffe-47d0-ac5e-c29dd4b24935"
-   },
-   {
-    "id": "tradera-761818945",
-    "source": "tradera",
-    "title": "Monitorarm för skrivbord, justerbar skärmhållare",
-    "price": 39.27,
-    "url": "https://www.tradera.com/item/1000274/761818945/monitorarm-for-skrivbord-justerbar-skarmhallare",
-    "image": "https://img.tradera.net/images/408/660522408_675cfbe0-c1e8-4858-8ee2-5f9c8ca11bd6.jpg"
-   },
-   {
-    "id": "tradera-755647966",
-    "source": "tradera",
-    "title": "Monitorarm för skrivbord, justerbar skärmhållare",
-    "price": 39.27,
-    "url": "https://www.tradera.com/item/1000274/755647966/monitorarm-for-skrivbord-justerbar-skarmhallare",
-    "image": "https://img.tradera.net/images/575/655962575_779796dd-1f5a-469b-b492-c8ec07d181e7.jpg"
-   },
-   {
-    "id": "tradera-757526267",
-    "source": "tradera",
-    "title": "Monitorarm för skrivbord, justerbar skärmhållare",
-    "price": 39.27,
-    "url": "https://www.tradera.com/item/1000274/757526267/monitorarm-for-skrivbord-justerbar-skarmhallare",
-    "image": "https://img.tradera.net/images/357/657386357_dfdd2b13-9f07-46c6-9248-8061dc7da032.jpg"
-   },
-   {
-    "id": "tori-45182530",
-    "source": "tori",
-    "title": "Mozi Infinity Line näyttövarsi valkoinen",
-    "price": 40.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/45182530",
-    "image": "https://img.tori.net/dynamic/default/item/45182530/29120898-24e3-48b2-ae0e-f14b8713b718"
-   },
-   {
-    "id": "tradera-760414755",
-    "source": "tradera",
-    "title": "Bordsmonterad monitorarm för skärmar mellan 17 - 32\"",
-    "price": 41.01,
-    "url": "https://www.tradera.com/item/1000274/760414755/bordsmonterad-monitorarm-for-skarmar-mellan-17-32-",
-    "image": "https://img.tradera.net/images/108/667782108_2191b6fb-050e-4aa9-b467-f091d6a77a21.jpg"
-   },
-   {
-    "id": "tradera-758151767",
-    "source": "tradera",
-    "title": "Ergonomisk skärmarm R-Go Zepher (Svart) – Toppskick",
-    "price": 41.1,
-    "url": "https://www.tradera.com/item/340827/758151767/ergonomisk-skarmarm-r-go-zepher-svart-toppskick",
-    "image": "https://img.tradera.net/images/572/666038572_4fda8748-73c6-49ee-8053-295b1a897474.jpg"
    },
    {
     "id": "blocket-28104620",
@@ -893,14 +685,6 @@
     "image": "https://img.tori.net/dynamic/default/item/46401494/8542e58b-d9cb-4dfb-8393-f7e6d9f43e00"
    },
    {
-    "id": "tradera-761964757",
-    "source": "tradera",
-    "title": "Deltaco Gaming WA95 Monitorarm - Vit",
-    "price": 48.93,
-    "url": "https://www.tradera.com/item/1000274/761964757/deltaco-gaming-wa95-monitorarm-vit",
-    "image": "https://img.tradera.net/images/096/668992096_4254c0d1-3969-449f-8b67-b25038613eed.jpg"
-   },
-   {
     "id": "blocket-27532060",
     "source": "blocket",
     "title": "Monitorarm med gasfjäder och bordsklämma, svart",
@@ -915,22 +699,6 @@
     "price": 49.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/19060948",
     "image": "https://img.tori.net/dynamic/default/2025/1/vertical-0/14/8/190/609/48_bd0db8aa-89d9-4a8b-a432-d8a1015ca9e6.jpg"
-   },
-   {
-    "id": "tradera-751698148",
-    "source": "tradera",
-    "title": "KOORUI Skärmarm för bildskärmar 17-32 tum",
-    "price": 49.71,
-    "url": "https://www.tradera.com/item/1000274/751698148/koorui-skarmarm-for-bildskarmar-17-32-tum",
-    "image": "https://img.tradera.net/images/990/655611990_897c64b5-aecb-4455-93f9-966585b15db2.jpg"
-   },
-   {
-    "id": "tradera-755647810",
-    "source": "tradera",
-    "title": "KOORUI Skärmarm för bildskärmar 17-32 tum",
-    "price": 49.71,
-    "url": "https://www.tradera.com/item/1000274/755647810/koorui-skarmarm-for-bildskarmar-17-32-tum",
-    "image": "https://img.tradera.net/images/461/655962461_deac2841-2ed7-4beb-964f-28d98a9952ad.jpg"
    },
    {
     "id": "blocket-26324794",
@@ -1029,14 +797,6 @@
     "image": "https://images.blocketcdn.se/dynamic/default/item/27099092/10207106-4560-432b-8c5c-4ec49f983cd9"
    },
    {
-    "id": "tradera-755801816",
-    "source": "tradera",
-    "title": "INVISION MX450 Ergonomisk Gasassisterad Skärmarm",
-    "price": 75.9,
-    "url": "https://www.tradera.com/item/302388/755801816/invision-mx450-ergonomisk-gasassisterad-skarmarm",
-    "image": "https://img.tradera.net/images/536/664172536_bb8b5c60-b5e5-4e62-8f65-1390d46532ad.jpg"
-   },
-   {
     "id": "tori-50058751",
     "source": "tori",
     "title": "Dell MSA20 -näyttövarsi, uusi ja avaamaton",
@@ -1075,14 +835,6 @@
     "price": 106.35,
     "url": "https://www.blocket.se/recommerce/forsale/item/27532923",
     "image": "https://images.blocketcdn.se/dynamic/default/item/27532923/e26a111a-f2d2-4c63-b4c1-b7f876728423"
-   },
-   {
-    "id": "tradera-761852474",
-    "source": "tradera",
-    "title": "Monitorarm Kensington Smartfit för 2 monitorer | grå (med klämma)",
-    "price": 119.31,
-    "url": "https://www.tradera.com/item/1000274/761852474/monitorarm-kensington-smartfit-for-2-monitorer-gra-med-klamma-",
-    "image": "https://img.tradera.net/images/957/668904957_cd7c459c-3737-44ee-9ca9-83bfc835615d.jpg"
    },
    {
     "id": "blocket-25651452",
