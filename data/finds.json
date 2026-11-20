@@ -1,5 +1,131 @@
 [
  {
+  "id": "finn-481311193",
+  "brand": "The Row · Finn 🇳🇴",
+  "title": "Teejay skjorte 3XL svart, pakke med 2 stk",
+  "price": 53.29,
+  "value": 228,
+  "score": 4.28,
+  "label": "🚨 INSANE",
+  "category": "muu",
+  "condition": "-",
+  "size": "MEN-INT-3XL",
+  "link": "https://www.finn.no/recommerce/forsale/item/481311193",
+  "image": "https://images.finncdn.no/dynamic/default/item/481311193/5c05ae2b-a425-4f00-ba25-0d4b58d9a9ab",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 165 €",
+   "Japanissa myyty (muu) mediaani 164 € (n=7)",
+   "kate ~41 € (ROI 78%, myy grailed ~136 €; Yahoo JP toteutuneet (muu): mediaani 164 €, p25 85 € (n=7) → geneerinen ~124 € × 1.15 EU-taso)",
+   "150 NOK + ~22 € posti + ALV 25.5 % + 8 € tullaus (Norja ei EU) = 53 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "finn",
+  "old_price": null,
+  "ts": 1795174301,
+  "resale": 136,
+  "profit": 41,
+  "roi": 0.78,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 164 €, p25 85 € (n=7) → geneerinen ~124 € × 1.15 EU-taso",
+   "myynti grailed ~136 € → käteen ~95 € kulujen ja tinkimisen jälkeen",
+   "osto 53 € + toimitus = 53 €"
+  ],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2467463842",
+  "brand": "Goyard · Marktplaats 🇳🇱",
+  "title": "Goyard Duffel tas",
+  "price": 120.0,
+  "value": 240,
+  "score": 2.0,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/tassen-reistassen-en-weekendtassen/m2467463842-goyard-duffel-tas",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/9e49dfe6-87b2-41a6-b6ff-e7a655ac2dcb?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Japanissa myyty (muu) mediaani 421 € (n=44)",
+   "kate ~47 € (ROI 40%, myy grailed ~240 €; Yahoo JP toteutuneet (muu): mediaani 421 €, p25 175 € (n=44) → geneerinen ~298 € × 1.15 EU-taso)",
+   "100 EUR + ~20 € posti = 120 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795174301,
+  "resale": 240,
+  "profit": 47,
+  "roi": 0.4,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 421 €, p25 175 € (n=44) → geneerinen ~298 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~240 € → käteen ~167 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 120 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2466710286",
+  "brand": "Goyard · Marktplaats 🇳🇱",
+  "title": "Goyard schoudertas met pochette - Groen",
+  "price": 110.0,
+  "value": 240,
+  "score": 2.18,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/tassen-schoudertassen/m2466710286-goyard-schoudertas-met-pochette-groen",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/4e6a9aeb-c8bf-40e3-bd20-654a9efc000e?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Japanissa myyty (muu) mediaani 421 € (n=44)",
+   "kate ~57 € (ROI 52%, myy grailed ~240 €; Yahoo JP toteutuneet (muu): mediaani 421 €, p25 175 € (n=44) → geneerinen ~298 € × 1.15 EU-taso)",
+   "90 EUR + ~20 € posti = 110 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795174301,
+  "resale": 240,
+  "profit": 57,
+  "roi": 0.52,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 421 €, p25 175 € (n=44) → geneerinen ~298 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~240 € → käteen ~167 € kulujen ja tinkimisen jälkeen",
+   "osto 110 € + toimitus = 110 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "HIpzVu5NQd",
   "brand": "Tailor & Son (haku: kashmir)",
   "title": "Tailor & Son Neulepaita",
@@ -42601,66 +42727,6 @@
   "image": "https://prod.images.sellpy.net/photoRobot-case-21-l-5/xYVwqHpmbn-a9ab-0.jpg",
   "reasons": [
    "tiedoissa 'raf simons', brändiksi listattu 'Stan Smith x Adidas'"
-  ],
-  "source": "haku",
-  "old_price": null,
-  "ts": 1794347669
- },
- {
-  "id": "Are5XdZzDh",
-  "brand": "Nike (haku: undercover)",
-  "title": "Nike Slip-ons",
-  "price": 16.0,
-  "value": 170,
-  "score": 10.6,
-  "label": "🚨 INSANE",
-  "category": "kengät",
-  "condition": "Hyväksyttävä",
-  "size": "SHOES-EU-40",
-  "link": "https://www.sellpy.fi/item/Are5XdZzDh",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-21-l-4/Are5XdZzDh-ef83-0.jpg",
-  "reasons": [
-   "tiedoissa 'jun takahashi', brändiksi listattu 'Nike'"
-  ],
-  "source": "haku",
-  "old_price": null,
-  "ts": 1794347669
- },
- {
-  "id": "xH1huvzoxG",
-  "brand": "Nike (haku: undercover)",
-  "title": "Nike Lenkkarit Daybreak",
-  "price": 68.0,
-  "value": 161,
-  "score": 2.36,
-  "label": "✅ DIILI",
-  "category": "kengät",
-  "condition": "Hyvä",
-  "size": "SHOES-EU-44.5",
-  "link": "https://www.sellpy.fi/item/xH1huvzoxG",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-14-k-1/xH1huvzoxG-cc80-0.jpg",
-  "reasons": [
-   "tiedoissa 'jun takahashi', brändiksi listattu 'Nike'"
-  ],
-  "source": "haku",
-  "old_price": null,
-  "ts": 1794347669
- },
- {
-  "id": "laJtOXczHm",
-  "brand": "Nike (haku: undercover)",
-  "title": "Nike Lenkkarit Daybreak",
-  "price": 58.0,
-  "value": 161,
-  "score": 2.77,
-  "label": "🔥 KOVA DIILI",
-  "category": "kengät",
-  "condition": "Hyvä",
-  "size": "SHOES-EU-44.5",
-  "link": "https://www.sellpy.fi/item/laJtOXczHm",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-14-k-1/laJtOXczHm-2654-0.jpg",
-  "reasons": [
-   "tiedoissa 'jun takahashi', brändiksi listattu 'Nike'"
   ],
   "source": "haku",
   "old_price": null,
