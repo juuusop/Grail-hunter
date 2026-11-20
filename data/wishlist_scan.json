@@ -1,5 +1,5 @@
 {
- "generated": 1795170141,
+ "generated": 1795200366,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -105,6 +105,14 @@
     "price": 6.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/41424605",
     "image": "https://img.tori.net/dynamic/default/item/41424605/04555925-4990-4b64-ad7d-5ebfe0b06394"
+   },
+   {
+    "id": "tori-44276636",
+    "source": "tori",
+    "title": "Kannettavan teline",
+    "price": 7.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/44276636",
+    "image": "https://img.tori.net/dynamic/default/item/44276636/95dd6386-2ab6-41a5-af5f-3edd6ce8952e"
    },
    {
     "id": "tori-49730945",
@@ -481,6 +489,14 @@
     "price": 129.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/23048733",
     "image": "https://img.tori.net/dynamic/default/cb/cb4886fd-8503-43ce-8f0b-7bf43b94f6eb"
+   },
+   {
+    "id": "blocket-28158041",
+    "source": "blocket",
+    "title": "DJ- & studiopaket: Akai Professional MPD226 + Magma Vektor Laptop-Stand",
+    "price": 145.5,
+    "url": "https://www.blocket.se/recommerce/forsale/item/28158041",
+    "image": "https://images.blocketcdn.se/dynamic/default/item/28158041/4419a13a-9f8f-454f-8f9c-c241051422ac"
    }
   ],
   "Näyttövarsi yhdelle näytölle": [
