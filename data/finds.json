@@ -1,5 +1,267 @@
 [
  {
+  "id": "blocket-28418699",
+  "brand": "Dior · Blocket 🇸🇪",
+  "title": "Dior väska",
+  "price": 113.11,
+  "value": 228,
+  "score": 2.02,
+  "label": "✅ DIILI",
+  "category": "laukku",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.blocket.se/recommerce/forsale/item/28418699",
+  "image": "https://images.blocketcdn.se/dynamic/default/item/28418699/b8a8e68b-b61c-40c3-8a77-7b8167474254",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 142 €",
+   "Japanissa myyty (laukku) mediaani 57 € (n=20)",
+   "⚠️ kate ~-96 € (ROI -85%, myy vestiaire ~25 €; Yahoo JP toteutuneet (laukku): mediaani 57 €, p25 9 € (n=20) → geneerinen ~33 € × 1.15 EU-taso)",
+   "1100 SEK + ~15 € posti = 113 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "blocket",
+  "old_price": null,
+  "ts": 1795278740,
+  "resale": 25,
+  "profit": -96,
+  "roi": -0.85,
+  "exit": "vestiaire",
+  "resale_why": [
+   "Yahoo JP toteutuneet (laukku): mediaani 57 €, p25 9 € (n=20) → geneerinen ~33 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti vestiaire ~25 € → käteen ~17 € kulujen ja tinkimisen jälkeen",
+   "osto 113 € + toimitus = 113 €"
+  ],
+  "risk": {
+   "fake": 64,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "laukku: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2459634196",
+  "brand": "Dior · Marktplaats 🇳🇱",
+  "title": "Dior Sauvage Elixir 60ml - Herenparfum",
+  "price": 80.0,
+  "value": 160,
+  "score": 2.0,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/uiterlijk-parfum/m2459634196-dior-sauvage-elixir-60ml-herenparfum",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/2de6db49-9d2d-4434-afde-4d1b23fc2c96?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 142 €",
+   "Japanissa myyty (muu) mediaani 17 € (n=7)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "60 EUR + ~20 € posti = 80 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795278740,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2468449180",
+  "brand": "Dior · Marktplaats 🇳🇱",
+  "title": "Dior stof zwart",
+  "price": 105.0,
+  "value": 280,
+  "score": 2.67,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/hobby-en-vrije-tijd/stoffen-en-lappen/m2468449180-dior-stof-zwart",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/4c8b70c6-4ea7-4a98-adac-635d4d36f23a?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 142 €",
+   "Japanissa myyty mediaani 26 € (n=83)",
+   "⚠️ kate ~-3 € (ROI -2%, myy grailed ~147 €; brändiarvio ~210 € (ei mallivertailua eikä Yahoo-dataa))",
+   "85 EUR + ~20 € posti = 105 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795278740,
+  "resale": 147,
+  "profit": -3,
+  "roi": -0.02,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~210 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~147 € → käteen ~102 € kulujen ja tinkimisen jälkeen",
+   "osto 105 € + toimitus = 105 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2468442841",
+  "brand": "Dior · Marktplaats 🇳🇱",
+  "title": "Dior classic jacquard stof",
+  "price": 115.0,
+  "value": 294,
+  "score": 2.56,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/hobby-en-vrije-tijd/stoffen-en-lappen/m2468442841-dior-classic-jacquard-stof",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/a636a8a4-0329-42b2-8aad-a4cedfdd1ffe?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 142 €",
+   "Japanissa myyty mediaani 26 € (n=83)",
+   "⚠️ kate ~-7 € (ROI -6%, myy grailed ~154 €; brändiarvio ~220 € (ei mallivertailua eikä Yahoo-dataa))",
+   "95 EUR + ~20 € posti = 115 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795278740,
+  "resale": 154,
+  "profit": -7,
+  "roi": -0.06,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~220 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~154 € → käteen ~108 € kulujen ja tinkimisen jälkeen",
+   "osto 115 € + toimitus = 115 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2468427805",
+  "brand": "Dior · Marktplaats 🇳🇱",
+  "title": "Dior B30 Sneakers maat44",
+  "price": 140.0,
+  "value": 280,
+  "score": 2.0,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "Zo goed als nieuw",
+  "size": "SHOES-EU-44",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2468427805-dior-b30-sneakers-maat44",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/bc478ca4-6e69-4a11-be5e-e22456a9c767?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 142 €",
+   "Japanissa myyty mediaani 26 € (n=83)",
+   "⚠️ kate ~-38 € (ROI -27%, myy grailed ~147 €; brändiarvio ~210 € (ei mallivertailua eikä Yahoo-dataa))",
+   "120 EUR + ~20 € posti = 140 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795278740,
+  "resale": 147,
+  "profit": -38,
+  "roi": -0.27,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~210 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~147 € → käteen ~102 € kulujen ja tinkimisen jälkeen",
+   "osto 140 € + toimitus = 140 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2467815854",
+  "brand": "Dior · 2dehands 🇧🇪",
+  "title": "Dior",
+  "price": 90.0,
+  "value": 280,
+  "score": 3.11,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/kleding-heren/schoenen/m2467815854-dior",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/a507d892-af65-4f89-9e4e-908634034890?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 142 €",
+   "Japanissa myyty mediaani 26 € (n=83)",
+   "kate ~12 € (ROI 14%, myy grailed ~147 €; brändiarvio ~210 € (ei mallivertailua eikä Yahoo-dataa))",
+   "70 EUR + ~20 € posti = 90 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1795278740,
+  "resale": 147,
+  "profit": 12,
+  "roi": 0.14,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~210 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~147 € → käteen ~102 € kulujen ja tinkimisen jälkeen",
+   "osto 90 € + toimitus = 90 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "w4DFIeq8hB",
   "brand": "Deepti",
   "title": "Deepti S.C. Kimono",
@@ -44648,127 +44910,5 @@
   "source": "brändi",
   "old_price": null,
   "ts": 1794347667
- },
- {
-  "id": "lMuvSuGD7Z",
-  "brand": "Patagonia",
-  "title": "Patagonia Fleece-takki",
-  "price": 15.0,
-  "value": 91,
-  "score": 6.08,
-  "label": "🚨 INSANE",
-  "category": "takki",
-  "condition": "Hyväksyttävä",
-  "size": "WMN-INT-M",
-  "link": "https://www.sellpy.fi/item/lMuvSuGD7Z",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-5-k-1/uf4qVvPeO0-ef3d-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 66 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "VEF0D7WT5o",
-  "brand": "Patagonia",
-  "title": "Patagonia Ulkoiluliivi",
-  "price": 43.0,
-  "value": 86,
-  "score": 2.01,
-  "label": "✅ DIILI",
-  "category": "takki",
-  "condition": "Hyvä",
-  "size": "WMN-INT-L",
-  "link": "https://www.sellpy.fi/item/VEF0D7WT5o",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-k-14/SVGSvbVZcy-3a88-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 66 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "IoVTSrgAdz",
-  "brand": "The North Face",
-  "title": "The North Face Softshell-takki",
-  "price": 37.0,
-  "value": 76,
-  "score": 2.05,
-  "label": "✅ DIILI",
-  "category": "takki",
-  "condition": "Hyväksyttävä",
-  "size": "WMN-INT-L",
-  "link": "https://www.sellpy.fi/item/IoVTSrgAdz",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-10/IoVTSrgAdz-ce50-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 46 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "Aj8YKkL7G9",
-  "brand": "The North Face",
-  "title": "The North Face Fleece-takki",
-  "price": 20.0,
-  "value": 72,
-  "score": 3.6,
-  "label": "🔥 KOVA DIILI",
-  "category": "takki",
-  "condition": "Hyvä",
-  "size": "WMN-INT-S",
-  "link": "https://www.sellpy.fi/item/Aj8YKkL7G9",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-k-9/n99ykmyPqk-0187-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 46 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "BZFvMWkWR2",
-  "brand": "Stüssy",
-  "title": "Stüssy Shortsit",
-  "price": 15.0,
-  "value": 45,
-  "score": 3.0,
-  "label": "🔥 KOVA DIILI",
-  "category": "housut",
-  "condition": "Erittäin hyvä",
-  "size": "PANTS-INCH-34",
-  "link": "https://www.sellpy.fi/item/BZFvMWkWR2",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-10-k-7/ClYFdWoxw3-df7d-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 61 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347668
- },
- {
-  "id": "0TFJvxTCNv",
-  "brand": "Off-White",
-  "title": "Off-White Hupparimekko",
-  "price": 98.0,
-  "value": 101,
-  "score": 1.03,
-  "label": "💎 HARVINAINEN",
-  "category": "muu",
-  "condition": "Erittäin hyvä",
-  "size": "WMN-INT-S",
-  "link": "https://www.sellpy.fi/item/0TFJvxTCNv",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-11-l-2/F4rdnQuRlY-c752-0.jpg",
-  "reasons": [
-   "runway ×1.4",
-   "harvinainen: runway",
-   "Sellpyn mediaani tälle brändille 116 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347668
  }
 ]
