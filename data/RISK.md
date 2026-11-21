@@ -3,15 +3,15 @@
 1465 löytöä (data/finds.json). Heuristiikka: risk.py.
 
 - korkea feikkiriski: **9%**, keskitaso: 21%
-- kulunut/huono kunto: **22%**, kunto ei tiedossa: 28%
+- kulunut/huono kunto: **21%**, kunto ei tiedossa: 28%
 
 ## Alustoittain
 
 | alusta | n | feikki korkea | keski | kulunut/huono | kunto ? |
 |---|---|---|---|---|---|
-| sellpy.fi | 885 | 0% | 13% | 34% | 0% |
+| sellpy.fi | 881 | 0% | 13% | 34% | 0% |
 | tradera.com | 227 | 5% | 34% | 0% | 100% |
-| tori.fi | 119 | 32% | 33% | 0% | 100% |
+| tori.fi | 123 | 32% | 34% | 0% | 100% |
 | marktplaats.nl | 113 | 43% | 34% | 7% | 5% |
 | 2dehands.be | 73 | 21% | 30% | 8% | 16% |
 | finn.no | 17 | 12% | 24% | 0% | 100% |
@@ -23,11 +23,11 @@
 
 | kategoria | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
-| muu | 394 | 27% | 20% |
-| takki | 294 | 28% | 23% |
+| muu | 393 | 27% | 19% |
+| takki | 298 | 29% | 22% |
 | kengät | 273 | 58% | 23% |
-| housut | 139 | 7% | 19% |
-| neule | 124 | 10% | 16% |
+| housut | 137 | 7% | 19% |
+| neule | 123 | 10% | 16% |
 | laukku | 58 | 52% | 7% |
 | huppari | 57 | 25% | 37% |
 | t-paita | 51 | 20% | 37% |
@@ -53,14 +53,14 @@
 | Miu Miu | 10 | 100% | 10% |
 | Bottega Veneta | 8 | 100% | 0% |
 | Valentino | 32 | 97% | 9% |
-| Canada Goose | 47 | 96% | 0% |
+| Canada Goose | 50 | 96% | 0% |
 | Dior | 20 | 95% | 10% |
 | Arc'teryx | 17 | 94% | 0% |
 | Alexander McQueen | 15 | 93% | 7% |
 | Rick Owens | 13 | 92% | 8% |
 | Celine | 11 | 91% | 9% |
 | Moncler | 27 | 78% | 26% |
-| Maison Margiela | 21 | 76% | 14% |
+| Maison Margiela | 22 | 77% | 14% |
 | Dolce & Gabbana | 4 | 75% | 50% |
 | Fendi | 4 | 75% | 0% |
 | Issey Miyake | 4 | 75% | 0% |
