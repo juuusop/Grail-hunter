@@ -1,6 +1,6 @@
 # 🛒 Toivelista: nykyiset osumat
 
-Päivitetty 2026-11-21 16:31 UTC. Lisää asioita kommentoimalla issueen "🛒 Toivelista". Hinnat perillä Suomessa (Ruotsi + ~15 € posti).
+Päivitetty 2026-11-21 21:59 UTC. Lisää asioita kommentoimalla issueen "🛒 Toivelista". Hinnat perillä Suomessa (Ruotsi + ~15 € posti).
 
 ## Läppäriteline MacBookille
 
