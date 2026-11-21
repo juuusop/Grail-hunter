@@ -1,5 +1,5 @@
 {
- "generated": 1795222731,
+ "generated": 1795249749,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -531,6 +531,14 @@
     "price": 15.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/45743538",
     "image": "https://img.tori.net/dynamic/default/item/45743538/42e76f25-1e5e-4a67-9ce2-6626b67f48f4"
+   },
+   {
+    "id": "tori-50196558",
+    "source": "tori",
+    "title": "Näyttövarsipari",
+    "price": 15.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/50196558",
+    "image": "https://img.tori.net/dynamic/default/item/50196558/227a87ce-3024-49de-a7b5-3a20f3ea64e2"
    },
    {
     "id": "tori-44206340",
