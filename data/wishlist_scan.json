@@ -1,5 +1,5 @@
 {
- "generated": 1795249749,
+ "generated": 1795278682,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -597,6 +597,14 @@
     "image": "https://img.tori.net/dynamic/default/item/44594381/6751bd3b-002b-49f3-966f-179111edf52d"
    },
    {
+    "id": "blocket-28104620",
+    "source": "blocket",
+    "title": "Monitor stativ för dubbla skärmar",
+    "price": 28.05,
+    "url": "https://www.blocket.se/recommerce/forsale/item/28104620",
+    "image": "https://images.blocketcdn.se/dynamic/default/item/28104620/779b5adf-d7f4-429f-98b4-ca404269bd7e"
+   },
+   {
     "id": "tori-48563002",
     "source": "tori",
     "title": "Säädettävä harmaa näyttövarsi / monitorivarsi",
@@ -659,14 +667,6 @@
     "price": 36.75,
     "url": "https://www.blocket.se/recommerce/forsale/item/28095295",
     "image": "https://images.blocketcdn.se/dynamic/default/item/28095295/a36f8702-1ffe-47d0-ac5e-c29dd4b24935"
-   },
-   {
-    "id": "blocket-28104620",
-    "source": "blocket",
-    "title": "Monitor stativ för dubbla skärmar",
-    "price": 41.1,
-    "url": "https://www.blocket.se/recommerce/forsale/item/28104620",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/28104620/779b5adf-d7f4-429f-98b4-ca404269bd7e"
    },
    {
     "id": "tori-49335886",
@@ -859,6 +859,14 @@
     "price": 106.35,
     "url": "https://www.blocket.se/recommerce/forsale/item/27532923",
     "image": "https://images.blocketcdn.se/dynamic/default/item/27532923/e26a111a-f2d2-4c63-b4c1-b7f876728423"
+   },
+   {
+    "id": "blocket-25651452",
+    "source": "blocket",
+    "title": "24\" vit datorskärm/monitor",
+    "price": 128.1,
+    "url": "https://www.blocket.se/recommerce/forsale/item/25651452",
+    "image": "https://images.blocketcdn.se/dynamic/default/item/25651452/fc5492fd-9aa7-4f60-abc2-f5339c8737e8"
    },
    {
     "id": "blocket-26849000",
