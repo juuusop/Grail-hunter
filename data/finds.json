@@ -1,5 +1,135 @@
 [
  {
+  "id": "tori-50226892",
+  "brand": "Prada · Tori",
+  "title": "Prada untuvatakki S musta",
+  "price": 100.0,
+  "value": 243,
+  "score": 2.43,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50226892",
+  "image": "https://img.tori.net/dynamic/default/item/50226892/c18fc767-a711-478a-8689-eb0499ffc87e",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 162 €",
+   "Japanissa myyty (takki) mediaani 254 € (n=7)",
+   "⚠️ kate ~-9 € (ROI -9%, myy grailed ~140 €; Yahoo JP toteutuneet (takki): mediaani 254 €, p25 113 € (n=7) → geneerinen ~184 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795298508,
+  "resale": 140,
+  "profit": -9,
+  "roi": -0.09,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 254 €, p25 113 € (n=7) → geneerinen ~184 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~140 € → käteen ~98 € kulujen ja tinkimisen jälkeen",
+   "osto 100 € + toimitus = 107 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50207634",
+  "brand": "Miu Miu · Tori",
+  "title": "Miu Miu kengät",
+  "price": 60.0,
+  "value": 213,
+  "score": 3.55,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50207634",
+  "image": "https://img.tori.net/dynamic/default/item/50207634/2798ba46-fafd-4bc4-b039-fd98f3b63b80",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 144 €",
+   "Japanissa myyty (kengät) mediaani 48 € (n=11)",
+   "⚠️ kate ~-43 € (ROI -65%, myy grailed ~34 €; Yahoo JP toteutuneet (kengät): mediaani 48 €, p25 15 € (n=11) → geneerinen ~32 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795298508,
+  "resale": 34,
+  "profit": -43,
+  "roi": -0.65,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 48 €, p25 15 € (n=11) → geneerinen ~32 € × 1.15 EU-taso",
+   "myynti grailed ~34 € → käteen ~24 € kulujen ja tinkimisen jälkeen",
+   "osto 60 € + toimitus = 67 €"
+  ],
+  "risk": {
+   "fake": 65,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50198097",
+  "brand": "Stone Island · Tori",
+  "title": "Stone Island Shadow Project -housut",
+  "price": 120.0,
+  "value": 192,
+  "score": 1.6,
+  "label": "💎 HARVINAINEN",
+  "category": "housut",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50198097",
+  "image": "https://img.tori.net/dynamic/default/item/50198097/1ad64b68-db69-4d47-b3dd-0a71f7b3da7f",
+  "reasons": [
+   "taso B",
+   "shadow project ×1.6",
+   "harvinainen: shadow project",
+   "Sellpyn mediaani tälle brändille 118 €",
+   "⚠️ kate ~-57 € (ROI -45%, myy grailed ~101 €; brändiarvio ~144 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795298508,
+  "resale": 101,
+  "profit": -57,
+  "roi": -0.45,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~144 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~101 € → käteen ~70 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 127 €"
+  ],
+  "risk": {
+   "fake": 28,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
   "id": "5yGHv9kR8r",
   "brand": "Balenciaga",
   "title": "Balenciaga Laukun suojapussi",
@@ -44984,68 +45114,6 @@
   "image": "https://prod.images.sellpy.net/photoRobot-hanging-10-k-12/BdCXF21LKP-f5ba-0.jpg",
   "reasons": [
    "Sellpyn mediaani tälle brändille 46 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "9rbtehFWdj",
-  "brand": "Diesel",
-  "title": "Diesel Yläosa",
-  "price": 19.0,
-  "value": 48,
-  "score": 2.53,
-  "label": "🔥 KOVA DIILI",
-  "category": "takki",
-  "condition": "Erittäin hyvä",
-  "size": "WMN-INT-M",
-  "link": "https://www.sellpy.fi/item/9rbtehFWdj",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-11-l-5/9rbtehFWdj-ce12-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 30 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "3yDPnWjSpc",
-  "brand": "Salomon",
-  "title": "Salomon Ulkotakki",
-  "price": 34.0,
-  "value": 72,
-  "score": 2.12,
-  "label": "✅ DIILI",
-  "category": "takki",
-  "condition": "Hyvä",
-  "size": "MEN-INT-S",
-  "link": "https://www.sellpy.fi/item/3yDPnWjSpc",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-4-k-4/3yDPnWjSpc-251e-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 57 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "IBCPtC6DkA",
-  "brand": "ROA",
-  "title": "Roa Vaelluskengät Lhakra U2",
-  "price": 80.0,
-  "value": 203,
-  "score": 2.54,
-  "label": "🔥 KOVA DIILI",
-  "category": "kengät",
-  "condition": "Erittäin hyvä",
-  "size": "SHOES-EU-45",
-  "link": "https://www.sellpy.fi/item/IBCPtC6DkA",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-14-k-12/2j3e12MvL8-58be-0.jpg",
-  "reasons": [
-   "nahka ×1.1",
-   "leather ×1.1",
-   "harvinainen: verkko"
   ],
   "source": "brändi",
   "old_price": null,
