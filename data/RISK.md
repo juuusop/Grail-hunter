@@ -9,9 +9,9 @@
 
 | alusta | n | feikki korkea | keski | kulunut/huono | kunto ? |
 |---|---|---|---|---|---|
-| sellpy.fi | 859 | 0% | 13% | 34% | 0% |
+| sellpy.fi | 856 | 0% | 13% | 34% | 0% |
 | tradera.com | 227 | 5% | 34% | 0% | 100% |
-| tori.fi | 126 | 33% | 34% | 0% | 100% |
+| tori.fi | 129 | 33% | 35% | 0% | 100% |
 | marktplaats.nl | 124 | 45% | 34% | 6% | 5% |
 | 2dehands.be | 74 | 22% | 30% | 8% | 16% |
 | blocket.se | 20 | 65% | 35% | 0% | 100% |
@@ -23,13 +23,13 @@
 
 | kategoria | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
-| muu | 393 | 28% | 18% |
-| takki | 294 | 30% | 22% |
+| muu | 392 | 28% | 18% |
+| takki | 292 | 30% | 22% |
 | kengät | 281 | 60% | 22% |
-| neule | 127 | 13% | 16% |
-| housut | 126 | 8% | 20% |
+| neule | 128 | 12% | 16% |
+| housut | 127 | 9% | 20% |
 | laukku | 61 | 52% | 7% |
-| t-paita | 53 | 19% | 38% |
+| t-paita | 54 | 19% | 37% |
 | huppari | 53 | 25% | 34% |
 | kauluspaita | 46 | 0% | 28% |
 | asuste | 23 | 39% | 17% |
@@ -40,6 +40,7 @@
 
 | brändi | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
+| Miu Miu | 11 | 100% | 9% |
 | Balenciaga | 22 | 100% | 14% |
 | Saint Laurent | 10 | 100% | 20% |
 | Loewe | 8 | 100% | 0% |
@@ -50,7 +51,6 @@
 | Hermès | 6 | 100% | 17% |
 | Brunello Cucinelli | 9 | 100% | 11% |
 | Supreme | 3 | 100% | 0% |
-| Miu Miu | 10 | 100% | 10% |
 | Bottega Veneta | 8 | 100% | 0% |
 | Valentino | 33 | 97% | 12% |
 | Dior | 27 | 96% | 7% |
@@ -73,6 +73,7 @@
 - 80 · [Käyttämätön Valentino tum.sininen medium laukku käsilaukku.,.,](https://www.tori.fi/recommerce/forsale/item/48775403) 50 € (arvio 171 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 80 · [Valentino Nero laukku, UUSI 💼](https://www.tori.fi/recommerce/forsale/item/48415990) 45 € (arvio 171 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 80 · [Goyard tekonahkainen laukku vihreä unisex](https://www.tori.fi/recommerce/forsale/item/46805357) 59 € (arvio 342 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
+- 65 · [Miu Miu kengät](https://www.tori.fi/recommerce/forsale/item/50207634) 60 € (arvio 213 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 65 · [Dior B22 Miesten Kengät](https://www.tori.fi/recommerce/forsale/item/50196240) 70 € (arvio 266 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 65 · [Loro Piana Loafers](https://www.marktplaats.nl/v/kleding-heren/schoenen/m2467456763-loro-piana-loafers) 125 € (arvio 514 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta
 - 65 · [Hermès Sneakers Maat 45 - Nieuw met Snelle Verzending](https://www.marktplaats.nl/v/kleding-heren/schoenen/m2467708618-hermes-sneakers-maat-45-nieuw-met-snelle-verzending) 155 € (arvio 588 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta
@@ -87,4 +88,3 @@
 - 65 · [Maison Margiela GATs - Nieuw - Maat 43 (valt als 42.5)](https://www.marktplaats.nl/v/kleding-heren/schoenen/m2466175160-maison-margiela-gats-nieuw-maat-43-valt-als-42-5) 105 € (arvio 368 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta
 - 65 · [Maison Margiela sneakers str 44](https://www.dba.dk/recommerce/forsale/item/26696409) 98 € (arvio 332 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 65 · [Alexander McQueen Oversize Tennarit](https://www.tori.fi/recommerce/forsale/item/17687408) 55 € (arvio 200 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
-- 65 · [Loro Piana Bruine Sneakers Maat 43](https://www.marktplaats.nl/v/kleding-heren/schoenen/m2464016644-loro-piana-bruine-sneakers-maat-43) 125 € (arvio 465 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; selviä käytön jälkiä/vikoja (kengissä/laukuissa kuluma syö resale-hintaa)

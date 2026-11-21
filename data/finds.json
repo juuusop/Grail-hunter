@@ -1,5 +1,112 @@
 [
  {
+  "id": "OhaVheZvK9",
+  "brand": "House of Dagmar",
+  "title": "Dagmar T-paita Heroines",
+  "price": 10.0,
+  "value": 32,
+  "score": 3.15,
+  "label": "🔥 KOVA DIILI",
+  "category": "t-paita",
+  "condition": "Hyvä",
+  "size": "WMN-INT-XL",
+  "link": "https://www.sellpy.fi/item/OhaVheZvK9",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-7-k-11/OhaVheZvK9-412a-0.jpg",
+  "reasons": [
+   "taso D",
+   "Sellpyn mediaani tälle brändille 46 €",
+   "⚠️ kate ~-1 € (ROI -5%, myy vinted ~17 €; brändiarvio ~24 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795302919,
+  "resale": 17,
+  "profit": -1,
+  "roi": -0.05,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~24 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~17 € → käteen ~15 € kulujen ja tinkimisen jälkeen",
+   "osto 10 € + toimitus = 16 €",
+   "t-paita: matala kate-kategoria, paljon tarjontaa"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "cH7qiim5YF",
+  "brand": "Etro",
+  "title": "Etro Mekko",
+  "price": 27.0,
+  "value": 58,
+  "score": 2.13,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Hyvä",
+  "size": "WMN-EU-44",
+  "link": "https://www.sellpy.fi/item/cH7qiim5YF",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-7-l-3/FdybVCP4HD-82c0-0.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 73 €",
+   "⚠️ kate ~-5 € (ROI -17%, myy vinted ~30 €; brändiarvio ~44 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795302921,
+  "resale": 30,
+  "profit": -5,
+  "roi": -0.17,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~44 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~30 € → käteen ~27 € kulujen ja tinkimisen jälkeen",
+   "osto 27 € + toimitus = 33 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "frMDnQSwXu",
+  "brand": "Zara Knit (haku: kashmir)",
+  "title": "Zara Knit Poncho",
+  "price": 11.0,
+  "value": 59,
+  "score": 5.33,
+  "label": "🚨 INSANE",
+  "category": "neule",
+  "condition": "Erittäin hyvä",
+  "size": "ONE SIZE",
+  "link": "https://www.sellpy.fi/item/frMDnQSwXu",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-12/frMDnQSwXu-5f0c-0.jpg",
+  "reasons": [
+   "tiedoissa 'kashmir', brändiksi listattu 'Zara Knit'",
+   "kashmir ×1.15"
+  ],
+  "source": "haku",
+  "old_price": null,
+  "ts": 1795302922,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
   "id": "tori-50226892",
   "brand": "Prada · Tori",
   "title": "Prada untuvatakki S musta",
@@ -45054,66 +45161,6 @@
   "image": "https://prod.images.sellpy.net/photoRobot-standard-5-k-15/q0KnQlbcpL-ebf8-0.jpg",
   "reasons": [
    "Sellpyn mediaani tälle brändille 30 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "pOqFu5a9b8",
-  "brand": "The North Face",
-  "title": "The North Face Softshell-takki",
-  "price": 25.0,
-  "value": 80,
-  "score": 3.2,
-  "label": "🔥 KOVA DIILI",
-  "category": "takki",
-  "condition": "Erittäin hyvä",
-  "size": "WMN-INT-L",
-  "link": "https://www.sellpy.fi/item/pOqFu5a9b8",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-13-l-3/pOqFu5a9b8-ceba-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 46 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "wi6FZJ5InQ",
-  "brand": "The North Face",
-  "title": "The North Face Urheilulegginssit",
-  "price": 16.0,
-  "value": 36,
-  "score": 2.25,
-  "label": "✅ DIILI",
-  "category": "muu",
-  "condition": "Hyvä",
-  "size": "WMN-INT-M",
-  "link": "https://www.sellpy.fi/item/wi6FZJ5InQ",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-8-k-16/wi6FZJ5InQ-ae03-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 46 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "BdCXF21LKP",
-  "brand": "The North Face",
-  "title": "The North Face Urheilulegginssit",
-  "price": 15.0,
-  "value": 40,
-  "score": 2.67,
-  "label": "🔥 KOVA DIILI",
-  "category": "muu",
-  "condition": "Erittäin hyvä",
-  "size": "WMN-INT-M",
-  "link": "https://www.sellpy.fi/item/BdCXF21LKP",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-10-k-12/BdCXF21LKP-f5ba-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 46 €"
   ],
   "source": "brändi",
   "old_price": null,
