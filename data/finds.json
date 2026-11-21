@@ -1,5 +1,179 @@
 [
  {
+  "id": "tori-50190319",
+  "brand": "Maison Margiela · Tori",
+  "title": "Maison Margiela prototype jacket",
+  "price": 250.0,
+  "value": 532,
+  "score": 2.13,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50190319",
+  "image": "https://img.tori.net/dynamic/default/item/50190319/7b8ba112-bc77-4963-bb53-0be822c1654b",
+  "reasons": [
+   "taso A",
+   "prototype ×1.4",
+   "harvinainen: prototype",
+   "Sellpyn mediaani tälle brändille 121 €",
+   "Japanissa myyty (takki) mediaani 289 € (n=7)",
+   "⚠️ kate ~-137 € (ROI -53%, myy grailed ~172 €; Yahoo JP toteutuneet (takki): mediaani 289 €, p25 161 € (n=7) → geneerinen ~225 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795222903,
+  "resale": 172,
+  "profit": -137,
+  "roi": -0.53,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 289 €, p25 161 € (n=7) → geneerinen ~225 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~172 € → käteen ~120 € kulujen ja tinkimisen jälkeen",
+   "osto 250 € + toimitus = 257 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50147198",
+  "brand": "Canada Goose · Tori",
+  "title": "Canada Goose emory parka",
+  "price": 130.0,
+  "value": 380,
+  "score": 2.92,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50147198",
+  "image": "https://img.tori.net/dynamic/default/item/50147198/a24ffb5b-369d-4eed-9d69-e4191734d636",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 169 €",
+   "Japanissa myyty (takki) mediaani 278 € (n=27)",
+   "⚠️ kate ~-6 € (ROI -4%, myy grailed ~188 €; Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795222903,
+  "resale": 188,
+  "profit": -6,
+  "roi": -0.04,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~188 € → käteen ~131 € kulujen ja tinkimisen jälkeen",
+   "osto 130 € + toimitus = 137 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50149080",
+  "brand": "Canada Goose · Tori",
+  "title": "canada goose takki",
+  "price": 150.0,
+  "value": 380,
+  "score": 2.53,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50149080",
+  "image": "https://img.tori.net/dynamic/default/item/50149080/78718f8a-6345-4c23-b439-c19e52c8deec",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 169 €",
+   "Japanissa myyty (takki) mediaani 278 € (n=27)",
+   "⚠️ kate ~-26 € (ROI -16%, myy grailed ~188 €; Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795222903,
+  "resale": 188,
+  "profit": -26,
+  "roi": -0.16,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~188 € → käteen ~131 € kulujen ja tinkimisen jälkeen",
+   "osto 150 € + toimitus = 157 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50107321",
+  "brand": "Canada Goose · Tori",
+  "title": "Canada Goose untuvatakki S sininen",
+  "price": 99.0,
+  "value": 380,
+  "score": 3.84,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50107321",
+  "image": "https://img.tori.net/dynamic/default/item/50107321/5d68adb8-df73-4ffd-a782-5931f8cc9ff8",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 169 €",
+   "Japanissa myyty (takki) mediaani 278 € (n=27)",
+   "kate ~25 € (ROI 24%, myy grailed ~188 €; Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795222903,
+  "resale": 188,
+  "profit": 25,
+  "roi": 0.24,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 278 €, p25 214 € (n=27) → geneerinen ~246 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~188 € → käteen ~131 € kulujen ja tinkimisen jälkeen",
+   "osto 99 € + toimitus = 106 €"
+  ],
+  "risk": {
+   "fake": 50,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
   "id": "C0TSIrwm7e",
   "brand": "Ermenegildo Zegna",
   "title": "Ermenegildo Zegna Bleiseri Lucca Zt",
@@ -44122,87 +44296,6 @@
   "image": "https://prod.images.sellpy.net/photoRobot-hanging-18-l-3/Rr5LHE7CMV-de1d-0.jpg",
   "reasons": [
    "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347668
- },
- {
-  "id": "bCKLDOvq2n",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Farkut Peg Soft",
-  "price": 18.0,
-  "value": 68,
-  "score": 3.8,
-  "label": "🔥 KOVA DIILI",
-  "category": "housut",
-  "condition": "Hyväksyttävä",
-  "size": "PANTS-INCH-23",
-  "link": "https://www.sellpy.fi/item/bCKLDOvq2n",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-18-l-3/bCKLDOvq2n-56d0-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347668
- },
- {
-  "id": "58Ldev3Z3j",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Farkut Skin 5 Used Black",
-  "price": 22.0,
-  "value": 65,
-  "score": 2.95,
-  "label": "🔥 KOVA DIILI",
-  "category": "housut",
-  "condition": "Hyvä",
-  "size": "PANTS-INCH-27",
-  "link": "https://www.sellpy.fi/item/58Ldev3Z3j",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-3-k-6/58Ldev3Z3j-c73d-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347668
- },
- {
-  "id": "rAlUyEhBQf",
-  "brand": "Our Legacy",
-  "title": "Our Legacy Henley-paita",
-  "price": 36.0,
-  "value": 84,
-  "score": 2.32,
-  "label": "✅ DIILI",
-  "category": "muu",
-  "condition": "Hyväksyttävä",
-  "size": "MEN-EU-50",
-  "link": "https://www.sellpy.fi/item/rAlUyEhBQf",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-3-k-5/rAlUyEhBQf-5620-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 71 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347668
- },
- {
-  "id": "Ms8iDGLGW0",
-  "brand": "Bode",
-  "title": "Bode Neuletakki",
-  "price": 79.0,
-  "value": 200,
-  "score": 2.53,
-  "label": "🔥 KOVA DIILI",
-  "category": "neule",
-  "condition": "Erittäin hyvä",
-  "size": "WMN-EU-42",
-  "link": "https://www.sellpy.fi/item/Ms8iDGLGW0",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-8-l-1/Ms8iDGLGW0-38c0-0.jpg",
-  "reasons": [
-   "harvinainen: artisanal",
-   "Sellpyn mediaani tälle brändille 14 €"
   ],
   "source": "brändi",
   "old_price": null,
