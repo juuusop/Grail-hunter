@@ -110,7 +110,7 @@
    "price": 1.0,
    "title": "LIVID (Chloé Coulloud) 2001***",
    "closed": "2026-11-06T14:15:00+0200",
-   "ts": 1794659209
+   "ts": 1795268420
   },
   "654808611": {
    "brand": "Versace",
@@ -118,7 +118,7 @@
    "price": 25.0,
    "title": "Versace Collection tennarit, koko 42, uudet käyttämättömät",
    "closed": "2026-11-13T00:42:37+0200",
-   "ts": 1794659229
+   "ts": 1795268438
   },
   "648999571": {
    "brand": "Versace",
@@ -126,7 +126,7 @@
    "price": 60.0,
    "title": "Versace Jeans ylipolvensaappaat  koko 39",
    "closed": "2026-10-02T21:06:13+0300",
-   "ts": 1794659229
+   "ts": 1795268438
   },
   "652951881": {
    "brand": "Paco Rabanne",
@@ -134,7 +134,7 @@
    "price": 31.0,
    "title": "Rabanne 1M Royal sekä Pherostrong Devil, miesten.",
    "closed": "2026-09-22T20:30:00+0300",
-   "ts": 1794659258
+   "ts": 1795268465
   },
   "652795696": {
    "brand": "Caruso",
@@ -142,7 +142,7 @@
    "price": 1.5,
    "title": "Enrico Caruso - Canzoni Napoletane… 2x cd",
    "closed": "2026-09-25T19:10:00+0300",
-   "ts": 1794659260
+   "ts": 1795268467
   },
   "653987821": {
    "brand": "Colombo",
@@ -159,9 +159,17 @@
    "title": "Hajuvesinäyte Valentino Born in Roma miehille",
    "closed": "2026-11-13T18:28:55+0200",
    "ts": 1795099158
+  },
+  "654549615": {
+   "brand": "Premiata",
+   "cat": "muu",
+   "price": 39.0,
+   "title": "PREMIATA FORNERIA MARCONI: Photos of Ghosts * UK 1974",
+   "closed": "2026-11-18T21:15:24+0200",
+   "ts": 1795268471
   }
  },
- "i": 209,
+ "i": 249,
  "groups": {
   "Carpe Diem|muu": {
    "n": 1,
@@ -246,7 +254,13 @@
    "median": 1.5,
    "p25": 1.5,
    "p75": 1.5
+  },
+  "Premiata|muu": {
+   "n": 1,
+   "median": 39.0,
+   "p25": 39.0,
+   "p75": 39.0
   }
  },
- "generated": 1795184344
+ "generated": 1795268487
 }
