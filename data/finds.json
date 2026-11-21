@@ -1,5 +1,577 @@
 [
  {
+  "id": "tori-50162517",
+  "brand": "Yves Saint Laurent · Tori",
+  "title": "Yves Saint Laurent neuletakki",
+  "price": 50.0,
+  "value": 114,
+  "score": 2.28,
+  "label": "✅ DIILI",
+  "category": "neule",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50162517",
+  "image": "https://img.tori.net/dynamic/default/item/50162517/f469a129-a624-4c45-a026-13ad7df659aa",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 100 €",
+   "⚠️ kate ~-16 € (ROI -27%, myy grailed ~60 €; brändiarvio ~86 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795249172,
+  "resale": 60,
+  "profit": -16,
+  "roi": -0.27,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~86 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~60 € → käteen ~41 € kulujen ja tinkimisen jälkeen",
+   "osto 50 € + toimitus = 57 €"
+  ],
+  "risk": {
+   "fake": 28,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50122242",
+  "brand": "Moncler · Tori",
+  "title": "Moncler-takki koko 92 punainen unisex",
+  "price": 100.0,
+  "value": 334,
+  "score": 3.34,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50122242",
+  "image": "https://img.tori.net/dynamic/default/item/50122242/c0f4a509-18ef-4377-b8c1-2596cba86e69",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 138 €",
+   "Japanissa myyty (takki) mediaani 251 € (n=54)",
+   "⚠️ kate ~-16 € (ROI -15%, myy grailed ~130 €; Yahoo JP toteutuneet (takki): mediaani 251 €, p25 90 € (n=54) → geneerinen ~170 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795249172,
+  "resale": 130,
+  "profit": -16,
+  "roi": -0.15,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 251 €, p25 90 € (n=54) → geneerinen ~170 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~130 € → käteen ~91 € kulujen ja tinkimisen jälkeen",
+   "osto 100 € + toimitus = 107 €"
+  ],
+  "risk": {
+   "fake": 50,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50196240",
+  "brand": "Dior · Tori",
+  "title": "Dior B22 Miesten Kengät",
+  "price": 70.0,
+  "value": 266,
+  "score": 3.8,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50196240",
+  "image": "https://img.tori.net/dynamic/default/item/50196240/13022941-0b4c-4803-9a27-2a93cb5b2a90",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 142 €",
+   "Japanissa myyty mediaani 26 € (n=83)",
+   "kate ~20 € (ROI 26%, myy grailed ~140 €; brändiarvio ~200 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795249172,
+  "resale": 140,
+  "profit": 20,
+  "roi": 0.26,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~200 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~140 € → käteen ~97 € kulujen ja tinkimisen jälkeen",
+   "osto 70 € + toimitus = 77 €"
+  ],
+  "risk": {
+   "fake": 65,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "blocket-28370386",
+  "brand": "Saint Laurent · Blocket 🇸🇪",
+  "title": "Saint Laurent svarta skor",
+  "price": 135.41,
+  "value": 293,
+  "score": 2.16,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.blocket.se/recommerce/forsale/item/28370386",
+  "image": "https://images.blocketcdn.se/dynamic/default/item/28370386/2bc69bad-733f-4412-abb6-81b27e4a3fb1",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 156 €",
+   "Japanissa myyty mediaani 8 € (n=86)",
+   "⚠️ kate ~-28 € (ROI -21%, myy grailed ~154 €; brändiarvio ~220 € (ei mallivertailua eikä Yahoo-dataa))",
+   "1350 SEK + ~15 € posti = 135 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "blocket",
+  "old_price": null,
+  "ts": 1795249172,
+  "resale": 154,
+  "profit": -28,
+  "roi": -0.21,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~220 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~154 € → käteen ~107 € kulujen ja tinkimisen jälkeen",
+   "osto 135 € + toimitus = 135 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "blocket-28391835",
+  "brand": "Balenciaga · Blocket 🇸🇪",
+  "title": "Balenciaga sneakers stl 43 svarta",
+  "price": 113.11,
+  "value": 293,
+  "score": 2.59,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "SHOES-EU-43",
+  "link": "https://www.blocket.se/recommerce/forsale/item/28391835",
+  "image": "https://images.blocketcdn.se/dynamic/default/item/28391835/eb8adffd-9604-4e33-8f1a-a6fc413fedf6",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 160 €",
+   "Japanissa myyty mediaani 86 € (n=88)",
+   "⚠️ kate ~-6 € (ROI -5%, myy grailed ~154 €; brändiarvio ~220 € (ei mallivertailua eikä Yahoo-dataa))",
+   "1100 SEK + ~15 € posti = 113 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "blocket",
+  "old_price": null,
+  "ts": 1795249172,
+  "resale": 154,
+  "profit": -6,
+  "roi": -0.05,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~220 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~154 € → käteen ~107 € kulujen ja tinkimisen jälkeen",
+   "osto 113 € + toimitus = 113 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "blocket-28373680",
+  "brand": "Moncler · Blocket 🇸🇪",
+  "title": "Moncler dunjacka M gul",
+  "price": 166.53,
+  "value": 334,
+  "score": 2.01,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.blocket.se/recommerce/forsale/item/28373680",
+  "image": "https://images.blocketcdn.se/dynamic/default/item/28373680/3c619152-076f-4c2e-a9e7-ad6e3ead2693",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 138 €",
+   "Japanissa myyty (takki) mediaani 251 € (n=54)",
+   "⚠️ kate ~-76 € (ROI -45%, myy grailed ~130 €; Yahoo JP toteutuneet (takki): mediaani 251 €, p25 90 € (n=54) → geneerinen ~170 € × 1.15 EU-taso)",
+   "1699 SEK + ~15 € posti = 167 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "blocket",
+  "old_price": null,
+  "ts": 1795249172,
+  "resale": 130,
+  "profit": -76,
+  "roi": -0.45,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 251 €, p25 90 € (n=54) → geneerinen ~170 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~130 € → käteen ~91 € kulujen ja tinkimisen jälkeen",
+   "osto 167 € + toimitus = 167 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2468188256",
+  "brand": "Celine · Marktplaats 🇳🇱",
+  "title": "ORIGINAL! UGG Lowmel Moss Sneakers Green (gucci,lv,celine)",
+  "price": 129.99,
+  "value": 388,
+  "score": 2.99,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-dames/schoenen/m2468188256-original-ugg-lowmel-moss-sneakers-green-gucci-lv-celine",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/e1a8f153-33d8-4ce7-9fd0-798a0610eca2?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "céline ×1.2",
+   "Sellpyn mediaani tälle brändille 156 €",
+   "Japanissa myyty mediaani 70 € (n=82)",
+   "kate ~12 € (ROI 9%, myy grailed ~204 €; brändiarvio ~291 € (ei mallivertailua eikä Yahoo-dataa))",
+   "110 EUR + ~20 € posti = 130 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795249172,
+  "resale": 204,
+  "profit": 12,
+  "roi": 0.09,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~291 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~204 € → käteen ~142 € kulujen ja tinkimisen jälkeen",
+   "osto 130 € + toimitus = 130 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2467959837",
+  "brand": "Balenciaga · Marktplaats 🇳🇱",
+  "title": "Balenciaga Runner Sneakers 39",
+  "price": 135.0,
+  "value": 323,
+  "score": 2.4,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-dames/schoenen/m2467959837-balenciaga-runner-sneakers-39",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/67c067a5-025d-444e-be34-81289dc10fb5?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 160 €",
+   "Japanissa myyty mediaani 86 € (n=88)",
+   "⚠️ kate ~-17 € (ROI -12%, myy grailed ~170 €; brändiarvio ~242 € (ei mallivertailua eikä Yahoo-dataa))",
+   "115 EUR + ~20 € posti = 135 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795249172,
+  "resale": 170,
+  "profit": -17,
+  "roi": -0.12,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~242 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~170 € → käteen ~118 € kulujen ja tinkimisen jälkeen",
+   "osto 135 € + toimitus = 135 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2467937982",
+  "brand": "Moncler · Marktplaats 🇳🇱",
+  "title": "Moncler trui",
+  "price": 90.0,
+  "value": 231,
+  "score": 2.57,
+  "label": "🔥 KOVA DIILI",
+  "category": "neule",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/truien-en-vesten/m2467937982-moncler-trui",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/b27575d5-c7ad-46eb-9b8d-5dcbb8e0daf7?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 138 €",
+   "Japanissa myyty mediaani 172 € (n=91)",
+   "⚠️ kate ~-6 € (ROI -6%, myy grailed ~121 €; brändiarvio ~173 € (ei mallivertailua eikä Yahoo-dataa))",
+   "70 EUR + ~20 € posti = 90 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795249172,
+  "resale": 121,
+  "profit": -6,
+  "roi": -0.06,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~173 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~121 € → käteen ~84 € kulujen ja tinkimisen jälkeen",
+   "osto 90 € + toimitus = 90 €"
+  ],
+  "risk": {
+   "fake": 28,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2467934597",
+  "brand": "Moncler · Marktplaats 🇳🇱",
+  "title": "Moncler trui wit",
+  "price": 90.0,
+  "value": 231,
+  "score": 2.57,
+  "label": "🔥 KOVA DIILI",
+  "category": "neule",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/truien-en-vesten/m2467934597-moncler-trui-wit",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/f36ea3e9-dc4c-41a3-95d5-0cbb078731eb?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 138 €",
+   "Japanissa myyty mediaani 172 € (n=91)",
+   "⚠️ kate ~-6 € (ROI -6%, myy grailed ~121 €; brändiarvio ~173 € (ei mallivertailua eikä Yahoo-dataa))",
+   "70 EUR + ~20 € posti = 90 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795249172,
+  "resale": 121,
+  "profit": -6,
+  "roi": -0.06,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~173 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~121 € → käteen ~84 € kulujen ja tinkimisen jälkeen",
+   "osto 90 € + toimitus = 90 €"
+  ],
+  "risk": {
+   "fake": 28,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2467932727",
+  "brand": "Moncler · Marktplaats 🇳🇱",
+  "title": "Moncler trui",
+  "price": 90.0,
+  "value": 231,
+  "score": 2.57,
+  "label": "🔥 KOVA DIILI",
+  "category": "neule",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/truien-en-vesten/m2467932727-moncler-trui",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/ece3efca-0804-4382-865b-13f266c919e9?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 138 €",
+   "Japanissa myyty mediaani 172 € (n=91)",
+   "⚠️ kate ~-6 € (ROI -6%, myy grailed ~121 €; brändiarvio ~173 € (ei mallivertailua eikä Yahoo-dataa))",
+   "70 EUR + ~20 € posti = 90 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795249172,
+  "resale": 121,
+  "profit": -6,
+  "roi": -0.06,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~173 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~121 € → käteen ~84 € kulujen ja tinkimisen jälkeen",
+   "osto 90 € + toimitus = 90 €"
+  ],
+  "risk": {
+   "fake": 28,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2468018189",
+  "brand": "Loewe · Marktplaats 🇳🇱",
+  "title": "Loewe x On Cloudtilt Sneakers - Maat 43",
+  "price": 119.0,
+  "value": 323,
+  "score": 2.72,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Nieuw",
+  "size": "SHOES-EU-43",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2468018189-loewe-x-on-cloudtilt-sneakers-maat-43",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/75d85321-5f46-41d9-81b9-ad5f0adb806e?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 161 €",
+   "Japanissa myyty mediaani 116 € (n=85)",
+   "⚠️ kate ~-1 € (ROI -1%, myy grailed ~170 €; brändiarvio ~242 € (ei mallivertailua eikä Yahoo-dataa))",
+   "99 EUR + ~20 € posti = 119 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795249172,
+  "resale": 170,
+  "profit": -1,
+  "roi": -0.01,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~242 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~170 € → käteen ~118 € kulujen ja tinkimisen jälkeen",
+   "osto 119 € + toimitus = 119 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2467903165",
+  "brand": "Moncler · Marktplaats 🇳🇱",
+  "title": "Moncler Maya Puffer Jacket Zwart - Maat L-NFC",
+  "price": 110.0,
+  "value": 480,
+  "score": 4.37,
+  "label": "🚨 INSANE",
+  "category": "takki",
+  "condition": "Nieuw",
+  "size": "MEN-INT-L",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/jassen-winter/m2467903165-moncler-maya-puffer-jacket-zwart-maat-l-nfc",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/cf0a5043-3e93-4cde-8d4f-7bd6bd2c3736?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "maya ×1.3",
+   "Sellpyn mediaani tälle brändille 138 €",
+   "Japanissa myyty (takki) mediaani 251 € (n=54)",
+   "⚠️ kate ~-10 € (ROI -9%, myy grailed ~144 €; Yahoo JP toteutuneet (takki): mediaani 251 €, p25 90 € (n=54) → geneerinen ~170 € × 1.15 EU-taso)",
+   "90 EUR + ~20 € posti = 110 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795249172,
+  "resale": 144,
+  "profit": -10,
+  "roi": -0.09,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 251 €, p25 90 € (n=54) → geneerinen ~170 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~144 € → käteen ~100 € kulujen ja tinkimisen jälkeen",
+   "osto 110 € + toimitus = 110 €"
+  ],
+  "risk": {
+   "fake": 50,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "tori-50190319",
   "brand": "Maison Margiela · Tori",
   "title": "Maison Margiela prototype jacket",
@@ -44029,271 +44601,6 @@
   "size": "WMN-INT-S",
   "link": "https://www.sellpy.fi/item/OyRayLDc8O",
   "image": "https://prod.images.sellpy.net/photoRobot-standard-5-k-12/GfYnzQDenN-908b-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347668
- },
- {
-  "id": "ZA92IPRoSt",
-  "brand": "Our Legacy",
-  "title": "Our Legacy Collegepaita SS14 - WASHED BLACK",
-  "price": 11.0,
-  "value": 78,
-  "score": 7.12,
-  "label": "🚨 INSANE",
-  "category": "huppari",
-  "condition": "Hyväksyttävä",
-  "size": "MEN-EU-48",
-  "link": "https://www.sellpy.fi/item/ZA92IPRoSt",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-6-k-16/VeaopeA0zv-6bdb-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 71 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347668
- },
- {
-  "id": "kAixIIyk4s",
-  "brand": "Our Legacy",
-  "title": "Our Legacy Chinos-housut",
-  "price": 42.0,
-  "value": 104,
-  "score": 2.48,
-  "label": "✅ DIILI",
-  "category": "housut",
-  "condition": "Uusi",
-  "size": "PANTS-INCH-32",
-  "link": "https://www.sellpy.fi/item/kAixIIyk4s",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-10-k-8/2DqEdmY7oU-ec44-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 71 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347668
- },
- {
-  "id": "heDWUqKLvN",
-  "brand": "Our Legacy",
-  "title": "Our Legacy Paita",
-  "price": 11.0,
-  "value": 84,
-  "score": 7.6,
-  "label": "🚨 INSANE",
-  "category": "muu",
-  "condition": "Hyväksyttävä",
-  "size": "MEN-EU-44",
-  "link": "https://www.sellpy.fi/item/heDWUqKLvN",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-4-k-4/QnOviGAtaP-a359-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 71 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347668
- },
- {
-  "id": "kCl5T6NLDd",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Paita",
-  "price": 23.0,
-  "value": 61,
-  "score": 2.64,
-  "label": "🔥 KOVA DIILI",
-  "category": "muu",
-  "condition": "Hyväksyttävä",
-  "size": "MEN-EU-50",
-  "link": "https://www.sellpy.fi/item/kCl5T6NLDd",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-7-k-4/kCl5T6NLDd-3584-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347668
- },
- {
-  "id": "ampMdzrY9T",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Farkut Skin 5 Used Black",
-  "price": 24.0,
-  "value": 72,
-  "score": 3.0,
-  "label": "🔥 KOVA DIILI",
-  "category": "housut",
-  "condition": "Erittäin hyvä",
-  "size": "PANTS-INCH-25",
-  "link": "https://www.sellpy.fi/item/ampMdzrY9T",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-10-k-12/ampMdzrY9T-a8bb-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347668
- },
- {
-  "id": "c17YzHYEu4",
-  "brand": "Stüssy",
-  "title": "Stüssy Huppari",
-  "price": 64.0,
-  "value": 60,
-  "score": 0.94,
-  "label": "💎 HARVINAINEN",
-  "category": "huppari",
-  "condition": "Hyväksyttävä",
-  "size": "MEN-INT-XL",
-  "link": "https://www.sellpy.fi/item/c17YzHYEu4",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-l-3/BlngH8qJeM-db62-0.jpg",
-  "reasons": [
-   "archive ×1.2",
-   "runway ×1.4",
-   "harvinainen: runway",
-   "Sellpyn mediaani tälle brändille 61 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347668
- },
- {
-  "id": "Yo4mX8hl0G",
-  "brand": "Our Legacy",
-  "title": "Our Legacy Flanellipaita 1980-81",
-  "price": 20.0,
-  "value": 84,
-  "score": 4.18,
-  "label": "🚨 INSANE",
-  "category": "kauluspaita",
-  "condition": "Hyväksyttävä",
-  "size": "MEN-EU-46",
-  "link": "https://www.sellpy.fi/item/Yo4mX8hl0G",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-6-k-15/Yo4mX8hl0G-9ff3-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 71 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347668
- },
- {
-  "id": "RSkAaaB0qX",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Farkut Skin 5 Vintage",
-  "price": 32.0,
-  "value": 76,
-  "score": 2.36,
-  "label": "✅ DIILI",
-  "category": "housut",
-  "condition": "Uusi",
-  "size": "PANTS-INCH-24",
-  "link": "https://www.sellpy.fi/item/RSkAaaB0qX",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-9-j-1/RSkAaaB0qX-4789-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347668
- },
- {
-  "id": "tAAYPAhPv2",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Farkut",
-  "price": 28.0,
-  "value": 65,
-  "score": 2.31,
-  "label": "✅ DIILI",
-  "category": "housut",
-  "condition": "Hyvä",
-  "size": "WMN-EU-32",
-  "link": "https://www.sellpy.fi/item/tAAYPAhPv2",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-19-l-5/tAAYPAhPv2-0faa-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347668
- },
- {
-  "id": "0t5MGUA0Qb",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Mekko",
-  "price": 20.0,
-  "value": 64,
-  "score": 3.2,
-  "label": "🔥 KOVA DIILI",
-  "category": "muu",
-  "condition": "Erittäin hyvä",
-  "size": "WMN-EU-38",
-  "link": "https://www.sellpy.fi/item/0t5MGUA0Qb",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-5-k-11/HuXfBjCOAt-f4a1-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347668
- },
- {
-  "id": "0T8Ag4F4Qk",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Huppari",
-  "price": 36.0,
-  "value": 84,
-  "score": 2.33,
-  "label": "✅ DIILI",
-  "category": "huppari",
-  "condition": "Erittäin hyvä",
-  "size": "WMN-INT-XS",
-  "link": "https://www.sellpy.fi/item/0T8Ag4F4Qk",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-6-l-3/vhTyY8YZxb-da44-0.jpg",
-  "reasons": [
-   "runway ×1.4",
-   "harvinainen: runway",
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347668
- },
- {
-  "id": "D3TzebqTgB",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Hame Maurice",
-  "price": 27.0,
-  "value": 61,
-  "score": 2.25,
-  "label": "✅ DIILI",
-  "category": "muu",
-  "condition": "Hyväksyttävä",
-  "size": "WMN-EU-36",
-  "link": "https://www.sellpy.fi/item/D3TzebqTgB",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-15-k-12/D3TzebqTgB-9203-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347668
- },
- {
-  "id": "Rr5LHE7CMV",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Farkut",
-  "price": 18.0,
-  "value": 68,
-  "score": 3.8,
-  "label": "🔥 KOVA DIILI",
-  "category": "housut",
-  "condition": "Hyväksyttävä",
-  "size": "PANTS-INCH-23",
-  "link": "https://www.sellpy.fi/item/Rr5LHE7CMV",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-18-l-3/Rr5LHE7CMV-de1d-0.jpg",
   "reasons": [
    "Sellpyn mediaani tälle brändille 84 €"
   ],
