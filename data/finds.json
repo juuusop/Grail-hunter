@@ -1,5 +1,81 @@
 [
  {
+  "id": "7yVeKG7NmG",
+  "brand": "Rick Owens",
+  "title": "Rick Owens Kangaslaukku",
+  "price": 40.0,
+  "value": 154,
+  "score": 3.84,
+  "label": "📉 🔥 KOVA DIILI",
+  "category": "laukku",
+  "condition": "Erittäin hyvä",
+  "size": "-",
+  "link": "https://www.sellpy.fi/item/7yVeKG7NmG",
+  "image": "https://prod.images.sellpy.net/photoRobot-fixed-5-k-21/7yVeKG7NmG-7945-0-timed-sequence.jpg",
+  "reasons": [
+   "hinta laski 45 → 40 €",
+   "taso A",
+   "kangaslaukku ×0.4",
+   "Sellpyn mediaani tälle brändille 154 €",
+   "Japanissa myyty mediaani 245 € (n=86)",
+   "kate ~33 € (ROI 71%, myy vestiaire ~116 €; brändiarvio ~116 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": 45.0,
+  "ts": 1795347692,
+  "resale": 116,
+  "profit": 33,
+  "roi": 0.71,
+  "exit": "vestiaire",
+  "resale_why": [
+   "brändiarvio ~116 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vestiaire ~116 € → käteen ~79 € kulujen ja tinkimisen jälkeen",
+   "osto 40 € + toimitus = 46 €"
+  ],
+  "risk": {
+   "fake": 36,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "laukku: väärennetyimpiä tuotetyyppejä",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv"
+   ]
+  }
+ },
+ {
+  "id": "WKGOiVrGJc",
+  "brand": "Golden Cut (haku: kashmir)",
+  "title": "Golden Cut Pipo",
+  "price": 7.0,
+  "value": 23,
+  "score": 3.35,
+  "label": "🔥 KOVA DIILI",
+  "category": "asuste",
+  "condition": "Erittäin hyvä",
+  "size": "HATS-CM-36/38",
+  "link": "https://www.sellpy.fi/item/WKGOiVrGJc",
+  "image": "https://prod.images.sellpy.net/photoRobot-fixed-21-l-2/WKGOiVrGJc-6055-0-timed-sequence.jpg",
+  "reasons": [
+   "tiedoissa 'kashmir', brändiksi listattu 'Golden Cut'",
+   "kashmir ×1.15"
+  ],
+  "source": "haku",
+  "old_price": null,
+  "ts": 1795347695,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
   "id": "tori-50246258",
   "brand": "Givenchy · Tori",
   "title": "Givenchy tennarit koko 45 TARJOA",
@@ -45158,48 +45234,6 @@
   "image": "https://prod.images.sellpy.net/photoRobot-fixed-13-l-1/OzeHfmm38M-857d-0-timed-sequence.jpg",
   "reasons": [
    "Sellpyn mediaani tälle brändille 30 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "C6RCqGTkSA",
-  "brand": "Salomon",
-  "title": "Salomon Urheiluliivi Active Skin 8",
-  "price": 34.0,
-  "value": 40,
-  "score": 1.18,
-  "label": "💎 HARVINAINEN",
-  "category": "muu",
-  "condition": "Erittäin hyvä",
-  "size": "MEN-INT-XXS",
-  "link": "https://www.sellpy.fi/item/C6RCqGTkSA",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-7-k-9/C6RCqGTkSA-8567-0.jpg",
-  "reasons": [
-   "harvinainen: verkko",
-   "Sellpyn mediaani tälle brändille 57 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "0xYmBFWBjY",
-  "brand": "Salomon",
-  "title": "Salomon Vaelluskengät",
-  "price": 39.0,
-  "value": 63,
-  "score": 1.62,
-  "label": "💎 HARVINAINEN",
-  "category": "kengät",
-  "condition": "Hyvä",
-  "size": "SHOES-EU-36.67",
-  "link": "https://www.sellpy.fi/item/0xYmBFWBjY",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-14-l-1/0xYmBFWBjY-6315-0.jpg",
-  "reasons": [
-   "harvinainen: verkko",
-   "Sellpyn mediaani tälle brändille 57 €"
   ],
   "source": "brändi",
   "old_price": null,

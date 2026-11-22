@@ -1,17 +1,17 @@
 # Feikki- ja kuntoriski löydöissä
 
-1461 löytöä (data/finds.json). Heuristiikka: risk.py.
+1460 löytöä (data/finds.json). Heuristiikka: risk.py.
 
-- korkea feikkiriski: **10%**, keskitaso: 21%
+- korkea feikkiriski: **10%**, keskitaso: 22%
 - kulunut/huono kunto: **21%**, kunto ei tiedossa: 29%
 
 ## Alustoittain
 
 | alusta | n | feikki korkea | keski | kulunut/huono | kunto ? |
 |---|---|---|---|---|---|
-| sellpy.fi | 855 | 0% | 13% | 34% | 0% |
+| sellpy.fi | 853 | 0% | 13% | 34% | 0% |
 | tradera.com | 227 | 5% | 34% | 0% | 100% |
-| tori.fi | 129 | 33% | 35% | 0% | 100% |
+| tori.fi | 130 | 33% | 35% | 0% | 100% |
 | marktplaats.nl | 124 | 45% | 34% | 6% | 5% |
 | 2dehands.be | 74 | 22% | 30% | 8% | 16% |
 | blocket.se | 20 | 65% | 35% | 0% | 100% |
@@ -23,16 +23,16 @@
 
 | kategoria | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
-| muu | 392 | 28% | 18% |
+| muu | 391 | 28% | 18% |
 | takki | 291 | 31% | 22% |
 | kengät | 281 | 60% | 22% |
-| neule | 128 | 12% | 16% |
+| neule | 127 | 13% | 16% |
 | housut | 127 | 9% | 20% |
 | laukku | 61 | 52% | 7% |
 | t-paita | 54 | 19% | 37% |
 | huppari | 53 | 25% | 34% |
 | kauluspaita | 46 | 0% | 28% |
-| asuste | 23 | 39% | 17% |
+| asuste | 24 | 38% | 17% |
 | nahkatakki | 3 | 67% | 0% |
 | korut | 2 | 50% | 0% |
 
@@ -40,12 +40,12 @@
 
 | brändi | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
+| Givenchy | 10 | 100% | 30% |
 | Miu Miu | 11 | 100% | 9% |
 | Balenciaga | 22 | 100% | 14% |
 | Saint Laurent | 10 | 100% | 20% |
 | Loewe | 8 | 100% | 0% |
 | Chanel | 5 | 100% | 20% |
-| Givenchy | 9 | 100% | 33% |
 | Goyard | 12 | 100% | 0% |
 | Loro Piana | 47 | 100% | 2% |
 | Hermès | 6 | 100% | 17% |
@@ -73,6 +73,7 @@
 - 80 · [Käyttämätön Valentino tum.sininen medium laukku käsilaukku.,.,](https://www.tori.fi/recommerce/forsale/item/48775403) 50 € (arvio 171 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 80 · [Valentino Nero laukku, UUSI 💼](https://www.tori.fi/recommerce/forsale/item/48415990) 45 € (arvio 171 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 80 · [Goyard tekonahkainen laukku vihreä unisex](https://www.tori.fi/recommerce/forsale/item/46805357) 59 € (arvio 342 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
+- 65 · [Givenchy tennarit koko 45 TARJOA](https://www.tori.fi/recommerce/forsale/item/50246258) 50 € (arvio 200 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 65 · [Miu Miu kengät](https://www.tori.fi/recommerce/forsale/item/50207634) 60 € (arvio 213 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 65 · [Dior B22 Miesten Kengät](https://www.tori.fi/recommerce/forsale/item/50196240) 70 € (arvio 266 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 65 · [Loro Piana Loafers](https://www.marktplaats.nl/v/kleding-heren/schoenen/m2467456763-loro-piana-loafers) 125 € (arvio 514 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta
@@ -87,4 +88,3 @@
 - 65 · [Hermés grijs/groen wit](https://www.marktplaats.nl/v/kleding-heren/schoenen/m2466265176-hermes-grijs-groen-wit) 140 € (arvio 560 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta
 - 65 · [Maison Margiela GATs - Nieuw - Maat 43 (valt als 42.5)](https://www.marktplaats.nl/v/kleding-heren/schoenen/m2466175160-maison-margiela-gats-nieuw-maat-43-valt-als-42-5) 105 € (arvio 368 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta
 - 65 · [Maison Margiela sneakers str 44](https://www.dba.dk/recommerce/forsale/item/26696409) 98 € (arvio 332 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
-- 65 · [Alexander McQueen Oversize Tennarit](https://www.tori.fi/recommerce/forsale/item/17687408) 55 € (arvio 200 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
