@@ -170,11 +170,23 @@ def deep(cfg):
     S.log(f"deep: {len(hits)} hits")
 
     out, seen = [], set()
+    # per-brand audit: how many listings the scan saw and why each one was left out of the Atlas
+    audit, aseen = {}, set()
     for hit, hunt in hits:
         oid = str(hit.get("objectID"))
         if oid in seen:
             continue
         f = ev.evaluate(hit, sp, hunt)
+        if hunt is None and oid not in aseen:
+            aseen.add(oid)
+            b = matcher.match(S.first_str(S.dig(hit, S.BRAND_ATTR), hit.get("brand")))
+            if b is not None:
+                a = audit.setdefault(b.name, {"n": 0, "ok": 0, "drop": {}})
+                a["n"] += 1
+                if f:
+                    a["ok"] += 1
+                else:
+                    a["drop"][ev.drop or "muu"] = a["drop"].get(ev.drop or "muu", 0) + 1
         if not f:
             continue
         seen.add(oid)
@@ -205,6 +217,7 @@ def deep(cfg):
     if os.getenv("SCAN_NOTIFY"):
         notify_insane(st, out)
     S.save_json(S.DATA / "scan.json", {"generated": S.now_ts(), "items": out})
+    S.save_json(S.DATA / "brand_audit.json", {"generated": S.now_ts(), "brands": audit})
     S.log("deep: done")
 
 

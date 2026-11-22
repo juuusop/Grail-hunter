@@ -163,3 +163,21 @@ def test_brand_guide_merges_into_brands():
     assert ro.boost["kiss"] == 1.3          # from brand_guide.yaml
     assert ro.boost["drkshdw"] == 0.6       # brands.yaml still wins / kept
     assert all(b.tier in "SABCD" and b.tier for b in brands.values())
+
+
+def test_deep_scan_brand_audit(env, monkeypatch):
+    """scan.py deep tallies, per brand, how many listings it saw and why each was left out of the Atlas."""
+    import scan
+    monkeypatch.setattr(scan.S, "Sellpy", FakeSellpy)
+    monkeypatch.setattr(scan, "thumb", lambda s, u: None)
+    monkeypatch.setattr(FakeSellpy, "s", None, raising=False)
+    monkeypatch.setattr(scan.time, "sleep", lambda s: None)
+    CATALOG.append(hit("c1", "Patagonia", "Patagonia takki", 50, size="MEN-INT-S"))
+    try:
+        scan.deep(sniper.load_yaml("config.yaml"))
+    finally:
+        CATALOG.pop()
+    au = json.loads((env / "data/brand_audit.json").read_text())["brands"]
+    assert au["Rick Owens"]["n"] == 2 and au["Rick Owens"]["ok"] >= 1
+    assert au["Patagonia"]["drop"].get("ei sun koko") == 1
+    assert sum(au["Patagonia"]["drop"].values()) + au["Patagonia"]["ok"] == au["Patagonia"]["n"]

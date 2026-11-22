@@ -126,7 +126,7 @@ function card(i) {
 }
 
 // ================= state =================
-const DEF = () => ({ lanes: [], plats: [], brands: [], tiers: [], sizes: [], cat: [], g: "", pmin: "", pmax: "", fit: true,
+const DEF = () => ({ lanes: [], plats: [], brands: [], tiers: [], sizes: [], cat: [], cats: [], g: "", pmin: "", pmax: "", fit: true,
   rare: false, strict: false, nofake: false, noworn: false, pick: false, fresh: false, profit: false, q: "", sort: "s" });
 const SORTS = { s: "Paras diili ensin", ts: "Uusin ensin", p: "Halvin ensin", v: "Arvokkain ensin", pr: "Isoin kate ensin" };
 const PAGE = 60;
@@ -156,6 +156,10 @@ function restore() {
   const has = (k, fn) => { F[k] = F[k].filter(x => ITEMS.some(i => fn(i, x))); };
   has("lanes", (i, x) => i.lane === x); has("plats", (i, x) => i.pf === x); has("brands", (i, x) => i.bn === x);
   has("sizes", (i, x) => i.szk === x); F.tiers = F.tiers.filter(t => t in TIERS);
+  // categories are multi-select (F.cats = chosen paths); F.cat is only where the tree is browsed to.
+  // Older saved state had one chosen path in F.cat: carry it over as a selection.
+  if (!Array.isArray(f.cats) && F.cat.length) { F.cats = [F.cat.join(" > ")]; F.cat = F.cat.slice(0, -1); }
+  F.cats = F.cats.filter(c => typeof c === "string" && ITEMS.some(i => inCat(i, c)));
   if (F.cat.length && !ITEMS.some(i => inCat(i, F.cat.join(" > ")))) F.cat = [];
   if (!SORTS[F.sort]) F.sort = "s";
   const u = o.UI || {};
@@ -170,13 +174,13 @@ const inCat = (i, pre) => !pre || i.cp.some(p => p === pre || p.startsWith(pre +
 // ================= finds: faceted filtering =================
 let R = { res: [], near: {} };
 function compute() {
-  const S = k => new Set(F[k]), pre = F.cat.join(" > "), preds = [];
+  const S = k => new Set(F[k]), preds = [];
   if (F.lanes.length) { const s = S("lanes"); preds.push(["lanes", i => s.has(i.lane)]); }
   if (F.plats.length) { const s = S("plats"); preds.push(["plats", i => s.has(i.pf)]); }
   if (F.brands.length) { const s = S("brands"); preds.push(["brands", i => s.has(i.bn)]); }
   if (F.tiers.length) { const s = S("tiers"); preds.push(["tiers", i => s.has(i.tier)]); }
   if (F.sizes.length) { const s = S("sizes"); preds.push(["sizes", i => s.has(i.szk)]); }
-  if (pre) preds.push(["cat", i => inCat(i, pre)]);
+  if (F.cats.length) { const cs = F.cats; preds.push(["cat", i => cs.some(c => inCat(i, c))]); }
   if (F.g) preds.push(["g", i => !i.g || i.g === F.g]);
   const lo = parseFloat(F.pmin), hi = parseFloat(F.pmax);
   if (!isNaN(lo) || !isNaN(hi)) preds.push(["price", i => (isNaN(lo) || i.p >= lo) && (isNaN(hi) || i.p <= hi)]);
@@ -221,7 +225,7 @@ const TOGS = {
 TOGS.strict[1] = `Pisteet vähintään ${String(M.min_score).replace(".", ",")}, eli hinta enintään puolet arviosta.`;
 const tog = k => `<label class="tog"><span>${TOGS[k][0]}${TOGS[k][1] ? `<small>${esc(TOGS[k][1])}</small>` : ""}</span><input type="checkbox" class="sw" data-f="${k}"></label>`;
 $("#fbody").innerHTML = `
-<div class="fg"><h3>Kategoria <button type="button" data-clear="cat">tyhjennä</button></h3><div id="f-cat"></div></div>
+<div class="fg"><h3>Kategoriat <small class="count">valitse monta</small> <button type="button" data-clear="cats">tyhjennä</button></h3><div id="f-cat"></div></div>
 <div class="fg"><h3>Brändit <button type="button" data-clear="brands">tyhjennä</button></h3><div class="selb" id="f-bsel"></div><button type="button" class="btn sm" id="bopen">Valitse brändejä</button></div>
 <div class="fg"><h3>Koko <button type="button" data-clear="sizes">tyhjennä</button></h3>${tog("fit")}<div id="f-sizes"></div></div>
 <div class="fg"><h3>Hinta</h3><div class="price2"><input type="number" id="pmin" inputmode="decimal" min="0" placeholder="min €" aria-label="Vähimmäishinta"><span class="mono">–</span><input type="number" id="pmax" inputmode="decimal" min="0" placeholder="max €" aria-label="Enimmäishinta"></div></div>
@@ -235,9 +239,9 @@ $("#fbody").innerHTML = `
 
 const chip = (fk, v, label, n, on) => `<button type="button" class="chip" data-fk="${fk}" data-fv="${esc(v)}" aria-pressed="${on}"${!n && !on ? " disabled" : ""}>${esc(label)}<small>${n || 0}</small></button>`;
 function renderPanel() {
-  // category tree
-  const cc = {}, deeper = {}, d = F.cat.length, pre = F.cat.join(" > ");
-  facetBase("cat").forEach(i => {
+  // category tree: browse with › , tick as many categories as you like (any level, any branch)
+  const cc = {}, deeper = {}, d = F.cat.length, pre = F.cat.join(" > "), base = facetBase("cat");
+  base.forEach(i => {
     const seen = new Set();
     i.cp.forEach(p => {
       if (pre && !p.startsWith(pre + " > ")) return;
@@ -246,10 +250,16 @@ function renderPanel() {
       seen.add(s); cc[s] = (cc[s] || 0) + 1; if (seg.length > d + 1) deeper[s] = 1;
     });
   });
-  const tot = facetBase("cat").filter(i => inCat(i, pre)).length;
-  $("#f-cat").innerHTML = `<div class="crumbs">${d ? `<button type="button" data-cat="0">Kaikki</button>` : `<b>Kaikki</b>`}${F.cat.map((c, k) =>
-    `<span>›</span>${k < d - 1 ? `<button type="button" data-cat="${k + 1}">${esc(c)}</button>` : `<b>${esc(c)}</b>`}`).join("")}<span class="count" style="margin-left:6px">${tot}</span></div>
-    <div class="tree">${byCount(cc).map(s => `<button type="button" data-catin="${esc(s)}"><span>${esc(s)}${deeper[s] ? ` <span class="chev">›</span>` : ""}</span><small>${cc[s]}</small></button>`).join("")
+  const full = s => (pre ? pre + " > " : "") + s;
+  // a chosen path that is not on this level (other branch, or the counts went to 0) still shows its chip on top
+  const chosen = F.cats.map(c => `<button type="button" class="chip x" aria-pressed="true" data-catx="${esc(c)}">${esc(c.split(" > ").slice(-2).join(" › "))}</button>`).join("");
+  const under = pre && F.cats.some(c => pre === c || pre.startsWith(c + " > "));
+  $("#f-cat").innerHTML = (chosen ? `<div class="selb">${chosen}</div>` : "")
+    + `<div class="crumbs">${d ? `<button type="button" data-cat="0">Kaikki</button>` : `<b>Kaikki</b>`}${F.cat.map((c, k) =>
+    `<span>›</span>${k < d - 1 ? `<button type="button" data-cat="${k + 1}">${esc(c)}</button>` : `<b>${esc(c)}</b>`}`).join("")}</div>
+    ${under ? `<p class="count" style="margin:2px 0 6px">Koko ”${esc(F.cat[d - 1])}” on jo valittuna.</p>` : ""}
+    <div class="tree">${byCount(cc).map(s => { const p = full(s), on = F.cats.includes(p);
+      return `<div class="trow"><label><input type="checkbox" data-catpick="${esc(p)}"${on ? " checked" : ""}${under ? " disabled" : ""}><span>${esc(s)}</span><small>${cc[s]}</small></label>${deeper[s] ? `<button type="button" class="chevb" data-catin="${esc(s)}" aria-label="Avaa ${esc(s)}">›</button>` : `<span class="chevb"></span>`}</div>`; }).join("")
     || `<p class="count" style="margin:4px 0">Alin taso. Palaa ylemmäs yläpuolen polusta.</p>`}</div>`;
   // brands
   $("#f-bsel").innerHTML = F.brands.map(b => `<button type="button" class="chip x" aria-pressed="true" data-fk="brands" data-fv="${esc(b)}">${esc(b)}</button>`).join("");
@@ -289,7 +299,7 @@ function renderQuick() {
 function activeList() {
   const a = [], d = DEF();
   if (F.q.trim()) a.push(["q", "", `”${F.q.trim()}”`]);
-  if (F.cat.length) a.push(["cat", "", F.cat.join(" › ")]);
+  F.cats.forEach(c => a.push(["cats", c, c.split(" > ").slice(-2).join(" › ")]));
   F.brands.forEach(b => a.push(["brands", b, b]));
   F.sizes.forEach(s => a.push(["sizes", s, "koko " + s.split("|")[1]]));
   F.tiers.forEach(t => a.push(["tiers", t, t ? "taso " + t : "ei tasoa"]));
@@ -338,7 +348,14 @@ $("#more").addEventListener("click", moreRows);
 if ("IntersectionObserver" in window) new IntersectionObserver(es => { if (es[0].isIntersecting && UI.view === "finds") moreRows(); }, { rootMargin: "900px 0px" }).observe($("#sentinel"));
 
 // panel events
-$("#fbody").addEventListener("change", e => { const c = e.target.closest("[data-f]"); if (c) { F[c.dataset.f] = c.checked; update(); } });
+$("#fbody").addEventListener("change", e => {
+  const k = e.target.closest("[data-catpick]");
+  if (k) { const p = k.dataset.catpick;
+    // ticking a parent replaces its ticked children (they are inside it anyway)
+    F.cats = k.checked ? [...F.cats.filter(c => !c.startsWith(p + " > ")), p] : F.cats.filter(c => c !== p);
+    update({ keepScroll: true }); return; }
+  const c = e.target.closest("[data-f]"); if (c) { F[c.dataset.f] = c.checked; update(); }
+});
 let priceT;
 ["pmin", "pmax"].forEach(k => $("#" + k).addEventListener("input", e => { clearTimeout(priceT); priceT = setTimeout(() => { F[k] = e.target.value.trim(); update({ keepScroll: true }); }, 350); }));
 let qT;
@@ -360,7 +377,8 @@ function openBrandPicker() {
   $("#bgrp", w).value = UI.bmode;
   const draw = () => {
     const q = $("#bq", w).value.trim().toLowerCase(), mode = $("#bgrp", w).value, cnt = countBy("brands", i => i.bn), groups = {};
-    new Set([...Object.keys(cnt), ...F.brands]).forEach(n => {
+    new Set([...Object.keys(BG), ...Object.keys(cnt), ...F.brands]).forEach(n => {
+      if (n === "Tuntematon" && !cnt[n]) return;
       if (q && !n.toLowerCase().includes(q)) return;
       const [g] = BG[n] || ["Muut"], t = (GD[n] || {}).t || "";
       const k = mode === "t" ? t : mode === "a" ? (n[0] || "#").toUpperCase() : g;
@@ -370,10 +388,10 @@ function openBrandPicker() {
     const order = mode === "t" ? ["S", "A", "B", "C", "D", ""] : Object.keys(groups).sort((a, b) => mode === "a" ? a.localeCompare(b, "fi") : size(b) - size(a));
     const keep = $(".sbody", w).scrollTop;
     $("#blist", w).innerHTML = order.filter(k => groups[k]).map(k => {
-      const ns = groups[k].sort((a, b) => a.localeCompare(b, "fi")), all = ns.every(n => F.brands.includes(n));
+      const ns = groups[k].sort((a, b) => (!cnt[a]) - (!cnt[b]) || a.localeCompare(b, "fi")), all = ns.every(n => F.brands.includes(n));
       return `<div class="bgroup"><h4><span>${esc(mode === "t" ? TIERS[k] : k)}</span><button type="button" data-grp="${esc(JSON.stringify(ns))}">${all ? "poista kaikki" : "valitse kaikki"}</button></h4><div class="bopts">${ns.map(n => {
         const t = (GD[n] || {}).t;
-        return `<label class="bopt"><input type="checkbox" value="${esc(n)}"${F.brands.includes(n) ? " checked" : ""}><span class="n">${esc(n)}</span>${t ? `<span class="tier sm T-${t}">${t}</span>` : ""}<small>${cnt[n] || 0}</small></label>`;
+        return `<label class="bopt${cnt[n] ? "" : " zero"}"${cnt[n] ? "" : ` title="${esc(n)}: ei löytöjä näillä suodattimilla"`}><input type="checkbox" value="${esc(n)}"${F.brands.includes(n) ? " checked" : ""}><span class="n">${esc(n)}</span>${t ? `<span class="tier sm T-${t}">${t}</span>` : ""}<small>${cnt[n] || 0}</small></label>`;
       }).join("")}</div></div>`;
     }).join("") || `<p class="empty">Ei brändiä haulla ”${esc(q)}”.</p>`;
     $(".sbody", w).scrollTop = keep;
@@ -491,6 +509,21 @@ function brandStats(n) {
   const f = ITEMS.filter(i => i.bn === n).sort((a, b) => b.s - a.s);
   return { f, top: f.find(i => i.hi) || f[0] };
 }
+const DROP_TXT = {
+  "ei sun koko": "ei sun kokoa (L+, W35+, kengät 43–45)", "yli Sellpy-mediaanin": "kalliimpi kuin Sellpyn tavallinen hinta tälle brändille",
+  "liian kallis arvoon nähden": "hinta liian lähellä jälleenmyyntiarvoa", "alle minimihinnan": "alle minimihinnan (yleensä asuste tai väärä brändi)",
+  "lasten koko": "lasten koko", "poissulkusana": "poissulkusana (esim. replika, vaurio)", "hintakatto": "yli hintakaton", "varattu": "varattu tai ei myynnissä",
+};
+function whyFew(n, L, nf) {
+  if (!L) return "";
+  const a = L.au;
+  if (L.nf && !a) return `<div class="panelc"><h3>Miksi ${nf ? "ei löytöjä Sellpystä" : "vähän löytöjä"}?</h3><p style="margin:0">Sellpyssä ei ole nyt yhtään ${esc(n)}-tuotetta (brändihaku ei löydä nimeä tai aliaksia). Muut alustat (Tori, Huuto, Tradera, Emmy) skannataan silti.</p></div>`;
+  if (!a) return L.cnt ? `<div class="panelc"><h3>Miksi vähän löytöjä?</h3><p style="margin:0">Sellpyssä ${num(L.cnt)} kpl, mediaani ${L.med != null ? eur(L.med) : "–"}. Tarkka pudotuserittely tulee seuraavasta syväskannauksesta.</p></div>` : "";
+  const rows = Object.entries(a.drop).sort((x, y) => y[1] - x[1]);
+  return `<div class="panelc"><h3>Mihin ${num(a.n)} Sellpy-tuotetta jäi?</h3>
+    <div class="why0"><div><span>Atlakseen asti (diili tai harvinainen)</span><b>${num(a.ok)}</b></div>${rows.map(([k, v]) => `<div><span>${esc(DROP_TXT[k] || k)}</span><b>${num(v)}</b></div>`).join("")}</div>
+    <p class="count" style="margin:8px 0 0">Syväskannaus ${esc(M.audit_generated || "")}. Atlas näyttää vain diilit: pisteet vähintään 1,4 (hinta alle ~70 % arviosta) ja sun koot.</p></div>`;
+}
 function openBrand(n) {
   const g = GD[n], L = LOGIC.get(n), { f } = brandStats(n), lane = (BG[n] || [])[0] || (L && L.lane) || "";
   const kw = { ...(g && g.kw || {}), ...(L && L.bo || {}) };
@@ -503,6 +536,7 @@ function openBrand(n) {
     ${f.length ? `<div class="acts"><button type="button" class="btn ink" data-showbrand="${esc(n)}">Näytä kaikki ${num(f.length)} löytöä</button></div>` : ""}</div>
     <div class="panelc"><h3>Numerot</h3><dl class="facts">${facts.map(([k, v]) => `<div><dt>${k}</dt><dd class="mono">${v}</dd></div>`).join("")}</dl>
       <p class="count" style="margin:0">Diiliraja = arvo ÷ ${String(M.min_score).replace(".", ",")}. Yleisillä brändeillä hinnan pitää myös olla alle Sellpy-mediaani × ${String(M.median_factor).replace(".", ",")}.</p></div>
+    ${whyFew(n, L, !f.length)}
     ${g || (L && L.note) ? `<div class="panelc"><h3>Brändiopas</h3>${L && L.note ? `<div class="gfield"><b>Kuraattorin huomio</b><p>${esc(L.note)}</p></div>` : ""}${g ? guideFields(g) : ""}</div>` : ""}
     ${Object.keys(kw).length || (L && (L.a.length || L.sp.length)) ? `<div class="panelc"><h3>Haku ja kertoimet</h3>
       ${Object.keys(kw).length ? `<div class="gfield"><b>Mallisanat, jotka nostavat arviota</b><div class="kw">${Object.entries(kw).sort((a, b) => b[1] - a[1]).map(([k, v]) => `<span>${esc(k)} ×${String(v).replace(".", ",")}</span>`).join("")}</div></div>` : ""}
@@ -582,7 +616,7 @@ function renderHome() {
   ${prof.length ? `<div class="sec"><div class="sechead"><div><h2>Isoin kate</h2><p>Myyntiarvio Grailedissa, Vintedissä tai Vestiairessa miinus kulut, tinkiminen ja posti.</p></div><button type="button" class="link" data-preset='{"sort":"pr","profit":true}'>Näytä kaikki →</button></div>${rail(prof)}</div>` : ""}
   <div class="sec"><div class="sechead"><div><h2>Kategoriat</h2><p>Sellpyn oma kategoriapuu. Muiden alustojen ilmoitukset on sovitettu samaan puuhun otsikon perusteella.</p></div></div>
     <div class="tiles">${tiles.map(([k, arr]) => { const t = arr.filter(i => i.hi).sort((a, b) => b.s - a.s)[0] || arr[0]; const nm = k.split(" > ").pop();
-      return `<button type="button" class="tile" data-preset='${esc(JSON.stringify({ cat: k.split(" > ") }))}'>${pic(t, nm)}<span class="t"><b>${esc(nm)}</b><small>${num(arr.length)}</small></span></button>`; }).join("")}</div></div>
+      return `<button type="button" class="tile" data-preset='${esc(JSON.stringify({ cats: [k], cat: k.split(" > ").slice(0, -1) }))}'>${pic(t, nm)}<span class="t"><b>${esc(nm)}</b><small>${num(arr.length)}</small></span></button>`; }).join("")}</div></div>
   ${rare.length ? `<div class="sec"><div class="sechead"><div><h2>Harvinaiset</h2><p>Harvinaiset brändit ja sanat (runway, sample, artisanal, object dyed…) hälyttävät jo, kun hinta on suunnilleen arvon verran.</p></div><button type="button" class="link" data-preset='{"rare":true}'>Näytä kaikki →</button></div>${rail(rare)}</div>` : ""}
   ${sbr.length ? `<div class="sec"><div class="sechead"><div><h2>S-tason brändit</h2><p>Grail-taso: likvidi jälleenmyynti ja vahva kysyntä. Avaa brändi nähdäksesi mitä ostaa ja miten aidon tunnistaa.</p></div><button type="button" class="link" data-nav="brands">Kaikki brändit →</button></div>
     <div class="bdir">${sbr.map(([n, arr]) => bcard(n, arr)).join("")}</div></div>` : ""}
@@ -723,11 +757,12 @@ document.addEventListener("click", e => {
   if (d.g !== undefined) { F.g = d.g; update({ keepScroll: true }); return; }
   if (d.catin) { F.cat = [...F.cat, d.catin]; update({ keepScroll: true }); return; }
   if (d.cat !== undefined && t.closest("#f-cat")) { F.cat = F.cat.slice(0, +d.cat); update({ keepScroll: true }); return; }
+  if (d.catx) { F.cats = F.cats.filter(c => c !== d.catx); update({ keepScroll: true }); return; }
   if (d.clear) { F[d.clear] = []; update({ keepScroll: true }); return; }
   if (d.qt) { F[d.qt] = !F[d.qt]; update(); return; }
   if (d.rm) {
     const k = d.rm, v = d.rv;
-    if (k === "q") F.q = ""; else if (k === "cat") F.cat = []; else if (k === "g") F.g = ""; else if (k === "pmin" || k === "pmax") F[k] = "";
+    if (k === "q") F.q = ""; else if (k === "g") F.g = ""; else if (k === "pmin" || k === "pmax") F[k] = "";
     else if (k === "tog") F[v] = DEF()[v]; else F[k] = F[k].filter(x => x !== v);
     update(); return;
   }

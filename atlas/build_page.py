@@ -263,12 +263,21 @@ try:
 except FileNotFoundError:
     _guide = {}
 brand_groups = {}
+for b in brands:  # every listed brand, also the ones with no finds right now (the picker lists them all)
+    brand_groups[b["name"]] = [lane_of.get(b["name"], "Muut"), ((_guide.get(b["name"]) or {}).get("tier") or "")]
 for i in items:
     n = i["bn"]
     if n not in brand_groups:
         g = lane_of.get(n) or ("Väärin listatut" if "(haku" in i["b"] or " → " in i["b"] else "Muut")
         brand_groups[n] = [g, ((_guide.get(n) or {}).get("tier") or "")]
 
+# why a brand has few or no finds: per-brand tally from the last deep scan (scan.py -> data/brand_audit.json)
+try:
+    _audit = json.load(open(f"{REPO}/data/brand_audit.json", encoding="utf-8"))
+    audit, _agen = _audit.get("brands") or {}, _audit.get("generated")
+except FileNotFoundError:
+    audit, _agen = {}, None
+_nf = set(resolved.get("not_found") or [])
 logic = []
 for b in brands:
     st = resolved["brands"].get(b["name"], {})
@@ -277,6 +286,7 @@ for b in brands:
         "r": bool(b.get("rare")), "mn": b.get("min_price"), "a": b.get("aliases") or [],
         "bo": b.get("boost") or {}, "cnt": st.get("count"), "med": st.get("median"),
         "sp": st.get("values") or [], "note": NOTES.get(b["name"], ""),
+        "au": audit.get(b["name"]), "nf": (b["name"] not in resolved["brands"]) or b["name"] in _nf,
     })
 
 meta = {
@@ -287,6 +297,7 @@ meta = {
     "rare_words": cfg["rare_words"], "exclude": cfg["exclude_words"], "hunts": cfg["hunts"], "sizes": cfg["settings"].get("sizes") or {},
     "lanes": sorted({i["lane"] for i in items}),
     "markets_generated": (datetime.fromtimestamp(_mgen, timezone.utc).strftime("%d.%m.%Y %H:%M UTC") if _mgen else ""),
+    "audit_generated": (datetime.fromtimestamp(_agen, timezone.utc).strftime("%d.%m.%Y %H:%M UTC") if _agen else ""),
     "grid": GRID, "sheets": sheets, "hi": hi_meta, "bg": brand_groups,
     # brand guide (brand_guide.yaml): tier, hype/quality 1-5, fake 0-3 and the buying notes, for brand pages
     "gd": {n: {"t": g.get("tier") or "", "h": g.get("hype") or 0, "q": g.get("quality") or 0, "f": g.get("fake") or 0,
