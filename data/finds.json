@@ -1,5 +1,90 @@
 [
  {
+  "id": "marktplaats-m2468661327",
+  "brand": "Louis Vuitton · Marktplaats 🇳🇱",
+  "title": "Unieke Louis Vuitton-stijl sneakers",
+  "price": 140.0,
+  "value": 294,
+  "score": 2.1,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "Gedragen",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-dames/schoenen/m2468661327-unieke-louis-vuitton-stijl-sneakers",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/3f8dc7cc-97ed-4dbe-8687-a07a03164176?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 194 €",
+   "Japanissa myyty mediaani 103 € (n=76)",
+   "⚠️ kate ~-32 € (ROI -23%, myy grailed ~154 €; brändiarvio ~220 € (ei mallivertailua eikä Yahoo-dataa))",
+   "120 EUR + ~20 € posti = 140 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795368812,
+  "resale": 154,
+  "profit": -32,
+  "roi": -0.23,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~220 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~154 € → käteen ~108 € kulujen ja tinkimisen jälkeen",
+   "osto 140 € + toimitus = 140 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "kulunut",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "selviä käytön jälkiä/vikoja (kengissä/laukuissa kuluma syö resale-hintaa)"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2468735203",
+  "brand": "Edward Green · Marktplaats 🇳🇱",
+  "title": "Edward Green monkstrap maat 8,5/9E leest 606",
+  "price": 120.0,
+  "value": 240,
+  "score": 2.0,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2468735203-edward-green-monkstrap-maat-8-5-9e-leest-606",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/442935f4-87b2-43cc-a995-b0b475f6f6e0?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Japanissa myyty (muu) mediaani 65 € (n=8)",
+   "⚠️ kate ~-88 € (ROI -73%, myy grailed ~47 €; Yahoo JP toteutuneet (muu): mediaani 65 €, p25 16 € (n=8) → geneerinen ~40 € × 1.15 EU-taso)",
+   "100 EUR + ~20 € posti = 120 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795368812,
+  "resale": 47,
+  "profit": -88,
+  "roi": -0.73,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 65 €, p25 16 € (n=8) → geneerinen ~40 € × 1.15 EU-taso",
+   "myynti grailed ~47 € → käteen ~32 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 120 €"
+  ],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
   "id": "7yVeKG7NmG",
   "brand": "Rick Owens",
   "title": "Rick Owens Kangaslaukku",
@@ -45194,46 +45279,6 @@
   "image": "https://prod.images.sellpy.net/photoRobot-standard-8-l-2/vMkMCtqlRV-fbff-0.jpg",
   "reasons": [
    "Sellpyn mediaani tälle brändille 46 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "LA4uRuNOaY",
-  "brand": "The North Face",
-  "title": "The North Face T-paita",
-  "price": 11.0,
-  "value": 22,
-  "score": 2.05,
-  "label": "✅ DIILI",
-  "category": "t-paita",
-  "condition": "Hyvä",
-  "size": "MEN-INT-S",
-  "link": "https://www.sellpy.fi/item/LA4uRuNOaY",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-7-k-9/LA4uRuNOaY-cfd1-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 46 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "OzeHfmm38M",
-  "brand": "Diesel",
-  "title": "Diesel Miesten alushousut",
-  "price": 25.0,
-  "value": 50,
-  "score": 2.02,
-  "label": "✅ DIILI",
-  "category": "takki",
-  "condition": "Uusi",
-  "size": "MEN-INT-S",
-  "link": "https://www.sellpy.fi/item/OzeHfmm38M",
-  "image": "https://prod.images.sellpy.net/photoRobot-fixed-13-l-1/OzeHfmm38M-857d-0-timed-sequence.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 30 €"
   ],
   "source": "brändi",
   "old_price": null,
