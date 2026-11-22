@@ -1,5 +1,137 @@
 [
  {
+  "id": "tori-39304459",
+  "brand": "Louis Vuitton · Tori",
+  "title": "Louis Vuitton miesten takki",
+  "price": 165.0,
+  "value": 456,
+  "score": 2.76,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/39304459",
+  "image": "https://img.tori.net/dynamic/default/item/39304459/cf35cd73-b068-417f-81cf-17172d6b2308",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 194 €",
+   "Japanissa myyty mediaani 103 € (n=76)",
+   "⚠️ kate ~-5 € (ROI -3%, myy grailed ~239 €; brändiarvio ~342 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795388118,
+  "resale": 239,
+  "profit": -5,
+  "roi": -0.03,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~342 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~239 € → käteen ~167 € kulujen ja tinkimisen jälkeen",
+   "osto 165 € + toimitus = 172 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-48493672",
+  "brand": "Maison Margiela · Tori",
+  "title": "Maison Margiela tennarit koko 45 musta nahka",
+  "price": 120.0,
+  "value": 432,
+  "score": 3.6,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "SHOES-EU-45",
+  "link": "https://www.tori.fi/recommerce/forsale/item/48493672",
+  "image": "https://img.tori.net/dynamic/default/item/48493672/8724115e-2e59-4aa8-9aaf-1c36cadab064",
+  "reasons": [
+   "taso A",
+   "nahka ×1.3",
+   "Sellpyn mediaani tälle brändille 121 €",
+   "Japanissa myyty (kengät) mediaani 171 € (n=7)",
+   "⚠️ kate ~-62 € (ROI -49%, myy grailed ~93 €; Yahoo JP toteutuneet (kengät): mediaani 171 €, p25 73 € (n=7) → geneerinen ~122 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795388118,
+  "resale": 93,
+  "profit": -62,
+  "roi": -0.49,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 171 €, p25 73 € (n=7) → geneerinen ~122 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~93 € → käteen ~65 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 127 €"
+  ],
+  "risk": {
+   "fake": 65,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2468080870",
+  "brand": "Goyard · Marktplaats 🇳🇱",
+  "title": "Goyard duffle Bag",
+  "price": 114.95,
+  "value": 378,
+  "score": 3.29,
+  "label": "🔥 KOVA DIILI",
+  "category": "laukku",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/tassen-reistassen-en-weekendtassen/m2468080870-goyard-duffle-bag",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/ef01ae57-1df6-4e98-9f5e-08bafecb19ef?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Japanissa myyty (laukku) mediaani 393 € (n=27)",
+   "kate ~56 € (ROI 49%, myy vestiaire ~251 €; Yahoo JP toteutuneet (laukku): mediaani 393 €, p25 201 € (n=27) → geneerinen ~297 € × 1.15 EU-taso)",
+   "95 EUR + ~20 € posti = 115 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795388118,
+  "resale": 251,
+  "profit": 56,
+  "roi": 0.49,
+  "exit": "vestiaire",
+  "resale_why": [
+   "Yahoo JP toteutuneet (laukku): mediaani 393 €, p25 201 € (n=27) → geneerinen ~297 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti vestiaire ~251 € → käteen ~171 € kulujen ja tinkimisen jälkeen",
+   "osto 115 € + toimitus = 115 €"
+  ],
+  "risk": {
+   "fake": 64,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "laukku: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "oGul2vnpSG",
   "brand": "Oscar Jacobson",
   "title": "Oscar Jacobson Neulepaita",
@@ -45284,68 +45416,6 @@
   "image": "https://prod.images.sellpy.net/photoRobot-hanging-10-k-9/VIBtkMXeNk-4ed8-0.jpg",
   "reasons": [
    "Sellpyn mediaani tälle brändille 46 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "bPOeOEXO2C",
-  "brand": "Salomon",
-  "title": "Salomon Lenkkitossut",
-  "price": 24.0,
-  "value": 63,
-  "score": 2.62,
-  "label": "🔥 KOVA DIILI",
-  "category": "kengät",
-  "condition": "Hyvä",
-  "size": "SHOES-EU-41.33",
-  "link": "https://www.sellpy.fi/item/bPOeOEXO2C",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-14-k-10/Bg8TN1DOCG-80dc-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 57 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "DolBDY4jRB",
-  "brand": "Salomon",
-  "title": "Salomon Lenkkitossut",
-  "price": 16.0,
-  "value": 66,
-  "score": 4.16,
-  "label": "🚨 INSANE",
-  "category": "kengät",
-  "condition": "Hyväksyttävä",
-  "size": "SHOES-EU-41",
-  "link": "https://www.sellpy.fi/item/DolBDY4jRB",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-14-k-16/ARW4Hpk2gK-c978-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 57 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "FbxAd2J5nK",
-  "brand": "Diesel",
-  "title": "Diesel Yläosa",
-  "price": 55.0,
-  "value": 53,
-  "score": 0.96,
-  "label": "💎 HARVINAINEN",
-  "category": "takki",
-  "condition": "Erittäin hyvä",
-  "size": "WMN-INT-M",
-  "link": "https://www.sellpy.fi/item/FbxAd2J5nK",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-9-l-2/FbxAd2J5nK-ddcb-0.jpg",
-  "reasons": [
-   "nahka ×1.1",
-   "harvinainen: mesh",
-   "Sellpyn mediaani tälle brändille 30 €"
   ],
   "source": "brändi",
   "old_price": null,
