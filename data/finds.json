@@ -1,5 +1,122 @@
 [
  {
+  "id": "nwUi3ME3lV",
+  "brand": "Tiger of Sweden",
+  "title": "Tiger of Sweden Bleiseri",
+  "price": 15.0,
+  "value": 50,
+  "score": 3.36,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "Hyväksyttävä",
+  "size": "MEN-EU-52",
+  "link": "https://www.sellpy.fi/item/nwUi3ME3lV",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-5-k-9/nwUi3ME3lV-5ac9-0.jpg",
+  "reasons": [
+   "taso D",
+   "Sellpyn mediaani tälle brändille 26 €",
+   "kate ~3 € (ROI 13%, myy vinted ~26 €; brändiarvio ~38 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795391634,
+  "resale": 26,
+  "profit": 3,
+  "roi": 0.13,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~38 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~26 € → käteen ~24 € kulujen ja tinkimisen jälkeen",
+   "osto 15 € + toimitus = 21 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "kulunut",
+   "why": [
+    "selviä käytön jälkiä/vikoja"
+   ]
+  }
+ },
+ {
+  "id": "qd5PywZ4ds",
+  "brand": "Oscar Jacobson",
+  "title": "Oscar Jacobson Bleiseri",
+  "price": 17.0,
+  "value": 67,
+  "score": 3.95,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "Hyväksyttävä",
+  "size": "MEN-EU-52",
+  "link": "https://www.sellpy.fi/item/qd5PywZ4ds",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-k-9/qd5PywZ4ds-3060-0.jpg",
+  "reasons": [
+   "taso D",
+   "Sellpyn mediaani tälle brändille 38 €",
+   "kate ~9 € (ROI 38%, myy vinted ~35 €; brändiarvio ~50 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795391634,
+  "resale": 35,
+  "profit": 9,
+  "roi": 0.38,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~50 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~35 € → käteen ~32 € kulujen ja tinkimisen jälkeen",
+   "osto 17 € + toimitus = 23 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "kulunut",
+   "why": [
+    "selviä käytön jälkiä/vikoja"
+   ]
+  }
+ },
+ {
+  "id": "MgMYL3snCw",
+  "brand": "Oscar Jacobson",
+  "title": "Oscar Jacobson Oxford-pusero",
+  "price": 11.0,
+  "value": 59,
+  "score": 5.35,
+  "label": "🚨 INSANE",
+  "category": "kengät",
+  "condition": "Hyväksyttävä",
+  "size": "MEN-INT-L",
+  "link": "https://www.sellpy.fi/item/MgMYL3snCw",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-5-k-7/MgMYL3snCw-504b-0.jpg",
+  "reasons": [
+   "taso D",
+   "Sellpyn mediaani tälle brändille 38 €",
+   "kate ~11 € (ROI 65%, myy vinted ~31 €; brändiarvio ~44 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795391634,
+  "resale": 31,
+  "profit": 11,
+  "roi": 0.65,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~44 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~31 € → käteen ~28 € kulujen ja tinkimisen jälkeen",
+   "osto 11 € + toimitus = 17 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "kulunut",
+   "why": [
+    "selviä käytön jälkiä/vikoja (kengissä/laukuissa kuluma syö resale-hintaa)"
+   ]
+  }
+ },
+ {
   "id": "tori-39304459",
   "brand": "Louis Vuitton · Tori",
   "title": "Louis Vuitton miesten takki",
@@ -45356,66 +45473,6 @@
   "image": "https://prod.images.sellpy.net/photoRobot-standard-5-k-4/M7lVU95Uiz-449f-0.jpg",
   "reasons": [
    "Sellpyn mediaani tälle brändille 30 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "ZFyzZQJnYe",
-  "brand": "Stutterheim",
-  "title": "Stutterheim Bomber-takki",
-  "price": 48.0,
-  "value": 112,
-  "score": 2.33,
-  "label": "✅ DIILI",
-  "category": "takki",
-  "condition": "Erittäin hyvä",
-  "size": "WMN-INT-M",
-  "link": "https://www.sellpy.fi/item/ZFyzZQJnYe",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-4-k-14/AIAJ7cgzJF-e578-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 61 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "8DHlgMDrdH",
-  "brand": "Salomon",
-  "title": "Salomon Pyöräilypaita",
-  "price": 15.0,
-  "value": 36,
-  "score": 2.4,
-  "label": "✅ DIILI",
-  "category": "muu",
-  "condition": "Hyvä",
-  "size": "WMN-INT-S",
-  "link": "https://www.sellpy.fi/item/8DHlgMDrdH",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-5-k-13/8DHlgMDrdH-e3c4-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 57 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "VIBtkMXeNk",
-  "brand": "The North Face",
-  "title": "The North Face Urheilushortsit",
-  "price": 20.0,
-  "value": 40,
-  "score": 2.0,
-  "label": "✅ DIILI",
-  "category": "muu",
-  "condition": "Erittäin hyvä",
-  "size": "WMN-INT-XS",
-  "link": "https://www.sellpy.fi/item/VIBtkMXeNk",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-10-k-9/VIBtkMXeNk-4ed8-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 46 €"
   ],
   "source": "brändi",
   "old_price": null,
