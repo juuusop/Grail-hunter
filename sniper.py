@@ -443,6 +443,8 @@ class Evaluator:
         return size_fits(size, self.st.get("sizes"))
 
     def evaluate(self, hit: dict, sp: Sellpy, hunt: dict | None = None) -> Find | None:
+        # self.drop = why the last hit was rejected (scan.py tallies these per brand for the Atlas)
+        self.drop = "varattu"
         oid = str(hit.get("objectID", ""))
         price = sp.price(hit)
         if not oid or price <= 0:
@@ -464,6 +466,7 @@ class Evaluator:
 
         for w in self.excl:
             if has_word(text, w):
+                self.drop = "poissulkusana"
                 return None
         reasons: list[str] = []
         if hunt:
@@ -498,13 +501,19 @@ class Evaluator:
             if brand.tier:
                 reasons.append(f"taso {brand.tier}")
             if brand.max_price is not None and price > float(brand.max_price):
+                self.drop = "hintakatto"
                 return None
             floor = brand.min_price if brand.min_price is not None else self.st.get("min_price", 0)
             if floor and price < float(floor):
+                self.drop = "alle minimihinnan"
                 return None
 
         cat, cmult = self._category(cat_text, text)
-        if norm(size).startswith("child") or not self._size_ok(size, cat):
+        if norm(size).startswith("child"):
+            self.drop = "lasten koko"
+            return None
+        if not self._size_ok(size, cat):
+            self.drop = "ei sun koko"
             return None
         kmult = self._condition(cond)
         bmult = 1.0
@@ -536,6 +545,7 @@ class Evaluator:
             # compared with what Sellpy usually asks for this brand and item type.
             cap = stats["median"] * float(self.st.get("sellpy_median_factor", 0.8)) * cmult
             if price > cap and not rare:
+                self.drop = "yli Sellpy-mediaanin"
                 return None
             reasons.append(f"Sellpyn mediaani tälle brändille {stats['median']:.0f} €")
         comp = self.comps.get(name) if not hunt else None
@@ -547,6 +557,7 @@ class Evaluator:
                 reasons.append(f"Japanissa myyty mediaani {comp['median']} € (n={comp['n']})")
         score = est / price
         if self.max_price is not None and price > float(self.max_price):
+            self.drop = "hintakatto"
             return None
         ms = self.min_score
         if not hunt and brand is not None and brand.tier in self.tier_min:
@@ -564,8 +575,10 @@ class Evaluator:
             import resale
             rp = None if hunt else resale.evaluate(name, cat, price, est, text, kmult, self.buy_source)
             if not rp or not resale.big_profit(rp):
+                self.drop = "liian kallis arvoon nähden"
                 return None
             label = "💰 KATE"
+        self.drop = None
         f = Find(id=oid, brand=name, title=title, price=round(price, 2), value=round(est),
                  score=round(score, 2), label=label, category=cat, condition=cond or "-",
                  size=size or "-", link=f"https://www.sellpy.{self.market}/item/{oid}",
