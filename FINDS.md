@@ -1,6 +1,6 @@
 # 🦅 Grail Hunter: löydöt
 
-Päivitetty 21.11.2026 23:15 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi olla jo myyty.
+Päivitetty 22.11.2026 00:38 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi olla jo myyty.
 
 ## 🔥 Viikon parhaat
 
@@ -51,6 +51,7 @@ Päivitetty 21.11.2026 23:15 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi oll
 
 | | Löytö | Hinta | Pisteet | Tyyppi / koko | Löydetty (UTC) |
 |---|---|---|---|---|---|
+| <a href="https://www.sellpy.fi/item/7uhqelP2MK"><img src="https://prod.images.sellpy.net/photoRobot-case-14-k-9/7uhqelP2MK-abe1-0.jpg" width="90"></a> | 📉 ✅ DIILI<br>**[New Balance (haku: made in usa new balance)](https://www.sellpy.fi/item/7uhqelP2MK)**<br>New Balance Lenkkitossut M990 | **41 €** (oli 42)<br>arvio ~100 €<br>🩹 kunto: kulunut | 2.44 | kengät<br>SHOES-EU-44 | 22.11. 00:38 |
 | <a href="https://www.sellpy.fi/item/frMDnQSwXu"><img src="https://prod.images.sellpy.net/photoRobot-standard-2-k-12/frMDnQSwXu-5f0c-0.jpg" width="90"></a> | 🚨 INSANE<br>**[Zara Knit (haku: kashmir)](https://www.sellpy.fi/item/frMDnQSwXu)**<br>Zara Knit Poncho | **11 €**<br>arvio ~59 € | 5.33 | neule<br>ONE SIZE | 21.11. 23:15 |
 | <a href="https://www.sellpy.fi/item/cH7qiim5YF"><img src="https://prod.images.sellpy.net/photoRobot-standard-7-l-3/FdybVCP4HD-82c0-0.jpg" width="90"></a> | ✅ DIILI<br>**[Etro](https://www.sellpy.fi/item/cH7qiim5YF)**<br>Etro Mekko | **27 €**<br>arvio ~58 €<br>kate ~-5 € | 2.13 | muu<br>WMN-EU-44 | 21.11. 23:15 |
 | <a href="https://www.sellpy.fi/item/OhaVheZvK9"><img src="https://prod.images.sellpy.net/photoRobot-standard-7-k-11/OhaVheZvK9-412a-0.jpg" width="90"></a> | 🔥 KOVA DIILI<br>**[House of Dagmar](https://www.sellpy.fi/item/OhaVheZvK9)**<br>Dagmar T-paita Heroines | **10 €**<br>arvio ~32 €<br>kate ~-1 € | 3.15 | t-paita<br>WMN-INT-XL | 21.11. 23:15 |
@@ -110,4 +111,3 @@ Päivitetty 21.11.2026 23:15 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi oll
 | <a href="https://www.sellpy.fi/item/1W0jFeHkBQ"><img src="https://prod.images.sellpy.net/photoRobot-standard-5-k-13/P5ppGZIPrj-939e-0.jpg" width="90"></a> | ✅ DIILI<br>**[The North Face](https://www.sellpy.fi/item/1W0jFeHkBQ)**<br>The North Face Fleece-paita | **14 €**<br>arvio ~28 €<br>kate ~-7 €<br>🩹 kunto: kulunut | 2.0 | muu<br>MEN-INT-L | 20.11. 22:18 |
 | <a href="https://www.sellpy.fi/item/9uQxkUYYH5"><img src="https://prod.images.sellpy.net/photoRobot-standard-6-k-16/hLOeQGsIPL-b9bf-0.jpg" width="90"></a> | ✅ DIILI<br>**[The North Face](https://www.sellpy.fi/item/9uQxkUYYH5)**<br>The North Face Fleece-takki | **36 €**<br>arvio ~72 €<br>kate ~-8 € | 2.0 | takki<br>MEN-INT-L | 20.11. 22:18 |
 | <a href="https://www.sellpy.fi/item/aXKcAkAOFG"><img src="https://prod.images.sellpy.net/photoRobot-standard-5-k-10/kOzPKU6iFF-0064-0.jpg" width="90"></a> | ✅ DIILI<br>**[The North Face](https://www.sellpy.fi/item/aXKcAkAOFG)**<br>The North Face Fleece-takki | **23 €**<br>arvio ~56 €<br>kate ~-2 €<br>🩹 kunto: kulunut | 2.43 | takki<br>MEN-INT-L | 20.11. 22:18 |
-| <a href="https://www.sellpy.fi/item/bH3gTz8bX8"><img src="https://prod.images.sellpy.net/photoRobot-standard-6-k-16/2rmiHWbHqG-71b3-0.jpg" width="90"></a> | 🔥 KOVA DIILI<br>**[The North Face](https://www.sellpy.fi/item/bH3gTz8bX8)**<br>The North Face Fleece-takki | **21 €**<br>arvio ~56 €<br>kate ~0 €<br>🩹 kunto: kulunut | 2.67 | takki<br>MEN-INT-L | 20.11. 22:18 |

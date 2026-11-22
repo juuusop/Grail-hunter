@@ -1,6 +1,6 @@
 # Feikki- ja kuntoriski löydöissä
 
-1462 löytöä (data/finds.json). Heuristiikka: risk.py.
+1461 löytöä (data/finds.json). Heuristiikka: risk.py.
 
 - korkea feikkiriski: **10%**, keskitaso: 21%
 - kulunut/huono kunto: **21%**, kunto ei tiedossa: 29%
@@ -9,7 +9,7 @@
 
 | alusta | n | feikki korkea | keski | kulunut/huono | kunto ? |
 |---|---|---|---|---|---|
-| sellpy.fi | 856 | 0% | 13% | 34% | 0% |
+| sellpy.fi | 855 | 0% | 13% | 34% | 0% |
 | tradera.com | 227 | 5% | 34% | 0% | 100% |
 | tori.fi | 129 | 33% | 35% | 0% | 100% |
 | marktplaats.nl | 124 | 45% | 34% | 6% | 5% |
@@ -24,7 +24,7 @@
 | kategoria | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
 | muu | 392 | 28% | 18% |
-| takki | 292 | 30% | 22% |
+| takki | 291 | 31% | 22% |
 | kengät | 281 | 60% | 22% |
 | neule | 128 | 12% | 16% |
 | housut | 127 | 9% | 20% |

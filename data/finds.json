@@ -1,5 +1,40 @@
 [
  {
+  "id": "7uhqelP2MK",
+  "brand": "New Balance (haku: made in usa new balance)",
+  "title": "New Balance Lenkkitossut M990",
+  "price": 41.0,
+  "value": 100,
+  "score": 2.44,
+  "label": "📉 ✅ DIILI",
+  "category": "kengät",
+  "condition": "Hyväksyttävä",
+  "size": "SHOES-EU-44",
+  "link": "https://www.sellpy.fi/item/7uhqelP2MK",
+  "image": "https://prod.images.sellpy.net/photoRobot-case-14-k-9/7uhqelP2MK-abe1-0.jpg",
+  "reasons": [
+   "hinta laski 42 → 41 €",
+   "tiedoissa 'made in usa', brändiksi listattu 'New Balance'",
+   "harvinainen: verkko"
+  ],
+  "source": "haku",
+  "old_price": 42.0,
+  "ts": 1795307930,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "kulunut",
+   "why": [
+    "selviä käytön jälkiä/vikoja (kengissä/laukuissa kuluma syö resale-hintaa)"
+   ]
+  }
+ },
+ {
   "id": "OhaVheZvK9",
   "brand": "House of Dagmar",
   "title": "Dagmar T-paita Heroines",
@@ -45141,26 +45176,6 @@
   "image": "https://prod.images.sellpy.net/photoRobot-standard-6-k-3/oQqi8IjD8I-26fb-0.jpg",
   "reasons": [
    "Sellpyn mediaani tälle brändille 46 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "q0KnQlbcpL",
-  "brand": "Diesel",
-  "title": "Diesel Pikeepaita",
-  "price": 11.0,
-  "value": 43,
-  "score": 3.93,
-  "label": "🔥 KOVA DIILI",
-  "category": "takki",
-  "condition": "Hyvä",
-  "size": "MEN-INT-S",
-  "link": "https://www.sellpy.fi/item/q0KnQlbcpL",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-5-k-15/q0KnQlbcpL-ebf8-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 30 €"
   ],
   "source": "brändi",
   "old_price": null,
