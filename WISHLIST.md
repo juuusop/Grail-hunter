@@ -1,71 +1,71 @@
 # 🛒 Toivelista: nykyiset osumat
 
-Päivitetty 2026-11-23 08:11 UTC. Lisää asioita kommentoimalla issueen "🛒 Toivelista". Hinnat perillä Suomessa (Ruotsi + ~15 € posti).
+Päivitetty 2026-11-23 20:38 UTC. Lisää asioita kommentoimalla issueen "🛒 Toivelista". Hinnat perillä Suomessa (Ruotsi + ~15 € posti).
 
 ## Läppäriteline MacBookille
 
-64 osumaa · mediaani 17 € · hälytysraja 70 € · uutena 98 €
+65 osumaa · mediaani 16 € · hälytysraja 70 € · uutena 98 €
 
-- ⭐ **17 €** [Mozi AR-2 kannettavan teline kääntyvällä alustalla](https://www.tori.fi/recommerce/forsale/item/47929282) · Tori · −83 % uushinnasta 98 €; 0 % alle käytettyjen mediaanin 17 €
-- ⭐ **20 €** [Mozi läppäriteline alumiinia](https://www.tori.fi/recommerce/forsale/item/49903741) · Tori · −80 % uushinnasta 98 €; 18 % yli käytettyjen mediaanin 17 €
-- ⭐ **25 €** [Apple BookArc teline MacBook prolle](https://www.tori.fi/recommerce/forsale/item/47643969) · Tori · −74 % uushinnasta 98 €; 47 % yli käytettyjen mediaanin 17 €
-- ⭐ **25 €** [K&M Läppäriteline Spider Pro 18868](https://www.tori.fi/recommerce/forsale/item/44732137) · Tori · −74 % uushinnasta 98 €; 47 % yli käytettyjen mediaanin 17 €
-- ⭐ **28 €** [Twelve South Curve Riser](https://www.blocket.se/recommerce/forsale/item/27431471) · Blocket 🇸🇪 · −71 % uushinnasta 98 €; 65 % yli käytettyjen mediaanin 17 €; 13 € + ~15 € posti, kysy lähettääkö Suomeen
-- ⭐ **30 €** [TwelveSouth HiRise kannettavan teline](https://www.tori.fi/recommerce/forsale/item/49794288) · Tori · −69 % uushinnasta 98 €; 76 % yli käytettyjen mediaanin 17 €
-- ⭐ **39 €** [K&M 12185 - kannettavan tietokoneen teline](https://www.tori.fi/recommerce/forsale/item/44187870) · Tori · −60 % uushinnasta 98 €; 129 % yli käytettyjen mediaanin 17 €
-- ⭐ **49 €** [Twelve South Curve-stativ till Laptops](https://www.blocket.se/recommerce/forsale/item/28236011) · Blocket 🇸🇪 · −50 % uushinnasta 98 €; 188 % yli käytettyjen mediaanin 17 €; 34 € + ~15 € posti, kysy lähettääkö Suomeen
-- ⭐ **54 €** [Twelve South HiRise laptopställ](https://www.blocket.se/recommerce/forsale/item/25917452) · Blocket 🇸🇪 · −45 % uushinnasta 98 €; 219 % yli käytettyjen mediaanin 17 €; 39 € + ~15 € posti, kysy lähettääkö Suomeen
-- ⭐ **57 €** [Bakker Elkhuizen- laptop stand](https://www.blocket.se/recommerce/forsale/item/20645160) · Blocket 🇸🇪 · −42 % uushinnasta 98 €; 236 % yli käytettyjen mediaanin 17 €; 42 € + ~15 € posti, kysy lähettääkö Suomeen
-- ⭐ **63 €** [Twelve South HiRise laptopställ aluminium silver](https://www.blocket.se/recommerce/forsale/item/22528144) · Blocket 🇸🇪 · −36 % uushinnasta 98 €; 270 % yli käytettyjen mediaanin 17 €; 48 € + ~15 € posti, kysy lähettääkö Suomeen
-- ⭐ **129 €** [UUSI K&M 12150 Laptop Stand](https://www.tori.fi/recommerce/forsale/item/23048733) · Tori · −-32 % uushinnasta 98 €; 659 % yli käytettyjen mediaanin 17 €
+- ⭐ **17 €** [Mozi AR-2 kannettavan teline kääntyvällä alustalla](https://www.tori.fi/recommerce/forsale/item/47929282) · Tori · −83 % uushinnasta 98 €; 6 % yli käytettyjen mediaanin 16 €
+- ⭐ **20 €** [Mozi läppäriteline alumiinia](https://www.tori.fi/recommerce/forsale/item/49903741) · Tori · −80 % uushinnasta 98 €; 25 % yli käytettyjen mediaanin 16 €
+- ⭐ **20 €** [K&M Läppäriteline Spider Pro 18868](https://www.tori.fi/recommerce/forsale/item/44732137) · Tori · −80 % uushinnasta 98 €; 25 % yli käytettyjen mediaanin 16 €
+- ⭐ **25 €** [Apple BookArc teline MacBook prolle](https://www.tori.fi/recommerce/forsale/item/47643969) · Tori · −74 % uushinnasta 98 €; 56 % yli käytettyjen mediaanin 16 €
+- ⭐ **28 €** [Twelve South Curve Riser](https://www.blocket.se/recommerce/forsale/item/27431471) · Blocket 🇸🇪 · −71 % uushinnasta 98 €; 75 % yli käytettyjen mediaanin 16 €; 13 € + ~15 € posti, kysy lähettääkö Suomeen
+- ⭐ **30 €** [TwelveSouth HiRise kannettavan teline](https://www.tori.fi/recommerce/forsale/item/49794288) · Tori · −69 % uushinnasta 98 €; 88 % yli käytettyjen mediaanin 16 €
+- ⭐ **39 €** [K&M 12185 - kannettavan tietokoneen teline](https://www.tori.fi/recommerce/forsale/item/44187870) · Tori · −60 % uushinnasta 98 €; 144 % yli käytettyjen mediaanin 16 €
+- ⭐ **49 €** [Twelve South Curve-stativ till Laptops](https://www.blocket.se/recommerce/forsale/item/28236011) · Blocket 🇸🇪 · −50 % uushinnasta 98 €; 206 % yli käytettyjen mediaanin 16 €; 34 € + ~15 € posti, kysy lähettääkö Suomeen
+- ⭐ **54 €** [Twelve South HiRise laptopställ](https://www.blocket.se/recommerce/forsale/item/25917452) · Blocket 🇸🇪 · −45 % uushinnasta 98 €; 238 % yli käytettyjen mediaanin 16 €; 39 € + ~15 € posti, kysy lähettääkö Suomeen
+- ⭐ **57 €** [Bakker Elkhuizen- laptop stand](https://www.blocket.se/recommerce/forsale/item/20645160) · Blocket 🇸🇪 · −42 % uushinnasta 98 €; 258 % yli käytettyjen mediaanin 16 €; 42 € + ~15 € posti, kysy lähettääkö Suomeen
+- ⭐ **63 €** [Twelve South HiRise laptopställ aluminium silver](https://www.blocket.se/recommerce/forsale/item/22528144) · Blocket 🇸🇪 · −36 % uushinnasta 98 €; 293 % yli käytettyjen mediaanin 16 €; 48 € + ~15 € posti, kysy lähettääkö Suomeen
+- ⭐ **129 €** [UUSI K&M 12150 Laptop Stand](https://www.tori.fi/recommerce/forsale/item/23048733) · Tori · −-32 % uushinnasta 98 €; 706 % yli käytettyjen mediaanin 16 €
 - **0 €** [Kannettavan tietokoneen teline](https://www.tori.fi/recommerce/forsale/item/32382607) · Tori · ilmainen
-- **2 €** [Valkoinen metallinen läppäriteline](https://www.tori.fi/recommerce/forsale/item/48932917) · Tori · −98 % uushinnasta 98 €; 88 % alle käytettyjen mediaanin 17 €
-- **3 €** [Ikean musta läppäriteline/-alusta](https://www.tori.fi/recommerce/forsale/item/29008307) · Tori · −97 % uushinnasta 98 €; 82 % alle käytettyjen mediaanin 17 €
-- **3 €** [Pinkki läppäriteline](https://www.tori.fi/recommerce/forsale/item/38820161) · Tori · −97 % uushinnasta 98 €; 82 % alle käytettyjen mediaanin 17 €
-- **3 €** [Läppäriteline](https://www.tori.fi/recommerce/forsale/item/38182211) · Tori · −97 % uushinnasta 98 €; 82 % alle käytettyjen mediaanin 17 €
-- **4 €** [Ergowork Xwork Foldable Stand kannettavan teline](https://www.tori.fi/recommerce/forsale/item/43521366) · Tori · −96 % uushinnasta 98 €; 76 % alle käytettyjen mediaanin 17 €
-- **5 €** [Kannettavan teline](https://www.tori.fi/recommerce/forsale/item/23631612) · Tori · −95 % uushinnasta 98 €; 71 % alle käytettyjen mediaanin 17 €
-- **5 €** [Kannettavan tietokoneen teline](https://www.tori.fi/recommerce/forsale/item/45195456) · Tori · −95 % uushinnasta 98 €; 71 % alle käytettyjen mediaanin 17 €
-- **5 €** [Fellowes läppäriteline](https://www.tori.fi/recommerce/forsale/item/49689657) · Tori · −95 % uushinnasta 98 €; 71 % alle käytettyjen mediaanin 17 €
-- **5 €** [Ikea Läppäriteline](https://www.tori.fi/recommerce/forsale/item/48600229) · Tori · −95 % uushinnasta 98 €; 71 % alle käytettyjen mediaanin 17 €
-- **5 €** [IKEA läppäriteline](https://www.tori.fi/recommerce/forsale/item/42510902) · Tori · −95 % uushinnasta 98 €; 71 % alle käytettyjen mediaanin 17 €
-- **6 €** [Metallinen, kevyt kannettavan  teline](https://www.tori.fi/recommerce/forsale/item/23631809) · Tori · −94 % uushinnasta 98 €; 65 % alle käytettyjen mediaanin 17 €
-- **6 €** [Läppäriteline - notebook stand](https://www.tori.fi/recommerce/forsale/item/41424605) · Tori · −94 % uushinnasta 98 €; 65 % alle käytettyjen mediaanin 17 €
-- **7 €** [Kannettavan teline](https://www.tori.fi/recommerce/forsale/item/44276636) · Tori · −93 % uushinnasta 98 €; 59 % alle käytettyjen mediaanin 17 €
-- **8 €** [Kokoontaitettava laptop-teline/kannettavan teline/laptop stand](https://www.tori.fi/recommerce/forsale/item/49730945) · Tori · −92 % uushinnasta 98 €; 53 % alle käytettyjen mediaanin 17 €
-- **8 €** [Kokoontaitettava laptop-teline/kannettavan teline/laptop stand](https://www.tori.fi/recommerce/forsale/item/49730771) · Tori · −92 % uushinnasta 98 €; 53 % alle käytettyjen mediaanin 17 €
-- **8 €** [Kannettavan tietokoneen teline – taitettava ja säädettävä, valkoinen](https://www.tori.fi/recommerce/forsale/item/49004290) · Tori · −92 % uushinnasta 98 €; 53 % alle käytettyjen mediaanin 17 €
-- **8 €** [Uusi taitettava alumiininen kannettavan tietokoneen teline / Laptop Stand](https://www.tori.fi/recommerce/forsale/item/48151642) · Tori · −92 % uushinnasta 98 €; 53 % alle käytettyjen mediaanin 17 €
-- **10 €** [Adjustable folding laptop stand / kannettavan tietokoneen teline](https://www.tori.fi/recommerce/forsale/item/50303222) · Tori · −90 % uushinnasta 98 €; 41 % alle käytettyjen mediaanin 17 €
-- **10 €** [Saadettava alumiini kannettavan/tabletin/kirjan teline](https://www.tori.fi/recommerce/forsale/item/50082218) · Tori · −90 % uushinnasta 98 €; 41 % alle käytettyjen mediaanin 17 €
-- **10 €** [Läppäriteline vesa-kiinnityksellä](https://www.tori.fi/recommerce/forsale/item/50147808) · Tori · −90 % uushinnasta 98 €; 41 % alle käytettyjen mediaanin 17 €
-- **10 €** [targus kannettavan tietokoneen teline](https://www.tori.fi/recommerce/forsale/item/48923937) · Tori · −90 % uushinnasta 98 €; 41 % alle käytettyjen mediaanin 17 €
-- **10 €** [Ergowork kannettavan tietokoneen teline](https://www.tori.fi/recommerce/forsale/item/39550314) · Tori · −90 % uushinnasta 98 €; 41 % alle käytettyjen mediaanin 17 €
-- **10 €** [Kannettavan tietokoneen teline](https://www.huuto.net/kohteet/kannettavan-tietokoneen-teline/654060352) · Huuto · −90 % uushinnasta 98 €; 41 % alle käytettyjen mediaanin 17 €; huutokauppa, hinta voi nousta
-- **12 €** [Amazon Basics säädettävä läppäriteline (metalliverkko, musta)](https://www.tori.fi/recommerce/forsale/item/45221497) · Tori · −88 % uushinnasta 98 €; 29 % alle käytettyjen mediaanin 17 €
-- **13 €** [Säädettävä alumiininen läppäriteline 8-16 tuumalle](https://www.tori.fi/recommerce/forsale/item/47693491) · Tori · −87 % uushinnasta 98 €; 24 % alle käytettyjen mediaanin 17 €
-- **14 €** [Moft-kannettavan tietokoneen teline, vaaleanpunainen](https://www.tori.fi/recommerce/forsale/item/49670753) · Tori · −86 % uushinnasta 98 €; 18 % alle käytettyjen mediaanin 17 €
-- **15 €** [Kannettavan teline](https://www.tori.fi/recommerce/forsale/item/50019255) · Tori · −85 % uushinnasta 98 €; 12 % alle käytettyjen mediaanin 17 €
-- **15 €** [Lightweight Foldable Laptop Stand — Nexstand Style](https://www.tori.fi/recommerce/forsale/item/46704929) · Tori · −85 % uushinnasta 98 €; 12 % alle käytettyjen mediaanin 17 €
-- **15 €** [Griffin Elevated Aluminium Laptop Stand](https://www.tori.fi/recommerce/forsale/item/35638678) · Tori · −85 % uushinnasta 98 €; 12 % alle käytettyjen mediaanin 17 €
-- **15 €** [Jysk läppäriteline](https://www.tori.fi/recommerce/forsale/item/46640714) · Tori · −85 % uushinnasta 98 €; 12 % alle käytettyjen mediaanin 17 €
-- **15 €** [A Vittsjö kannettavan tietokoneen teline / sivupöytä, valkoinen](https://www.tori.fi/recommerce/forsale/item/49388760) · Tori · −85 % uushinnasta 98 €; 12 % alle käytettyjen mediaanin 17 €
-- **18 €** [Läppäriteline pähkinäpuuta, pysty](https://www.tori.fi/recommerce/forsale/item/50245110) · Tori · −82 % uushinnasta 98 €; 6 % yli käytettyjen mediaanin 17 €
-- **19 €** [SAMDI:n puinen kannettavan tietokoneen teline](https://www.tori.fi/recommerce/forsale/item/46611958) · Tori · −81 % uushinnasta 98 €; 12 % yli käytettyjen mediaanin 17 €
-- **20 €** [Kannettavan tietokoneen teline 11-13" läppäreille](https://www.tori.fi/recommerce/forsale/item/47052657) · Tori · −80 % uushinnasta 98 €; 18 % yli käytettyjen mediaanin 17 €
-- **24 €** [2-i-1 laptopställ – 3D-printat](https://www.blocket.se/recommerce/forsale/item/25689995) · Blocket 🇸🇪 · −76 % uushinnasta 98 €; 39 % yli käytettyjen mediaanin 17 €; 9 € + ~15 € posti, kysy lähettääkö Suomeen
-- **24 €** [Kensington laptopställ justerbart](https://www.blocket.se/recommerce/forsale/item/22222772) · Blocket 🇸🇪 · −76 % uushinnasta 98 €; 39 % yli käytettyjen mediaanin 17 €; 9 € + ~15 € posti, kysy lähettääkö Suomeen
-- **32 €** [Griffin laptopställ i aluminium (ej dator!)](https://www.blocket.se/recommerce/forsale/item/28146363) · Blocket 🇸🇪 · −67 % uushinnasta 98 €; 91 % yli käytettyjen mediaanin 17 €; 17 € + ~15 € posti, kysy lähettääkö Suomeen
-- **35 €** [Alumiininen kannettavan tietokoneen teline](https://www.tori.fi/recommerce/forsale/item/47821945) · Tori · −64 % uushinnasta 98 €; 106 % yli käytettyjen mediaanin 17 €
-- **35 €** [Neomounts kannettavan tietokoneen teline – kuin uusi](https://www.tori.fi/recommerce/forsale/item/49934061) · Tori · −64 % uushinnasta 98 €; 106 % yli käytettyjen mediaanin 17 €
-- **36 €** [(new price) Rare Laptop Cooler/Stand + USB3-Hub: SilverStone Noble Breeze NB05](https://www.tori.fi/recommerce/forsale/item/49579338) · Tori · −63 % uushinnasta 98 €; 112 % yli käytettyjen mediaanin 17 €
-- **37 €** [Laptopställ grå - Vänsterhänt](https://www.blocket.se/recommerce/forsale/item/25891500) · Blocket 🇸🇪 · −62 % uushinnasta 98 €; 116 % yli käytettyjen mediaanin 17 €; 22 € + ~15 € posti, kysy lähettääkö Suomeen
-- **40 €** [Läppäriteline, pöytäänkiinnitettävä 2 kpl](https://www.tori.fi/recommerce/forsale/item/48362246) · Tori · −59 % uushinnasta 98 €; 135 % yli käytettyjen mediaanin 17 €
-- **40 €** [DailyObjects Arete -kannettavan tietokoneen teline, musta](https://www.tori.fi/recommerce/forsale/item/45793004) · Tori · −59 % uushinnasta 98 €; 135 % yli käytettyjen mediaanin 17 €
-- **40 €** [Laptopställ Plexgear datortillbehör](https://www.blocket.se/recommerce/forsale/item/28373920) · Blocket 🇸🇪 · −59 % uushinnasta 98 €; 136 % yli käytettyjen mediaanin 17 €; 25 € + ~15 € posti, kysy lähettääkö Suomeen
-- **41 €** [Plexgear laptopställ aluminium silver](https://www.blocket.se/recommerce/forsale/item/26945648) · Blocket 🇸🇪 · −58 % uushinnasta 98 €; 142 % yli käytettyjen mediaanin 17 €; 26 € + ~15 € posti, kysy lähettääkö Suomeen
-- **41 €** [Laptopställ i bamboo](https://www.blocket.se/recommerce/forsale/item/23621975) · Blocket 🇸🇪 · −58 % uushinnasta 98 €; 142 % yli käytettyjen mediaanin 17 €; 26 € + ~15 € posti, kysy lähettääkö Suomeen
-- **45 €** [Puinen tyylikäs läppäriteline](https://www.tori.fi/recommerce/forsale/item/44916302) · Tori · −54 % uushinnasta 98 €; 165 % yli käytettyjen mediaanin 17 €
+- **2 €** [Valkoinen metallinen läppäriteline](https://www.tori.fi/recommerce/forsale/item/48932917) · Tori · −98 % uushinnasta 98 €; 88 % alle käytettyjen mediaanin 16 €
+- **3 €** [Ikean musta läppäriteline/-alusta](https://www.tori.fi/recommerce/forsale/item/29008307) · Tori · −97 % uushinnasta 98 €; 81 % alle käytettyjen mediaanin 16 €
+- **3 €** [Pinkki läppäriteline](https://www.tori.fi/recommerce/forsale/item/38820161) · Tori · −97 % uushinnasta 98 €; 81 % alle käytettyjen mediaanin 16 €
+- **3 €** [Läppäriteline](https://www.tori.fi/recommerce/forsale/item/38182211) · Tori · −97 % uushinnasta 98 €; 81 % alle käytettyjen mediaanin 16 €
+- **4 €** [Ergowork Xwork Foldable Stand kannettavan teline](https://www.tori.fi/recommerce/forsale/item/43521366) · Tori · −96 % uushinnasta 98 €; 75 % alle käytettyjen mediaanin 16 €
+- **5 €** [Kannettavan teline](https://www.tori.fi/recommerce/forsale/item/23631612) · Tori · −95 % uushinnasta 98 €; 69 % alle käytettyjen mediaanin 16 €
+- **5 €** [Kannettavan tietokoneen teline](https://www.tori.fi/recommerce/forsale/item/45195456) · Tori · −95 % uushinnasta 98 €; 69 % alle käytettyjen mediaanin 16 €
+- **5 €** [Fellowes läppäriteline](https://www.tori.fi/recommerce/forsale/item/49689657) · Tori · −95 % uushinnasta 98 €; 69 % alle käytettyjen mediaanin 16 €
+- **5 €** [Ikea Läppäriteline](https://www.tori.fi/recommerce/forsale/item/48600229) · Tori · −95 % uushinnasta 98 €; 69 % alle käytettyjen mediaanin 16 €
+- **5 €** [IKEA läppäriteline](https://www.tori.fi/recommerce/forsale/item/42510902) · Tori · −95 % uushinnasta 98 €; 69 % alle käytettyjen mediaanin 16 €
+- **6 €** [Metallinen, kevyt kannettavan  teline](https://www.tori.fi/recommerce/forsale/item/23631809) · Tori · −94 % uushinnasta 98 €; 62 % alle käytettyjen mediaanin 16 €
+- **6 €** [Läppäriteline - notebook stand](https://www.tori.fi/recommerce/forsale/item/41424605) · Tori · −94 % uushinnasta 98 €; 62 % alle käytettyjen mediaanin 16 €
+- **7 €** [Kannettavan teline](https://www.tori.fi/recommerce/forsale/item/44276636) · Tori · −93 % uushinnasta 98 €; 56 % alle käytettyjen mediaanin 16 €
+- **8 €** [Kokoontaitettava laptop-teline/kannettavan teline/laptop stand](https://www.tori.fi/recommerce/forsale/item/49730945) · Tori · −92 % uushinnasta 98 €; 50 % alle käytettyjen mediaanin 16 €
+- **8 €** [Kokoontaitettava laptop-teline/kannettavan teline/laptop stand](https://www.tori.fi/recommerce/forsale/item/49730771) · Tori · −92 % uushinnasta 98 €; 50 % alle käytettyjen mediaanin 16 €
+- **8 €** [Kannettavan tietokoneen teline – taitettava ja säädettävä, valkoinen](https://www.tori.fi/recommerce/forsale/item/49004290) · Tori · −92 % uushinnasta 98 €; 50 % alle käytettyjen mediaanin 16 €
+- **8 €** [Uusi taitettava alumiininen kannettavan tietokoneen teline / Laptop Stand](https://www.tori.fi/recommerce/forsale/item/48151642) · Tori · −92 % uushinnasta 98 €; 50 % alle käytettyjen mediaanin 16 €
+- **10 €** [Adjustable folding laptop stand / kannettavan tietokoneen teline](https://www.tori.fi/recommerce/forsale/item/50303222) · Tori · −90 % uushinnasta 98 €; 38 % alle käytettyjen mediaanin 16 €
+- **10 €** [Saadettava alumiini kannettavan/tabletin/kirjan teline](https://www.tori.fi/recommerce/forsale/item/50082218) · Tori · −90 % uushinnasta 98 €; 38 % alle käytettyjen mediaanin 16 €
+- **10 €** [Läppäriteline vesa-kiinnityksellä](https://www.tori.fi/recommerce/forsale/item/50147808) · Tori · −90 % uushinnasta 98 €; 38 % alle käytettyjen mediaanin 16 €
+- **10 €** [targus kannettavan tietokoneen teline](https://www.tori.fi/recommerce/forsale/item/48923937) · Tori · −90 % uushinnasta 98 €; 38 % alle käytettyjen mediaanin 16 €
+- **10 €** [Kannettavan tietokoneen teline](https://www.tori.fi/recommerce/forsale/item/50343621) · Tori · −90 % uushinnasta 98 €; 38 % alle käytettyjen mediaanin 16 €
+- **10 €** [Ergowork kannettavan tietokoneen teline](https://www.tori.fi/recommerce/forsale/item/39550314) · Tori · −90 % uushinnasta 98 €; 38 % alle käytettyjen mediaanin 16 €
+- **10 €** [Kannettavan tietokoneen teline](https://www.huuto.net/kohteet/kannettavan-tietokoneen-teline/655090769) · Huuto · −90 % uushinnasta 98 €; 38 % alle käytettyjen mediaanin 16 €; huutokauppa, hinta voi nousta
+- **12 €** [Amazon Basics säädettävä läppäriteline (metalliverkko, musta)](https://www.tori.fi/recommerce/forsale/item/45221497) · Tori · −88 % uushinnasta 98 €; 25 % alle käytettyjen mediaanin 16 €
+- **13 €** [Säädettävä alumiininen läppäriteline 8-16 tuumalle](https://www.tori.fi/recommerce/forsale/item/47693491) · Tori · −87 % uushinnasta 98 €; 19 % alle käytettyjen mediaanin 16 €
+- **14 €** [Moft-kannettavan tietokoneen teline, vaaleanpunainen](https://www.tori.fi/recommerce/forsale/item/49670753) · Tori · −86 % uushinnasta 98 €; 12 % alle käytettyjen mediaanin 16 €
+- **15 €** [Kannettavan teline](https://www.tori.fi/recommerce/forsale/item/50019255) · Tori · −85 % uushinnasta 98 €; 6 % alle käytettyjen mediaanin 16 €
+- **15 €** [Lightweight Foldable Laptop Stand — Nexstand Style](https://www.tori.fi/recommerce/forsale/item/46704929) · Tori · −85 % uushinnasta 98 €; 6 % alle käytettyjen mediaanin 16 €
+- **15 €** [Griffin Elevated Aluminium Laptop Stand](https://www.tori.fi/recommerce/forsale/item/35638678) · Tori · −85 % uushinnasta 98 €; 6 % alle käytettyjen mediaanin 16 €
+- **15 €** [Jysk läppäriteline](https://www.tori.fi/recommerce/forsale/item/46640714) · Tori · −85 % uushinnasta 98 €; 6 % alle käytettyjen mediaanin 16 €
+- **15 €** [A Vittsjö kannettavan tietokoneen teline / sivupöytä, valkoinen](https://www.tori.fi/recommerce/forsale/item/49388760) · Tori · −85 % uushinnasta 98 €; 6 % alle käytettyjen mediaanin 16 €
+- **18 €** [Läppäriteline pähkinäpuuta, pysty](https://www.tori.fi/recommerce/forsale/item/50245110) · Tori · −82 % uushinnasta 98 €; 12 % yli käytettyjen mediaanin 16 €
+- **19 €** [SAMDI:n puinen kannettavan tietokoneen teline](https://www.tori.fi/recommerce/forsale/item/46611958) · Tori · −81 % uushinnasta 98 €; 19 % yli käytettyjen mediaanin 16 €
+- **20 €** [Kannettavan tietokoneen teline 11-13" läppäreille](https://www.tori.fi/recommerce/forsale/item/47052657) · Tori · −80 % uushinnasta 98 €; 25 % yli käytettyjen mediaanin 16 €
+- **24 €** [2-i-1 laptopställ – 3D-printat](https://www.blocket.se/recommerce/forsale/item/25689995) · Blocket 🇸🇪 · −76 % uushinnasta 98 €; 48 % yli käytettyjen mediaanin 16 €; 9 € + ~15 € posti, kysy lähettääkö Suomeen
+- **24 €** [Kensington laptopställ justerbart](https://www.blocket.se/recommerce/forsale/item/22222772) · Blocket 🇸🇪 · −76 % uushinnasta 98 €; 48 % yli käytettyjen mediaanin 16 €; 9 € + ~15 € posti, kysy lähettääkö Suomeen
+- **32 €** [Griffin laptopställ i aluminium (ej dator!)](https://www.blocket.se/recommerce/forsale/item/28146363) · Blocket 🇸🇪 · −67 % uushinnasta 98 €; 102 % yli käytettyjen mediaanin 16 €; 17 € + ~15 € posti, kysy lähettääkö Suomeen
+- **35 €** [Alumiininen kannettavan tietokoneen teline](https://www.tori.fi/recommerce/forsale/item/47821945) · Tori · −64 % uushinnasta 98 €; 119 % yli käytettyjen mediaanin 16 €
+- **35 €** [Neomounts kannettavan tietokoneen teline – kuin uusi](https://www.tori.fi/recommerce/forsale/item/49934061) · Tori · −64 % uushinnasta 98 €; 119 % yli käytettyjen mediaanin 16 €
+- **36 €** [(new price) Rare Laptop Cooler/Stand + USB3-Hub: SilverStone Noble Breeze NB05](https://www.tori.fi/recommerce/forsale/item/49579338) · Tori · −63 % uushinnasta 98 €; 125 % yli käytettyjen mediaanin 16 €
+- **37 €** [Laptopställ grå - Vänsterhänt](https://www.blocket.se/recommerce/forsale/item/25891500) · Blocket 🇸🇪 · −62 % uushinnasta 98 €; 130 % yli käytettyjen mediaanin 16 €; 22 € + ~15 € posti, kysy lähettääkö Suomeen
+- **40 €** [Läppäriteline, pöytäänkiinnitettävä 2 kpl](https://www.tori.fi/recommerce/forsale/item/48362246) · Tori · −59 % uushinnasta 98 €; 150 % yli käytettyjen mediaanin 16 €
+- **40 €** [DailyObjects Arete -kannettavan tietokoneen teline, musta](https://www.tori.fi/recommerce/forsale/item/45793004) · Tori · −59 % uushinnasta 98 €; 150 % yli käytettyjen mediaanin 16 €
+- **40 €** [Laptopställ Plexgear datortillbehör](https://www.blocket.se/recommerce/forsale/item/28373920) · Blocket 🇸🇪 · −59 % uushinnasta 98 €; 150 % yli käytettyjen mediaanin 16 €; 25 € + ~15 € posti, kysy lähettääkö Suomeen
+- **41 €** [Plexgear laptopställ aluminium silver](https://www.blocket.se/recommerce/forsale/item/26945648) · Blocket 🇸🇪 · −58 % uushinnasta 98 €; 157 % yli käytettyjen mediaanin 16 €; 26 € + ~15 € posti, kysy lähettääkö Suomeen
+- **41 €** [Laptopställ i bamboo](https://www.blocket.se/recommerce/forsale/item/23621975) · Blocket 🇸🇪 · −58 % uushinnasta 98 €; 157 % yli käytettyjen mediaanin 16 €; 26 € + ~15 € posti, kysy lähettääkö Suomeen
 
 ## Näyttövarsi yhdelle näytölle
 
