@@ -1,5 +1,5 @@
 {
- "generated": 1795391779,
+ "generated": 1795421474,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -717,6 +717,14 @@
     "image": "https://img.tori.net/dynamic/default/item/49335886/dcb99d20-18bf-4165-ab1b-5cd365f2b3c9"
    },
    {
+    "id": "tori-50305273",
+    "source": "tori",
+    "title": "Martela näytön pöytään kiinnitettevä varsi, kaasujousella",
+    "price": 45.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/50305273",
+    "image": "https://img.tori.net/dynamic/default/item/50305273/e19be081-a275-4b18-80d0-3ddba5caeed6"
+   },
+   {
     "id": "tori-47948520",
     "source": "tori",
     "title": "Säädettävä näytön varsi 24\"- 27\" näytölle",
@@ -891,6 +899,14 @@
     "price": 106.35,
     "url": "https://www.blocket.se/recommerce/forsale/item/27532923",
     "image": "https://images.blocketcdn.se/dynamic/default/item/27532923/e26a111a-f2d2-4c63-b4c1-b7f876728423"
+   },
+   {
+    "id": "tori-49817135",
+    "source": "tori",
+    "title": "Näyttövarsi OmniARM PRO kaasujousella, näytöille 2–12 kg, max 40\"",
+    "price": 119.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/49817135",
+    "image": "https://img.tori.net/dynamic/default/item/49817135/2f9efc0b-7e4f-48aa-b3c5-e2090f5d7e11"
    },
    {
     "id": "blocket-26849000",
