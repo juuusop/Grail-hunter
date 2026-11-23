@@ -2,17 +2,17 @@
 
 1458 löytöä (data/finds.json). Heuristiikka: risk.py.
 
-- korkea feikkiriski: **10%**, keskitaso: 22%
+- korkea feikkiriski: **11%**, keskitaso: 22%
 - kulunut/huono kunto: **21%**, kunto ei tiedossa: 30%
 
 ## Alustoittain
 
 | alusta | n | feikki korkea | keski | kulunut/huono | kunto ? |
 |---|---|---|---|---|---|
-| sellpy.fi | 834 | 0% | 13% | 35% | 0% |
+| sellpy.fi | 833 | 0% | 14% | 34% | 0% |
 | tradera.com | 227 | 5% | 34% | 0% | 100% |
+| tori.fi | 135 | 34% | 35% | 0% | 100% |
 | marktplaats.nl | 135 | 43% | 35% | 7% | 5% |
-| tori.fi | 134 | 34% | 35% | 0% | 100% |
 | 2dehands.be | 74 | 22% | 30% | 8% | 16% |
 | blocket.se | 21 | 62% | 38% | 0% | 100% |
 | finn.no | 17 | 12% | 24% | 0% | 100% |
@@ -23,14 +23,14 @@
 
 | kategoria | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
-| muu | 394 | 28% | 18% |
-| takki | 290 | 33% | 23% |
-| kengät | 281 | 61% | 22% |
-| neule | 128 | 12% | 16% |
-| housut | 127 | 9% | 20% |
-| laukku | 62 | 53% | 6% |
-| t-paita | 51 | 20% | 37% |
-| huppari | 50 | 26% | 34% |
+| muu | 397 | 28% | 19% |
+| takki | 286 | 34% | 22% |
+| kengät | 279 | 62% | 22% |
+| neule | 131 | 12% | 15% |
+| housut | 125 | 9% | 21% |
+| laukku | 63 | 54% | 6% |
+| t-paita | 53 | 23% | 40% |
+| huppari | 49 | 27% | 33% |
 | kauluspaita | 46 | 0% | 28% |
 | asuste | 24 | 38% | 17% |
 | nahkatakki | 3 | 67% | 0% |
@@ -40,6 +40,7 @@
 
 | brändi | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
+| Supreme | 5 | 100% | 40% |
 | Goyard | 13 | 100% | 0% |
 | Givenchy | 10 | 100% | 30% |
 | Miu Miu | 11 | 100% | 9% |
@@ -50,7 +51,6 @@
 | Loro Piana | 47 | 100% | 2% |
 | Hermès | 6 | 100% | 17% |
 | Brunello Cucinelli | 9 | 100% | 11% |
-| Supreme | 3 | 100% | 0% |
 | Bottega Veneta | 8 | 100% | 0% |
 | Valentino | 33 | 97% | 12% |
 | Canada Goose | 55 | 96% | 0% |
@@ -59,7 +59,7 @@
 | Alexander McQueen | 15 | 93% | 7% |
 | Rick Owens | 13 | 92% | 8% |
 | Celine | 12 | 92% | 8% |
-| Moncler | 33 | 85% | 18% |
+| Moncler | 36 | 83% | 17% |
 | Maison Margiela | 23 | 78% | 13% |
 | Louis Vuitton | 17 | 76% | 18% |
 | Dolce & Gabbana | 4 | 75% | 50% |
