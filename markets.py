@@ -20,6 +20,7 @@ from dataclasses import dataclass, field
 import requests
 
 import markets_eu as EU
+import risk as R
 import sniper as S
 
 STATE = S.DATA / "markets_state.json"
@@ -78,10 +79,20 @@ class TextBrandFinder:
                     pairs.append((n, b))
         self.pairs = sorted(pairs, key=lambda p: -len(p[0]))
 
+    # "Alden & Ash", "X and Y": a brand name glued to another word with &/and is a different company
+    # (longer aliases such as "Crockett & Jones" are tried first, so real compound brands still match).
+    COMPOUND = re.compile(r"^\s*(?:&|and)\s+[a-z0-9]")
+    COMPOUND_BEFORE = re.compile(r"[a-z0-9]\s*(?:&|\band)\s*$")
+
     def find(self, text: str) -> S.Brand | None:
         t = S.norm(text)
         for n, b in self.pairs:
-            if S.has_word(t, n):
+            if n not in t:
+                continue
+            rx = S._word_re(n)[0]
+            for m in rx.finditer(t):
+                if self.COMPOUND.match(t[m.end():]) or self.COMPOUND_BEFORE.search(t[:m.start()]):
+                    continue
                 return b
         return None
 
@@ -309,6 +320,9 @@ def run(cfg: dict):
             continue
         t = S.norm(L.title + " " + L.text)
         if any(x in t for x in block):
+            continue
+        # faux leather on a heavily faked luxury brand (Goyard "tekonahkainen laukku") = fake or a cheap licence line
+        if S.norm(b.name) in fake_risk and R.FAUX.search(t):
             continue
         if L.source in P2P:
             if any(S.has_word(t, w) for w in JUNK):

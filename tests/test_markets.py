@@ -36,3 +36,20 @@ def test_tori_jsonld(monkeypatch):
     monkeypatch.setattr(M.time, "sleep", lambda *_: None)
     got = M.tori({}, ["rick owens"], 1)
     assert got[0].id == "tori-42" and got[0].price == 20.0
+
+
+def test_compound_and_namesake_brands_do_not_match():
+    f = M.TextBrandFinder(S.load_brands())
+    assert f.find("Alden & Ash suède loafers") is None
+    assert f.find("Ash and Alden boots") is None
+    assert f.find("Alden Shoes Jumper Boot cordovan 43").name == "Alden"
+    cj = f.find("Crockett & Jones Barnwell stövlar")
+    assert cj and cj.name == "Crockett & Jones"
+
+
+def test_faux_leather_regex():
+    import risk as R
+    assert R.FAUX.search(S.norm("Goyard tekonahkainen laukku vihreä"))
+    assert R.FAUX.search(S.norm("Goyard tote faux leather"))
+    assert R.FAUX.search(S.norm("Goyard tas kunstleer"))
+    assert not R.FAUX.search(S.norm("Goyard St Louis PM canvas, nahkaiset kahvat"))

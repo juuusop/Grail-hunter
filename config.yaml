@@ -172,7 +172,9 @@ markets:
               A Bathing Ape, Supreme, Off-White, Fear of God, Rick Owens, Maison Margiela, Burberry, Versace, Givenchy,
               Valentino, Alexander McQueen, Vivienne Westwood, Enfants Riches Déprimés, Arc'teryx]
   # samannimiset muut merkit / väärät osumat vapaatekstissä
-  text_block: [eagle creek, globe hope, piero guidi, laura guidi, 45rpm, 45 rpm, coco chanel, hope solo]
+  text_block: [eagle creek, globe hope, piero guidi, laura guidi, 45rpm, 45 rpm, coco chanel, hope solo,
+               alden biesen, alden brook, timberland alden, de la renta alden, mario valentino, valentino bags,
+               millie mackintosh, rennie mackintosh, mackintosh stijl, mackintosh style, danatex]
 
 # Feikki- ja kuntoriski (risk.py). Pisteet 0-100 = brändin pohja × kategoria × alusta × hinta × teksti.
 # korkea >= 45, keski >= 20. Kova lista = markets.fake_risk + tier_high + markets_eu.FAKE_RISK_EXTRA.

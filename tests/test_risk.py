@@ -40,3 +40,10 @@ def test_condition_flag():
     assert R.condition("Hyväksyttävä", "kengät")[0] == "kulunut"
     assert R.condition("Erittäin hyvä")[0] == "ok"
     assert R.condition("-")[0] == "?"
+
+
+def test_faux_leather_on_faked_brand_is_high_risk():
+    r = R.assess("Goyard", "laukku", 59, 342, "Goyard tekonahkainen laukku vihreä unisex", source="tori")
+    assert r["fake_level"] == "korkea" and any("tekonahka" in w for w in r["why"])
+    plain = R.assess("Our Legacy", "takki", 59, 300, "Our Legacy tekonahkatakki", source="tori")
+    assert not any("tekonahka" in w for w in plain["why"])
