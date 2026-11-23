@@ -1,5 +1,5 @@
 {
- "generated": 1794833088,
+ "generated": 1795444654,
  "brands_hash": "4d89cd1352ca",
  "index": "prod_marketItem_fi_saleStartedAt_desc",
  "brand_attr": "metadata.brand",
@@ -11,7 +11,7 @@
    ],
    "count": 5,
    "p25": 3.5,
-   "median": 4.0
+   "median": 3.5
   },
   "Guidi": {
    "values": [
@@ -26,8 +26,8 @@
     "by Boris Bidjan Saberi"
    ],
    "count": 7,
-   "p25": 64.12,
-   "median": 103.25
+   "p25": 61.88,
+   "median": 101.25
   },
   "Rick Owens": {
    "values": [
@@ -36,9 +36,9 @@
     "Rick Owens Lilies",
     "Rickowenslilies"
    ],
-   "count": 116,
-   "p25": 126.25,
-   "median": 154.25
+   "count": 125,
+   "p25": 125.5,
+   "median": 153.0
   },
   "Maison Margiela": {
    "values": [
@@ -48,25 +48,25 @@
     "Maison Martin Margiela x H&M",
     "Martin Margiela"
    ],
-   "count": 276,
-   "p25": 79.88,
-   "median": 120.75
+   "count": 284,
+   "p25": 89.0,
+   "median": 125.0
   },
   "MM6 Maison Margiela": {
    "values": [
     "MM6 Maison Margiela x Salomon"
    ],
-   "count": 3,
-   "p25": 139.5,
-   "median": 155.0
+   "count": 4,
+   "p25": 134.5,
+   "median": 170.75
   },
   "Raf Simons": {
    "values": [
     "Raf Simons"
    ],
-   "count": 26,
-   "p25": 101.0,
-   "median": 118.0
+   "count": 25,
+   "p25": 97.0,
+   "median": 116.5
   },
   "RAF by Raf Simons": {
    "values": [
@@ -80,9 +80,9 @@
    "values": [
     "Helmut Lang"
    ],
-   "count": 550,
-   "p25": 47.38,
-   "median": 70.75
+   "count": 542,
+   "p25": 50.0,
+   "median": 70.0
   },
   "Number (N)ine": {
    "values": [
@@ -91,25 +91,25 @@
    ],
    "count": 10,
    "p25": 12.0,
-   "median": 13.5
+   "median": 12.0
   },
   "Undercover": {
    "values": [
     "Undercover"
    ],
-   "count": 36,
-   "p25": 16.38,
-   "median": 30.25
+   "count": 41,
+   "p25": 14.5,
+   "median": 29.0
   },
   "Yohji Yamamoto": {
    "values": [
-    "Y's for Men",
     "Yohji Yamamoto",
-    "Yohji Yamamoto Pour Homme"
+    "Yohji Yamamoto Pour Homme",
+    "Ys"
    ],
-   "count": 26,
-   "p25": 106.0,
-   "median": 135.0
+   "count": 46,
+   "p25": 18.0,
+   "median": 78.0
   },
   "Y-3": {
    "values": [
@@ -117,9 +117,17 @@
     "Y-3 Yohji Yamamoto",
     "Y-3 Yohji Yamamoto x Adidas"
    ],
-   "count": 302,
-   "p25": 36.0,
+   "count": 315,
+   "p25": 35.0,
    "median": 53.5
+  },
+  "Comme des Garçons Homme Plus": {
+   "values": [
+    "Comme des Garcons Homme Plus"
+   ],
+   "count": 1,
+   "p25": 63.0,
+   "median": 63.0
   },
   "Comme des Garçons Homme": {
    "values": [
@@ -127,9 +135,9 @@
     "Comme des Garçons Homme Deux",
     "Comme des Garçons Homme x Porter Yoshida"
    ],
-   "count": 18,
-   "p25": 90.0,
-   "median": 136.0
+   "count": 17,
+   "p25": 79.12,
+   "median": 133.5
   },
   "Comme des Garçons": {
    "values": [
@@ -144,18 +152,18 @@
     "Comme des Garçons x Nike",
     "Comme des Garçons x Spalwart"
    ],
-   "count": 202,
-   "p25": 46.75,
-   "median": 83.0
+   "count": 195,
+   "p25": 46.0,
+   "median": 84.5
   },
   "Comme des Garçons Play": {
    "values": [
     "Comme des Garçons PLAY",
     "Comme des Garçons PLAY x Converse"
    ],
-   "count": 686,
-   "p25": 41.0,
-   "median": 57.5
+   "count": 708,
+   "p25": 40.0,
+   "median": 55.0
   },
   "Junya Watanabe": {
    "values": [
@@ -163,76 +171,76 @@
     "Junya Watanabe Man",
     "Junya Watanabe x Comme des Garçons"
    ],
-   "count": 19,
-   "p25": 101.88,
-   "median": 152.0
+   "count": 20,
+   "p25": 106.0,
+   "median": 159.0
   },
   "Issey Miyake": {
    "values": [
     "Issey Miyake",
     "Issey Miyake x UN"
    ],
-   "count": 94,
-   "p25": 44.38,
-   "median": 71.0
+   "count": 93,
+   "p25": 43.0,
+   "median": 78.0
   },
   "Homme Plissé Issey Miyake": {
    "values": [
     "Homme Plisse Issey Miyake"
    ],
-   "count": 5,
-   "p25": 81.25,
-   "median": 98.5
+   "count": 4,
+   "p25": 117.75,
+   "median": 126.5
   },
   "Pleats Please": {
    "values": [
     "Pleats Please",
     "Pleats Please Issey Miyake"
    ],
-   "count": 26,
-   "p25": 96.0,
-   "median": 110.0
+   "count": 22,
+   "p25": 102.0,
+   "median": 121.0
   },
   "Ann Demeulemeester": {
    "values": [
     "Ann Demeulemeester"
    ],
    "count": 43,
-   "p25": 127.25,
-   "median": 157.75
+   "p25": 123.5,
+   "median": 155.75
   },
   "Haider Ackermann": {
    "values": [
     "Haider Ackermann"
    ],
-   "count": 14,
-   "p25": 92.88,
-   "median": 107.0
+   "count": 16,
+   "p25": 90.75,
+   "median": 108.0
   },
   "A.F. Vandevorst": {
    "values": [
     "A.F Vandevorst"
    ],
-   "count": 22,
-   "p25": 51.25,
-   "median": 81.0
+   "count": 25,
+   "p25": 54.5,
+   "median": 77.5
   },
   "Walter Van Beirendonck": {
    "values": [
     "Walter Van Beirendonck"
    ],
-   "count": 4,
-   "p25": 87.5,
-   "median": 104.0
+   "count": 5,
+   "p25": 81.5,
+   "median": 93.0
   },
   "Dirk Bikkembergs": {
    "values": [
     "Bikkembergs",
     "Dirk Bikkembergs"
    ],
-   "count": 231,
-   "p25": 6.0,
-   "median": 15.0
+   "count": 238,
+   "p25": 6.5,
+   "median": 16.0
   },
   "Hussein Chalayan": {
    "values": [
@@ -240,8 +248,8 @@
     "Hussein Chalayan"
    ],
    "count": 5,
-   "p25": 51.0,
-   "median": 63.0
+   "p25": 45.5,
+   "median": 59.5
   },
   "Jean Paul Gaultier": {
    "values": [
@@ -251,17 +259,17 @@
     "Jean Paul Gaultier x Y/Project",
     "Junior Gaultier"
    ],
-   "count": 358,
-   "p25": 51.25,
-   "median": 103.75
+   "count": 364,
+   "p25": 49.5,
+   "median": 101.5
   },
   "Deepti": {
    "values": [
     "Deepti S.C.",
     "Deepti S.L."
    ],
-   "count": 72,
-   "p25": 7.75,
+   "count": 71,
+   "p25": 7.5,
    "median": 19.0
   },
   "Cortana": {
@@ -269,56 +277,56 @@
     "cortana"
    ],
    "count": 4,
-   "p25": 30.25,
-   "median": 50.0
+   "p25": 28.5,
+   "median": 48.5
   },
   "Carpe Diem": {
    "values": [
     "Carpe Diem"
    ],
-   "count": 22,
+   "count": 21,
    "p25": 3.5,
-   "median": 4.0
+   "median": 5.0
   },
   "Enfants Riches Déprimés": {
    "values": [
     "Enfants Riches Déprimés"
    ],
-   "count": 10,
-   "p25": 342.0,
-   "median": 550.5
+   "count": 12,
+   "p25": 429.62,
+   "median": 545.25
   },
   "Chrome Hearts": {
    "values": [
     "Chrome Hearts"
    ],
-   "count": 15,
-   "p25": 493.62,
-   "median": 687.75
+   "count": 17,
+   "p25": 480.5,
+   "median": 653.75
   },
   "Kapital": {
    "values": [
     "Kapital"
    ],
-   "count": 14,
-   "p25": 82.5,
-   "median": 113.0
+   "count": 13,
+   "p25": 88.0,
+   "median": 118.25
   },
   "Visvim": {
    "values": [
     "Visvim"
    ],
-   "count": 5,
-   "p25": 53.25,
-   "median": 81.25
+   "count": 4,
+   "p25": 76.0,
+   "median": 95.25
   },
   "Hysteric Glamour": {
    "values": [
     "Hysteric Glamour"
    ],
-   "count": 18,
-   "p25": 16.0,
-   "median": 74.0
+   "count": 17,
+   "p25": 20.62,
+   "median": 65.75
   },
   "45R": {
    "values": [
@@ -326,32 +334,32 @@
     "45R"
    ],
    "count": 6,
-   "p25": 6.38,
-   "median": 7.75
+   "p25": 5.75,
+   "median": 7.0
   },
   "Uma Wang": {
    "values": [
     "Uma Wang"
    ],
    "count": 2,
-   "p25": 117.12,
-   "median": 132.75
+   "p25": 109.38,
+   "median": 121.25
   },
   "Marsèll": {
    "values": [
     "Marsèll"
    ],
-   "count": 10,
-   "p25": 33.0,
-   "median": 60.0
+   "count": 9,
+   "p25": 29.0,
+   "median": 55.0
   },
   "Officine Creative": {
    "values": [
     "Officine Creative"
    ],
-   "count": 84,
-   "p25": 75.88,
-   "median": 117.75
+   "count": 85,
+   "p25": 71.5,
+   "median": 113.0
   },
   "Rundholz": {
    "values": [
@@ -359,26 +367,26 @@
     "Rundholz BLACK LABEL",
     "Rundholz Dip"
    ],
-   "count": 110,
-   "p25": 62.25,
-   "median": 98.5
+   "count": 106,
+   "p25": 59.25,
+   "median": 96.75
   },
   "Damir Doma": {
    "values": [
     "Damir Doma"
    ],
-   "count": 8,
-   "p25": 35.62,
-   "median": 40.5
+   "count": 7,
+   "p25": 35.12,
+   "median": 38.5
   },
   "Kris Van Assche": {
    "values": [
     "Kris Van Assche",
     "Krisvanassche"
    ],
-   "count": 8,
-   "p25": 29.5,
-   "median": 42.0
+   "count": 7,
+   "p25": 25.5,
+   "median": 45.5
   },
   "Bernhard Willhelm": {
    "values": [
@@ -392,18 +400,18 @@
    "values": [
     "Veronique Branquinho"
    ],
-   "count": 10,
-   "p25": 34.5,
-   "median": 46.0
+   "count": 12,
+   "p25": 25.0,
+   "median": 39.0
   },
   "Craig Green": {
    "values": [
     "Craig Green",
     "Craig Green x Björn Borg"
    ],
-   "count": 4,
-   "p25": 4.38,
-   "median": 83.75
+   "count": 5,
+   "p25": 4.5,
+   "median": 23.0
   },
   "Vivienne Westwood": {
    "values": [
@@ -413,107 +421,107 @@
     "Vivienne Westwood x Red Label",
     "Vivienne Westwood x Wolford"
    ],
-   "count": 248,
-   "p25": 80.12,
-   "median": 115.5
+   "count": 254,
+   "p25": 78.0,
+   "median": 112.25
   },
   "Hermès": {
    "values": [
     "Hermes Paris",
     "Hermès"
    ],
-   "count": 450,
-   "p25": 99.62,
-   "median": 145.0
+   "count": 440,
+   "p25": 101.0,
+   "median": 139.5
   },
   "Louis Vuitton": {
    "values": [
     "Louis Vuitton"
    ],
-   "count": 787,
-   "p25": 152.75,
-   "median": 194.5
+   "count": 815,
+   "p25": 148.5,
+   "median": 190.5
   },
   "Bottega Veneta": {
    "values": [
     "Bottega Veneta"
    ],
    "count": 318,
-   "p25": 114.88,
-   "median": 156.0
+   "p25": 113.5,
+   "median": 150.0
   },
   "Celine": {
    "values": [
-    "Céline"
+    "Celine"
    ],
-   "count": 658,
-   "p25": 115.75,
-   "median": 156.0
+   "count": 684,
+   "p25": 115.0,
+   "median": 158.5
   },
   "Dior Homme": {
    "values": [
     "Dior Homme"
    ],
-   "count": 35,
-   "p25": 83.0,
+   "count": 33,
+   "p25": 80.0,
    "median": 106.0
   },
   "Dior": {
    "values": [
     "Christian Dior",
-    "DIOR x Peter Doig",
     "Dior"
    ],
-   "count": 1080,
-   "p25": 81.75,
-   "median": 142.0
+   "count": 1092,
+   "p25": 80.75,
+   "median": 145.0
   },
   "Saint Laurent": {
    "values": [
     "Saint Laurent",
     "YSL"
    ],
-   "count": 667,
-   "p25": 111.5,
-   "median": 155.75
+   "count": 657,
+   "p25": 108.5,
+   "median": 153.0
   },
   "Yves Saint Laurent": {
    "values": [
     "Yves Saint Laurent"
    ],
-   "count": 813,
-   "p25": 61.62,
-   "median": 100.0
+   "count": 856,
+   "p25": 62.0,
+   "median": 98.5
   },
   "Prada": {
    "values": [
     "Prada",
     "Prada Linea Rossa"
    ],
-   "count": 3162,
-   "p25": 100.0,
-   "median": 161.5
+   "count": 3255,
+   "p25": 125.0,
+   "median": 171.0
   },
   "Miu Miu": {
    "values": [
     "Miu Miu",
     "Miu Miu x New Balance"
    ],
-   "count": 820,
-   "p25": 100.5,
-   "median": 144.0
+   "count": 840,
+   "p25": 106.0,
+   "median": 151.0
   },
   "Fendi": {
    "values": [
     "Fendi",
+    "Fendi x Karl Lagerfeld",
     "Fendi x Marc Jacobs",
     "Fendi x Skims",
     "Fendi x Versace",
     "Fendissime"
    ],
-   "count": 487,
-   "p25": 89.25,
-   "median": 140.25
+   "count": 497,
+   "p25": 87.0,
+   "median": 141.25
   },
   "Balenciaga": {
    "values": [
@@ -521,9 +529,9 @@
     "Balenciaga x Adidas",
     "Balenciaga x Crocs"
    ],
-   "count": 889,
-   "p25": 114.75,
-   "median": 159.5
+   "count": 905,
+   "p25": 114.0,
+   "median": 159.0
   },
   "Loewe": {
    "values": [
@@ -532,9 +540,9 @@
     "Loewe x Paula's Ibiza",
     "Loewe x Uniqlo"
    ],
-   "count": 194,
-   "p25": 114.0,
-   "median": 161.0
+   "count": 200,
+   "p25": 116.0,
+   "median": 160.0
   },
   "Gucci": {
    "values": [
@@ -542,59 +550,59 @@
     "Gucci x MLB",
     "Gucci x New York Yankees"
    ],
-   "count": 2948,
-   "p25": 107.0,
-   "median": 165.0
+   "count": 3016,
+   "p25": 98.5,
+   "median": 155.0
   },
   "Tom Ford": {
    "values": [
     "Tom Ford"
    ],
-   "count": 580,
-   "p25": 79.5,
-   "median": 128.0
+   "count": 583,
+   "p25": 77.5,
+   "median": 121.75
   },
   "Alexander McQueen": {
    "values": [
     "Alexander McQueen"
    ],
-   "count": 517,
-   "p25": 72.75,
-   "median": 124.5
+   "count": 523,
+   "p25": 71.5,
+   "median": 123.0
   },
   "Burberry Prorsum": {
    "values": [
     "Burberry Prorsum"
    ],
    "count": 5,
-   "p25": 18.0,
-   "median": 73.0
+   "p25": 14.0,
+   "median": 64.0
   },
   "Jil Sander": {
    "values": [
     "Jil Sander",
     "Jil Sander x Birkenstock"
    ],
-   "count": 1180,
-   "p25": 63.25,
-   "median": 109.0
+   "count": 1202,
+   "p25": 61.75,
+   "median": 108.0
   },
   "Lemaire": {
    "values": [
     "Christophe Lemaire",
     "Lemaire"
    ],
-   "count": 65,
-   "p25": 84.5,
-   "median": 125.0
+   "count": 61,
+   "p25": 85.0,
+   "median": 123.0
   },
   "Dries Van Noten": {
    "values": [
     "Dries van Noten"
    ],
-   "count": 421,
-   "p25": 79.0,
-   "median": 119.0
+   "count": 428,
+   "p25": 83.0,
+   "median": 120.0
   },
   "Marni": {
    "values": [
@@ -602,9 +610,9 @@
     "Marni x Bruno B Bonetto",
     "Marni x Uniqlo"
    ],
-   "count": 904,
-   "p25": 42.88,
-   "median": 68.0
+   "count": 934,
+   "p25": 41.75,
+   "median": 68.75
   },
   "Lanvin": {
    "values": [
@@ -613,81 +621,81 @@
     "Lanvin x Gallery Dept",
     "Lanvin x H&M"
    ],
-   "count": 618,
-   "p25": 40.0,
-   "median": 83.0
+   "count": 620,
+   "p25": 38.0,
+   "median": 81.0
   },
   "The Row": {
    "values": [
     "The Row"
    ],
-   "count": 84,
-   "p25": 121.62,
-   "median": 164.75
+   "count": 82,
+   "p25": 118.25,
+   "median": 159.0
   },
   "Khaite": {
    "values": [
     "Khaite"
    ],
-   "count": 78,
-   "p25": 121.5,
-   "median": 178.0
+   "count": 87,
+   "p25": 133.62,
+   "median": 184.25
   },
   "Totême": {
    "values": [
     "Totême"
    ],
-   "count": 2822,
-   "p25": 77.0,
-   "median": 142.5
+   "count": 2893,
+   "p25": 76.0,
+   "median": 135.0
   },
   "Chloé": {
    "values": [
     "Chloé"
    ],
-   "count": 1259,
-   "p25": 65.62,
-   "median": 128.0
+   "count": 1325,
+   "p25": 57.0,
+   "median": 117.0
   },
   "Loro Piana": {
    "values": [
     "Loro Piana"
    ],
-   "count": 203,
-   "p25": 109.25,
-   "median": 155.0
+   "count": 222,
+   "p25": 107.75,
+   "median": 148.25
   },
   "Brunello Cucinelli": {
    "values": [
     "Brunello Cucinelli"
    ],
-   "count": 513,
-   "p25": 78.0,
-   "median": 118.75
+   "count": 532,
+   "p25": 82.5,
+   "median": 130.0
   },
   "Kiton": {
    "values": [
     "Kiton"
    ],
-   "count": 82,
-   "p25": 79.0,
-   "median": 130.0
+   "count": 79,
+   "p25": 79.5,
+   "median": 121.0
   },
   "Isaia": {
    "values": [
     "Isaia"
    ],
-   "count": 16,
-   "p25": 23.0,
+   "count": 19,
+   "p25": 24.0,
    "median": 64.0
   },
   "Agnona": {
    "values": [
     "Agnona"
    ],
-   "count": 56,
-   "p25": 46.25,
-   "median": 72.5
+   "count": 61,
+   "p25": 51.5,
+   "median": 74.0
   },
   "Ermenegildo Zegna": {
    "values": [
@@ -695,75 +703,75 @@
     "Zegna",
     "Zegna Sport"
    ],
-   "count": 592,
-   "p25": 41.0,
-   "median": 67.25
+   "count": 616,
+   "p25": 43.0,
+   "median": 67.5
   },
   "Massimo Alba": {
    "values": [
     "Massimo Alba"
    ],
-   "count": 41,
-   "p25": 23.25,
-   "median": 46.0
+   "count": 46,
+   "p25": 26.0,
+   "median": 47.0
   },
   "Barena Venezia": {
    "values": [
     "Barena",
     "Barena Venezia"
    ],
-   "count": 222,
-   "p25": 34.88,
+   "count": 225,
+   "p25": 35.0,
    "median": 54.0
   },
   "Aspesi": {
    "values": [
     "Aspesi"
    ],
-   "count": 624,
-   "p25": 30.0,
-   "median": 60.0
+   "count": 653,
+   "p25": 32.0,
+   "median": 63.5
   },
   "Herno": {
    "values": [
     "Herno"
    ],
-   "count": 173,
-   "p25": 94.0,
-   "median": 137.0
+   "count": 182,
+   "p25": 96.0,
+   "median": 132.5
   },
   "Colombo": {
    "values": [
     "Colombo"
    ],
-   "count": 20,
-   "p25": 12.0,
-   "median": 41.0
+   "count": 25,
+   "p25": 11.0,
+   "median": 26.0
   },
   "Double RL": {
    "values": [
     "Double RL by Ralph Lauren"
    ],
-   "count": 15,
-   "p25": 111.5,
-   "median": 137.25
+   "count": 16,
+   "p25": 109.0,
+   "median": 135.0
   },
   "Geoffrey Beene": {
    "values": [
     "Geoffrey Beene",
     "Geoffrey Beene Sport"
    ],
-   "count": 39,
+   "count": 38,
    "p25": 3.5,
-   "median": 4.5
+   "median": 5.5
   },
   "Gianfranco Ferré": {
    "values": [
     "Gianfranco Ferré"
    ],
-   "count": 265,
-   "p25": 16.5,
-   "median": 30.0
+   "count": 270,
+   "p25": 16.0,
+   "median": 29.5
   },
   "Versace": {
    "values": [
@@ -771,9 +779,9 @@
     "Versace",
     "Versace Sport"
    ],
-   "count": 764,
-   "p25": 45.0,
-   "median": 81.0
+   "count": 770,
+   "p25": 47.0,
+   "median": 86.0
   },
   "Dolce & Gabbana": {
    "values": [
@@ -782,17 +790,17 @@
     "Dolce & Gabbana x Khaled Khaled",
     "Dolce & Gabbana x Skims"
    ],
-   "count": 3383,
-   "p25": 58.75,
-   "median": 102.5
+   "count": 3456,
+   "p25": 66.0,
+   "median": 113.0
   },
   "Moschino": {
    "values": [
     "Moschino"
    ],
-   "count": 428,
-   "p25": 30.75,
-   "median": 55.5
+   "count": 442,
+   "p25": 30.38,
+   "median": 55.25
   },
   "Dsquared2": {
    "values": [
@@ -800,9 +808,9 @@
     "Dsquared2",
     "Dsquared2 x Smiley"
    ],
-   "count": 3019,
-   "p25": 55.5,
-   "median": 94.0
+   "count": 3032,
+   "p25": 50.0,
+   "median": 82.0
   },
   "Kenzo": {
    "values": [
@@ -811,35 +819,36 @@
     "Kenzo x H&M",
     "Kenzo x Vans"
    ],
-   "count": 2832,
-   "p25": 36.0,
-   "median": 55.0
+   "count": 2871,
+   "p25": 29.0,
+   "median": 50.0
   },
   "Diesel": {
    "values": [
     "Diesel",
     "Diesel Black Gold"
    ],
-   "count": 11210,
+   "count": 11454,
    "p25": 18.0,
-   "median": 29.0
+   "median": 29.5
   },
   "Sacai": {
    "values": [
     "A.P.C. Sacai",
-    "Sacai"
+    "Sacai",
+    "Sacai x Carhartt WIP"
    ],
-   "count": 14,
-   "p25": 63.38,
-   "median": 122.25
+   "count": 17,
+   "p25": 58.0,
+   "median": 119.0
   },
   "Kolor": {
    "values": [
     "Kolor"
    ],
-   "count": 12,
-   "p25": 4.5,
-   "median": 15.0
+   "count": 10,
+   "p25": 6.88,
+   "median": 17.5
   },
   "Toga": {
    "values": [
@@ -847,17 +856,9 @@
     "Toga Pulla",
     "Toga Virilis"
    ],
-   "count": 41,
-   "p25": 24.75,
+   "count": 42,
+   "p25": 26.75,
    "median": 43.0
-  },
-  "Facetasm": {
-   "values": [
-    "Facetasm"
-   ],
-   "count": 2,
-   "p25": 12.5,
-   "median": 15.0
   },
   "Doublet": {
    "values": [
@@ -872,64 +873,64 @@
     "MMY Maison Mihara Yasuhiro"
    ],
    "count": 7,
-   "p25": 71.75,
-   "median": 90.0
+   "p25": 70.38,
+   "median": 101.25
   },
   "Hender Scheme": {
    "values": [
     "Hender Scheme"
    ],
    "count": 2,
-   "p25": 27.75,
-   "median": 36.5
+   "p25": 26.75,
+   "median": 35.5
   },
   "Needles": {
    "values": [
     "Needles"
    ],
-   "count": 41,
-   "p25": 46.25,
-   "median": 91.0
+   "count": 44,
+   "p25": 65.0,
+   "median": 93.0
   },
   "Engineered Garments": {
    "values": [
     "Engineered Garments"
    ],
    "count": 27,
-   "p25": 50.0,
-   "median": 76.0
+   "p25": 52.0,
+   "median": 70.0
   },
   "Nanamica": {
    "values": [
     "Nanamica"
    ],
-   "count": 21,
-   "p25": 50.0,
-   "median": 94.0
+   "count": 20,
+   "p25": 48.0,
+   "median": 76.5
   },
   "Orslow": {
    "values": [
     "Orslow"
    ],
-   "count": 34,
-   "p25": 80.0,
-   "median": 114.0
+   "count": 35,
+   "p25": 86.5,
+   "median": 134.5
   },
   "Auralee": {
    "values": [
     "Auralee"
    ],
-   "count": 2,
-   "p25": 182.0,
-   "median": 182.0
+   "count": 1,
+   "p25": 169.0,
+   "median": 169.0
   },
   "Beams": {
    "values": [
     "Beams"
    ],
-   "count": 76,
-   "p25": 12.62,
-   "median": 28.5
+   "count": 71,
+   "p25": 12.0,
+   "median": 26.5
   },
   "Porter": {
    "values": [
@@ -937,50 +938,50 @@
     "Porter",
     "Porter-Yoshida & Co"
    ],
-   "count": 19,
-   "p25": 11.0,
-   "median": 67.0
+   "count": 20,
+   "p25": 14.5,
+   "median": 63.25
   },
   "Neighborhood": {
    "values": [
     "Neighborhood"
    ],
-   "count": 102,
+   "count": 99,
    "p25": 3.5,
-   "median": 6.5
+   "median": 6.0
   },
   "WTAPS": {
    "values": [
     "WTAPS"
    ],
    "count": 12,
-   "p25": 19.5,
-   "median": 40.0
+   "p25": 17.0,
+   "median": 39.5
   },
   "Human Made": {
    "values": [
     "Human Made"
    ],
-   "count": 12,
-   "p25": 13.12,
-   "median": 20.75
+   "count": 11,
+   "p25": 14.25,
+   "median": 23.0
   },
   "A Bathing Ape": {
    "values": [
     "A Bathing Ape",
     "Bape"
    ],
-   "count": 109,
-   "p25": 64.38,
-   "median": 100.75
+   "count": 122,
+   "p25": 64.0,
+   "median": 91.0
   },
   "Nonnative": {
    "values": [
     "Nonnative"
    ],
    "count": 2,
-   "p25": 39.75,
-   "median": 41.5
+   "p25": 35.25,
+   "median": 36.5
   },
   "Evisu": {
    "values": [
@@ -988,82 +989,82 @@
     "Evisu Heritage",
     "Evisu x Puma"
    ],
-   "count": 140,
-   "p25": 54.75,
-   "median": 113.25
+   "count": 142,
+   "p25": 60.25,
+   "median": 112.0
   },
   "Goldwin": {
    "values": [
     "Goldwin"
    ],
-   "count": 42,
-   "p25": 28.0,
-   "median": 48.0
+   "count": 41,
+   "p25": 35.5,
+   "median": 49.25
   },
   "Descente": {
    "values": [
     "Descente"
    ],
-   "count": 73,
-   "p25": 7.0,
-   "median": 24.0
+   "count": 75,
+   "p25": 6.88,
+   "median": 27.25
   },
   "Snow Peak": {
    "values": [
     "Snow Peak"
    ],
    "count": 45,
-   "p25": 24.0,
-   "median": 38.0
+   "p25": 22.75,
+   "median": 37.0
   },
   "And Wander": {
    "values": [
     "And Wander"
    ],
    "count": 1,
-   "p25": 49.0,
-   "median": 49.0
+   "p25": 47.5,
+   "median": 47.5
   },
   "Acronym": {
    "values": [
     "Nike X Acronym"
    ],
-   "count": 1,
-   "p25": 89.5,
-   "median": 89.5
+   "count": 2,
+   "p25": 89.0,
+   "median": 89.0
   },
   "Arc'teryx Veilance": {
    "values": [
     "Arc'teryx Veilance"
    ],
-   "count": 8,
-   "p25": 104.62,
-   "median": 115.0
+   "count": 7,
+   "p25": 100.5,
+   "median": 104.5
   },
   "Arc'teryx": {
    "values": [
     "Arc'teryx",
     "Arcteryx"
    ],
-   "count": 669,
-   "p25": 59.0,
-   "median": 95.0
+   "count": 705,
+   "p25": 60.25,
+   "median": 100.0
   },
   "Klättermusen": {
    "values": [
     "Klättermusen"
    ],
-   "count": 177,
+   "count": 186,
    "p25": 58.25,
-   "median": 86.0
+   "median": 89.0
   },
   "ROA": {
    "values": [
     "Roa"
    ],
-   "count": 18,
-   "p25": 18.0,
-   "median": 44.0
+   "count": 19,
+   "p25": 15.75,
+   "median": 48.0
   },
   "Post Archive Faction": {
    "values": [
@@ -1078,17 +1079,17 @@
     "Salomon",
     "Salomon x KAR L'Art de L'Automobile"
    ],
-   "count": 3721,
-   "p25": 31.0,
-   "median": 61.0
+   "count": 3831,
+   "p25": 30.75,
+   "median": 57.0
   },
   "Patagonia": {
    "values": [
     "Patagonia"
    ],
-   "count": 5008,
-   "p25": 43.0,
-   "median": 68.0
+   "count": 5095,
+   "p25": 42.5,
+   "median": 66.0
   },
   "The North Face": {
    "values": [
@@ -1097,85 +1098,86 @@
     "The North Face x Skims",
     "The North Face x Supreme"
    ],
-   "count": 11920,
-   "p25": 24.75,
-   "median": 46.0
+   "count": 12166,
+   "p25": 23.0,
+   "median": 41.0
   },
   "Oakley": {
    "values": [
     "Oakley"
    ],
-   "count": 744,
-   "p25": 15.5,
-   "median": 27.0
+   "count": 752,
+   "p25": 15.0,
+   "median": 26.0
   },
   "Canada Goose": {
    "values": [
     "Canada Goose"
    ],
-   "count": 224,
-   "p25": 134.38,
-   "median": 169.0
+   "count": 255,
+   "p25": 142.75,
+   "median": 174.0
   },
   "Moncler": {
    "values": [
     "Moncler",
     "Moncler Gamme Rouge",
     "Moncler Genius",
-    "Moncler Grenoble"
+    "Moncler Grenoble",
+    "Moncler x Marvel Spider-Man"
    ],
-   "count": 1614,
-   "p25": 92.25,
-   "median": 137.5
+   "count": 1664,
+   "p25": 82.0,
+   "median": 133.25
   },
   "Moose Knuckles": {
    "values": [
     "Moose Knuckles"
    ],
-   "count": 58,
-   "p25": 45.38,
-   "median": 112.5
+   "count": 61,
+   "p25": 51.0,
+   "median": 115.0
   },
   "Parajumpers": {
    "values": [
     "Parajumpers"
    ],
-   "count": 718,
-   "p25": 65.0,
-   "median": 115.5
+   "count": 776,
+   "p25": 70.75,
+   "median": 122.75
   },
   "Mackage": {
    "values": [
     "Mackage"
    ],
-   "count": 55,
+   "count": 58,
    "p25": 76.0,
-   "median": 117.5
+   "median": 121.75
   },
   "Stutterheim": {
    "values": [
     "Stutterheim",
     "Stutterheim x Novesta"
    ],
-   "count": 348,
-   "p25": 36.75,
-   "median": 59.5
+   "count": 361,
+   "p25": 39.0,
+   "median": 58.0
   },
   "Sunsea": {
    "values": [
     "Sunsea"
    ],
-   "count": 9,
+   "count": 8,
    "p25": 3.5,
-   "median": 5.0
+   "median": 5.5
   },
   "Aton": {
    "values": [
     "Aton"
    ],
    "count": 6,
-   "p25": 9.5,
-   "median": 11.25
+   "p25": 9.12,
+   "median": 9.75
   },
   "Stone Island": {
    "values": [
@@ -1183,18 +1185,18 @@
     "Stone Island Denims",
     "Supreme x Stone Island"
    ],
-   "count": 1602,
-   "p25": 72.0,
-   "median": 118.0
+   "count": 1628,
+   "p25": 73.5,
+   "median": 115.0
   },
   "C.P. Company": {
    "values": [
     "C.P. Company",
     "CP Company"
    ],
-   "count": 476,
-   "p25": 46.0,
-   "median": 77.25
+   "count": 486,
+   "p25": 44.88,
+   "median": 76.0
   },
   "Nemen": {
    "values": [
@@ -1208,15 +1210,14 @@
    "values": [
     "Iceberg"
    ],
-   "count": 249,
-   "p25": 7.0,
+   "count": 254,
+   "p25": 7.12,
    "median": 16.0
   },
   "Supreme": {
    "values": [
     "Supreme",
     "Supreme x Comme des Garçons SHIRT",
-    "Supreme x Corteiz Rules The World Tee",
     "Supreme x Gucci",
     "Supreme x Hanes",
     "Supreme x Louis Vuitton",
@@ -1225,18 +1226,18 @@
     "Supreme x Undercover",
     "Supreme x Yohji Yamamoto"
    ],
-   "count": 494,
-   "p25": 45.0,
-   "median": 68.0
+   "count": 515,
+   "p25": 43.5,
+   "median": 71.0
   },
   "1017 Alyx 9SM": {
    "values": [
     "1017 Alyx 9SM",
     "Alyx"
    ],
-   "count": 35,
-   "p25": 8.5,
-   "median": 22.0
+   "count": 36,
+   "p25": 9.12,
+   "median": 27.0
   },
   "Vetements": {
    "values": [
@@ -1247,25 +1248,25 @@
     "Vetements x Commes des Garçons",
     "Vetements x Reebok"
    ],
-   "count": 46,
-   "p25": 112.5,
-   "median": 142.0
+   "count": 47,
+   "p25": 116.5,
+   "median": 150.5
   },
   "Martine Rose": {
    "values": [
     "Martine Rose"
    ],
-   "count": 2,
-   "p25": null,
-   "median": null
+   "count": 3,
+   "p25": 99.0,
+   "median": 99.0
   },
   "Kiko Kostadinov": {
    "values": [
     "Kiko Kostadinov"
    ],
    "count": 2,
-   "p25": 125.25,
-   "median": 136.5
+   "p25": 135.0,
+   "median": 135.0
   },
   "OAMC": {
    "values": [
@@ -1273,9 +1274,9 @@
     "OAMC x Adidas",
     "Oamc"
    ],
-   "count": 19,
-   "p25": 8.88,
-   "median": 15.0
+   "count": 16,
+   "p25": 6.5,
+   "median": 14.0
   },
   "A-Cold-Wall*": {
    "values": [
@@ -1283,30 +1284,30 @@
     "ACW"
    ],
    "count": 46,
-   "p25": 16.75,
-   "median": 37.0
+   "p25": 17.25,
+   "median": 34.5
   },
   "Off-White": {
    "values": [
     "Off-White"
    ],
-   "count": 543,
+   "count": 545,
    "p25": 71.75,
-   "median": 118.0
+   "median": 113.25
   },
   "Fear of God": {
    "values": [
     "Fear of God"
    ],
-   "count": 34,
-   "p25": 27.0,
-   "median": 64.0
+   "count": 33,
+   "p25": 25.12,
+   "median": 63.25
   },
   "Rhude": {
    "values": [
     "Rhude"
    ],
-   "count": 32,
+   "count": 30,
    "p25": 29.0,
    "median": 45.0
   },
@@ -1315,25 +1316,25 @@
     "Entire Studios"
    ],
    "count": 41,
-   "p25": 41.25,
-   "median": 76.5
+   "p25": 41.0,
+   "median": 79.0
   },
   "Gosha Rubchinskiy": {
    "values": [
     "Gosha Rubchinskiy"
    ],
-   "count": 49,
-   "p25": 40.12,
-   "median": 64.5
+   "count": 54,
+   "p25": 39.0,
+   "median": 61.0
   },
   "Heron Preston": {
    "values": [
     "Heron Preston",
     "Heron Preston x H&M"
    ],
-   "count": 113,
-   "p25": 39.0,
-   "median": 61.0
+   "count": 117,
+   "p25": 38.0,
+   "median": 59.0
   },
   "Palm Angels": {
    "values": [
@@ -1343,16 +1344,16 @@
     "Palm Angels x Smiley Collection"
    ],
    "count": 347,
-   "p25": 52.25,
-   "median": 92.5
+   "p25": 54.25,
+   "median": 92.0
   },
   "Stüssy": {
    "values": [
     "Stüssy"
    ],
-   "count": 1486,
+   "count": 1556,
    "p25": 41.0,
-   "median": 59.0
+   "median": 61.0
   },
   "Acne Studios": {
    "values": [
@@ -1360,50 +1361,50 @@
     "Acne Studios x Fjällräven",
     "Acne Studios x Monster in My Pocket"
    ],
-   "count": 10296,
-   "p25": 36.75,
-   "median": 76.0
+   "count": 10577,
+   "p25": 34.0,
+   "median": 70.5
   },
   "Our Legacy": {
    "values": [
     "Our Legacy",
     "Our Legacy x Emporio Armani"
    ],
-   "count": 1154,
+   "count": 1167,
    "p25": 46.0,
-   "median": 71.0
+   "median": 70.5
   },
   "Studio Nicholson": {
    "values": [
     "Studio Nicholson"
    ],
-   "count": 18,
-   "p25": 37.0,
-   "median": 64.0
+   "count": 14,
+   "p25": 41.38,
+   "median": 66.0
   },
   "Mfpen": {
    "values": [
     "Mfpen"
    ],
-   "count": 31,
-   "p25": 61.0,
-   "median": 88.5
+   "count": 33,
+   "p25": 62.0,
+   "median": 90.0
   },
   "Séfr": {
    "values": [
     "Séfr"
    ],
-   "count": 218,
-   "p25": 30.0,
+   "count": 210,
+   "p25": 31.0,
    "median": 56.0
   },
   "Bode": {
    "values": [
     "Bode"
    ],
-   "count": 81,
-   "p25": 4.5,
-   "median": 13.75
+   "count": 85,
+   "p25": 4.25,
+   "median": 15.5
   },
   "A.P.C.": {
    "values": [
@@ -1414,31 +1415,31 @@
     "A.P.C. x Carhartt WIP",
     "APC"
    ],
-   "count": 1060,
-   "p25": 24.75,
-   "median": 44.0
+   "count": 1072,
+   "p25": 23.0,
+   "median": 45.5
   },
   "Paraboot": {
    "values": [
     "Paraboot"
    ],
-   "count": 23,
-   "p25": 94.62,
-   "median": 128.0
+   "count": 25,
+   "p25": 89.0,
+   "median": 123.0
   },
   "Alden": {
    "values": [
     "Alden"
    ],
-   "count": 12,
-   "p25": 126.75,
-   "median": 166.25
+   "count": 15,
+   "p25": 112.0,
+   "median": 160.0
   },
   "John Lobb": {
    "values": [
     "John Lobb"
    ],
-   "count": 3,
+   "count": 4,
    "p25": 178.0,
    "median": 181.0
   },
@@ -1446,57 +1447,57 @@
    "values": [
     "J.M Weston"
    ],
-   "count": 5,
-   "p25": 107.0,
-   "median": 125.0
+   "count": 6,
+   "p25": 100.25,
+   "median": 115.0
   },
   "Crockett & Jones": {
    "values": [
     "Crockett & Jones"
    ],
-   "count": 58,
-   "p25": 123.0,
-   "median": 148.75
+   "count": 66,
+   "p25": 122.75,
+   "median": 145.25
   },
   "Church's": {
    "values": [
     "Church's"
    ],
-   "count": 123,
-   "p25": 67.25,
-   "median": 121.5
+   "count": 130,
+   "p25": 67.0,
+   "median": 122.5
   },
   "Kansai Yamamoto": {
    "values": [
     "Kansai Yamamoto"
    ],
    "count": 2,
-   "p25": 86.0,
-   "median": 86.0
+   "p25": 84.5,
+   "median": 84.5
   },
   "Matsuda": {
    "values": [
     "Matsuda"
    ],
    "count": 3,
-   "p25": 41.75,
-   "median": 57.5
+   "p25": 53.0,
+   "median": 82.0
   },
   "Masnada": {
    "values": [
     "Masnada"
    ],
-   "count": 4,
-   "p25": 8.38,
-   "median": 20.25
+   "count": 5,
+   "p25": 7.5,
+   "median": 31.0
   },
   "Pal Offner": {
    "values": [
     "Pal Offner"
    ],
-   "count": 2,
-   "p25": 17.5,
-   "median": 21.5
+   "count": 4,
+   "p25": 13.0,
+   "median": 13.0
   },
   "Lost & Found Ria Dunn": {
    "values": [
@@ -1511,96 +1512,96 @@
     "Poème Bohémien"
    ],
    "count": 9,
-   "p25": 86.5,
-   "median": 101.0
+   "p25": 86.0,
+   "median": 91.0
   },
   "Nostra Santissima": {
    "values": [
     "Nostra Santissima"
    ],
-   "count": 3,
-   "p25": 5.25,
-   "median": 7.0
+   "count": 2,
+   "p25": 8.12,
+   "median": 12.75
   },
   "Andrea Ya'aqov": {
    "values": [
     "Andrea Ya'aqov"
    ],
    "count": 3,
-   "p25": 10.25,
-   "median": 12.5
+   "p25": 8.5,
+   "median": 10.5
   },
   "Isabel Benenato": {
    "values": [
     "Isabel Benenato"
    ],
    "count": 5,
-   "p25": 61.0,
-   "median": 65.0
+   "p25": 48.0,
+   "median": 64.0
   },
   "Barbara I Gongini": {
    "values": [
     "Barbara i Gongini"
    ],
-   "count": 3,
-   "p25": 33.62,
-   "median": 35.75
+   "count": 4,
+   "p25": 33.75,
+   "median": 36.0
   },
   "Album di Famiglia": {
    "values": [
     "Album di Famiglia"
    ],
-   "count": 4,
-   "p25": 42.25,
-   "median": 61.5
+   "count": 6,
+   "p25": 36.25,
+   "median": 50.0
   },
   "Avant Toi": {
    "values": [
     "Avant Toi"
    ],
-   "count": 34,
-   "p25": 62.0,
-   "median": 93.5
+   "count": 37,
+   "p25": 61.0,
+   "median": 88.75
   },
   "Hannes Roether": {
    "values": [
     "Hannes Roether",
     "Hannes Roether x NA-KD"
    ],
-   "count": 205,
-   "p25": 35.88,
-   "median": 62.75
+   "count": 210,
+   "p25": 39.88,
+   "median": 62.0
   },
   "Annette Görtz": {
    "values": [
     "Annette Görtz"
    ],
-   "count": 347,
-   "p25": 36.38,
-   "median": 52.0
+   "count": 357,
+   "p25": 34.0,
+   "median": 49.0
   },
   "Thom Krom": {
    "values": [
     "Thom Krom"
    ],
-   "count": 82,
-   "p25": 32.5,
-   "median": 45.0
+   "count": 90,
+   "p25": 32.25,
+   "median": 46.0
   },
   "Transit Par-Such": {
    "values": [
     "Transit",
     "Transit Par Such"
    ],
-   "count": 179,
-   "p25": 10.0,
+   "count": 183,
+   "p25": 11.0,
    "median": 22.0
   },
   "Bless": {
    "values": [
     "Bless"
    ],
-   "count": 43,
+   "count": 44,
    "p25": 3.5,
    "median": 4.0
   },
@@ -1609,17 +1610,17 @@
     "Theyskens Theory",
     "Theyskens’ Theory"
    ],
-   "count": 24,
-   "p25": 8.38,
-   "median": 22.25
+   "count": 23,
+   "p25": 10.5,
+   "median": 21.0
   },
   "Ground Y": {
    "values": [
     "Ground Y"
    ],
    "count": 1,
-   "p25": 14.0,
-   "median": 14.0
+   "p25": 13.0,
+   "median": 13.0
   },
   "Tao Comme des Garçons": {
    "values": [
@@ -1635,8 +1636,8 @@
     "Rue du Mail"
    ],
    "count": 3,
-   "p25": 8.75,
-   "median": 14.0
+   "p25": 7.75,
+   "median": 12.0
   },
   "Thierry Mugler": {
    "values": [
@@ -1645,25 +1646,25 @@
     "Thierry Mugler",
     "Thierry Mugler x H&M"
    ],
-   "count": 311,
-   "p25": 51.25,
-   "median": 86.0
+   "count": 319,
+   "p25": 50.5,
+   "median": 90.0
   },
   "Claude Montana": {
    "values": [
     "Claude Montana"
    ],
-   "count": 31,
-   "p25": 16.0,
-   "median": 23.0
+   "count": 30,
+   "p25": 14.5,
+   "median": 21.5
   },
   "Romeo Gigli": {
    "values": [
     "Romeo Gigli"
    ],
-   "count": 43,
+   "count": 45,
    "p25": 13.5,
-   "median": 22.5
+   "median": 21.0
   },
   "Jean Colonna": {
    "values": [
@@ -1676,20 +1677,21 @@
   "Azzedine Alaïa": {
    "values": [
     "Alaïa",
-    "Alaïa Paris"
+    "Alaïa Paris",
+    "Alaïa x Superga"
    ],
-   "count": 74,
-   "p25": 121.12,
-   "median": 208.75
+   "count": 73,
+   "p25": 128.12,
+   "median": 220.5
   },
   "Cecilie Bahnsen": {
    "values": [
     "Cecilie Bahnsen",
     "Cecilie Bahnsen x Uniqlo"
    ],
-   "count": 77,
-   "p25": 50.0,
-   "median": 120.5
+   "count": 82,
+   "p25": 39.0,
+   "median": 94.0
   },
   "Simone Rocha": {
    "values": [
@@ -1697,25 +1699,25 @@
     "Simone Rocha x H&M",
     "Simone Rocha x HM"
    ],
-   "count": 92,
-   "p25": 32.5,
-   "median": 55.0
+   "count": 99,
+   "p25": 28.5,
+   "median": 53.0
   },
   "Molly Goddard": {
    "values": [
     "Molly Goddard"
    ],
    "count": 2,
-   "p25": 39.75,
-   "median": 49.5
+   "p25": 37.25,
+   "median": 44.5
   },
   "Wales Bonner": {
    "values": [
     "Wales Bonner"
    ],
    "count": 3,
-   "p25": 100.5,
-   "median": 105.0
+   "p25": 93.5,
+   "median": 103.0
   },
   "Arela": {
    "values": [
@@ -1729,25 +1731,25 @@
    "values": [
     "Chanel"
    ],
-   "count": 929,
-   "p25": 89.0,
-   "median": 134.5
+   "count": 961,
+   "p25": 85.25,
+   "median": 132.0
   },
   "Goyard": {
    "values": [
     "Goyard"
    ],
-   "count": 13,
-   "p25": 272.25,
-   "median": 400.0
+   "count": 11,
+   "p25": 195.12,
+   "median": 246.75
   },
   "Givenchy": {
    "values": [
     "Givenchy"
    ],
-   "count": 698,
-   "p25": 49.0,
-   "median": 86.75
+   "count": 731,
+   "p25": 52.0,
+   "median": 90.0
   },
   "Valentino": {
    "values": [
@@ -1756,26 +1758,26 @@
     "Valentino Sport",
     "Valentino Studio"
    ],
-   "count": 939,
-   "p25": 79.38,
-   "median": 132.0
+   "count": 972,
+   "p25": 83.25,
+   "median": 135.5
   },
   "Balmain": {
    "values": [
     "Balmain",
     "Balmain x H&M"
    ],
-   "count": 581,
-   "p25": 52.5,
-   "median": 96.0
+   "count": 589,
+   "p25": 54.5,
+   "median": 98.75
   },
   "Courrèges": {
    "values": [
     "Courrèges"
    ],
-   "count": 99,
-   "p25": 44.0,
-   "median": 67.5
+   "count": 101,
+   "p25": 43.12,
+   "median": 70.5
   },
   "Paco Rabanne": {
    "values": [
@@ -1783,9 +1785,9 @@
     "Rabanne",
     "Rabanne x H&M"
    ],
-   "count": 273,
+   "count": 286,
    "p25": 30.0,
-   "median": 55.0
+   "median": 57.0
   },
   "Missoni": {
    "values": [
@@ -1794,172 +1796,172 @@
     "Missoni X Brics",
     "Missoni x Jean Machine"
    ],
-   "count": 1718,
-   "p25": 82.75,
-   "median": 131.25
+   "count": 1738,
+   "p25": 76.0,
+   "median": 128.0
   },
   "Etro": {
    "values": [
     "Etro"
    ],
-   "count": 1041,
-   "p25": 45.0,
-   "median": 73.0
+   "count": 1083,
+   "p25": 45.75,
+   "median": 76.0
   },
   "Emilio Pucci": {
    "values": [
     "Emilio Pucci",
     "Pucci"
    ],
-   "count": 200,
-   "p25": 60.75,
-   "median": 94.0
+   "count": 204,
+   "p25": 58.0,
+   "median": 89.5
   },
   "Max Mara": {
    "values": [
     "MaxMara",
     "MaxMara Studio"
    ],
-   "count": 2699,
-   "p25": 47.0,
-   "median": 94.0
+   "count": 2762,
+   "p25": 53.0,
+   "median": 99.0
   },
   "Sportmax": {
    "values": [
     "Sportmax"
    ],
-   "count": 490,
-   "p25": 29.0,
-   "median": 55.0
+   "count": 489,
+   "p25": 30.0,
+   "median": 59.0
   },
   "Brioni": {
    "values": [
     "Brioni"
    ],
-   "count": 105,
-   "p25": 57.75,
-   "median": 75.0
+   "count": 108,
+   "p25": 57.62,
+   "median": 81.25
   },
   "Cesare Attolini": {
    "values": [
     "Cesare Attolini"
    ],
-   "count": 3,
-   "p25": 118.75,
-   "median": 145.5
+   "count": 4,
+   "p25": 112.5,
+   "median": 143.5
   },
   "Boglioli": {
    "values": [
     "Boglioli"
    ],
-   "count": 122,
-   "p25": 48.88,
-   "median": 94.25
+   "count": 125,
+   "p25": 54.5,
+   "median": 99.0
   },
   "Lardini": {
    "values": [
     "Lardini"
    ],
-   "count": 81,
-   "p25": 40.25,
-   "median": 63.5
+   "count": 88,
+   "p25": 40.0,
+   "median": 64.0
   },
   "Caruso": {
    "values": [
     "Caruso"
    ],
-   "count": 44,
-   "p25": 56.5,
-   "median": 118.0
+   "count": 47,
+   "p25": 60.75,
+   "median": 123.25
   },
   "Tagliatore": {
    "values": [
     "Tagliatore"
    ],
-   "count": 128,
-   "p25": 65.5,
-   "median": 103.5
+   "count": 135,
+   "p25": 59.0,
+   "median": 102.0
   },
   "Canali": {
    "values": [
     "Canali"
    ],
-   "count": 204,
-   "p25": 36.0,
-   "median": 64.0
+   "count": 224,
+   "p25": 38.75,
+   "median": 66.0
   },
   "Corneliani": {
    "values": [
     "Corneliani"
    ],
-   "count": 361,
-   "p25": 36.0,
-   "median": 59.25
+   "count": 387,
+   "p25": 34.0,
+   "median": 62.5
   },
   "Eleventy": {
    "values": [
     "Eleventy"
    ],
-   "count": 90,
-   "p25": 15.75,
-   "median": 36.25
+   "count": 92,
+   "p25": 18.5,
+   "median": 35.5
   },
   "Malo": {
    "values": [
     "Malo"
    ],
-   "count": 103,
-   "p25": 21.0,
-   "median": 41.5
+   "count": 105,
+   "p25": 21.5,
+   "median": 46.5
   },
   "Ralph Lauren Purple Label": {
    "values": [
     "Ralph Lauren Purple Label"
    ],
-   "count": 48,
-   "p25": 70.75,
-   "median": 104.0
+   "count": 52,
+   "p25": 67.38,
+   "median": 106.0
   },
   "Berluti": {
    "values": [
     "Berluti"
    ],
-   "count": 5,
-   "p25": 80.5,
-   "median": 92.0
+   "count": 6,
+   "p25": 78.62,
+   "median": 83.5
   },
   "Mulberry": {
    "values": [
     "Mulberry"
    ],
-   "count": 538,
+   "count": 563,
    "p25": 65.0,
-   "median": 102.0
+   "median": 120.0
   },
   "Johnstons of Elgin": {
    "values": [
     "Johnstons",
     "Johnstons of Elgin"
    ],
-   "count": 98,
-   "p25": 59.5,
-   "median": 78.25
+   "count": 100,
+   "p25": 54.0,
+   "median": 69.0
   },
   "Drumohr": {
    "values": [
     "Drumohr"
    ],
-   "count": 33,
-   "p25": 27.25,
-   "median": 36.0
+   "count": 30,
+   "p25": 26.0,
+   "median": 35.0
   },
   "William Lockie": {
    "values": [
     "William Lockie"
    ],
-   "count": 32,
-   "p25": 41.5,
-   "median": 56.0
+   "count": 29,
+   "p25": 43.5,
+   "median": 59.75
   },
   "Inverallan": {
    "values": [
@@ -1973,28 +1975,27 @@
    "values": [
     "John Smedley"
    ],
-   "count": 170,
+   "count": 188,
    "p25": 30.0,
-   "median": 46.0
+   "median": 45.0
   },
   "Pringle of Scotland": {
    "values": [
     "Pringle",
-    "Pringle Of Scotland x H&M",
     "Pringle of Scotland",
     "Pringle of Scotland x H&M"
    ],
-   "count": 434,
-   "p25": 6.0,
-   "median": 12.0
+   "count": 446,
+   "p25": 7.0,
+   "median": 14.0
   },
   "Sunspel": {
    "values": [
     "Sunspel"
    ],
-   "count": 224,
-   "p25": 28.0,
-   "median": 45.75
+   "count": 234,
+   "p25": 29.0,
+   "median": 45.0
   },
   "Margaret Howell": {
    "values": [
@@ -2002,8 +2003,8 @@
     "Margaret Howell"
    ],
    "count": 52,
-   "p25": 42.0,
-   "median": 53.5
+   "p25": 39.0,
+   "median": 50.5
   },
   "Barbour": {
    "values": [
@@ -2012,41 +2013,41 @@
     "Barbour x Ganni",
     "Barbour x Levi’s"
    ],
-   "count": 3599,
-   "p25": 62.0,
-   "median": 103.5
+   "count": 3807,
+   "p25": 56.75,
+   "median": 98.0
   },
   "Grenfell": {
    "values": [
     "Grenfell"
    ],
-   "count": 2,
-   "p25": 21.75,
-   "median": 37.5
+   "count": 3,
+   "p25": 37.25,
+   "median": 69.0
   },
   "Private White V.C.": {
    "values": [
     "Private White"
    ],
-   "count": 7,
-   "p25": 130.12,
-   "median": 148.25
+   "count": 10,
+   "p25": 111.0,
+   "median": 128.0
   },
   "Mackintosh": {
    "values": [
     "Mackintosh"
    ],
-   "count": 15,
-   "p25": 96.0,
-   "median": 136.0
+   "count": 18,
+   "p25": 99.0,
+   "median": 122.0
   },
   "Aquascutum": {
    "values": [
     "Aquascutum"
    ],
-   "count": 123,
-   "p25": 21.75,
-   "median": 42.0
+   "count": 118,
+   "p25": 22.0,
+   "median": 46.0
   },
   "Burberry": {
    "values": [
@@ -2055,9 +2056,9 @@
     "Burberry Sport",
     "Burberrys"
    ],
-   "count": 3465,
-   "p25": 73.25,
-   "median": 141.5
+   "count": 3578,
+   "p25": 72.0,
+   "median": 135.0
   },
   "Nigel Cabourn": {
    "values": [
@@ -2065,73 +2066,73 @@
    ],
    "count": 17,
    "p25": 49.0,
-   "median": 111.0
+   "median": 109.0
   },
   "YMC": {
    "values": [
     "YMC",
     "You Must Create"
    ],
-   "count": 53,
-   "p25": 6.12,
-   "median": 11.75
+   "count": 56,
+   "p25": 6.5,
+   "median": 12.0
   },
   "Universal Works": {
    "values": [
     "Universal Works"
    ],
-   "count": 100,
-   "p25": 33.0,
-   "median": 52.0
+   "count": 118,
+   "p25": 36.62,
+   "median": 56.0
   },
   "Norse Projects": {
    "values": [
     "Norse Projects"
    ],
-   "count": 435,
-   "p25": 16.38,
-   "median": 29.0
+   "count": 452,
+   "p25": 15.88,
+   "median": 28.5
   },
   "Wood Wood": {
    "values": [
     "Wood Wood"
    ],
-   "count": 2303,
-   "p25": 10.0,
-   "median": 18.0
+   "count": 2352,
+   "p25": 11.0,
+   "median": 19.0
   },
   "Han Kjøbenhavn": {
    "values": [
     "Han Kjøbenhavn"
    ],
-   "count": 885,
+   "count": 908,
    "p25": 12.0,
-   "median": 20.0
+   "median": 21.0
   },
   "A Kind of Guise": {
    "values": [
     "A Kind of Guise"
    ],
-   "count": 71,
-   "p25": 36.75,
-   "median": 60.0
+   "count": 58,
+   "p25": 38.5,
+   "median": 63.0
   },
   "Ann-Sofie Back": {
    "values": [
     "Ann-Sofie Back",
     "Back"
    ],
-   "count": 425,
+   "count": 428,
    "p25": 3.5,
-   "median": 6.25
+   "median": 6.0
   },
   "Hope": {
    "values": [
     "HOPE Stockholm",
     "Hope"
    ],
-   "count": 7826,
-   "p25": 21.0,
+   "count": 8013,
+   "p25": 19.0,
    "median": 36.0
   },
   "Filippa K": {
@@ -2141,41 +2142,42 @@
     "Filippa K x Monobi",
     "Filippa K x Rörstrand"
    ],
-   "count": 29706,
-   "p25": 16.75,
-   "median": 34.0
+   "count": 30283,
+   "p25": 15.0,
+   "median": 29.0
   },
   "Tiger of Sweden": {
    "values": [
     "Tiger of Sweden"
    ],
-   "count": 17510,
-   "p25": 12.0,
-   "median": 26.0
+   "count": 17920,
+   "p25": 15.0,
+   "median": 24.0
   },
   "Whyred": {
    "values": [
-    "WHYRED"
+    "WHYRED",
+    "Whyred x Pierre Robert"
    ],
-   "count": 4758,
-   "p25": 8.88,
-   "median": 17.0
+   "count": 4825,
+   "p25": 8.0,
+   "median": 15.0
   },
   "House of Dagmar": {
    "values": [
     "Dagmar"
    ],
-   "count": 4626,
-   "p25": 22.0,
+   "count": 4718,
+   "p25": 23.0,
    "median": 46.5
   },
   "Stine Goya": {
    "values": [
     "Stine Goya"
    ],
-   "count": 2686,
+   "count": 2699,
    "p25": 63.0,
-   "median": 107.0
+   "median": 108.0
   },
   "Ganni": {
    "values": [
@@ -2183,68 +2185,68 @@
     "Ganni",
     "Ganni x Juicy Couture"
    ],
-   "count": 11769,
-   "p25": 47.0,
-   "median": 83.5
+   "count": 11968,
+   "p25": 55.75,
+   "median": 86.0
   },
   "Samuji": {
    "values": [
     "Samuji"
    ],
    "count": 20,
-   "p25": 13.88,
-   "median": 31.75
+   "p25": 14.5,
+   "median": 36.0
   },
   "Ivana Helsinki": {
    "values": [
     "Ivana Helsinki"
    ],
-   "count": 64,
+   "count": 63,
    "p25": 9.12,
-   "median": 16.75
+   "median": 16.5
   },
   "Marimekko": {
    "values": [
     "Marimekko",
     "Marimekko x Uniqlo"
    ],
-   "count": 4321,
-   "p25": 37.0,
-   "median": 65.0
+   "count": 4350,
+   "p25": 38.0,
+   "median": 67.0
   },
   "Paul Smith": {
    "values": [
     "Paul Smith",
     "Paul Smith Black"
    ],
-   "count": 1737,
-   "p25": 21.0,
-   "median": 35.0
+   "count": 1754,
+   "p25": 19.0,
+   "median": 32.0
   },
   "Momotaro": {
    "values": [
     "Momotaro"
    ],
-   "count": 4,
-   "p25": 130.62,
-   "median": 140.75
+   "count": 3,
+   "p25": 140.75,
+   "median": 142.0
   },
   "Iron Heart": {
    "values": [
     "Iron Heart"
    ],
-   "count": 5,
-   "p25": 135.75,
-   "median": 160.25
+   "count": 7,
+   "p25": 169.62,
+   "median": 203.75
   },
   "Samurai Jeans": {
    "values": [
     "Samurai",
     "Samurai Jeans"
    ],
-   "count": 12,
-   "p25": 6.12,
-   "median": 9.25
+   "count": 9,
+   "p25": 4.5,
+   "median": 9.0
   },
   "Warehouse & Co": {
    "values": [
@@ -2259,11 +2261,12 @@
     "Sugar Cane"
    ],
    "count": 2,
-   "p25": 37.12,
-   "median": 70.75
+   "p25": 34.62,
+   "median": 65.75
   },
   "Levi's": {
    "values": [
+    "LEVI'S X VALENTINO",
     "Levi's",
     "Levi's Gold Tab",
     "Levi's x Canada Goose",
@@ -2278,163 +2281,163 @@
     "Levi's x Stranger Things",
     "Levis"
    ],
-   "count": 98,
-   "p25": 6.62,
-   "median": 11.0
+   "count": 99,
+   "p25": 6.5,
+   "median": 10.5
   },
   "Red Wing": {
    "values": [
     "Red Wing",
     "Red Wing Shoes"
    ],
-   "count": 45,
-   "p25": 136.25,
-   "median": 152.25
+   "count": 48,
+   "p25": 132.0,
+   "median": 146.0
   },
   "Common Projects": {
    "values": [
     "Common Projects"
    ],
-   "count": 108,
-   "p25": 51.75,
-   "median": 92.0
+   "count": 111,
+   "p25": 48.0,
+   "median": 90.0
   },
   "Diemme": {
    "values": [
     "Diemme",
     "Diemme x GANT"
    ],
-   "count": 61,
+   "count": 68,
    "p25": 30.5,
-   "median": 62.0
+   "median": 60.0
   },
   "Buttero": {
    "values": [
     "Buttero"
    ],
    "count": 50,
-   "p25": 32.25,
-   "median": 44.0
+   "p25": 35.0,
+   "median": 51.0
   },
   "Santoni": {
    "values": [
     "Santoni"
    ],
-   "count": 232,
-   "p25": 68.75,
-   "median": 104.5
+   "count": 251,
+   "p25": 67.5,
+   "median": 105.5
   },
   "Del Carlo": {
    "values": [
     "Del Carlo"
    ],
    "count": 3,
-   "p25": 4.62,
-   "median": 5.75
+   "p25": 4.25,
+   "median": 5.0
   },
   "Premiata": {
    "values": [
     "Premiata"
    ],
-   "count": 58,
-   "p25": 27.12,
-   "median": 36.5
+   "count": 57,
+   "p25": 25.88,
+   "median": 38.5
   },
   "Moma": {
    "values": [
     "Moma"
    ],
-   "count": 101,
+   "count": 103,
    "p25": 19.75,
-   "median": 41.0
+   "median": 46.5
   },
   "Grenson": {
    "values": [
     "Grenson"
    ],
-   "count": 30,
-   "p25": 18.38,
-   "median": 44.0
+   "count": 34,
+   "p25": 26.62,
+   "median": 47.75
   },
   "Norrøna": {
    "values": [
     "Norrøna"
    ],
-   "count": 572,
-   "p25": 44.0,
+   "count": 577,
+   "p25": 43.0,
    "median": 70.25
   },
   "Haglöfs": {
    "values": [
     "Haglöfs"
    ],
-   "count": 4285,
-   "p25": 40.75,
-   "median": 67.0
+   "count": 4430,
+   "p25": 40.5,
+   "median": 66.0
   },
   "Houdini": {
    "values": [
     "Houdini"
    ],
-   "count": 2251,
-   "p25": 36.75,
-   "median": 67.5
+   "count": 2300,
+   "p25": 31.75,
+   "median": 64.5
   },
   "Mammut": {
    "values": [
     "Mammut"
    ],
-   "count": 1213,
-   "p25": 27.0,
-   "median": 51.0
+   "count": 1266,
+   "p25": 30.75,
+   "median": 53.5
   },
   "Montbell": {
    "values": [
     "Mont-Bell"
    ],
-   "count": 23,
-   "p25": 20.0,
-   "median": 35.5
+   "count": 24,
+   "p25": 24.5,
+   "median": 34.0
   },
   "Satisfy": {
    "values": [
     "Satisfy"
    ],
    "count": 13,
-   "p25": 42.5,
-   "median": 76.5
+   "p25": 55.12,
+   "median": 84.0
   },
   "District Vision": {
    "values": [
     "District Vision"
    ],
-   "count": 11,
-   "p25": 45.5,
-   "median": 60.0
+   "count": 9,
+   "p25": 37.12,
+   "median": 69.75
   },
   "Gramicci": {
    "values": [
     "Gramicci"
    ],
-   "count": 149,
-   "p25": 40.25,
-   "median": 60.5
+   "count": 148,
+   "p25": 43.0,
+   "median": 60.0
   },
   "Aimé Leon Dore": {
    "values": [
     "Aime Leon Dore"
    ],
-   "count": 115,
-   "p25": 37.88,
-   "median": 59.25
+   "count": 129,
+   "p25": 38.12,
+   "median": 61.0
   },
   "Noah": {
    "values": [
     "Noah"
    ],
-   "count": 62,
+   "count": 64,
    "p25": 13.5,
-   "median": 20.5
+   "median": 20.0
   },
   "Kith": {
    "values": [
@@ -2442,9 +2445,9 @@
     "KITH x New Balance",
     "Kith x Calvin Klein"
    ],
-   "count": 104,
-   "p25": 15.38,
-   "median": 28.0
+   "count": 111,
+   "p25": 14.5,
+   "median": 27.0
   },
   "Palace": {
    "values": [
@@ -2452,34 +2455,36 @@
     "Palace Skateboards",
     "Palace x Adidas",
     "Palace x Barbour",
-    "Palace x McDonald's",
+    "Palace x Calvin Klein",
+    "Palace x Stella Artois",
     "Palace x Umbro"
    ],
-   "count": 193,
-   "p25": 28.88,
-   "median": 48.0
+   "count": 196,
+   "p25": 29.5,
+   "median": 52.0
   },
   "Brain Dead": {
    "values": [
     "Brain Dead"
    ],
-   "count": 20,
-   "p25": 31.75,
-   "median": 35.0
+   "count": 19,
+   "p25": 28.25,
+   "median": 37.5
   },
   "Cav Empt": {
    "values": [
     "Cav Empt"
    ],
-   "count": 3,
-   "p25": 160.0,
-   "median": 160.0
+   "count": 4,
+   "p25": 91.75,
+   "median": 114.5
   },
   "Carhartt WIP": {
    "values": [
     "Carhartt WIP",
     "Carhartt WIP X Fela Kuti",
     "Carhartt WIP X Isle Skateboards",
+    "Carhartt WIP X Stüssy",
     "Carhartt WIP x Awake NY",
     "Carhartt WIP x Highsnobiety",
     "Carhartt WIP x New Balance",
@@ -2491,51 +2496,51 @@
     "Carhartt WIP x Suicoke",
     "Carhartt WIP x Toogood"
    ],
-   "count": 6960,
-   "p25": 22.0,
-   "median": 41.0
+   "count": 7212,
+   "p25": 22.75,
+   "median": 36.0
   },
   "Corteiz": {
    "values": [
     "Corteiz"
    ],
-   "count": 98,
-   "p25": 29.0,
-   "median": 45.0
+   "count": 99,
+   "p25": 28.0,
+   "median": 42.0
   },
   "Cole Buxton": {
    "values": [
     "Cole Buxton"
    ],
-   "count": 32,
-   "p25": 28.25,
-   "median": 39.0
+   "count": 35,
+   "p25": 30.25,
+   "median": 42.0
   },
   "Tod's": {
    "values": [
     "Tod's",
     "Tods"
    ],
-   "count": 1639,
-   "p25": 67.38,
-   "median": 114.25
+   "count": 1702,
+   "p25": 62.0,
+   "median": 107.0
   },
   "Giorgio Armani": {
    "values": [
     "Giorgio Armani",
     "Giorgio Armani x Eva Air"
    ],
-   "count": 1181,
-   "p25": 39.0,
-   "median": 58.0
+   "count": 1184,
+   "p25": 37.38,
+   "median": 57.25
   },
   "Bally": {
    "values": [
     "Bally"
    ],
-   "count": 955,
-   "p25": 48.25,
-   "median": 77.0
+   "count": 983,
+   "p25": 47.5,
+   "median": 83.0
   },
   "Roberto Cavalli": {
    "values": [
@@ -2543,16 +2548,16 @@
     "Roberto Cavalli Sport",
     "Roberto Cavalli x Devils"
    ],
-   "count": 626,
-   "p25": 40.0,
-   "median": 73.25
+   "count": 629,
+   "p25": 38.5,
+   "median": 72.5
   },
   "Casablanca": {
    "values": [
     "Casablanca"
    ],
-   "count": 156,
-   "p25": 3.62,
+   "count": 169,
+   "p25": 4.12,
    "median": 14.25
   },
   "Isabel Marant": {
@@ -2560,9 +2565,9 @@
     "Isabel Marant",
     "Isabel Marant pour H&M"
    ],
-   "count": 1587,
-   "p25": 61.38,
-   "median": 117.75
+   "count": 1629,
+   "p25": 68.0,
+   "median": 122.75
   },
   "Eytys": {
    "values": [
@@ -2570,72 +2575,72 @@
     "Eytys",
     "Eytys x Michiko Koshino London"
    ],
-   "count": 2159,
-   "p25": 38.0,
+   "count": 2205,
+   "p25": 37.75,
    "median": 68.0
   },
   "Jacob Cohen": {
    "values": [
     "Jacob Cohen"
    ],
-   "count": 1098,
-   "p25": 46.75,
-   "median": 91.5
+   "count": 1090,
+   "p25": 54.0,
+   "median": 101.0
   },
   "Gran Sasso": {
    "values": [
     "Gran Sasso"
    ],
-   "count": 352,
-   "p25": 29.5,
-   "median": 45.0
+   "count": 370,
+   "p25": 31.0,
+   "median": 47.0
   },
   "Alan Paine": {
    "values": [
     "Alan Paine"
    ],
-   "count": 286,
-   "p25": 26.75,
-   "median": 41.0
+   "count": 295,
+   "p25": 25.0,
+   "median": 40.25
   },
   "R.M. Williams": {
    "values": [
     "R.M. Williams"
    ],
-   "count": 229,
-   "p25": 69.0,
-   "median": 116.0
+   "count": 231,
+   "p25": 69.5,
+   "median": 115.0
   },
   "Allen Edmonds": {
    "values": [
     "Allen Edmonds"
    ],
-   "count": 58,
-   "p25": 82.0,
-   "median": 120.0
+   "count": 49,
+   "p25": 86.88,
+   "median": 119.0
   },
   "Loake": {
    "values": [
     "Loake"
    ],
-   "count": 119,
-   "p25": 76.0,
-   "median": 103.5
+   "count": 122,
+   "p25": 77.25,
+   "median": 102.5
   },
   "Pertti Palmroth": {
    "values": [
     "Pertti Palmroth"
    ],
-   "count": 86,
-   "p25": 6.0,
-   "median": 12.0
+   "count": 90,
+   "p25": 5.5,
+   "median": 11.5
   },
   "Stenströms": {
    "values": [
     "Stenströms"
    ],
-   "count": 4396,
-   "p25": 13.0,
+   "count": 4575,
+   "p25": 15.0,
    "median": 31.0
   },
   "Eton": {
@@ -2643,82 +2648,82 @@
     "Eton",
     "Eton X Tretorn"
    ],
-   "count": 4532,
-   "p25": 14.0,
-   "median": 21.0
+   "count": 4634,
+   "p25": 16.75,
+   "median": 32.5
   },
   "Oscar Jacobson": {
    "values": [
     "Oscar Jacobson"
    ],
-   "count": 4913,
-   "p25": 16.0,
-   "median": 38.0
+   "count": 5112,
+   "p25": 19.0,
+   "median": 43.0
   },
   "Asket": {
    "values": [
     "Asket"
    ],
-   "count": 1065,
+   "count": 1071,
    "p25": 32.0,
-   "median": 53.0
+   "median": 54.0
   },
   "66 North": {
    "values": [
     "66 North",
     "66 North Iceland"
    ],
-   "count": 305,
+   "count": 313,
    "p25": 29.0,
-   "median": 48.0
+   "median": 45.75
   },
   "Lundhags": {
    "values": [
     "Lundhags"
    ],
-   "count": 1515,
-   "p25": 48.0,
-   "median": 69.0
+   "count": 1589,
+   "p25": 44.0,
+   "median": 64.5
   },
   "Woolpower": {
    "values": [
     "Woolpower"
    ],
-   "count": 142,
-   "p25": 35.5,
-   "median": 51.0
+   "count": 135,
+   "p25": 35.0,
+   "median": 51.5
   },
   "Ulvang": {
    "values": [
     "Ulvang"
    ],
-   "count": 208,
+   "count": 201,
    "p25": 14.0,
-   "median": 20.0
+   "median": 22.0
   },
   "Devold": {
    "values": [
     "Devold"
    ],
-   "count": 242,
-   "p25": 20.0,
-   "median": 34.5
+   "count": 245,
+   "p25": 21.0,
+   "median": 37.0
   },
   "Hestra": {
    "values": [
     "Hestra"
    ],
-   "count": 558,
-   "p25": 24.0,
-   "median": 33.0
+   "count": 536,
+   "p25": 25.0,
+   "median": 34.0
   },
   "Edwin": {
    "values": [
     "Edwin"
    ],
-   "count": 418,
+   "count": 430,
    "p25": 14.0,
-   "median": 25.0
+   "median": 24.5
   },
   "Carhartt": {
    "values": [
@@ -2726,28 +2731,27 @@
     "Carhartt x Adam Kimmel",
     "Carhartt x Starter"
    ],
-   "count": 2344,
-   "p25": 30.0,
-   "median": 45.0
+   "count": 2482,
+   "p25": 26.0,
+   "median": 42.0
   },
   "Lyle & Scott Vintage": {
    "values": [
     "Lyle & Scott Vintage"
    ],
-   "count": 388,
+   "count": 397,
    "p25": 4.0,
-   "median": 6.5
+   "median": 7.0
   },
   "Fred Perry": {
    "values": [
     "Fred Perry",
     "Fred Perry x Amy Winehouse",
-    "Fred Perry x Raf Simons",
-    "Fred Perry x Thames"
+    "Fred Perry x Raf Simons"
    ],
-   "count": 2547,
-   "p25": 26.75,
-   "median": 42.5
+   "count": 2629,
+   "p25": 25.0,
+   "median": 41.0
   }
  },
  "not_found": [
@@ -2755,7 +2759,6 @@
   "Isaac Sellam",
   "Julius_7",
   "Takahiromiyashita The Soloist",
-  "Comme des Garçons Homme Plus",
   "Noir Kei Ninomiya",
   "The Viridi-anne",
   "Ziggy Chen",
@@ -2773,6 +2776,7 @@
   "Children of the Discordance",
   "Sulvam",
   "Ganryu",
+  "Facetasm",
   "Kaptain Sunshine",
   "Wacko Maria",
   "White Mountaineering",
@@ -2806,85 +2810,85 @@
   "Yuketen"
  ],
  "similar_unlisted": {
-  "Levi Strauss & Co": 74597,
-  "Levi's Premium": 15644,
-  "Boden": 8948,
-  "Tiger of Sweden Jeans": 4512,
-  "Weekend MaxMara": 2978,
-  "Mini Boden": 2801,
-  "Isabel Marant Étoile": 2237,
-  "See by Chloé": 1611,
-  "Love Moschino": 1380,
-  "Soft Sport Filippa K": 1300,
-  "Diesel Industry": 1104,
-  "Acne Studios Blå Konst": 926,
-  "Kenzo Kids": 834,
-  "Marville Road": 810,
-  "Valentino by Mario Valentino": 792,
-  "Versace Jeans Couture": 782,
-  "Burberry Brit": 777,
-  "Maloja": 743,
-  "'S MaxMara": 627,
-  "Red Valentino": 618,
-  "Stone Island Junior": 544,
-  "Prêt à Porter": 519,
-  "Freeman T. Porter": 501,
-  "HOPE by Ringstrand Söderberg": 500,
-  "Double a by Wood Wood": 483,
-  "Mario Valentino": 411,
-  "Moschino Cheap and Chic": 405,
-  "Bally Basic": 371,
-  "The North Face Summit Series": 351,
-  "LVCILIA": 347,
-  "Versace Jeans": 339,
-  "Baby Boden": 335,
-  "Buddy and Hope": 333,
-  "Puccini": 311,
-  "Fear of God Essentials": 307,
-  "Versace Collection": 304,
-  "Grüne Erde": 288,
-  "Moschino Jeans": 280,
-  "Backstage": 273,
-  "MM6 by Maison Margiela": 268,
-  "Kenzo Jungle": 251,
-  "Sportmax Code": 246,
-  "Levi's Made & Crafted": 245,
+  "Levi Strauss & Co": 76265,
+  "Levi's Premium": 16139,
+  "Boden": 8967,
+  "Tiger of Sweden Jeans": 4548,
+  "Weekend MaxMara": 2992,
+  "Mini Boden": 2955,
+  "Isabel Marant Étoile": 2291,
+  "See by Chloé": 1642,
+  "Love Moschino": 1420,
+  "Soft Sport Filippa K": 1320,
+  "Diesel Industry": 1122,
+  "Acne Studios Blå Konst": 947,
+  "Kenzo Kids": 856,
+  "Marville Road": 829,
+  "Versace Jeans Couture": 809,
+  "Maloja": 809,
+  "Valentino by Mario Valentino": 796,
+  "Burberry Brit": 785,
+  "'S MaxMara": 619,
+  "Red Valentino": 614,
+  "Stone Island Junior": 589,
+  "Prêt à Porter": 543,
+  "HOPE by Ringstrand Söderberg": 507,
+  "Freeman T. Porter": 506,
+  "Double a by Wood Wood": 478,
+  "Mario Valentino": 429,
+  "Moschino Cheap and Chic": 414,
+  "The North Face Summit Series": 363,
+  "Bally Basic": 361,
+  "LVCILIA": 348,
+  "Versace Jeans": 346,
+  "Baby Boden": 342,
+  "Buddy and Hope": 335,
+  "Fear of God Essentials": 333,
+  "Puccini": 315,
+  "Versace Collection": 311,
+  "Moschino Jeans": 287,
+  "Backstage": 285,
+  "Grüne Erde": 283,
+  "MM6 by Maison Margiela": 273,
+  "Levi's Made & Crafted": 250,
+  "Kenzo Jungle": 245,
   "Pins and Needles": 243,
-  "Emma & Noah": 233,
-  "Levi's Red Tab": 230,
-  "Emily & Noah": 223,
-  "Warehouse": 216,
-  "Versace for H&M": 215,
-  "Chloé B x NA-KD": 212,
-  "Country Road": 198,
-  "Moschino Couture!": 197,
-  "Marni at H&M": 194,
-  "Z Zegna": 185,
-  "Versus Versace": 185,
+  "Sportmax Code": 242,
+  "Levi's Red Tab": 239,
+  "Emma & Noah": 235,
+  "Emily & Noah": 231,
+  "Versace for H&M": 216,
+  "Chloé B x NA-KD": 215,
+  "Warehouse": 213,
+  "Country Road": 210,
+  "Marni at H&M": 202,
+  "Moschino Couture!": 194,
+  "Z Zegna": 190,
   "Roadsign Australia": 182,
-  "Missoni Lindex": 175,
-  "Christian Dior Parfums": 170,
-  "Pierre Balmain": 168,
-  "Filippa K Jeans": 167,
-  "Fred Perry Sportswear": 163,
-  "Adidas x Marimekko": 161,
-  "LEVI'S Engineered Jeans": 161,
-  "Paul Smith Jeans": 155,
+  "Missoni Lindex": 181,
+  "Filippa K Jeans": 180,
+  "Versus Versace": 177,
+  "Christian Dior Parfums": 174,
+  "Fred Perry Sportswear": 168,
+  "Pierre Balmain": 166,
+  "Adidas x Marimekko": 165,
+  "LEVI'S Engineered Jeans": 157,
   "McQ by Alexander McQueen": 152,
-  "Dolce & Gabbana Underwear": 146,
-  "MaxMara Leisure": 144,
-  "Yves Saint Laurent Beauté": 143,
-  "Kenzo Jeans": 138,
+  "Paul Smith Jeans": 152,
+  "Dolce & Gabbana Underwear": 149,
+  "Kenzo Jeans": 142,
+  "Yves Saint Laurent Beauté": 140,
+  "Mika Piirainen Marimekko": 138,
   "Levi's Line 8": 138,
-  "Burberry Children": 136,
-  "Mika Piirainen Marimekko": 133,
-  "Max Mara Leisure": 130,
+  "Burberry Children": 137,
+  "MaxMara Leisure": 136,
+  "Max Mara Leisure": 135,
+  "Jo Malone": 125,
+  "Class Roberto Cavalli": 124,
   "Tao & Friends": 123,
-  "Class Roberto Cavalli": 121,
-  "H&M x Moschino": 118,
+  "H&M x Moschino": 119,
+  "Boutique Moschino": 118,
   "Kings Road": 118,
-  "Boutique Moschino": 115,
-  "Jo Malone": 115,
-  "Cheap And Chic by Moschino": 114
+  "Erdem x H&M": 116
  }
 }
