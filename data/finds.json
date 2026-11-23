@@ -1,5 +1,46 @@
 [
  {
+  "id": "zkYCbENHSg",
+  "brand": "Acne Studios",
+  "title": "Acne Studios Puvunhousut DRIFTER T PW MH PSS15",
+  "price": 17.0,
+  "value": 94,
+  "score": 5.51,
+  "label": "🚨 INSANE",
+  "category": "housut",
+  "condition": "Erittäin hyvä",
+  "size": "WMN-EU-48",
+  "link": "https://www.sellpy.fi/item/zkYCbENHSg",
+  "image": "https://prod.images.sellpy.net/photoRobot-hanging-8-k-7/020a1yiddA-3860-0.jpg",
+  "reasons": [
+   "taso B",
+   "mohair ×1.3",
+   "Sellpyn mediaani tälle brändille 70 €",
+   "kate ~22 € (ROI 94%, myy vinted ~49 €; brändiarvio ~70 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795468484,
+  "resale": 49,
+  "profit": 22,
+  "roi": 0.94,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~70 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~49 € → käteen ~44 € kulujen ja tinkimisen jälkeen",
+   "osto 17 € + toimitus = 23 €"
+  ],
+  "risk": {
+   "fake": 16,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv"
+   ]
+  }
+ },
+ {
   "id": "tori-50349242",
   "brand": "Issey Miyake · Tori",
   "title": "Iittala x Issey Miyake laukku",
@@ -46078,26 +46119,6 @@
   "image": "https://prod.images.sellpy.net/photoRobot-standard-12-k-16/d0mlAFelsw-9709-0.jpg",
   "reasons": [
    "Sellpyn mediaani tälle brändille 46 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347666
- },
- {
-  "id": "1DaDuDaOuJ",
-  "brand": "Moncler",
-  "title": "Moncler Trenssi takki Flave Giubbotto",
-  "price": 75.0,
-  "value": 334,
-  "score": 4.46,
-  "label": "🚨 INSANE",
-  "category": "takki",
-  "condition": "Hyväksyttävä",
-  "size": "WMN-INT-M",
-  "link": "https://www.sellpy.fi/item/1DaDuDaOuJ",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-21/MCJ6lCvkPE-06e9-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 137 €"
   ],
   "source": "brändi",
   "old_price": null,

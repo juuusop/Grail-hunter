@@ -9,28 +9,28 @@
 
 | alusta | n | feikki korkea | keski | kulunut/huono | kunto ? |
 |---|---|---|---|---|---|
-| sellpy.fi | 833 | 0% | 14% | 35% | 0% |
+| sellpy.fi | 828 | 0% | 14% | 35% | 0% |
 | tradera.com | 227 | 5% | 34% | 0% | 100% |
-| tori.fi | 135 | 34% | 35% | 0% | 100% |
-| marktplaats.nl | 135 | 43% | 35% | 7% | 5% |
-| 2dehands.be | 74 | 22% | 30% | 8% | 16% |
+| tori.fi | 137 | 34% | 35% | 0% | 100% |
+| marktplaats.nl | 136 | 43% | 35% | 7% | 5% |
+| 2dehands.be | 75 | 23% | 29% | 8% | 16% |
 | blocket.se | 21 | 62% | 38% | 0% | 100% |
 | finn.no | 17 | 12% | 24% | 0% | 100% |
-| dba.dk | 15 | 47% | 27% | 0% | 100% |
+| dba.dk | 16 | 50% | 25% | 0% | 100% |
 | emmy.fi | 1 | 0% | 100% | 0% | 0% |
 
 ## Kategorioittain
 
 | kategoria | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
-| muu | 398 | 28% | 19% |
-| takki | 284 | 34% | 22% |
-| kengät | 279 | 62% | 22% |
-| neule | 132 | 12% | 16% |
+| muu | 397 | 28% | 19% |
+| kengät | 281 | 62% | 22% |
+| takki | 281 | 34% | 22% |
+| neule | 131 | 12% | 15% |
 | housut | 126 | 9% | 21% |
-| laukku | 63 | 54% | 6% |
+| laukku | 64 | 55% | 6% |
 | t-paita | 53 | 23% | 40% |
-| huppari | 48 | 27% | 33% |
+| huppari | 50 | 28% | 32% |
 | kauluspaita | 46 | 0% | 28% |
 | asuste | 24 | 38% | 17% |
 | nahkatakki | 3 | 67% | 0% |
@@ -40,11 +40,11 @@
 
 | brändi | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
+| Balenciaga | 25 | 100% | 12% |
 | Supreme | 5 | 100% | 40% |
 | Goyard | 13 | 100% | 0% |
 | Givenchy | 10 | 100% | 30% |
 | Miu Miu | 11 | 100% | 9% |
-| Balenciaga | 22 | 100% | 14% |
 | Saint Laurent | 10 | 100% | 20% |
 | Loewe | 8 | 100% | 0% |
 | Chanel | 5 | 100% | 20% |
@@ -60,19 +60,20 @@
 | Rick Owens | 13 | 92% | 8% |
 | Celine | 12 | 92% | 8% |
 | Moncler | 35 | 83% | 14% |
+| Issey Miyake | 5 | 80% | 0% |
 | Maison Margiela | 23 | 78% | 13% |
 | Louis Vuitton | 17 | 76% | 18% |
 | Dolce & Gabbana | 4 | 75% | 50% |
 | Fendi | 4 | 75% | 0% |
-| Issey Miyake | 4 | 75% | 0% |
 
 ## Riskisimmät löydöt
 
+- 100 · [Valentino tekonahkainen käsilaukku / olkalaukku musta naisten](https://www.tori.fi/recommerce/forsale/item/48860220) 85 € (arvio 171 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; tekonahkaa ('tekonahka'): aidot ovat nahkaa/pinnoitettua canvasia; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
+- 100 · [Goyard tekonahkainen laukku vihreä unisex](https://www.tori.fi/recommerce/forsale/item/46805357) 59 € (arvio 342 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; tekonahkaa ('tekonahka'): aidot ovat nahkaa/pinnoitettua canvasia; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 80 · [Valentino olkalaukku, vaaleanpunainen](https://www.tori.fi/recommerce/forsale/item/49431846) 50 € (arvio 171 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 80 · [Valentino olkalaukku, vaaleanpunainen](https://www.tori.fi/recommerce/forsale/item/49429923) 49 € (arvio 171 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 80 · [Käyttämätön Valentino tum.sininen medium laukku käsilaukku.,.,](https://www.tori.fi/recommerce/forsale/item/48775403) 50 € (arvio 171 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 80 · [Valentino Nero laukku, UUSI 💼](https://www.tori.fi/recommerce/forsale/item/48415990) 45 € (arvio 171 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
-- 80 · [Goyard tekonahkainen laukku vihreä unisex](https://www.tori.fi/recommerce/forsale/item/46805357) 59 € (arvio 342 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 65 · [Maison Margiela tennarit koko 45 musta nahka](https://www.tori.fi/recommerce/forsale/item/48493672) 120 € (arvio 432 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 65 · [Givenchy tennarit koko 45 TARJOA](https://www.tori.fi/recommerce/forsale/item/50246258) 50 € (arvio 200 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 65 · [Miu Miu kengät](https://www.tori.fi/recommerce/forsale/item/50207634) 60 € (arvio 213 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
@@ -87,4 +88,3 @@
 - 65 · [Loro Piana schoenen verschillende kleuren](https://www.marktplaats.nl/v/kleding-heren/schoenen/m2466686945-loro-piana-schoenen-verschillende-kleuren) 170 € (arvio 735 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta
 - 65 · [Loro Piana Summer Walk Loafers](https://www.marktplaats.nl/v/kleding-heren/schoenen/m2466993262-loro-piana-summer-walk-loafers) 170 € (arvio 735 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta
 - 65 · [Hermés grijs/groen wit](https://www.marktplaats.nl/v/kleding-heren/schoenen/m2466265176-hermes-grijs-groen-wit) 140 € (arvio 560 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta
-- 65 · [Maison Margiela GATs - Nieuw - Maat 43 (valt als 42.5)](https://www.marktplaats.nl/v/kleding-heren/schoenen/m2466175160-maison-margiela-gats-nieuw-maat-43-valt-als-42-5) 105 € (arvio 368 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta
