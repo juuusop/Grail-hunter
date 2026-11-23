@@ -1,5 +1,501 @@
 [
  {
+  "id": "tori-50294701",
+  "brand": "Canada Goose · Tori",
+  "title": "Canada Goose Victoria parka",
+  "price": 175.0,
+  "value": 380,
+  "score": 2.17,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50294701",
+  "image": "https://img.tori.net/dynamic/default/item/50294701/8a858d33-70d0-4e4f-aa47-0bf7d4fef824",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 169 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=50)",
+   "⚠️ kate ~-47 € (ROI -26%, myy grailed ~194 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795405889,
+  "resale": 194,
+  "profit": -47,
+  "roi": -0.26,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~194 € → käteen ~135 € kulujen ja tinkimisen jälkeen",
+   "osto 175 € + toimitus = 182 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50220592",
+  "brand": "Canada Goose · Tori",
+  "title": "Canada Goose Expedition Parka",
+  "price": 80.0,
+  "value": 380,
+  "score": 4.75,
+  "label": "🚨 INSANE",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50220592",
+  "image": "https://img.tori.net/dynamic/default/item/50220592/05ab31fb-7069-42a6-988c-1a4f58c6b4f1",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 169 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=50)",
+   "kate ~48 € (ROI 55%, myy grailed ~194 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795405889,
+  "resale": 194,
+  "profit": 48,
+  "roi": 0.55,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~194 € → käteen ~135 € kulujen ja tinkimisen jälkeen",
+   "osto 80 € + toimitus = 87 €"
+  ],
+  "risk": {
+   "fake": 50,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "blocket-28437096",
+  "brand": "Arc'teryx · Blocket 🇸🇪",
+  "title": "Arcteryx jacka i small",
+  "price": 104.19,
+  "value": 243,
+  "score": 2.33,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.blocket.se/recommerce/forsale/item/28437096",
+  "image": "https://images.blocketcdn.se/dynamic/default/item/28437096/7449069c-dee2-490b-b148-2c567345a5d4",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 95 €",
+   "Japanissa myyty (takki) mediaani 321 € (n=28)",
+   "kate ~38 € (ROI 36%, myy grailed ~204 €; Yahoo JP toteutuneet (takki): mediaani 321 €, p25 212 € (n=28) → geneerinen ~266 € × 1.15 EU-taso)",
+   "1000 SEK + ~15 € posti = 104 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "blocket",
+  "old_price": null,
+  "ts": 1795405890,
+  "resale": 204,
+  "profit": 38,
+  "roi": 0.36,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 321 €, p25 212 € (n=28) → geneerinen ~266 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~204 € → käteen ~142 € kulujen ja tinkimisen jälkeen",
+   "osto 104 € + toimitus = 104 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "dba-27034996",
+  "brand": "Canada Goose · DBA 🇩🇰",
+  "title": "Canada Goose HyBridge® Knit Jacket – Rød – Str. L KVINDE /s mænd – Helt ny",
+  "price": 98.27,
+  "value": 380,
+  "score": 3.87,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "MEN-INT-L",
+  "link": "https://www.dba.dk/recommerce/forsale/item/27034996",
+  "image": "https://images.dbastatic.dk/dynamic/default/item/27034996/7e7fdea7-4ecf-4a2f-bce6-ba5f6890fdf2",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 169 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=50)",
+   "kate ~37 € (ROI 38%, myy grailed ~194 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso)",
+   "600 DKK + ~18 € posti = 98 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "dba",
+  "old_price": null,
+  "ts": 1795405890,
+  "resale": 194,
+  "profit": 37,
+  "roi": 0.38,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~194 € → käteen ~135 € kulujen ja tinkimisen jälkeen",
+   "osto 98 € + toimitus = 98 €"
+  ],
+  "risk": {
+   "fake": 50,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2468721903",
+  "brand": "Tom Ford · Marktplaats 🇳🇱",
+  "title": "Tom Ford vanilla",
+  "price": 60.0,
+  "value": 200,
+  "score": 3.33,
+  "label": "🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/uiterlijk-parfum/m2468721903-tom-ford-vanilla",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/c6ce45e2-a16e-41f8-8b41-bbaf4b53da14?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 128 €",
+   "Japanissa myyty (muu) mediaani 75 € (n=56)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "40 EUR + ~20 € posti = 60 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795405890,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 18,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2468534654",
+  "brand": "Tom Ford · Marktplaats 🇳🇱",
+  "title": "Tom ford zonnebril unisex",
+  "price": 80.0,
+  "value": 200,
+  "score": 2.5,
+  "label": "🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/zonnebrillen-en-brillen-heren/m2468534654-tom-ford-zonnebril-unisex",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/5c927653-936d-4500-ae3e-c783166d93ee?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 128 €",
+   "Japanissa myyty (muu) mediaani 75 € (n=56)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "60 EUR + ~20 € posti = 80 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795405890,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 27,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "aurinkolasit: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2468515198",
+  "brand": "Tom Ford · Marktplaats 🇳🇱",
+  "title": "Tom Ford oud wood 4 ml",
+  "price": 55.0,
+  "value": 190,
+  "score": 3.45,
+  "label": "🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/uiterlijk-parfum/m2468515198-tom-ford-oud-wood-4-ml",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/0302bfe2-e368-4b78-a9cf-2926c7dcc441?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 128 €",
+   "Japanissa myyty (muu) mediaani 75 € (n=56)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "35 EUR + ~20 € posti = 55 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795405890,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 22,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2468546237",
+  "brand": "Arc'teryx · Marktplaats 🇳🇱",
+  "title": "Arc'teryx Beta Jacket WaterDicht GloedNieuw,",
+  "price": 95.0,
+  "value": 269,
+  "score": 2.83,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/jassen-winter/m2468546237-arc-teryx-beta-jacket-waterdicht-gloednieuw",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/92a8a219-1739-49f7-a2b5-3fd5bfe497b6?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 95 €",
+   "Japanissa myyty (takki) mediaani 321 € (n=28)",
+   "💰 kate ~62 € (ROI 65%, myy grailed ~225 €; Yahoo JP toteutuneet (takki): mediaani 321 €, p25 212 € (n=28) → geneerinen ~266 € × 1.15 EU-taso)",
+   "75 EUR + ~20 € posti = 95 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795405890,
+  "resale": 225,
+  "profit": 62,
+  "roi": 0.65,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 321 €, p25 212 € (n=28) → geneerinen ~266 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~225 € → käteen ~157 € kulujen ja tinkimisen jälkeen",
+   "osto 95 € + toimitus = 95 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2468585961",
+  "brand": "Canada Goose · Marktplaats 🇳🇱",
+  "title": "Canada Goose Wyndham Parka - Nieuw met labels - Maat XL",
+  "price": 160.0,
+  "value": 420,
+  "score": 2.62,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "Nieuw",
+  "size": "MEN-INT-XL",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/jassen-winter/m2468585961-canada-goose-wyndham-parka-nieuw-met-labels-maat-xl",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/69956a3c-17b7-4097-a7ef-e1f19ad44ef8?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 169 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=50)",
+   "⚠️ kate ~-11 € (ROI -7%, myy grailed ~214 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso)",
+   "140 EUR + ~20 € posti = 160 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795405890,
+  "resale": 214,
+  "profit": -11,
+  "roi": -0.07,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~214 € → käteen ~149 € kulujen ja tinkimisen jälkeen",
+   "osto 160 € + toimitus = 160 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2468963421",
+  "brand": "Canada Goose · Marktplaats 🇳🇱",
+  "title": "Canada Goose winterjas maat 140",
+  "price": 100.0,
+  "value": 200,
+  "score": 2.0,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kinderen-en-baby-s/kinderkleding-maat-140/m2468963421-canada-goose-winterjas-maat-140",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/2922cf1f-9a89-4c85-9b26-5259bddfea61?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 169 €",
+   "Japanissa myyty (muu) mediaani 210 € (n=32)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "80 EUR + ~20 € posti = 100 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795405890,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2468777322",
+  "brand": "Thierry Mugler · Marktplaats 🇳🇱",
+  "title": "Thierry Mugler - nieuwe rugtas / rugzak zwart",
+  "price": 34.95,
+  "value": 294,
+  "score": 8.41,
+  "label": "🚨 INSANE",
+  "category": "muu",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/tassen-rugtassen/m2468777322-thierry-mugler-nieuwe-rugtas-rugzak-zwart",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/f676ca3c-6cd0-423d-93f4-c214e831fd05?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "thierry ×1.4",
+   "Sellpyn mediaani tälle brändille 86 €",
+   "Japanissa myyty (muu) mediaani 130 € (n=56)",
+   "kate ~38 € (ROI 109%, myy grailed ~105 €; Yahoo JP toteutuneet (muu): mediaani 130 €, p25 44 € (n=56) → geneerinen ~87 € × 1.15 EU-taso)",
+   "15 EUR + ~20 € posti = 35 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795405890,
+  "resale": 105,
+  "profit": 38,
+  "roi": 1.09,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 130 €, p25 44 € (n=56) → geneerinen ~87 € × 1.15 EU-taso",
+   "myynti grailed ~105 € → käteen ~73 € kulujen ja tinkimisen jälkeen",
+   "osto 35 € + toimitus = 35 €"
+  ],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "marktplaats-m2468219256",
+  "brand": "Thierry Mugler · Marktplaats 🇳🇱",
+  "title": "Nieuwe lipgloss van Thierry Mugler.",
+  "price": 32.5,
+  "value": 294,
+  "score": 9.05,
+  "label": "🚨 INSANE",
+  "category": "muu",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/uiterlijk-cosmetica-en-make-up/m2468219256-nieuwe-lipgloss-van-thierry-mugler",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/4059b88a-559d-41cd-96c8-340a43dc72d6?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "thierry ×1.4",
+   "Sellpyn mediaani tälle brändille 86 €",
+   "Japanissa myyty (muu) mediaani 130 € (n=56)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "12 EUR + ~20 € posti = 32 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795405890,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 3,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
   "id": "nwUi3ME3lV",
   "brand": "Tiger of Sweden",
   "title": "Tiger of Sweden Bleiseri",
@@ -45229,250 +45725,6 @@
   "image": "https://prod.images.sellpy.net/photoRobot-standard-3-l-1/JbWJI3eT3e-6ab6-0.jpg",
   "reasons": [
    "Sellpyn mediaani tälle brändille 46 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "MHsLkHoMNL",
-  "brand": "The North Face",
-  "title": "The North Face Fleece-takki",
-  "price": 22.0,
-  "value": 80,
-  "score": 3.64,
-  "label": "🔥 KOVA DIILI",
-  "category": "takki",
-  "condition": "Erittäin hyvä",
-  "size": "WMN-INT-XL",
-  "link": "https://www.sellpy.fi/item/MHsLkHoMNL",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-16-k-8/yfKjeXnOeH-ba0a-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 46 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "a3i4G0mvsn",
-  "brand": "Diesel",
-  "title": "Diesel Collegepaita",
-  "price": 23.0,
-  "value": 31,
-  "score": 1.37,
-  "label": "💎 HARVINAINEN",
-  "category": "huppari",
-  "condition": "Erittäin hyvä",
-  "size": "WMN-INT-S",
-  "link": "https://www.sellpy.fi/item/a3i4G0mvsn",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-3-k-8/LHHmedoxCd-0d44-0.jpg",
-  "reasons": [
-   "runway ×1.4",
-   "harvinainen: runway",
-   "Sellpyn mediaani tälle brändille 30 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "C6HsAQvrFI",
-  "brand": "Klättermusen",
-  "title": "Klättermusen T-paita",
-  "price": 16.0,
-  "value": 57,
-  "score": 3.56,
-  "label": "🔥 KOVA DIILI",
-  "category": "t-paita",
-  "condition": "Hyväksyttävä",
-  "size": "WMN-INT-S",
-  "link": "https://www.sellpy.fi/item/C6HsAQvrFI",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-7-k-9/qHsuv2HPxi-8666-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 93 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "IaYstJ3Fxk",
-  "brand": "The North Face",
-  "title": "The North Face Huppari",
-  "price": 15.0,
-  "value": 34,
-  "score": 2.25,
-  "label": "✅ DIILI",
-  "category": "huppari",
-  "condition": "Hyvä",
-  "size": "MEN-INT-M",
-  "link": "https://www.sellpy.fi/item/IaYstJ3Fxk",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-5-k-10/Hdy33HDABy-3a53-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 46 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "6Oyg6Mx0jO",
-  "brand": "Diesel",
-  "title": "Diesel Neulepaita",
-  "price": 14.0,
-  "value": 43,
-  "score": 3.09,
-  "label": "🔥 KOVA DIILI",
-  "category": "takki",
-  "condition": "Hyvä",
-  "size": "WMN-INT-S",
-  "link": "https://www.sellpy.fi/item/6Oyg6Mx0jO",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-4-k-16/5ZskuLQUgD-848a-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 30 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "71vHWazur2",
-  "brand": "Patagonia",
-  "title": "Patagonia Huppari",
-  "price": 13.0,
-  "value": 43,
-  "score": 3.29,
-  "label": "🔥 KOVA DIILI",
-  "category": "huppari",
-  "condition": "Hyväksyttävä",
-  "size": "WMN-INT-L",
-  "link": "https://www.sellpy.fi/item/71vHWazur2",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-8-k-15/aQzdoEbjQe-2cec-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 66 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "MIlPyLngVs",
-  "brand": "Mackage",
-  "title": "Mackage Ulkoiluliivi",
-  "price": 32.0,
-  "value": 190,
-  "score": 5.94,
-  "label": "🚨 INSANE",
-  "category": "takki",
-  "condition": "Hyvä",
-  "size": "WMN-INT-L",
-  "link": "https://www.sellpy.fi/item/MIlPyLngVs",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-5-k-1/CrialC3SxG-3409-0.jpg",
-  "reasons": [
-   "nahka ×1.1",
-   "Sellpyn mediaani tälle brändille 120 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "wPTn8qpEwI",
-  "brand": "Diesel",
-  "title": "Diesel Farkut",
-  "price": 12.0,
-  "value": 24,
-  "score": 2.02,
-  "label": "✅ DIILI",
-  "category": "housut",
-  "condition": "Hyvä",
-  "size": "PANTS-INCH-26",
-  "link": "https://www.sellpy.fi/item/wPTn8qpEwI",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-16-l-3/wPTn8qpEwI-dc7d-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 30 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "u2i0unqP2D",
-  "brand": "Diesel",
-  "title": "Diesel Body",
-  "price": 18.0,
-  "value": 43,
-  "score": 2.4,
-  "label": "✅ DIILI",
-  "category": "takki",
-  "condition": "Hyvä",
-  "size": "WMN-EU-38",
-  "link": "https://www.sellpy.fi/item/u2i0unqP2D",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-4-k-16/u2i0unqP2D-7fe3-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 30 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "3noaFZmECR",
-  "brand": "Diesel",
-  "title": "Diesel Body",
-  "price": 18.0,
-  "value": 43,
-  "score": 2.4,
-  "label": "✅ DIILI",
-  "category": "takki",
-  "condition": "Hyvä",
-  "size": "WMN-EU-36",
-  "link": "https://www.sellpy.fi/item/3noaFZmECR",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-3-l-4/xNS5FXou3t-36ee-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 30 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "0RyGXvK42A",
-  "brand": "Salomon",
-  "title": "Salomon Urheilukengät",
-  "price": 73.0,
-  "value": 70,
-  "score": 0.96,
-  "label": "💎 HARVINAINEN",
-  "category": "kengät",
-  "condition": "Erittäin hyvä",
-  "size": "SHOES-EU-40.67",
-  "link": "https://www.sellpy.fi/item/0RyGXvK42A",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-21-l-6/0RyGXvK42A-9086-0.jpg",
-  "reasons": [
-   "harvinainen: verkko",
-   "Sellpyn mediaani tälle brändille 57 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "M7lVU95Uiz",
-  "brand": "Diesel",
-  "title": "Diesel Tunika",
-  "price": 16.0,
-  "value": 43,
-  "score": 2.7,
-  "label": "🔥 KOVA DIILI",
-  "category": "takki",
-  "condition": "Hyvä",
-  "size": "WMN-INT-M",
-  "link": "https://www.sellpy.fi/item/M7lVU95Uiz",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-5-k-4/M7lVU95Uiz-449f-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 30 €"
   ],
   "source": "brändi",
   "old_price": null,
