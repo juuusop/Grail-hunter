@@ -58,6 +58,12 @@ GOOD_TEXT = re.compile(r"\b(kuitti|receipt|kvitto|kvittering|bon|bonnetje|aitous
                        r"authenticity|entrupy|legit ?check|dust ?bag|p.lypussi|dustbag|alkuper.inen laatikko|"
                        r"original box|serial|sarjanumero|date code)\b", re.I)
 
+# faux leather wording (matched on S.norm text). Luxury leather goods brands don't use it, so on a
+# counterfeit-heavy brand it means a fake or a licensed cheap line (e.g. "Valentino Bags" PU) - never a grail.
+FAUX = re.compile(r"teko ?nahka|keino ?nahka|nahkajaljitelma|pu ?nahka|vegaani\w* nahka|"
+                  r"\b(?:faux|pu|vegan|eco|imitation|synthetic|syntetisk|fake) ?leather|leatherette|"
+                  r"kunstle|kunstlder|konstlader|imitatieleer|simili ?cuir|ecopelle|similpelle|\bskai\b")
+
 PLATFORM = {  # multiplier on fake risk, and a short reason
     "sellpy": (0.45, "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv"),
     "emmy": (0.5, "Emmy tarkastaa tuotteet itse"),
@@ -117,6 +123,10 @@ def assess(brand: str, category: str, price: float, value: float, title: str = "
     if bad:
         tm *= 2.0
         why.append(f"tekstissä '{bad[0]}'")
+    faux = FAUX.search(S.norm(full))
+    if faux and base >= 15:
+        tm *= 3.0
+        why.append(f"tekonahkaa ('{faux.group(0)}'): aidot ovat nahkaa/pinnoitettua canvasia")
     if GOOD_TEXT.search(full):
         tm *= 0.6
         why.append(f"aitoustodiste mainittu ('{GOOD_TEXT.search(full).group(0)}')")
