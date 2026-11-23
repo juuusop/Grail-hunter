@@ -3,34 +3,34 @@
 1458 löytöä (data/finds.json). Heuristiikka: risk.py.
 
 - korkea feikkiriski: **10%**, keskitaso: 22%
-- kulunut/huono kunto: **21%**, kunto ei tiedossa: 29%
+- kulunut/huono kunto: **21%**, kunto ei tiedossa: 30%
 
 ## Alustoittain
 
 | alusta | n | feikki korkea | keski | kulunut/huono | kunto ? |
 |---|---|---|---|---|---|
-| sellpy.fi | 846 | 0% | 13% | 34% | 0% |
+| sellpy.fi | 834 | 0% | 13% | 35% | 0% |
 | tradera.com | 227 | 5% | 34% | 0% | 100% |
-| tori.fi | 132 | 33% | 35% | 0% | 100% |
-| marktplaats.nl | 127 | 46% | 33% | 7% | 5% |
+| marktplaats.nl | 135 | 43% | 35% | 7% | 5% |
+| tori.fi | 134 | 34% | 35% | 0% | 100% |
 | 2dehands.be | 74 | 22% | 30% | 8% | 16% |
-| blocket.se | 20 | 65% | 35% | 0% | 100% |
+| blocket.se | 21 | 62% | 38% | 0% | 100% |
 | finn.no | 17 | 12% | 24% | 0% | 100% |
-| dba.dk | 14 | 43% | 29% | 0% | 100% |
+| dba.dk | 15 | 47% | 27% | 0% | 100% |
 | emmy.fi | 1 | 0% | 100% | 0% | 0% |
 
 ## Kategorioittain
 
 | kategoria | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
-| muu | 388 | 28% | 19% |
-| takki | 290 | 31% | 23% |
-| kengät | 282 | 61% | 22% |
+| muu | 394 | 28% | 18% |
+| takki | 290 | 33% | 23% |
+| kengät | 281 | 61% | 22% |
 | neule | 128 | 12% | 16% |
-| housut | 128 | 9% | 20% |
+| housut | 127 | 9% | 20% |
 | laukku | 62 | 53% | 6% |
-| huppari | 53 | 25% | 34% |
-| t-paita | 52 | 19% | 38% |
+| t-paita | 51 | 20% | 37% |
+| huppari | 50 | 26% | 34% |
 | kauluspaita | 46 | 0% | 28% |
 | asuste | 24 | 38% | 17% |
 | nahkatakki | 3 | 67% | 0% |
@@ -53,9 +53,9 @@
 | Supreme | 3 | 100% | 0% |
 | Bottega Veneta | 8 | 100% | 0% |
 | Valentino | 33 | 97% | 12% |
+| Canada Goose | 55 | 96% | 0% |
 | Dior | 27 | 96% | 7% |
-| Canada Goose | 50 | 96% | 0% |
-| Arc'teryx | 17 | 94% | 0% |
+| Arc'teryx | 19 | 95% | 0% |
 | Alexander McQueen | 15 | 93% | 7% |
 | Rick Owens | 13 | 92% | 8% |
 | Celine | 12 | 92% | 8% |
