@@ -6,7 +6,7 @@
    "price": 14.0,
    "title": "CARPE DIEM - En Regardant Passer le Temps CD",
    "closed": "2026-10-02T17:04:46+0300",
-   "ts": 1794837395
+   "ts": 1795450991
   },
   "654565291": {
    "brand": "Undercover",
@@ -14,7 +14,7 @@
    "price": 15.0,
    "title": "Two undercover angels & Kiss me monster",
    "closed": "2026-11-08T21:08:00+0200",
-   "ts": 1794837423
+   "ts": 1795451019
   },
   "653080173": {
    "brand": "Dior",
@@ -167,9 +167,17 @@
    "title": "PREMIATA FORNERIA MARCONI: Photos of Ghosts * UK 1974",
    "closed": "2026-11-18T21:15:24+0200",
    "ts": 1795268471
+  },
+  "649015556": {
+   "brand": "Louis Vuitton",
+   "cat": "asuste",
+   "price": 55.0,
+   "title": "LOUIS VUITTON PIPO ONE SIZE",
+   "closed": "2026-11-17T23:58:55+0200",
+   "ts": 1795450999
   }
  },
- "i": 289,
+ "i": 58,
  "groups": {
   "Carpe Diem|muu": {
    "n": 1,
@@ -260,7 +268,13 @@
    "median": 39.0,
    "p25": 39.0,
    "p75": 39.0
+  },
+  "Louis Vuitton|asuste": {
+   "n": 1,
+   "median": 55.0,
+   "p25": 55.0,
+   "p75": 55.0
   }
  },
- "generated": 1795354438
+ "generated": 1795451065
 }
