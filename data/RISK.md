@@ -9,7 +9,7 @@
 
 | alusta | n | feikki korkea | keski | kulunut/huono | kunto ? |
 |---|---|---|---|---|---|
-| sellpy.fi | 833 | 0% | 14% | 34% | 0% |
+| sellpy.fi | 833 | 0% | 14% | 35% | 0% |
 | tradera.com | 227 | 5% | 34% | 0% | 100% |
 | tori.fi | 135 | 34% | 35% | 0% | 100% |
 | marktplaats.nl | 135 | 43% | 35% | 7% | 5% |
@@ -23,14 +23,14 @@
 
 | kategoria | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
-| muu | 397 | 28% | 19% |
-| takki | 286 | 34% | 22% |
+| muu | 398 | 28% | 19% |
+| takki | 284 | 34% | 22% |
 | kengät | 279 | 62% | 22% |
-| neule | 131 | 12% | 15% |
-| housut | 125 | 9% | 21% |
+| neule | 132 | 12% | 16% |
+| housut | 126 | 9% | 21% |
 | laukku | 63 | 54% | 6% |
 | t-paita | 53 | 23% | 40% |
-| huppari | 49 | 27% | 33% |
+| huppari | 48 | 27% | 33% |
 | kauluspaita | 46 | 0% | 28% |
 | asuste | 24 | 38% | 17% |
 | nahkatakki | 3 | 67% | 0% |
@@ -59,7 +59,7 @@
 | Alexander McQueen | 15 | 93% | 7% |
 | Rick Owens | 13 | 92% | 8% |
 | Celine | 12 | 92% | 8% |
-| Moncler | 36 | 83% | 17% |
+| Moncler | 35 | 83% | 14% |
 | Maison Margiela | 23 | 78% | 13% |
 | Louis Vuitton | 17 | 76% | 18% |
 | Dolce & Gabbana | 4 | 75% | 50% |

@@ -1,5 +1,287 @@
 [
  {
+  "id": "olT0CFNFFJ",
+  "brand": "Gucci",
+  "title": "Gucci Nauhalliset saappaat",
+  "price": 50.0,
+  "value": 172,
+  "score": 3.45,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Hyväksyttävä",
+  "size": "SHOES-EU-44",
+  "link": "https://www.sellpy.fi/item/olT0CFNFFJ",
+  "image": "https://prod.images.sellpy.net/photoRobot-case-21-l-4/olT0CFNFFJ-701f-0.jpg",
+  "reasons": [
+   "taso B",
+   "nahka ×1.1",
+   "Sellpyn mediaani tälle brändille 155 €",
+   "Japanissa myyty (kengät) mediaani 120 € (n=5)",
+   "⚠️ kate ~-13 € (ROI -23%, myy grailed ~62 €; Yahoo JP toteutuneet (kengät): mediaani 120 €, p25 34 € (n=5) → geneerinen ~77 € × 1.15 EU-taso)"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795467635,
+  "resale": 62,
+  "profit": -13,
+  "roi": -0.23,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 120 €, p25 34 € (n=5) → geneerinen ~77 € × 1.15 EU-taso",
+   "myynti grailed ~62 € → käteen ~43 € kulujen ja tinkimisen jälkeen",
+   "osto 50 € + toimitus = 56 €"
+  ],
+  "risk": {
+   "fake": 29,
+   "fake_level": "keski",
+   "cond": "kulunut",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv",
+    "selviä käytön jälkiä/vikoja (kengissä/laukuissa kuluma syö resale-hintaa)"
+   ]
+  }
+ },
+ {
+  "id": "sTfAnA1xLj",
+  "brand": "The North Face",
+  "title": "The North Face Urheilutakki",
+  "price": 28.0,
+  "value": 72,
+  "score": 2.57,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "Hyvä",
+  "size": "MEN-INT-XL",
+  "link": "https://www.sellpy.fi/item/sTfAnA1xLj",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-16/DdTOfEPNhC-9b86-0.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 41 €",
+   "kate ~0 € (ROI 0%, myy vinted ~38 €; brändiarvio ~54 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795467635,
+  "resale": 38,
+  "profit": 0,
+  "roi": 0.0,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~54 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~38 € → käteen ~34 € kulujen ja tinkimisen jälkeen",
+   "osto 28 € + toimitus = 34 €"
+  ],
+  "risk": {
+   "fake": 8,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv"
+   ]
+  }
+ },
+ {
+  "id": "lmDzyQeLAL",
+  "brand": "The North Face",
+  "title": "The North Face Urheilutakki",
+  "price": 10.0,
+  "value": 56,
+  "score": 5.6,
+  "label": "🚨 INSANE",
+  "category": "takki",
+  "condition": "Hyväksyttävä",
+  "size": "MEN-INT-XL",
+  "link": "https://www.sellpy.fi/item/lmDzyQeLAL",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-9-k-2/7j246PWw77-6e69-0.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 41 €",
+   "kate ~11 € (ROI 66%, myy vinted ~29 €; brändiarvio ~42 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795467635,
+  "resale": 29,
+  "profit": 11,
+  "roi": 0.66,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~42 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~29 € → käteen ~26 € kulujen ja tinkimisen jälkeen",
+   "osto 10 € + toimitus = 16 €"
+  ],
+  "risk": {
+   "fake": 10,
+   "fake_level": "matala",
+   "cond": "kulunut",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv",
+    "selviä käytön jälkiä/vikoja"
+   ]
+  }
+ },
+ {
+  "id": "T5UkZa82Er",
+  "brand": "The North Face",
+  "title": "The North Face Fleece-takki",
+  "price": 21.0,
+  "value": 72,
+  "score": 3.43,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "Hyvä",
+  "size": "MEN-INT-L",
+  "link": "https://www.sellpy.fi/item/T5UkZa82Er",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-4-k-2/T5UkZa82Er-c868-0.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 41 €",
+   "kate ~7 € (ROI 26%, myy vinted ~38 €; brändiarvio ~54 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795467635,
+  "resale": 38,
+  "profit": 7,
+  "roi": 0.26,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~54 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~38 € → käteen ~34 € kulujen ja tinkimisen jälkeen",
+   "osto 21 € + toimitus = 27 €"
+  ],
+  "risk": {
+   "fake": 10,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv"
+   ]
+  }
+ },
+ {
+  "id": "0QnhXPGMSp",
+  "brand": "Acne Studios",
+  "title": "Acne Studios Farkut",
+  "price": 11.0,
+  "value": 65,
+  "score": 5.89,
+  "label": "🚨 INSANE",
+  "category": "housut",
+  "condition": "Hyvä",
+  "size": "WMN-EU-46",
+  "link": "https://www.sellpy.fi/item/0QnhXPGMSp",
+  "image": "https://prod.images.sellpy.net/photoRobot-hanging-8-k-10/rqqq5QquEm-4119-0.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 70 €",
+   "kate ~14 € (ROI 82%, myy vinted ~34 €; brändiarvio ~49 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795467635,
+  "resale": 34,
+  "profit": 14,
+  "roi": 0.82,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~49 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~34 € → käteen ~31 € kulujen ja tinkimisen jälkeen",
+   "osto 11 € + toimitus = 17 €"
+  ],
+  "risk": {
+   "fake": 16,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv"
+   ]
+  }
+ },
+ {
+  "id": "WtzCOZj580",
+  "brand": "Max Mara",
+  "title": "MaxMara Vaatepussi 101801",
+  "price": 45.0,
+  "value": 166,
+  "score": 3.7,
+  "label": "🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "Erittäin hyvä",
+  "size": "-",
+  "link": "https://www.sellpy.fi/item/WtzCOZj580",
+  "image": "https://prod.images.sellpy.net/photoRobot-flexible-16-l-1/WtzCOZj580-2014-single.jpg",
+  "reasons": [
+   "taso B",
+   "101801 ×1.6",
+   "Sellpyn mediaani tälle brändille 99 €",
+   "kate ~36 € (ROI 70%, myy grailed ~124 €; brändiarvio ~124 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795467635,
+  "resale": 124,
+  "profit": 36,
+  "roi": 0.7,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~124 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~124 € → käteen ~87 € kulujen ja tinkimisen jälkeen",
+   "osto 45 € + toimitus = 51 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "br2kv7bhxO",
+  "brand": "Paul Smith",
+  "title": "Paul Smith Neuletakki",
+  "price": 12.0,
+  "value": 49,
+  "score": 4.08,
+  "label": "🚨 INSANE",
+  "category": "neule",
+  "condition": "Hyväksyttävä",
+  "size": "MEN-INT-XL",
+  "link": "https://www.sellpy.fi/item/br2kv7bhxO",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-16-k-8/4TTtHo7Qxz-dfa6-0.jpg",
+  "reasons": [
+   "taso D",
+   "Sellpyn mediaani tälle brändille 32 €",
+   "kate ~5 € (ROI 29%, myy vinted ~26 €; brändiarvio ~37 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795467635,
+  "resale": 26,
+  "profit": 5,
+  "roi": 0.29,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~37 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~26 € → käteen ~23 € kulujen ja tinkimisen jälkeen",
+   "osto 12 € + toimitus = 18 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "kulunut",
+   "why": [
+    "selviä käytön jälkiä/vikoja"
+   ]
+  }
+ },
+ {
   "id": "BnCdk2pc4y",
   "brand": "Jil Sander",
   "title": "Jil Sander Paita",
@@ -45837,147 +46119,6 @@
   "image": "https://prod.images.sellpy.net/photoRobot-standard-3-l-3/osmULanAqw-bfff-0.jpg",
   "reasons": [
    "Sellpyn mediaani tälle brändille 137 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347666
- },
- {
-  "id": "SDjZOvHMmG",
-  "brand": "The North Face",
-  "title": "The North Face Huppari",
-  "price": 12.0,
-  "value": 34,
-  "score": 2.81,
-  "label": "🔥 KOVA DIILI",
-  "category": "huppari",
-  "condition": "Hyvä",
-  "size": "WMN-INT-L",
-  "link": "https://www.sellpy.fi/item/SDjZOvHMmG",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-12-k-16/d0mlAFelsw-9709-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 46 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347666
- },
- {
-  "id": "1DaDuDaOuJ",
-  "brand": "Moncler",
-  "title": "Moncler Trenssi takki Flave Giubbotto",
-  "price": 75.0,
-  "value": 334,
-  "score": 4.46,
-  "label": "🚨 INSANE",
-  "category": "takki",
-  "condition": "Hyväksyttävä",
-  "size": "WMN-INT-M",
-  "link": "https://www.sellpy.fi/item/1DaDuDaOuJ",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-21/MCJ6lCvkPE-06e9-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 137 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347666
- },
- {
-  "id": "wYEcWcw9n4",
-  "brand": "Diesel",
-  "title": "Diesel Fleece-takki",
-  "price": 12.0,
-  "value": 43,
-  "score": 3.6,
-  "label": "🔥 KOVA DIILI",
-  "category": "takki",
-  "condition": "Hyvä",
-  "size": "MEN-INT-L",
-  "link": "https://www.sellpy.fi/item/wYEcWcw9n4",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-3-k-9/mr0phoAGxt-a8f5-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 30 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347666
- },
- {
-  "id": "Ivfrusr0v6",
-  "brand": "The North Face",
-  "title": "The North Face Fleece-takki",
-  "price": 18.0,
-  "value": 72,
-  "score": 4.0,
-  "label": "🚨 INSANE",
-  "category": "takki",
-  "condition": "Hyvä",
-  "size": "MEN-INT-L",
-  "link": "https://www.sellpy.fi/item/Ivfrusr0v6",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-3-k-7/1dKNf6q40G-d818-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 46 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347666
- },
- {
-  "id": "dCgxTLYz38",
-  "brand": "Salomon",
-  "title": "Salomon Lenkkitossut Wings 2",
-  "price": 48.0,
-  "value": 63,
-  "score": 1.31,
-  "label": "💎 HARVINAINEN",
-  "category": "kengät",
-  "condition": "Hyvä",
-  "size": "SHOES-EU-38.67",
-  "link": "https://www.sellpy.fi/item/dCgxTLYz38",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-14-k-3/P6snR3lThT-bf7f-0.jpg",
-  "reasons": [
-   "harvinainen: verkko",
-   "Sellpyn mediaani tälle brändille 57 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347666
- },
- {
-  "id": "8OOmjmMk8v",
-  "brand": "Diesel",
-  "title": "Diesel Farkkupaita",
-  "price": 19.0,
-  "value": 43,
-  "score": 2.27,
-  "label": "✅ DIILI",
-  "category": "takki",
-  "condition": "Hyvä",
-  "size": "WMN-INT-S",
-  "link": "https://www.sellpy.fi/item/8OOmjmMk8v",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-3-k-7/RrLQpjjGB3-0994-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 30 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347666
- },
- {
-  "id": "xBWOBKak9G",
-  "brand": "Parajumpers",
-  "title": "Parajumpers Untuvaliivi Super Lightweight",
-  "price": 62.0,
-  "value": 130,
-  "score": 2.09,
-  "label": "✅ DIILI",
-  "category": "takki",
-  "condition": "Hyvä",
-  "size": "WMN-INT-XS",
-  "link": "https://www.sellpy.fi/item/xBWOBKak9G",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-21/FwduHvCYUB-e943-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 114 €"
   ],
   "source": "brändi",
   "old_price": null,
