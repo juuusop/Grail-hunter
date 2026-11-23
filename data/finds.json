@@ -1,5 +1,48 @@
 [
  {
+  "id": "tori-50325756",
+  "brand": "Moncler · Tori",
+  "title": "Moncler musta hupullinen untuvatakki",
+  "price": 100.0,
+  "value": 334,
+  "score": 3.34,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50325756",
+  "image": "https://img.tori.net/dynamic/default/item/50325756/bb4a46f7-32d1-49c4-9ebb-54eda0bc4c93",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 138 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=57)",
+   "kate ~16 € (ROI 15%, myy grailed ~177 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795441823,
+  "resale": 177,
+  "profit": 16,
+  "roi": 0.15,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~177 € → käteen ~123 € kulujen ja tinkimisen jälkeen",
+   "osto 100 € + toimitus = 107 €"
+  ],
+  "risk": {
+   "fake": 50,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
   "id": "tori-50294701",
   "brand": "Canada Goose · Tori",
   "title": "Canada Goose Victoria parka",
@@ -45705,26 +45748,6 @@
   "image": "https://prod.images.sellpy.net/photoRobot-hanging-8-k-6/G0Fjfk8tJ6-dc10-0.jpg",
   "reasons": [
    "Sellpyn mediaani tälle brändille 57 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347667
- },
- {
-  "id": "yMR8pAq3Be",
-  "brand": "The North Face",
-  "title": "The North Face Kevyttoppatakki",
-  "price": 29.0,
-  "value": 80,
-  "score": 2.76,
-  "label": "🔥 KOVA DIILI",
-  "category": "takki",
-  "condition": "Erittäin hyvä",
-  "size": "WMN-INT-M",
-  "link": "https://www.sellpy.fi/item/yMR8pAq3Be",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-3-l-1/JbWJI3eT3e-6ab6-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 46 €"
   ],
   "source": "brändi",
   "old_price": null,
