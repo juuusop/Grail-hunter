@@ -1,5 +1,5 @@
 {
- "generated": 1795483342,
+ "generated": 1795520736,
  "items": [
   {
    "id": "tori-33268564",
@@ -3066,13 +3066,13 @@
    "image": "https://img.tori.net/dynamic/default/item/49045953/01eeaf73-35ba-4f52-8947-4ebe03b32339",
    "reasons": [
     "taso C",
-    "Sellpyn mediaani tälle brändille 87 €",
-    "Japanissa myyty mediaani 18 € (n=72)",
+    "Sellpyn mediaani tälle brändille 90 €",
+    "Japanissa myyty mediaani 14 € (n=59)",
     "kate ~26 € (ROI 46%, myy grailed ~120 €; brändiarvio ~171 € (ei mallivertailua eikä Yahoo-dataa))"
    ],
    "source": "tori",
    "old_price": null,
-   "ts": 1795341114,
+   "ts": 1795520734,
    "resale": 120,
    "profit": 26,
    "roi": 0.46,
@@ -3514,13 +3514,13 @@
    "image": "https://images.huuto.net/v1/4908/95f0a50c76dd657bc8bdb5a22ff/561691548-m.jpg",
    "reasons": [
     "taso B",
-    "Sellpyn mediaani tälle brändille 109 €",
+    "Sellpyn mediaani tälle brändille 108 €",
     "Japanissa myyty mediaani 57 € (n=55)",
     "kate ~10 € (ROI 43%, myy grailed ~46 €; brändiarvio ~46 € (ei mallivertailua eikä Yahoo-dataa))"
    ],
    "source": "huuto",
    "old_price": null,
-   "ts": 1795388118,
+   "ts": 1795520734,
    "thumb": "data:image/jpeg;base64,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",
    "resale": 46,
    "profit": 10,
@@ -3735,13 +3735,13 @@
    "image": "https://img.tori.net/dynamic/default/item/47571247/4e2487c4-20f4-4e2e-8a0e-7b275ee8d2fd",
    "reasons": [
     "taso B",
-    "Sellpyn mediaani tälle brändille 116 €",
+    "Sellpyn mediaani tälle brändille 115 €",
     "Japanissa myyty mediaani 25 € (n=27)",
     "kate ~30 € (ROI 80%, myy grailed ~96 €; brändiarvio ~96 € (ei mallivertailua eikä Yahoo-dataa))"
    ],
    "source": "tori",
    "old_price": null,
-   "ts": 1795368812,
+   "ts": 1795520734,
    "resale": 96,
    "profit": 30,
    "roi": 0.8,
@@ -4333,14 +4333,14 @@
    "reasons": [
     "harvinainen brändi",
     "taso S",
-    "Japanissa myyty mediaani 164 € (n=100)",
+    "Japanissa myyty mediaani 167 € (n=100)",
     "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
     "100 EUR + ~20 € posti = 120 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
     "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
    ],
    "source": "marktplaats",
    "old_price": null,
-   "ts": 1795313896,
+   "ts": 1795520734,
    "resale": null,
    "profit": null,
    "roi": null,
@@ -4537,13 +4537,13 @@
    "image": "https://img.tori.net/dynamic/default/item/50246258/0a7494fe-5a38-4b3e-a34a-0350de461af7",
    "reasons": [
     "taso C",
-    "Sellpyn mediaani tälle brändille 87 €",
-    "Japanissa myyty mediaani 18 € (n=72)",
+    "Sellpyn mediaani tälle brändille 90 €",
+    "Japanissa myyty mediaani 14 € (n=59)",
     "kate ~16 € (ROI 28%, myy grailed ~105 €; brändiarvio ~150 € (ei mallivertailua eikä Yahoo-dataa))"
    ],
    "source": "tori",
    "old_price": null,
-   "ts": 1795341114,
+   "ts": 1795520734,
    "resale": 105,
    "profit": 16,
    "roi": 0.28,
@@ -5531,6 +5531,52 @@
    "thumb": "data:image/jpeg;base64,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"
   },
   {
+   "id": "marktplaats-m2469310372",
+   "brand": "Hermès · Marktplaats 🇳🇱",
+   "title": "Hermes sneakers hoge kwaliteit) Maat 43)",
+   "price": 150.0,
+   "value": 560,
+   "score": 3.73,
+   "label": "🔥 KOVA DIILI",
+   "category": "kengät",
+   "condition": "Zo goed als nieuw",
+   "size": "SHOES-EU-43",
+   "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2469310372-hermes-sneakers-hoge-kwaliteit-maat-43",
+   "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/3cf15dd6-61ed-40d3-bc44-c28a35a54aba?rule=ecg_mp_eps$_83.jpg",
+   "reasons": [
+    "taso S",
+    "Sellpyn mediaani tälle brändille 140 €",
+    "Japanissa myyty (kengät) mediaani 289 € (n=8)",
+    "kate ~3 € (ROI 2%, myy grailed ~219 €; Yahoo JP toteutuneet (kengät): mediaani 289 €, p25 256 € (n=8) → geneerinen ~272 € × 1.15 EU-taso)",
+    "130 EUR + ~20 € posti = 150 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+    "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+   ],
+   "source": "marktplaats",
+   "old_price": null,
+   "ts": 1795520734,
+   "resale": 219,
+   "profit": 3,
+   "roi": 0.02,
+   "exit": "grailed",
+   "resale_why": [
+    "Yahoo JP toteutuneet (kengät): mediaani 289 €, p25 256 € (n=8) → geneerinen ~272 € × 1.15 EU-taso",
+    "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+    "myynti grailed ~219 € → käteen ~153 € kulujen ja tinkimisen jälkeen",
+    "osto 150 € + toimitus = 150 €"
+   ],
+   "risk": {
+    "fake": 65,
+    "fake_level": "korkea",
+    "cond": "ok",
+    "why": [
+     "paljon väärennetty brändi",
+     "kengät: väärennetyimpiä tuotetyyppejä",
+     "yksityismyyjä, ei tarkastusta"
+    ]
+   },
+   "thumb": "data:image/jpeg;base64,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"
+  },
+  {
    "id": "marktplaats-m2464016644",
    "brand": "Loro Piana · Marktplaats 🇳🇱",
    "title": "Loro Piana Bruine Sneakers Maat 43",
@@ -6441,13 +6487,13 @@
    "image": "https://img.tori.net/dynamic/default/item/49429923/82eefc33-abed-4a4a-82a5-fe2e9216321d",
    "reasons": [
     "taso C",
-    "Sellpyn mediaani tälle brändille 132 €",
-    "Japanissa myyty mediaani 16 € (n=53)",
+    "Sellpyn mediaani tälle brändille 136 €",
+    "Japanissa myyty mediaani 17 € (n=43)",
     "kate ~5 € (ROI 9%, myy vestiaire ~90 €; brändiarvio ~128 € (ei mallivertailua eikä Yahoo-dataa))"
    ],
    "source": "tori",
    "old_price": null,
-   "ts": 1795341114,
+   "ts": 1795520734,
    "thumb": "data:image/jpeg;base64,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",
    "resale": 90,
    "profit": 5,
@@ -6778,13 +6824,13 @@
    "image": "https://img.tori.net/dynamic/default/item/49431846/8d452864-edaa-4a99-9d84-8a4965ebd82a",
    "reasons": [
     "taso C",
-    "Sellpyn mediaani tälle brändille 132 €",
-    "Japanissa myyty mediaani 16 € (n=53)",
+    "Sellpyn mediaani tälle brändille 136 €",
+    "Japanissa myyty mediaani 17 € (n=43)",
     "kate ~4 € (ROI 7%, myy vestiaire ~90 €; brändiarvio ~128 € (ei mallivertailua eikä Yahoo-dataa))"
    ],
    "source": "tori",
    "old_price": null,
-   "ts": 1795341114,
+   "ts": 1795520734,
    "thumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgwKCA0MCwwPDg0QFCIWFBISFCkdHxgiMSszMjArLy42PE1CNjlJOi4vQ1xESVBSV1dXNEFfZl5UZU1VV1P/2wBDAQ4PDxQSFCcWFidTNy83U1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1P/wAARCACWAHwDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAgUAAwQBBgf/xAA3EAACAQMDAQUDCwQDAAAAAAABAgADBBEFITESBiJBUXETMmEjJDNCUmKBkaGx0RQVcsGS4fH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIEA//EAB8RAQEAAgICAwEAAAAAAAAAAAABAhEDMSFBEyIyUf/aAAwDAQACEQMRAD8AeKJYogqJaoE5qdUS1RBA8pYojAhDXeCFExa3qSaRplS5IDP7tNT9Zv48YBoOoWy1alPrJamcN0jOD5esV3va6zsaoSva3aZ4ZqYAPpvEvZy6qXlvWrVT1VXfqY+ZPMHtVR67ak5Oelv3nK8lmWnWYTT1Gm9odN1JwlGv01DwlQdJPpGuJ8u7NWlC4u69GsucplSNipB5E9nYX13QQ29ZxVakO6zDd18/UcH8JXyQrx30f4ki5dV+3S/4mXJqNu3LFP8AIQnJjfabhlPTXOGClanU9yorehhGXtGgNKyJY0rPMZsCiWKJwCGvpJAhDE4BCAjAhPI9qKVbV9ctdOoHZVyT4Lnkn0E9Y7KiMzcKCTFmiUOurcahUHylZulfgo/7/aBz+kuj0EsNR1G0p9Xs6VQKuecYlmvL7WwY43G8L3O0OqDzKn9BJfHrtXHhiZM79mjH8kfZw41YfeQiesbuMKh+pufTxnj9MsFu7hs1nosvDJzHS6VqSD5HVXYeTjP75itm+1To3cBXIPh4wCJjr/3RKVAWy0arovRVVvEjxHHMoN9qlL6fSSw86bf+ybj58HKYkQkrVqR7lV1HlmK/75TTavZ3NI/Fcw01vT3H0/QfvoRFrKH4pwup3C4DdL+ohHVXJ+jX84rS8tao7lxSb0cQjg+IlTkzntN48b6PBCAnBtCmxkEPWcqVVpqSxkZgqxBrF4fo1O5gB6pqvXRalSO7d2MbC5p07anSB7qKAJ5Jsqqt+MhvnRcAmEqrPRlVcN2ivmU7Mqn9BOXGDRYb4+MXaXWatf1Xbkr/ABGVyc0iJj5L92nD8lOjHpvag+M9Jb1ek4J28J5rTe7fv6x6h72JGXa8em1XUXGFPvrn8Rz/AKmkOIqqVOjpqH6jZPpwf0MtLYYgHcQvmSgwDAnHPrAqW9vVHfo0m9UBmFaj9WxMN6jkbk8yRoNXR9Mre9a0wfhtMD6DpvUQtJwB5VDNZfEJWyJctTYdgZneJJCdszcxs93U6KZM8pdVPaV2Md6tcdNMgcmIqhW3VKlUZHUCRjwipyOV2V6NF6eTTK7N5ngzDWjzTRTuqR9socMxYZ+MPUbCwoWlWs1Nh0rsFYjJ8JO3W4W+SXR2+dv/AI/xG1c/JmUWWr9n7dFapa1KdbpAY9JbJ/OXVu0mgOgVHen5/N8/vOOfHbluOuFkmiuyONQaOg3elSdqOztPBW2Z3x7wtwCY1t6lnqFOncpa+zRxkBjgkeeBxJvFacyhTeVGFrVKYyFJwfEeP6Q7e4FWgrqxPhkjByNo8SjbA7UUwfMZim/b55WpqoCoFcADAGcj/Ud47MT35RKnfG87UqbneZEf5UQ3fc7zgp1nwRvDSpgH1mRmhipzKhV6sQKzhEJPMPMX6jWwpAJm9iLq2bm5x4AxbrDdLJTA2Y4MdWtPppFzyYj1be7pj4ExHj216YeimomftBclwluDsO800WfdUekx3tq1auXzzIaPRG1AEwTaoeRHaWC/WJl6abRIhtOiG3sBVqqiDLMcT3VALRoU6a8IoWL7a2pWx6kA6vOahUgqRrWpgzPejLVDn3kgipJcOPZ9RO2MGFOE6v3hvLHfeZQ3eGPOGzZmJ0dds7zqNkcylmyJwNtzLia9tUfpQ7xNcP7SvjfEYXVTCmLKJBrFj4Taxt5HRQxPN6iM3inHAP7xxc3QJCgxRct13Y+AhVY9tdt7omlqYImag/TNXXmQ0RlqIVO0rWoVPM1uOqZatI+AgQva/GT2/wAZlYsuxgkExhtFffmaQ/XRbG5xFtOk7TVSFSk26kj4QEK2b5RvUzpbYQK/cuKi/eMHq4mO9r2InacDkCBnmQEESoT1N7VzneL2r9CGHe1cnAi6q+dpsZBLULPkwV79yxlanAl1vvk/GKrw7aU2EtVjBRcy5KY8ZLs6u8uWmDyJFUCWiBh9ihG6j8pmrWpXJGMTcDtAfcQgKGZ6TTXb3JZcGFVohxxKVomm20ZF2rL03fX9tczIWjLWEzQSp9lsfnFWZlzmslOk7SBsCBnmczCA3r1OpjMzSxjvK2mtkCTNFrxMxmm32AhXTBvpbTQpmRDL1baS7LwZ0NKWAcckekgp97JY/gMQDQG+MhORAWkp8SPSXpSCqAOIwyVWI8JmNQ53jR6HUJirWh8IBmu1FWyqr93I/DeIZ6QUcKQx5nm3HSSvkcThyzqnAecgO04ZwccyIRqYDQyYDTWyuYmqmAAJlDqhy5xBe9QcNE649GQqAQxXHnEbXueIP9Y0S9vQrWHnC9sB4zzv9a48ZDfP5wPb0a3aryZal8h8Z5Jroty2IS3TqO7kwG3tKd0rDmWllcTxSX9ZD4zVS1qqnKMYbG3oK6EcCeWvEK3dUfeMap2hULhqFRj8MTJVp1b6s1wtL2VM8lzgD8Zz5NWGXFZPZk8LNpFrQ87h/wAl/kwTf1we5U9mvgqAACcwuJgngySTUyh52nCq/ZH5SSQNwgeAEoeSSEJirnBHriYxvJJFl26YdCXmbqPuySTjn06xaJqsrJrur0K4X1kknI1zVKFqxSlS63U4L1P9CZ69xVrEGq5bHGeB+EkkcChjmASAd5JJRV//2Q==",
    "resale": 90,
    "profit": 4,
@@ -6943,6 +6989,51 @@
     ]
    },
    "thumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wgARCAB4AHgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAwQAAgUBBv/EABgBAQEBAQEAAAAAAAAAAAAAAAEAAgME/9oADAMBAAIQAxAAAAHvOd8vfq7THTHliUY68/S8qbG7wRERV1cnGq00k9ZzpITkz6zsveY5o0NbMN5t6Hck4vCRIgGV7Ifqg9kgZ0FxuGpGujn6DNJdg0p2dPtXOW0ou/lQ6+LrjMmnBEtqJVmXuPpi/KEa8vyhNK8yuaiJhbzTERSOSUwsjxoDK9UpB16YvcfCtUnWpt4XK2LLd5bLBQTci4kVYT0cWbB152FZqqd2AZc6mrSg80JWZDzLdXYzaWDyaCUhUT9Dm6FPVtBr2dQgjUpKBmV4UmdCRkNgNJ24W7IOqxJPASRSSNaSV//EACQQAAICAgEFAAIDAAAAAAAAAAECAAMREiEEEBMiMTJBFCNC/9oACAEBAAEFAu/WJmuIdbLPoAzmMAweth2y5G5x5PYdgI671j6KLGnJQYnGRLLFQL/c2y0y0i6aBWRp5Vylik54Wvfqczabwt2WgkhHhVjG1UPbuAxUd+i+gLozaGvDxfaZzY/AML62vc2WfaP+c1aCI2rfyI77yp/G44hE4mu0NTZevAxLSGsTUTqH9R3BmMym9dCyKHfJLQBpYvqurXVUaL6qxbniYmIqbTGC0VsqoBZagAzII/u3iJlpGCOCurakt/oNAdZY23YfayI2xmugV2xzsZkKqth9QYxJsAAmSD97q2rV2h1Zcz4C0tbJrTaVpkOdIvA3mcDXkMCSnbOCLcrvA08QEf2mwEtJMP4ifiMmDBgUhvaYzEEddYDGYCFiYOI52dviwnmmjyTwIB4FJNKzxRatSacxq9CFxXC+IOx4WU+vbHbE+RzD1AllZIZNQeT2X5wJQ2R2/YM+wqMP07Ai3eWfNAytQykrFr9Rwf3XbkGaggiczyNPIZ//xAAcEQADAAMBAQEAAAAAAAAAAAAAARECEBIgITD/2gAIAQMBAT8BMvCY2I6KJfCI5RyhpaSo9U6L7Thd38ctwhdUb9oyQ9wmv//EAB8RAAMBAAICAwEAAAAAAAAAAAABAhEQEiAhAxMwMf/aAAgBAgEBPwEnwaEhnQ6l3SrB3SWn2Wd6Jqt98OsEYhymsH8coUIzya0S5z8NJ/vOs0wwU+hLB8YZyyWLlUduP//EACkQAAEDAwMDBAIDAAAAAAAAAAABESECEDESMlEgIkEDYXGBkbETM6H/2gAIAQEABj8CvTXxamrhRBVh782ehMHfC8dK08jG38lL5TokVsDZJoVCJsym5Bz+SiacmFNqm1TapCVHe4ydiewy4+D+pVNumkZOipPY5apD1Iy6fJ6VXliZ7z1UdoYjhfoq+1FfkVhuRbO1kVDa130N9k0f6bF/JjTfArJizJ56m9VWYgTImiXJg1VVP7CUbXRxX+ztlCev4EfAjtAuFUfTT+DXVnkbxxydtLJ8jLZkJPa8D0jfonPBFNI9auo/kaTDoRPwKlKkmCLuRC8DPA19VW0nAyp3eKk82VObOgy5IvibvUoyRT+zAj3dc2RVydqwd9kpS/K9cjMeSEItpJpqFWpM46Y6Ftiz46Ha7EIaFz46mVIO2UIPdRlIlDCijEDVwtpNpCKl/wD/xAAlEAEAAgICAgICAwEBAAAAAAABABEhMUFRYXEQkYHwocHR4fH/2gAIAQEAAT8h+CVJtU+oalf8D8ChCzbCruaRMgYS4oAdIf4ygkFbYrPi5h9OqW0Z1UKwz6TCaRcwar8RppUUX3LlsobRrUw41/M+0q4gigEK5iTsKgyoJGnBzL7AsfsT/YD/AMZ+mpaUqfiNhVL3LIX6YQPQm7ieTypcb7GZbiih8BFOxeZttcsaZnQ4izuYpSix1x3B1mEnK4tUhD7I60A3avioqtCozr9uaJa1+SR4/VoJkXCX6IxsRlIRnD1DQZ3L8QUo67qbRXSV1AC1VeiW9TM1d4q6laiw4gy8Cj57ns8fa4sYe227zct7zebm3ZWoa0yzBQgTB9yD5pOpUXee4+kXJ5mP8+CPQoDbmFgjiYkQYQSgpCoRooFiK7RWWqzLL5XAXMMvg1uiX7hhvBKf8GG25lXBex1mCaHUDTRNbS8onHyg8R5oFoLbaNwcD+G5yxUtsDjdSzAsiaZjDDRBxFXghuV7eI61vpX/ABLWsfwB7jLe8wF4cDRFdq78sziwSvsJyEaePK8I4Cu+4oFC5irSg3tNb+GIU+GZNOYYfiAcDUAaXMDDogdDnPMB+TUSzCn+gTLeZarK5PiFS8y2ayhVCL5RxDIGkleqgKaqZHzDcXvBFSjtgxhLKxT4hbCtxGa7zBofhGTkQbIBrmJWCWciO8/ZASOQRz9Sm2WXq8YPgGYSupgcHiG9YMmBLrhA7mGBkYwu4t1VDt3B+5DcLMkBxiVMbniR8wf2pS4IKHom4U94F/mFFe2YdhlPg7mhVx8ExxdxNjaBbuIgymbmFVTzTjt/UBPczavMoL+IDY1KIQrilw/vS+9fEY98NzCdkRMTXkCZJ2TJnNG1wdRc9yhuO0V4hGlP+wgOE+5dwT//2gAMAwEAAgADAAAAEFvY8IsBgwvKwqebwe/e7LHqvC9UOPlHsAHGD3vfzoSMpGVof2uq56hVvogIwfAoAP/EABwRAQEBAQEBAQEBAAAAAAAAAAEAESExEFEgQf/aAAgBAwEBPxC6Mgk58/S6yclf5O4kMI5aTAjnsOWqGOWpCHYT5KlN7aRp5/GidWQW3yeGs/RyP25AHl4+4fji2XuyMG3ltvwy7SBLiPJJFxZf/8QAIREAAwACAQUAAwAAAAAAAAAAAAERITEQQVFhcZGBweH/2gAIAQIBAT8QMXRuC2bO2YRY8CS5Ei0NPQp07/k0xPXi9yTmPnn2XmV8/o+mEg85IFUO2qxudgwPpjatP6zZ/YmmB0cbyLOuZhKMIbRKVYlXEJF4ao3mcU9mfCkCyWr14ICkGipsYTGUOmKbGpwyHhtI2qMSKeyn/8QAJRABAAICAgIBBQEBAQAAAAAAAQARITFBUWFxgZGhscHR8BDh/9oACAEBAAE/EH/jzKOfdTX3/MGLE55nq8w5xA4YHBHdmEBTPBqWxD14lgPq2fEt3DFKsqFvi4FLQ2tD1HSnBdyvedP/ACrI4NKPDx94AmqujN9SlBPP9IFUFguywzHuudkINLophmINRcFwLyxgjaJznV8QYCgUQDjYsPH0l4tLg0rHf9llECrd1iKisEta+SYhFceFr8w+oVtsBEAArBBV6vyMDhanTtgHLW/8ZQwfS/qWagUiUfvEgHpTH3hHHbULX5YBdLqr2VzBDVN8Rzi6GIoLYxPaX+pfp9XRb/Ixm6+HX1hb8saIOT7QRbbbLj29UNHhT9y360LgpChxYZ83GBCCDLWL9Z+su4eqsgGH/cyvasSSyc+uoQmEWljHxmGA+gbBcSehxiI2KgkXyKPiURaDWcMN/NRY1hXeoJE9DC+su6mWKggxa9LGNBLbKIlT3GiyLvSnJD5U4N12rv1iNQqumlv4P7ON4bMC4v8AUQYG088CXVdLEM7jgKw9bsKjYrWs8tmU2sCnIMq1g1xcszLFB7cw1Q8Bz7g5C/NVzNTpZ7rbiLChzdWzJd7I4DiYIHiIdTAAeQRQWfMUNAAq1716ijYMZ1+WJDFo5J6I/pq84vBDUZXYY76lmZpah+YlmNQUFhRXe2J2dtAHUNKHg3TWw8RXW32+JoKPTNCx8aY0dfDGHoct1mIApyj/AHiUQLaz6lOavJWW8JBTzABobJg/GIqKI2ac/TGMXBlOqaPLmvtCx2XdS+Hxcdux5H6cnuUvPiQfCuCCUHIhT3UBTIeM4jaepplVbl7EuTiF7PnDSRaSj85Xn/eYpRydwdzk9PiDFvHQZGqgKbWgfUIIHRdn5Az8ELk3gRo+NxgSisQfEe5Y5LfrxMUpYWmrYFgrsBGqS0TBiT16bF9skylSsGoM3waEyMbZrkRFUKSMPOjYWJ0zDgGAB/SJRIDdbV7WEWEQ8hXAWy8LBR5iiICrh/4i0Ux8Gu4Jm4TQL+p5J9WobYUB2jNeM/ialS4za/Eor1tpEfeDz6mzjOtwWpsfMQnqsRyS8tWlNPmWJS6YVyFcoPqeiP7Zq4UpKafg8QgEutRmsu0A0e4KZ95bGdYlAF2AYuyjwwSplBuC6uWryMfwkLcoQkCpvQ4mqQdJZAANoSyK+ZupQljgThjq4ItWrS8QNblmuFc8RmtRg8xbGmQDVHbBNVDatwTIEzfGbftGI3Jpt8zBUwHqGMEuyJszAjY9/wDkcle8GH4hoasnYd1N6+eag1bNeJtmXl3G0CFZkAt0K47lyhV6lrDGD1UXBIzplAPrMABhVSXklipcR4Y21itVzLQ8BXlLV3w8S9lMZ8+uZsQe94zH2E8NS6MK0zYF05YkxwNMFgr26glR4KrIw6J0qBQEaFeJkYZo2ykQRxWmAwasMeo9DdOpg5Zi2h7jgqmTaK9upfCsTXFc14lSETHZ6gdvEmz2RNeAWJbKG8gH0z+ohd0CPviBgYNicMLUi3aIJnB06PrEF1wB+4Mau15ljNR3C/6Sagr4b/E//9k="
+  },
+  {
+   "id": "tori-50134394",
+   "brand": "Valentino · Tori",
+   "title": "Käyttämätön Valentino tum.sininen medium laukku käsilaukku",
+   "price": 50.0,
+   "value": 171,
+   "score": 3.42,
+   "label": "🔥 KOVA DIILI",
+   "category": "laukku",
+   "condition": "-",
+   "size": "-",
+   "link": "https://www.tori.fi/recommerce/forsale/item/50134394",
+   "image": "https://img.tori.net/dynamic/default/item/50134394/ed877f87-4191-4ce7-bd48-51752565b44e",
+   "reasons": [
+    "taso C",
+    "Sellpyn mediaani tälle brändille 136 €",
+    "Japanissa myyty mediaani 17 € (n=43)",
+    "kate ~4 € (ROI 7%, myy vestiaire ~90 €; brändiarvio ~128 € (ei mallivertailua eikä Yahoo-dataa))"
+   ],
+   "source": "tori",
+   "old_price": null,
+   "ts": 1795520734,
+   "resale": 90,
+   "profit": 4,
+   "roi": 0.07,
+   "exit": "vestiaire",
+   "resale_why": [
+    "brändiarvio ~128 € (ei mallivertailua eikä Yahoo-dataa)",
+    "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+    "myynti vestiaire ~90 € → käteen ~61 € kulujen ja tinkimisen jälkeen",
+    "osto 50 € + toimitus = 57 €"
+   ],
+   "risk": {
+    "fake": 80,
+    "fake_level": "korkea",
+    "cond": "?",
+    "why": [
+     "paljon väärennetty brändi",
+     "laukku: väärennetyimpiä tuotetyyppejä",
+     "yksityismyyjä, ei tarkastusta",
+     "kunto ei tiedossa, pyydä lisäkuvat"
+    ]
+   },
+   "thumb": "data:image/jpeg;base64,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"
   },
   {
    "id": "tradera-757747260",
@@ -8574,13 +8665,13 @@
    "image": "https://img.tori.net/dynamic/default/item/49727844/e0659d9f-662c-40e7-9526-23e08ff671c8",
    "reasons": [
     "taso C",
-    "Sellpyn mediaani tälle brändille 132 €",
-    "Japanissa myyty mediaani 16 € (n=53)",
+    "Sellpyn mediaani tälle brändille 136 €",
+    "Japanissa myyty mediaani 17 € (n=43)",
     "⚠️ kate ~-1 € (ROI -2%, myy vestiaire ~90 €; brändiarvio ~128 € (ei mallivertailua eikä Yahoo-dataa))"
    ],
    "source": "tori",
    "old_price": null,
-   "ts": 1795341114,
+   "ts": 1795520734,
    "thumb": "data:image/jpeg;base64,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",
    "resale": 90,
    "profit": -1,
@@ -10380,20 +10471,20 @@
    "image": "https://img.tori.net/dynamic/default/2024/2/vertical-0/01/1/391/721_942259935.jpg",
    "reasons": [
     "taso B",
-    "Japanissa myyty (neule) mediaani 75 € (n=5)",
-    "⚠️ kate ~-11 € (ROI -19%, myy grailed ~67 €; Yahoo JP toteutuneet (neule): mediaani 75 €, p25 47 € (n=5) → geneerinen ~61 € × 1.15 EU-taso)"
+    "Japanissa myyty mediaani 92 € (n=43)",
+    "kate ~17 € (ROI 30%, myy grailed ~106 €; brändiarvio ~106 € (ei mallivertailua eikä Yahoo-dataa))"
    ],
    "source": "tori",
    "old_price": null,
-   "ts": 1795341114,
+   "ts": 1795520734,
    "thumb": "data:image/jpeg;base64,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",
-   "resale": 67,
-   "profit": -11,
-   "roi": -0.19,
+   "resale": 106,
+   "profit": 17,
+   "roi": 0.3,
    "exit": "grailed",
    "resale_why": [
-    "Yahoo JP toteutuneet (neule): mediaani 75 €, p25 47 € (n=5) → geneerinen ~61 € × 1.15 EU-taso",
-    "myynti grailed ~67 € → käteen ~46 € kulujen ja tinkimisen jälkeen",
+    "brändiarvio ~106 € (ei mallivertailua eikä Yahoo-dataa)",
+    "myynti grailed ~106 € → käteen ~74 € kulujen ja tinkimisen jälkeen",
     "osto 50 € + toimitus = 57 €"
    ],
    "risk": {
@@ -12379,6 +12470,96 @@
      "kunto ei tiedossa, pyydä lisäkuvat"
     ]
    }
+  },
+  {
+   "id": "tori-50353207",
+   "brand": "Valentino · Tori",
+   "title": "Valentino Spa Bag",
+   "price": 65.0,
+   "value": 171,
+   "score": 2.63,
+   "label": "🔥 KOVA DIILI",
+   "category": "laukku",
+   "condition": "-",
+   "size": "-",
+   "link": "https://www.tori.fi/recommerce/forsale/item/50353207",
+   "image": "https://img.tori.net/dynamic/default/item/50353207/cdca413b-a8b7-4dad-a47f-ad6f676d6a5f",
+   "reasons": [
+    "taso C",
+    "Sellpyn mediaani tälle brändille 136 €",
+    "Japanissa myyty mediaani 17 € (n=43)",
+    "⚠️ kate ~-11 € (ROI -15%, myy vestiaire ~90 €; brändiarvio ~128 € (ei mallivertailua eikä Yahoo-dataa))"
+   ],
+   "source": "tori",
+   "old_price": null,
+   "ts": 1795520734,
+   "resale": 90,
+   "profit": -11,
+   "roi": -0.15,
+   "exit": "vestiaire",
+   "resale_why": [
+    "brändiarvio ~128 € (ei mallivertailua eikä Yahoo-dataa)",
+    "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+    "myynti vestiaire ~90 € → käteen ~61 € kulujen ja tinkimisen jälkeen",
+    "osto 65 € + toimitus = 72 €"
+   ],
+   "risk": {
+    "fake": 64,
+    "fake_level": "korkea",
+    "cond": "?",
+    "why": [
+     "paljon väärennetty brändi",
+     "laukku: väärennetyimpiä tuotetyyppejä",
+     "yksityismyyjä, ei tarkastusta",
+     "kunto ei tiedossa, pyydä lisäkuvat"
+    ]
+   },
+   "thumb": "data:image/jpeg;base64,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"
+  },
+  {
+   "id": "tori-50342932",
+   "brand": "Valentino · Tori",
+   "title": "Valentino viininpunainen olkalaukku",
+   "price": 65.0,
+   "value": 171,
+   "score": 2.63,
+   "label": "🔥 KOVA DIILI",
+   "category": "laukku",
+   "condition": "-",
+   "size": "-",
+   "link": "https://www.tori.fi/recommerce/forsale/item/50342932",
+   "image": "https://img.tori.net/dynamic/default/item/50342932/0648f46b-69bf-4ef3-b38b-bd3c2a75f174",
+   "reasons": [
+    "taso C",
+    "Sellpyn mediaani tälle brändille 136 €",
+    "Japanissa myyty mediaani 17 € (n=43)",
+    "⚠️ kate ~-11 € (ROI -15%, myy vestiaire ~90 €; brändiarvio ~128 € (ei mallivertailua eikä Yahoo-dataa))"
+   ],
+   "source": "tori",
+   "old_price": null,
+   "ts": 1795520734,
+   "resale": 90,
+   "profit": -11,
+   "roi": -0.15,
+   "exit": "vestiaire",
+   "resale_why": [
+    "brändiarvio ~128 € (ei mallivertailua eikä Yahoo-dataa)",
+    "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+    "myynti vestiaire ~90 € → käteen ~61 € kulujen ja tinkimisen jälkeen",
+    "osto 65 € + toimitus = 72 €"
+   ],
+   "risk": {
+    "fake": 64,
+    "fake_level": "korkea",
+    "cond": "?",
+    "why": [
+     "paljon väärennetty brändi",
+     "laukku: väärennetyimpiä tuotetyyppejä",
+     "yksityismyyjä, ei tarkastusta",
+     "kunto ei tiedossa, pyydä lisäkuvat"
+    ]
+   },
+   "thumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wgARCAB4AHgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAgMAAQQFBv/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAdp0WbedOOWm0zOx3MdrHN24ehYsWCKFgC4Usbz1tx0Eq60Fk3Y9520ykRj6PKOgLARYNBVQpZkWWjn1fvG945nU5fWJKtBToWZWqcLBgC5cTJ1Vumixa+JXX1ebxtenX5px6BnlxPV5eC9O6BiyuSDzAjN5n2XlGwkObCGJVNWAVus7xEDkEkGmsxnmPS+da58IJ1shouSyaUPufSBYOVQYNJRDuF2hXyp9y2+BfoLOAPoonnNfYNCCAzIEsMpJSKQu5CSQoZChkBCQCSWf/8QAJBAAAQMDAwUBAQAAAAAAAAAAAQACAwQRIBASIRMUIjEzIyT/2gAIAQEAAQUC1lkDAOUUyPcTC0spnG2fpSTKyHJkY5scTNkanHTlyc8BOkL0BZAF5jYGCT9KjR7dzadxtjy5WXsxR7GvcGMpWeOs/jPkVDHbSsO5zRtbq9u5sRO3BxUMaCJDWwjqVOL/AAdhGy5aLaTnmmZtiNgjPEF3UK7mIoPa5EbhE44NFtCbB86fUylF11cLcy24LhCR7UyoPV9jCqDnQ+tLZAFxjFmYzffcFvavFcX3BErhQffKpH9Gt8Kf75VfFQc4PtlXD9b6W0vrTNJkyc1rx2kS7SJdtEu2iXQiXQjXSjVgM7q6urq6ur5f/8QAHBEAAgICAwAAAAAAAAAAAAAAAAESIAIQESEw/9oACAEDAQE/ARLXNUhu7endESJAjTGjpjR0XRIkSHl5/wD/xAAYEQEAAwEAAAAAAAAAAAAAAAABABEgUP/aAAgBAgEBPwGXtYbDof/EACgQAAECBQQBAwUAAAAAAAAAAAEAAhEgITJBAxAwMRJRYXEiQEKBof/aAAgBAQAGPwLf3UTv4wR03dt4YNUT2qLyP6QGzdUfB4KbQGzWYbU7kHKOm65s1doDYuOEdR1zpNN/XrwROzNIICQtOVA3NoZonYk4RcfxmD8dGWJ3hgfU5VudUqqvCu/ivVHAqByix1zZolEARJNV34/CqSV0vddL0VHlBzq4mg1V4IDtCMz/AJVZxO/gbOeBs4dgjgjgTwcIrK6VqtVoVoVoVPs//8QAJxABAQABAwMDBAMBAAAAAAAAAQARITFBEFFhcYGRscHh8SAwodH/2gAIAQEAAT8hCCC7o7Iq5GGTW2Pbme8xveEFJJJJMxKDWw8zGtfKs8BVnSYdh5u8WNXomwp3MkzMzCzWNB3h6MmEBrPD/dLHQdtC8AGZmZtXPxjC1oLyW28JuQc2JJI4zIdEfeZmZsYJZcFjckS8gcsAHB1SDbAxIuDMz0UXk+kMGLbSGZv3cz0Jm8kfhZmZnD2CwIs44/sGxOTvKWog9befa1vI+V2T3L/ChjXUBi9Jn1OGZmxogdMBG6Kjl9LdiO0yss+WOYYkTg8tJfjC3mfVc2LmWMscwgJMxEsHLnULC0GE3jDvmwg+J000sT6WSAjmITdMxEWndIFsX3jBqWW7uLJ2aebQ4stiO2ZiIsXqWLzZ/gys4ZmIi9zC7g6b9A72LSVZmYYYZTsBCPSyPBPISDGuS1ck2fMb95LLLDDDYnBa23yjuvmD/K8PpX6axf8AOA4GJZZYYbP9ABZZZZb/2gAMAwEAAgADAAAAEKH6in7rgVAxPlx0sdQAkhqvv4mQOdDsjtVMn09bssTdpzkfjlRdHCU3vfv4gHggv//EAB4RAAMAAgMAAwAAAAAAAAAAAAABESAhEDFRMEFh/9oACAEDAQE/EBjKlobNj9w9SGkfvC8wgPZ4ybolLffFhslg30bN8aK4dxFKdXg1UknjRT4//8QAHBEBAAICAwEAAAAAAAAAAAAAAQARIDAQIUBR/9oACAECAQE/EIggLArH4wX252aAri5cvSaDx//EACYQAQACAQMDBAMBAQAAAAAAAAEAESExQVFhcZEQIIGxocHR8PH/2gAIAQEAAT8Q9QF4IuARDmS1mApUQy4cKBYaA8o7MZhX1bntABDDLAqJcQ6Jt3iusAwdlVtL1DRdVaQ9dNtxd4kF3NBOOfH0TAJYljBBBBBEbZjVdIkV8p7Q294bxG7xBouTNfP8ITREgZ3UenWaZU1bm0EEEEEQqY2GhCOcRrBawhi3lZuIiuXYmrS1eDb2UswiWlVYfaCCCCGBuigFrgIFRa1f1BEZ06eun4t8QQqCJc19IdbYv7Lm5O9Wj8lMEEMEoKgk8tuEAAYIodMTBi0ZONr4KPiapU1Q4gzMUxT2v0OPmCCGGCHnwQTDWao93mf4DL9MIqlWcua8Qmn8qpZDU2X6Sp/0eIYwHcPsmU7MsK60XZiBNvZf9FQQ+gjd/QOwaq7Q7iCahs8Q8sNRVsU/75j3cbxGlruViGjsaIk6GxWZcTuC6xTGDayG1MPaXHiaaSXD7I7pg6hOn4l0aqF1TFRd98yvJn4grsdTMJZU5r/kprdvAQBl8oUYoYz9slNfc0K4X39dRRShLydIbSOy2jQY+RzGyD4iRuKvUWOBgcBAFXZxUQ1fxL6eHbpFiP0KKKaBsQ+SUG0JVYVBDYnaLTNXxFecy1bdY6hieT6ixHFFFFKKRpX4hVwCXWd+JyEviUr14qJra+0o5tgUu2+0S7v9Rwjj9gFanUOpMhQ8I54BwuYA/BXA3fiUyS6VGLdkdyO0oS0vRbtMHuBVyo7MUsCcDgNV7uct7r+zJ+x/sq/nKdJtoHxlQANAK9wCkkHsBh9xUP/Z"
   },
   {
    "id": "tradera-752640730",
@@ -14575,7 +14756,7 @@
    "id": "finn-315358917",
    "brand": "Boris Bidjan Saberi · Finn 🇳🇴",
    "title": "Boris Bidjan Saberi unique shirt size L",
-   "price": 123.42,
+   "price": 123.35,
    "value": 304,
    "score": 2.46,
    "label": "✅ DIILI",
@@ -14587,13 +14768,13 @@
    "reasons": [
     "harvinainen brändi",
     "taso A",
-    "Japanissa myyty mediaani 271 € (n=48)",
+    "Japanissa myyty mediaani 275 € (n=48)",
     "kate ~36 € (ROI 29%, myy grailed ~228 €; brändiarvio ~228 € (ei mallivertailua eikä Yahoo-dataa))",
     "750 NOK + ~22 € posti + ALV 25.5 % + 8 € tullaus (Norja ei EU) = 123 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
    ],
    "source": "finn",
    "old_price": null,
-   "ts": 1795313896,
+   "ts": 1795520734,
    "resale": 228,
    "profit": 36,
    "roi": 0.29,
@@ -15234,7 +15415,7 @@
    ],
    "source": "tori",
    "old_price": null,
-   "ts": 1795441824,
+   "ts": 1795520734,
    "thumb": "data:image/jpeg;base64,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",
    "resale": 128,
    "profit": -83,
@@ -17394,6 +17575,45 @@
    "thumb": "data:image/jpeg;base64,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"
   },
   {
+   "id": "marktplaats-m2469327808",
+   "brand": "Chrome Hearts · Marktplaats 🇳🇱",
+   "title": "Te koop Chrome Hearts Custom made Levi’s W36 - L32",
+   "price": 145.0,
+   "value": 320,
+   "score": 2.21,
+   "label": "✅ DIILI",
+   "category": "muu",
+   "condition": "Zo goed als nieuw",
+   "size": "-",
+   "link": "https://www.marktplaats.nl/v/kleding-heren/spijkerbroeken-en-jeans/m2469327808-te-koop-chrome-hearts-custom-made-levi-s-w36-l32",
+   "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/dc3104bc-cd0e-4e42-9276-69d5da8e5145?rule=ecg_mp_eps$_83.jpg",
+   "reasons": [
+    "taso S",
+    "Japanissa myyty (muu) mediaani 229 € (n=29)",
+    "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+    "125 EUR + ~20 € posti = 145 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+    "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+   ],
+   "source": "marktplaats",
+   "old_price": null,
+   "ts": 1795520734,
+   "resale": null,
+   "profit": null,
+   "roi": null,
+   "exit": "",
+   "resale_why": [],
+   "risk": {
+    "fake": 40,
+    "fake_level": "keski",
+    "cond": "ok",
+    "why": [
+     "paljon väärennetty brändi",
+     "yksityismyyjä, ei tarkastusta"
+    ]
+   },
+   "thumb": "data:image/jpeg;base64,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"
+  },
+  {
    "id": "blocket-28176804",
    "brand": "Canada Goose · Blocket 🇸🇪",
    "title": "Canada goose jacka",
@@ -17876,6 +18096,51 @@
    "thumb": "data:image/jpeg;base64,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"
   },
   {
+   "id": "dba-27032283",
+   "brand": "Arc'teryx · DBA 🇩🇰",
+   "title": "Arc’teryx Green Fleece Pullover – 1/4 Zip Technical Outdoor Jacket",
+   "price": 111.65,
+   "value": 243,
+   "score": 2.18,
+   "label": "✅ DIILI",
+   "category": "takki",
+   "condition": "-",
+   "size": "-",
+   "link": "https://www.dba.dk/recommerce/forsale/item/27032283",
+   "image": "https://images.dbastatic.dk/dynamic/default/item/27032283/baec0dbd-e578-428e-aaeb-187a42ff0535",
+   "reasons": [
+    "taso B",
+    "Sellpyn mediaani tälle brändille 100 €",
+    "Japanissa myyty (takki) mediaani 321 € (n=28)",
+    "kate ~31 € (ROI 27%, myy grailed ~204 €; Yahoo JP toteutuneet (takki): mediaani 321 €, p25 212 € (n=28) → geneerinen ~266 € × 1.15 EU-taso)",
+    "700 DKK + ~18 € posti = 112 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+   ],
+   "source": "dba",
+   "old_price": null,
+   "ts": 1795520734,
+   "resale": 204,
+   "profit": 31,
+   "roi": 0.27,
+   "exit": "grailed",
+   "resale_why": [
+    "Yahoo JP toteutuneet (takki): mediaani 321 €, p25 212 € (n=28) → geneerinen ~266 € × 1.15 EU-taso",
+    "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+    "myynti grailed ~204 € → käteen ~142 € kulujen ja tinkimisen jälkeen",
+    "osto 112 € + toimitus = 112 €"
+   ],
+   "risk": {
+    "fake": 40,
+    "fake_level": "keski",
+    "cond": "?",
+    "why": [
+     "paljon väärennetty brändi",
+     "yksityismyyjä, ei tarkastusta",
+     "kunto ei tiedossa, pyydä lisäkuvat"
+    ]
+   },
+   "thumb": "data:image/jpeg;base64,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"
+  },
+  {
    "id": "tradera-760035795",
    "brand": "Moncler · Tradera 🇸🇪",
    "title": "Moncler mörkblå jacka",
@@ -18201,13 +18466,13 @@
    "image": "https://img.tori.net/dynamic/default/item/49587057/dcc7ebb5-9eaf-4122-b3a1-304a5aebbb95",
    "reasons": [
     "taso C",
-    "Sellpyn mediaani tälle brändille 132 €",
-    "Japanissa myyty mediaani 16 € (n=53)",
+    "Sellpyn mediaani tälle brändille 136 €",
+    "Japanissa myyty mediaani 17 € (n=43)",
     "⚠️ kate ~-26 € (ROI -30%, myy vestiaire ~90 €; brändiarvio ~128 € (ei mallivertailua eikä Yahoo-dataa))"
    ],
    "source": "tori",
    "old_price": null,
-   "ts": 1795341114,
+   "ts": 1795520734,
    "thumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgwKCA0MCwwPDg0QFCIWFBISFCkdHxgiMSszMjArLy42PE1CNjlJOi4vQ1xESVBSV1dXNEFfZl5UZU1VV1P/2wBDAQ4PDxQSFCcWFidTNy83U1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1P/wAARCACWAHADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABAYAAwUCAQf/xAA+EAACAQMCAwUFBQYEBwAAAAABAgMABBESIQUxQQYTIlFhMnGBkaFSscHR8BQVIzNCYiRjcuEHJTQ1Q6Lx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIDAAT/xAAgEQEBAAIDAAMAAwAAAAAAAAAAAQIRAyExEjJRQWGB/9oADAMBAAIRAxEAPwDajnx1olZds5rHSQ0QJ9K1yu2jZLjSOdAz32nrQ8s7OcDYUfwa2gldjNGsrf3jI+VNInc5ChxjtFNP3lnYgtnwvIu/wH50Hw63NqNb/wAwjGPIU09pYY046qIiqncjwqMClydzC5PNc4pr1NRuOfPL+2rZXkkTppYgA5rbLzTX95IwPcskZQ9M4yfvpUt5hJF3iZ06tIPmfTzpr4fdpccKijLqJQxUKTucDpS4+myusabl2jUegoWRwHwyk56g+tFgeEe6s+4LB85wBjeruTW1c9ycrpYtvnJ36GvGaFUR3bMnm1USadakHUwJ+6uLuCZgrrpCgdeRrb02uxUMtspGVQkeIkjJz+dXm4jZSSWAzknHM1gvFOqqzowJ5HGBy8zXMrSDAUvjc6gDS/IfjQMcUmMkaR610RRsw2oNudJJpW5Wqm9qtTgr4uMeYrLfnRvC303kfqcUSh+1X/f7f1h/A0rXUguJHs0I0k6pn+yo6A+tb3by4aDiUBiOZ3iAjA+OTSo6m34G0mfHcMBn+39ZNMEq2BHu5Bco3d28BxGnpRHFf2qDhtrcRnEEkmsOvNWA293OreHxaOEgecQPz3retbEcR7CNFjLDxJ7wK2pvZvldaMXZHjv774OGlYftUI0yjz8m+NGy6dRJXkcHJO9fLOyHE5OFcWWU57gnu5vQHlX1zKszCVowrAFHG366UyXgCQxs0SxgbsQc8xkVLnSQqRs+T4QW9OYq2/hCXduVYHwnmOWBVLaxKS2oeHC5GcD4Utl10Ms25KGQHvp2LLyBGVFcsrKiqHO/TavXkGwdAOudx99Vm5YgnSc9SSMUJ2bwFINqDcb0a/Kg5RvQFRJXsVwtse/kOEj8TH0FeS8qEurVL227iWR442YamQZOM71rdDJth30l1xK5biU4KvdtogB/pTOnb6/I1X2jxGlvAowqjOPgMfSmri9pHJxOwEOgW8MQVNPLqBilHtGxa7UnyJ+tNLuls1GxaL/y9PWFfupm7HjX2fiXmDJil6wXVw2D1gX7qY+wo1cHiHlOfpmsJX4NYRHtRxTg83hS7jkjjY/0sCGUj3EU0dmrySWwe2vFxc2TGKVc5IHL9fClji0s1qV4nB/MhuRKD6ZP51tcAvU4h2pmuo8iK5RiF89gRn5UJltriZ2CG5tzqDDDHfeu5ZcsPBknYdCfdVccBjuWK4IA8t13r14ySxDPkjcsAc1sqGMcrkH/ABFufCMhVOdvPHyqswwyoFkZS2dgp3BqM9xhRhXHPwnB91eC51SYc925Gd+eKWZSm1We/Kg5udGvyoKeiAWU+E1fHD/BUdSM0LK3hNakQBRfcKnyeKcbPnJSQAH2OXp1pV7XR91xjA9lkDr7jv8AjTLeTKsrZDMzMcKoyaX+1rpcHh8ydYWQ5GD4W6/OjxetyzprcF8fCbQ/5ePqRW/2Pb9n4BM5/oaQj374pd7NNq4TCPsOy/XP41vcLIh4DcJyzLj/ANs/hVLdbTk2HuLSOaxmhkGUMTfPScfXFYXYSVjxqG1ZtLEtpOOWxzTHL47efHSImka4ebh3GVu7UlWV9Snpq6j9edJxfh+T9fX2t7mJixRZc82U4NCm7VSVfWj55SDAqnh3GjeWEV3buQjjdG30nqKM/esMg03UIx54yKrbL6hJZ4iOJCcSDf7NeJbwoSQd8b9c/OoLKxufFazGNv7T+FcPaX8G6Os6jy2NC8cs1BmdnrLlYKNyKAuZRg71pJajnp38zVF9wt5oy0P8wdPtUpmFLOOWa2bWQNbxNnmopSnulSZlKsCjaW1grg9dqLHaCwtYEj71pCq76BmkzxtPhlJ6L4jlP4qggrnxBgNj05HOaxe0MRWxsmZCjAtlS2SCd9z51rX7Rzw27H+W51DLBcbZHOgeMwq3AEaLBWNw2zBupHMe+hh1Ypn3Kt7JtqsZl56Zc/MCtK54jb2Vt3c06ITKW05369PjXz+SaVI9CSOqMd1ViAa5jtZ5NxGVB/qc6R8zV7jtCZaPNt2m4dmSFnkZpk7pdKbZJHP0oa+tFnklRs5Qd6oD7/AfPelmG0t42UzXLO4OyQDr/qP4A023VwIYridAFkjhJO42bH650lxmNmjTLcu2b2a489vxWKK5l7u0kyhUnwqTyPzxvT1NHjOMr7uVfImkaaRpJGLSMcsx5k19N4FxUcR4RDLJ/MUaJD/cOvx2NPlCSu31o2oc/NTg0RBxi7gONfeAdH5/OpIqncULKmeYBpDemZYthtSl2/4jxHhC2b2c7QwyhlbSo3YY6+4/SncBVHmaV/8AiNb/ALT2VeUDxW0qSjHlnSfvp4R8rka6vpS7iaZ23LMxPzJqTWbRovjQuc6l1DC/H8q9vLhJHQQxdyqoFYay2purb+dDFieZpgPepxwe2CaiTGoJRdXJfxxjPrVHFJl/cFwpwACEXA09R0rjhMjXHZ6IrjVH4fEAcYPqQOVV8TRn7NS6lIKEMCRgkZ58zXPJq/66LdwtiV4lLRsVPmKqZ2Y5ZiT5k1Y28OaoFdDnH8GweM2gPLvBTTxeNo+EXzttlSPayDk7HHSlfgQ1cbtB/mZ+lb/aK5c8JmDDSHlEajzA3P3VPL7RTH60q28Uk0wSNSzYJwPQZpx7Fw3EUU7zoyW0mCh5Et5j0xWL2QTVx5D9lGP0x+NPrGmyv8FxjxopWfMbd5k8xsfiK4fUkjRuVLLz0nIqNsDg4oa3AAOOWdiaQ+jnq2rE7X3cFr2ZvTcqzJIndALzy2wrW1Vk9prFuJ8Au7VBmRk1IPNgcgfTFOR8fu5hcTtMqhA5zpHSqK83GVIII6Gvachs7JSK3D7iN8aUk1b8uX+1aXEmW54XeRgMD3RYahjI8/pWH2QOqe6hOCHQHB69PxretV71LlCHIZSoJXbHLnufhXPl1k6Me8SOhzbN6VSK6U6YCPM1yK6EGx2Zj18TaTl3MTPnyOMfjRXaZitrZR5OGLufoK47It/irpAQGaHYn0NEdpIS/CbSfG6OVPh0+1vy+FSv3Un1UdjiBxrB6xNj6U8mvnfZ6ZoOLwSINWCcjOM7U/w3EdwpMZ3GxU7EVsvWx8eXD6Y2PXFVwjTGBXFy4d1QHO+TVg9mlEyvIqIWdgqgZJJwBStxbtYNRg4SnfScjMw8A9w6/dWfP+8eOSj9qbRBzWFNlHv8zR9rwxIkUxgBjyON/wBflim3vwNa9IXGbeaPiDNOf4sy96WxzzzoAA9RTf21tf8Ao7tRgHVGw8jzHz3pS5E1SeJ31pdnr2Ph/Eu+nJEZQqcDPu+6tiLiV1dTd1wyIkHw97IOXxJI6GsHg7D972gkAZDIAQwyDnanX+FHxNEVQNy2w5bHbn6nlip562phvRBuQyzujYyjFTj0NV9KYh2Yvr3iE7tpt4mlYhn3JBPMCt6x7L2VogfSbiYdZOXwFU2TRc7L21xHfrdGNlgCMCxGM5G2KYJ7eO5txGYxIAwYqdtRHWtGW2fOdIA9+1DyQrH1IYb4FTym7tSdTTFurGMplAq4+z/T6H86rgvZbaQLOX8OwkHtL+Yrb0rKOZHn5H30BcWglGllWJh7IzzH5UhhcE6zMragGc7Ovsv+R9DRofB0tsfvpYXv+HzMF2B9pTuDWnY3qyJoUF1HOJj4l/0nqK220YoINl0qcjy6f/D9DXnE7y3sIe/unCKf/GPaY+QH1zQXF+06cO1QQqs12uVP2V9/n7vSkm7up724ae5kaSQ9T09B5CqyJWieOcXn4sSCBHCp1JGPPzJ6msPSWc6RmjalMURwC0tm4tB+3StGmoFSuNm6ZPlX0ZLWCORkc5kOBqxyPT518yFN3Z7ixuY0sbhgZVGmJm/rX7BP3GtY0phZkiCpoGPM/Q+7PyquaWQLy0P1BGcVaIVCguWbmCGG48wf1vXM4yQhIxyVj09D5j1oCAbVKugnxjlvsw8s/jVPdO2pwd1O6nbf8DRbQjVpKnUNiCNwfI/f61YpXOGPi5avTpn86ws9YiSWXYe7rUkhAXJHLl5j3VpSKuNsUJKR0wGxyJ2P686Ww0rIuLbwKkgZ9WyyAcvIGs24tJIGDDlzDLW8ZdBbXnfmDVLRaIibddQPNDvgelTsPKUcVMVKlXQTFTFSpWB7XaMVYFSQRuCOlSpRY+cE4m/E+HNJKP41uVWVvtg8j76OJ1yOrgMQQu42Orl/v86lSgMVhQ7Kq7MUzGTvsD7Lee/WqlZWUOc+LcemdqlSgZ3bhjE2cYBIAznB/KgpG1ls7YJ5dKlShWgdxltD8wdOR0P5VUHaGTzGSDUqUp3/2Q==",
    "resale": 90,
    "profit": -26,
@@ -22554,13 +22819,13 @@
     "harvinainen brändi",
     "taso S",
     "harvinainen: shadow project",
-    "Japanissa myyty mediaani 164 € (n=100)",
+    "Japanissa myyty mediaani 167 € (n=100)",
     "⚠️ kate ~-114 € (ROI -31%, myy grailed ~360 €; brändiarvio ~360 € (ei mallivertailua eikä Yahoo-dataa))",
     "345 EUR + ~20 € posti = 365 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
    ],
    "source": "marktplaats",
    "old_price": null,
-   "ts": 1795313896,
+   "ts": 1795520734,
    "thumb": "data:image/jpeg;base64,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",
    "resale": 360,
    "profit": -114,
@@ -22621,6 +22886,49 @@
    }
   },
   {
+   "id": "finn-416258140",
+   "brand": "Boris Bidjan Saberi · Finn 🇳🇴",
+   "title": "Boris Bidjan Saberi tee",
+   "price": 152.59,
+   "value": 190,
+   "score": 1.25,
+   "label": "💎 HARVINAINEN",
+   "category": "t-paita",
+   "condition": "-",
+   "size": "-",
+   "link": "https://www.finn.no/recommerce/forsale/item/416258140",
+   "image": "https://images.finncdn.no/dynamic/default/2b/2bcf5bc4-d03a-48cb-9885-d4b0d54513b3",
+   "reasons": [
+    "harvinainen brändi",
+    "taso A",
+    "Japanissa myyty (t-paita) mediaani 54 € (n=5)",
+    "⚠️ kate ~-115 € (ROI -76%, myy grailed ~54 €; Yahoo JP toteutuneet (t-paita): mediaani 54 €, p25 45 € (n=5) → geneerinen ~50 € × 1.15 EU-taso)",
+    "1000 NOK + ~22 € posti + ALV 25.5 % + 8 € tullaus (Norja ei EU) = 153 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+   ],
+   "source": "finn",
+   "old_price": null,
+   "ts": 1795520734,
+   "thumb": "data:image/jpeg;base64,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",
+   "resale": 54,
+   "profit": -115,
+   "roi": -0.76,
+   "exit": "grailed",
+   "resale_why": [
+    "Yahoo JP toteutuneet (t-paita): mediaani 54 €, p25 45 € (n=5) → geneerinen ~50 € × 1.15 EU-taso",
+    "myynti grailed ~54 € → käteen ~37 € kulujen ja tinkimisen jälkeen",
+    "osto 153 € + toimitus = 153 €",
+    "t-paita: matala kate-kategoria, paljon tarjontaa"
+   ],
+   "risk": {
+    "fake": 4,
+    "fake_level": "matala",
+    "cond": "?",
+    "why": [
+     "kunto ei tiedossa, pyydä lisäkuvat"
+    ]
+   }
+  },
+  {
    "id": "tradera-761544787",
    "brand": "Kansai Yamamoto · Tradera 🇸🇪",
    "title": "1990s | Kansai Yamamoto | Kansai O2 | graphic knit sweater | Basara design",
@@ -22661,49 +22969,6 @@
     ]
    },
    "thumb": "data:image/jpeg;base64,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"
-  },
-  {
-   "id": "finn-416258140",
-   "brand": "Boris Bidjan Saberi · Finn 🇳🇴",
-   "title": "Boris Bidjan Saberi tee",
-   "price": 152.7,
-   "value": 190,
-   "score": 1.24,
-   "label": "💎 HARVINAINEN",
-   "category": "t-paita",
-   "condition": "-",
-   "size": "-",
-   "link": "https://www.finn.no/recommerce/forsale/item/416258140",
-   "image": "https://images.finncdn.no/dynamic/default/2b/2bcf5bc4-d03a-48cb-9885-d4b0d54513b3",
-   "reasons": [
-    "harvinainen brändi",
-    "taso A",
-    "Japanissa myyty mediaani 271 € (n=48)",
-    "⚠️ kate ~-53 € (ROI -35%, myy grailed ~142 €; brändiarvio ~142 € (ei mallivertailua eikä Yahoo-dataa))",
-    "1000 NOK + ~22 € posti + ALV 25.5 % + 8 € tullaus (Norja ei EU) = 153 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
-   ],
-   "source": "finn",
-   "old_price": null,
-   "ts": 1795313896,
-   "thumb": "data:image/jpeg;base64,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",
-   "resale": 142,
-   "profit": -53,
-   "roi": -0.35,
-   "exit": "grailed",
-   "resale_why": [
-    "brändiarvio ~142 € (ei mallivertailua eikä Yahoo-dataa)",
-    "myynti grailed ~142 € → käteen ~99 € kulujen ja tinkimisen jälkeen",
-    "osto 153 € + toimitus = 153 €",
-    "t-paita: matala kate-kategoria, paljon tarjontaa"
-   ],
-   "risk": {
-    "fake": 4,
-    "fake_level": "matala",
-    "cond": "?",
-    "why": [
-     "kunto ei tiedossa, pyydä lisäkuvat"
-    ]
-   }
   },
   {
    "id": "2dehands-m2463991014",

@@ -1,5 +1,264 @@
 [
  {
+  "id": "tori-50353207",
+  "brand": "Valentino · Tori",
+  "title": "Valentino Spa Bag",
+  "price": 65.0,
+  "value": 171,
+  "score": 2.63,
+  "label": "🔥 KOVA DIILI",
+  "category": "laukku",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50353207",
+  "image": "https://img.tori.net/dynamic/default/item/50353207/cdca413b-a8b7-4dad-a47f-ad6f676d6a5f",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 136 €",
+   "Japanissa myyty mediaani 17 € (n=43)",
+   "⚠️ kate ~-11 € (ROI -15%, myy vestiaire ~90 €; brändiarvio ~128 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795520734,
+  "resale": 90,
+  "profit": -11,
+  "roi": -0.15,
+  "exit": "vestiaire",
+  "resale_why": [
+   "brändiarvio ~128 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti vestiaire ~90 € → käteen ~61 € kulujen ja tinkimisen jälkeen",
+   "osto 65 € + toimitus = 72 €"
+  ],
+  "risk": {
+   "fake": 64,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "laukku: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50342932",
+  "brand": "Valentino · Tori",
+  "title": "Valentino viininpunainen olkalaukku",
+  "price": 65.0,
+  "value": 171,
+  "score": 2.63,
+  "label": "🔥 KOVA DIILI",
+  "category": "laukku",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50342932",
+  "image": "https://img.tori.net/dynamic/default/item/50342932/0648f46b-69bf-4ef3-b38b-bd3c2a75f174",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 136 €",
+   "Japanissa myyty mediaani 17 € (n=43)",
+   "⚠️ kate ~-11 € (ROI -15%, myy vestiaire ~90 €; brändiarvio ~128 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795520734,
+  "resale": 90,
+  "profit": -11,
+  "roi": -0.15,
+  "exit": "vestiaire",
+  "resale_why": [
+   "brändiarvio ~128 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti vestiaire ~90 € → käteen ~61 € kulujen ja tinkimisen jälkeen",
+   "osto 65 € + toimitus = 72 €"
+  ],
+  "risk": {
+   "fake": 64,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "laukku: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50134394",
+  "brand": "Valentino · Tori",
+  "title": "Käyttämätön Valentino tum.sininen medium laukku käsilaukku",
+  "price": 50.0,
+  "value": 171,
+  "score": 3.42,
+  "label": "🔥 KOVA DIILI",
+  "category": "laukku",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50134394",
+  "image": "https://img.tori.net/dynamic/default/item/50134394/ed877f87-4191-4ce7-bd48-51752565b44e",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 136 €",
+   "Japanissa myyty mediaani 17 € (n=43)",
+   "kate ~4 € (ROI 7%, myy vestiaire ~90 €; brändiarvio ~128 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795520734,
+  "resale": 90,
+  "profit": 4,
+  "roi": 0.07,
+  "exit": "vestiaire",
+  "resale_why": [
+   "brändiarvio ~128 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti vestiaire ~90 € → käteen ~61 € kulujen ja tinkimisen jälkeen",
+   "osto 50 € + toimitus = 57 €"
+  ],
+  "risk": {
+   "fake": 80,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "laukku: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "dba-27032283",
+  "brand": "Arc'teryx · DBA 🇩🇰",
+  "title": "Arc’teryx Green Fleece Pullover – 1/4 Zip Technical Outdoor Jacket",
+  "price": 111.65,
+  "value": 243,
+  "score": 2.18,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.dba.dk/recommerce/forsale/item/27032283",
+  "image": "https://images.dbastatic.dk/dynamic/default/item/27032283/baec0dbd-e578-428e-aaeb-187a42ff0535",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 100 €",
+   "Japanissa myyty (takki) mediaani 321 € (n=28)",
+   "kate ~31 € (ROI 27%, myy grailed ~204 €; Yahoo JP toteutuneet (takki): mediaani 321 €, p25 212 € (n=28) → geneerinen ~266 € × 1.15 EU-taso)",
+   "700 DKK + ~18 € posti = 112 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "dba",
+  "old_price": null,
+  "ts": 1795520734,
+  "resale": 204,
+  "profit": 31,
+  "roi": 0.27,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 321 €, p25 212 € (n=28) → geneerinen ~266 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~204 € → käteen ~142 € kulujen ja tinkimisen jälkeen",
+   "osto 112 € + toimitus = 112 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2469327808",
+  "brand": "Chrome Hearts · Marktplaats 🇳🇱",
+  "title": "Te koop Chrome Hearts Custom made Levi’s W36 - L32",
+  "price": 145.0,
+  "value": 320,
+  "score": 2.21,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/spijkerbroeken-en-jeans/m2469327808-te-koop-chrome-hearts-custom-made-levi-s-w36-l32",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/dc3104bc-cd0e-4e42-9276-69d5da8e5145?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso S",
+   "Japanissa myyty (muu) mediaani 229 € (n=29)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "125 EUR + ~20 € posti = 145 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795520734,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2469310372",
+  "brand": "Hermès · Marktplaats 🇳🇱",
+  "title": "Hermes sneakers hoge kwaliteit) Maat 43)",
+  "price": 150.0,
+  "value": 560,
+  "score": 3.73,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Zo goed als nieuw",
+  "size": "SHOES-EU-43",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2469310372-hermes-sneakers-hoge-kwaliteit-maat-43",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/3cf15dd6-61ed-40d3-bc44-c28a35a54aba?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso S",
+   "Sellpyn mediaani tälle brändille 140 €",
+   "Japanissa myyty (kengät) mediaani 289 € (n=8)",
+   "kate ~3 € (ROI 2%, myy grailed ~219 €; Yahoo JP toteutuneet (kengät): mediaani 289 €, p25 256 € (n=8) → geneerinen ~272 € × 1.15 EU-taso)",
+   "130 EUR + ~20 € posti = 150 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795520734,
+  "resale": 219,
+  "profit": 3,
+  "roi": 0.02,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 289 €, p25 256 € (n=8) → geneerinen ~272 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~219 € → käteen ~153 € kulujen ja tinkimisen jälkeen",
+   "osto 150 € + toimitus = 150 €"
+  ],
+  "risk": {
+   "fake": 65,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "oqVe1xHlx7",
   "brand": "Ermenegildo Zegna",
   "title": "Zegna Sport Pikeepaita",
@@ -46083,129 +46342,6 @@
   "image": "https://prod.images.sellpy.net/photoRobot-case-6-k-21/acWkszulG7-fa97-0.jpg",
   "reasons": [
    "Sellpyn mediaani tälle brändille 121 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347666
- },
- {
-  "id": "8x1x5VeDC7",
-  "brand": "Prada",
-  "title": "Prada Linea Rossa Slip-ons",
-  "price": 92.0,
-  "value": 317,
-  "score": 3.45,
-  "label": "🔥 KOVA DIILI",
-  "category": "kengät",
-  "condition": "Hyvä",
-  "size": "SHOES-EU-38.5",
-  "link": "https://www.sellpy.fi/item/8x1x5VeDC7",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-6-k-21/owxFItLk3z-80d1-0.jpg",
-  "reasons": [
-   "nahka ×1.1",
-   "leather ×1.1",
-   "linea rossa ×1.3",
-   "Sellpyn mediaani tälle brändille 165 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347666
- },
- {
-  "id": "HzwLPrjagF",
-  "brand": "Diesel",
-  "title": "Diesel Neulepaita",
-  "price": 18.0,
-  "value": 46,
-  "score": 2.53,
-  "label": "🔥 KOVA DIILI",
-  "category": "takki",
-  "condition": "Hyväksyttävä",
-  "size": "MEN-INT-L",
-  "link": "https://www.sellpy.fi/item/HzwLPrjagF",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-3-k-3/HzwLPrjagF-3ccc-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 30 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347666
- },
- {
-  "id": "mRiUOdyiWE",
-  "brand": "Salomon",
-  "title": "Salomon Pitkähihainen urheilupaita",
-  "price": 19.0,
-  "value": 40,
-  "score": 2.11,
-  "label": "✅ DIILI",
-  "category": "muu",
-  "condition": "Erittäin hyvä",
-  "size": "MEN-INT-S",
-  "link": "https://www.sellpy.fi/item/mRiUOdyiWE",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-3-k-7/mRiUOdyiWE-bcd5-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 57 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347666
- },
- {
-  "id": "7RFESbJYie",
-  "brand": "Diesel",
-  "title": "Diesel Crop top",
-  "price": 22.0,
-  "value": 48,
-  "score": 2.18,
-  "label": "✅ DIILI",
-  "category": "takki",
-  "condition": "Erittäin hyvä",
-  "size": "WMN-INT-S",
-  "link": "https://www.sellpy.fi/item/7RFESbJYie",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-9-l-5/7RFESbJYie-ef71-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 30 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347666
- },
- {
-  "id": "SAd8HYgzDE",
-  "brand": "Moncler",
-  "title": "Moncler Untuvatakki Flammette Giubbotto",
-  "price": 71.0,
-  "value": 334,
-  "score": 4.71,
-  "label": "🚨 INSANE",
-  "category": "takki",
-  "condition": "Hyväksyttävä",
-  "size": "WMN-INT-M",
-  "link": "https://www.sellpy.fi/item/SAd8HYgzDE",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-21/lv5xUbTCbC-5a9c-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 137 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347666
- },
- {
-  "id": "Gqks2VFPBG",
-  "brand": "The North Face",
-  "title": "The North Face Huppari",
-  "price": 14.0,
-  "value": 36,
-  "score": 2.54,
-  "label": "🔥 KOVA DIILI",
-  "category": "huppari",
-  "condition": "Hyväksyttävä",
-  "size": "WMN-INT-XS",
-  "link": "https://www.sellpy.fi/item/Gqks2VFPBG",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-k-14/Gqks2VFPBG-db15-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 46 €"
   ],
   "source": "brändi",
   "old_price": null,
