@@ -1,5 +1,5 @@
 {
- "generated": 1795496863,
+ "generated": 1795536962,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -507,20 +507,20 @@
     "image": "https://img.tori.net/dynamic/default/item/42283684/92366669-5ae6-4378-bf3b-cd8d7873733e"
    },
    {
+    "id": "blocket-28158041",
+    "source": "blocket",
+    "title": "DJ- & studiopaket: Akai Professional MPD226 + Magma Vektor Laptop-Stand",
+    "price": 102.0,
+    "url": "https://www.blocket.se/recommerce/forsale/item/28158041",
+    "image": "https://images.blocketcdn.se/dynamic/default/item/28158041/4419a13a-9f8f-454f-8f9c-c241051422ac"
+   },
+   {
     "id": "tori-23048733",
     "source": "tori",
     "title": "UUSI K&M 12150 Laptop Stand",
     "price": 129.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/23048733",
     "image": "https://img.tori.net/dynamic/default/cb/cb4886fd-8503-43ce-8f0b-7bf43b94f6eb"
-   },
-   {
-    "id": "blocket-28158041",
-    "source": "blocket",
-    "title": "DJ- & studiopaket: Akai Professional MPD226 + Magma Vektor Laptop-Stand",
-    "price": 145.5,
-    "url": "https://www.blocket.se/recommerce/forsale/item/28158041",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/28158041/4419a13a-9f8f-454f-8f9c-c241051422ac"
    }
   ],
   "Näyttövarsi yhdelle näytölle": [
@@ -563,6 +563,14 @@
     "price": 15.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/50196558",
     "image": "https://img.tori.net/dynamic/default/item/50196558/227a87ce-3024-49de-a7b5-3a20f3ea64e2"
+   },
+   {
+    "id": "tori-50362118",
+    "source": "tori",
+    "title": "Arctic Z2 Pro Monitorivarsi 13-27\"",
+    "price": 15.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/50362118",
+    "image": "https://img.tori.net/dynamic/default/item/50362118/93f20fc8-a6bd-4dcd-9588-9c450f0bbad1"
    },
    {
     "id": "tori-44206340",
@@ -635,14 +643,6 @@
     "price": 28.05,
     "url": "https://www.blocket.se/recommerce/forsale/item/28104620",
     "image": "https://images.blocketcdn.se/dynamic/default/item/28104620/779b5adf-d7f4-429f-98b4-ca404269bd7e"
-   },
-   {
-    "id": "tori-48563002",
-    "source": "tori",
-    "title": "Säädettävä harmaa näyttövarsi / monitorivarsi",
-    "price": 30.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/48563002",
-    "image": "https://img.tori.net/dynamic/default/item/48563002/89896df7-38b2-47e1-bb1c-64a6811dec58"
    },
    {
     "id": "tori-49444157",

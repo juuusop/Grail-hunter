@@ -1,6 +1,6 @@
 # 🛒 Toivelista: nykyiset osumat
 
-Päivitetty 2026-11-24 05:07 UTC. Lisää asioita kommentoimalla issueen "🛒 Toivelista". Hinnat perillä Suomessa (Ruotsi + ~15 € posti).
+Päivitetty 2026-11-24 16:16 UTC. Lisää asioita kommentoimalla issueen "🛒 Toivelista". Hinnat perillä Suomessa (Ruotsi + ~15 € posti).
 
 ## Läppäriteline MacBookille
 
@@ -93,6 +93,7 @@ Päivitetty 2026-11-24 05:07 UTC. Lisää asioita kommentoimalla issueen "🛒 T
 - **10 €** [Minifocus ”arm” ulkoiselle monitorille](https://www.tori.fi/recommerce/forsale/item/43714709) · Tori · −92 % uushinnasta 130 €; 78 % alle käytettyjen mediaanin 45 €
 - **15 €** [Näyttövarsi](https://www.tori.fi/recommerce/forsale/item/45743538) · Tori · −88 % uushinnasta 130 €; 67 % alle käytettyjen mediaanin 45 €
 - **15 €** [Näyttövarsipari](https://www.tori.fi/recommerce/forsale/item/50196558) · Tori · −88 % uushinnasta 130 €; 67 % alle käytettyjen mediaanin 45 €
+- **15 €** [Arctic Z2 Pro Monitorivarsi 13-27"](https://www.tori.fi/recommerce/forsale/item/50362118) · Tori · −88 % uushinnasta 130 €; 67 % alle käytettyjen mediaanin 45 €
 - **15 €** [Newstar FPMA-D550BLACK -monitorivarsi](https://www.tori.fi/recommerce/forsale/item/44206340) · Tori · −88 % uushinnasta 130 €; 67 % alle käytettyjen mediaanin 45 €
 - **20 €** [Gembird MA-DA1-01 näyttövarsi kaasujousella](https://www.tori.fi/recommerce/forsale/item/50257992) · Tori · −85 % uushinnasta 130 €; 56 % alle käytettyjen mediaanin 45 €
 - **25 €** [Deltaco monitorivarsi](https://www.tori.fi/recommerce/forsale/item/49702688) · Tori · −81 % uushinnasta 130 €; 45 % alle käytettyjen mediaanin 45 €
@@ -101,7 +102,6 @@ Päivitetty 2026-11-24 05:07 UTC. Lisää asioita kommentoimalla issueen "🛒 T
 - **25 €** [Suptek monitorivarsi 13–27” – VESA 100x100](https://www.tori.fi/recommerce/forsale/item/46056108) · Tori · −81 % uushinnasta 130 €; 45 % alle käytettyjen mediaanin 45 €
 - **25 €** [Näytön varsi VESA-kiinnityksellä](https://www.tori.fi/recommerce/forsale/item/44594381) · Tori · −81 % uushinnasta 130 €; 45 % alle käytettyjen mediaanin 45 €
 - **28 €** [Monitor stativ för dubbla skärmar](https://www.blocket.se/recommerce/forsale/item/28104620) · Blocket 🇸🇪 · −78 % uushinnasta 130 €; 38 % alle käytettyjen mediaanin 45 €; 13 € + ~15 € posti, kysy lähettääkö Suomeen
-- **30 €** [Säädettävä harmaa näyttövarsi / monitorivarsi](https://www.tori.fi/recommerce/forsale/item/48563002) · Tori · −77 % uushinnasta 130 €; 34 % alle käytettyjen mediaanin 45 €
 - **30 €** [Hama Full Motion monitorivarsi 35](https://www.tori.fi/recommerce/forsale/item/49444157) · Tori · −77 % uushinnasta 130 €; 34 % alle käytettyjen mediaanin 45 €
 - **30 €** [Monitorivarsi läppäritelineellä](https://www.tori.fi/recommerce/forsale/item/48336932) · Tori · −77 % uushinnasta 130 €; 34 % alle käytettyjen mediaanin 45 €
 - **30 €** [Monitorinvarsi - NewStar FPMA-D500KEYB Desk mount / Näytön pidike](https://www.tori.fi/recommerce/forsale/item/20150301) · Tori · −77 % uushinnasta 130 €; 34 % alle käytettyjen mediaanin 45 €
