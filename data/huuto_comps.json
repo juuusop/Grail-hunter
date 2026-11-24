@@ -30,7 +30,7 @@
    "price": 6.0,
    "title": "Tuoksunäytteitä 8 kpl YSL, Chloe, Miu Miu ym.",
    "closed": "2026-10-02T17:39:20+0300",
-   "ts": 1795012120
+   "ts": 1795536880
   },
   "653191355": {
    "brand": "Gucci",
@@ -177,7 +177,7 @@
    "ts": 1795450999
   }
  },
- "i": 58,
+ "i": 98,
  "groups": {
   "Carpe Diem|muu": {
    "n": 1,
@@ -276,5 +276,5 @@
    "p75": 55.0
   }
  },
- "generated": 1795451065
+ "generated": 1795536881
 }
