@@ -1,6 +1,6 @@
 # 🛒 Toivelista: nykyiset osumat
 
-Päivitetty 2026-11-23 20:38 UTC. Lisää asioita kommentoimalla issueen "🛒 Toivelista". Hinnat perillä Suomessa (Ruotsi + ~15 € posti).
+Päivitetty 2026-11-24 05:07 UTC. Lisää asioita kommentoimalla issueen "🛒 Toivelista". Hinnat perillä Suomessa (Ruotsi + ~15 € posti).
 
 ## Läppäriteline MacBookille
 
@@ -69,58 +69,60 @@ Päivitetty 2026-11-23 20:38 UTC. Lisää asioita kommentoimalla issueen "🛒 T
 
 ## Näyttövarsi yhdelle näytölle
 
-53 osumaa · mediaani 45 € · hälytysraja 90 € · uutena 130 €
+55 osumaa · mediaani 45 € · hälytysraja 90 € · uutena 130 €
 
 - ⭐ **15 €** [Ergotron MX näyttövarsi.](https://www.tori.fi/recommerce/forsale/item/46317082) · Tori · −88 % uushinnasta 130 €; 67 % alle käytettyjen mediaanin 45 €
 - ⭐ **20 €** [Ergotron Monitorin kiinnike säädettävällä varrella](https://www.tori.fi/recommerce/forsale/item/34378118) · Tori · −85 % uushinnasta 130 €; 56 % alle käytettyjen mediaanin 45 €
-- ⭐ **30 €** [Arctic X1 Desk Mount Monitor Arm](https://www.tori.fi/recommerce/forsale/item/45932080) · Tori · −77 % uushinnasta 130 €; 33 % alle käytettyjen mediaanin 45 €
-- ⭐ **41 €** [Deltaco skärmfäste (monitor arm) med gasfjäder 17” - 32”](https://www.blocket.se/recommerce/forsale/item/28461783) · Blocket 🇸🇪 · −68 % uushinnasta 130 €; 9 % alle käytettyjen mediaanin 45 €; 26 € + ~15 € posti, kysy lähettääkö Suomeen
-- ⭐ **43 €** [Invision MX450 gasassisterat monitorarm 24–40 tum](https://www.blocket.se/recommerce/forsale/item/28457299) · Blocket 🇸🇪 · −67 % uushinnasta 130 €; 4 % alle käytettyjen mediaanin 45 €; 28 € + ~15 € posti, kysy lähettääkö Suomeen
-- ⭐ **45 €** [Neomounts NM-D135DSilver näyttövarsi](https://www.tori.fi/recommerce/forsale/item/49335886) · Tori · −65 % uushinnasta 130 €; 0 % alle käytettyjen mediaanin 45 €
-- ⭐ **45 €** [Monitorarm Apple / Ergotron – aluminium, pelarsystem (endast arm)](https://www.blocket.se/recommerce/forsale/item/21952714) · Blocket 🇸🇪 · −65 % uushinnasta 130 €; 1 % yli käytettyjen mediaanin 45 €; 30 € + ~15 € posti, kysy lähettääkö Suomeen
-- ⭐ **45 €** [Invision MX450 Skärmarm 24–49 tum – Nyskick](https://www.blocket.se/recommerce/forsale/item/28123748) · Blocket 🇸🇪 · −65 % uushinnasta 130 €; 1 % yli käytettyjen mediaanin 45 €; 30 € + ~15 € posti, kysy lähettääkö Suomeen
-- ⭐ **48 €** [Ergotron Neo-Flex monitorivarsi (hopea)](https://www.tori.fi/recommerce/forsale/item/46401494) · Tori · −63 % uushinnasta 130 €; 7 % yli käytettyjen mediaanin 45 €
-- ⭐ **49 €** [Monitorarm med gasfjäder och bordsklämma, svart](https://www.blocket.se/recommerce/forsale/item/27532060) · Blocket 🇸🇪 · −62 % uushinnasta 130 €; 9 % yli käytettyjen mediaanin 45 €; 34 € + ~15 € posti, kysy lähettääkö Suomeen
-- ⭐ **60 €** [Hyvä Dellin näyttö 32", kaasujousivarsi ja näytön jalka](https://www.tori.fi/recommerce/forsale/item/38969723) · Tori · −54 % uushinnasta 130 €; 33 % yli käytettyjen mediaanin 45 €
-- ⭐ **75 €** [Vogel’s premium-monitorivarsi, hopeinen – 1 jäljellä, läpivientikiinnitys](https://www.tori.fi/recommerce/forsale/item/50086787) · Tori · −42 % uushinnasta 130 €; 67 % yli käytettyjen mediaanin 45 €
-- ⭐ **75 €** [Monitorivarsi Vogel PFD 8522](https://www.tori.fi/recommerce/forsale/item/47756932) · Tori · −42 % uushinnasta 130 €; 67 % yli käytettyjen mediaanin 45 €
-- ⭐ **100 €** [Vogel's PFD 8522 monitorivarsi](https://www.tori.fi/recommerce/forsale/item/45714878) · Tori · −23 % uushinnasta 130 €; 122 % yli käytettyjen mediaanin 45 €
-- ⭐ **106 €** [Ergotron skärmarm, vit, med bordsklämma](https://www.blocket.se/recommerce/forsale/item/27532923) · Blocket 🇸🇪 · −18 % uushinnasta 130 €; 136 % yli käytettyjen mediaanin 45 €; 91 € + ~15 € posti, kysy lähettääkö Suomeen
-- ⭐ **172 €** [Ergotron hx desk monitor arm hd pivot](https://www.blocket.se/recommerce/forsale/item/26849000) · Blocket 🇸🇪 · −-32 % uushinnasta 130 €; 281 % yli käytettyjen mediaanin 45 €; 157 € + ~15 € posti, kysy lähettääkö Suomeen
-- ⭐ **180 €** [Ergotron LX Desk Mount – Monitorarm](https://www.blocket.se/recommerce/forsale/item/28218161) · Blocket 🇸🇪 · −-39 % uushinnasta 130 €; 301 % yli käytettyjen mediaanin 45 €; 165 € + ~15 € posti, kysy lähettääkö Suomeen
-- ⭐ **276 €** [Ergotron LX Stacking Arm för 2 skärmar](https://www.blocket.se/recommerce/forsale/item/23049442) · Blocket 🇸🇪 · −-112 % uushinnasta 130 €; 513 % yli käytettyjen mediaanin 45 €; 261 € + ~15 € posti, kysy lähettääkö Suomeen
+- ⭐ **30 €** [Arctic X1 Desk Mount Monitor Arm](https://www.tori.fi/recommerce/forsale/item/45932080) · Tori · −77 % uushinnasta 130 €; 34 % alle käytettyjen mediaanin 45 €
+- ⭐ **41 €** [Deltaco skärmfäste (monitor arm) med gasfjäder 17” - 32”](https://www.blocket.se/recommerce/forsale/item/28461783) · Blocket 🇸🇪 · −68 % uushinnasta 130 €; 10 % alle käytettyjen mediaanin 45 €; 26 € + ~15 € posti, kysy lähettääkö Suomeen
+- ⭐ **43 €** [Invision MX450 gasassisterat monitorarm 24–40 tum](https://www.blocket.se/recommerce/forsale/item/28457299) · Blocket 🇸🇪 · −67 % uushinnasta 130 €; 5 % alle käytettyjen mediaanin 45 €; 28 € + ~15 € posti, kysy lähettääkö Suomeen
+- ⭐ **45 €** [Neomounts NM-D135DSilver näyttövarsi](https://www.tori.fi/recommerce/forsale/item/49335886) · Tori · −65 % uushinnasta 130 €; 1 % alle käytettyjen mediaanin 45 €
+- ⭐ **45 €** [Monitorarm Apple / Ergotron – aluminium, pelarsystem (endast arm)](https://www.blocket.se/recommerce/forsale/item/21952714) · Blocket 🇸🇪 · −65 % uushinnasta 130 €; 0 % alle käytettyjen mediaanin 45 €; 30 € + ~15 € posti, kysy lähettääkö Suomeen
+- ⭐ **45 €** [Invision MX450 Skärmarm 24–49 tum – Nyskick](https://www.blocket.se/recommerce/forsale/item/28123748) · Blocket 🇸🇪 · −65 % uushinnasta 130 €; 0 % alle käytettyjen mediaanin 45 €; 30 € + ~15 € posti, kysy lähettääkö Suomeen
+- ⭐ **48 €** [Ergotron Neo-Flex monitorivarsi (hopea)](https://www.tori.fi/recommerce/forsale/item/46401494) · Tori · −63 % uushinnasta 130 €; 6 % yli käytettyjen mediaanin 45 €
+- ⭐ **49 €** [Monitorarm med gasfjäder och bordsklämma, svart](https://www.blocket.se/recommerce/forsale/item/27532060) · Blocket 🇸🇪 · −62 % uushinnasta 130 €; 8 % yli käytettyjen mediaanin 45 €; 34 € + ~15 € posti, kysy lähettääkö Suomeen
+- ⭐ **60 €** [Hyvä Dellin näyttö 32", kaasujousivarsi ja näytön jalka](https://www.tori.fi/recommerce/forsale/item/38969723) · Tori · −54 % uushinnasta 130 €; 32 % yli käytettyjen mediaanin 45 €
+- ⭐ **75 €** [Vogel’s premium-monitorivarsi, hopeinen – 1 jäljellä, läpivientikiinnitys](https://www.tori.fi/recommerce/forsale/item/50086787) · Tori · −42 % uushinnasta 130 €; 65 % yli käytettyjen mediaanin 45 €
+- ⭐ **75 €** [Monitorivarsi Vogel PFD 8522](https://www.tori.fi/recommerce/forsale/item/47756932) · Tori · −42 % uushinnasta 130 €; 65 % yli käytettyjen mediaanin 45 €
+- ⭐ **100 €** [Vogel's PFD 8522 monitorivarsi](https://www.tori.fi/recommerce/forsale/item/45714878) · Tori · −23 % uushinnasta 130 €; 120 % yli käytettyjen mediaanin 45 €
+- ⭐ **106 €** [Ergotron skärmarm, vit, med bordsklämma](https://www.blocket.se/recommerce/forsale/item/27532923) · Blocket 🇸🇪 · −18 % uushinnasta 130 €; 134 % yli käytettyjen mediaanin 45 €; 91 € + ~15 € posti, kysy lähettääkö Suomeen
+- ⭐ **172 €** [Ergotron hx desk monitor arm hd pivot](https://www.blocket.se/recommerce/forsale/item/26849000) · Blocket 🇸🇪 · −-32 % uushinnasta 130 €; 278 % yli käytettyjen mediaanin 45 €; 157 € + ~15 € posti, kysy lähettääkö Suomeen
+- ⭐ **180 €** [Ergotron LX Desk Mount – Monitorarm](https://www.blocket.se/recommerce/forsale/item/28218161) · Blocket 🇸🇪 · −-39 % uushinnasta 130 €; 297 % yli käytettyjen mediaanin 45 €; 165 € + ~15 € posti, kysy lähettääkö Suomeen
+- ⭐ **276 €** [Ergotron LX Stacking Arm för 2 skärmar](https://www.blocket.se/recommerce/forsale/item/23049442) · Blocket 🇸🇪 · −-112 % uushinnasta 130 €; 507 % yli käytettyjen mediaanin 45 €; 261 € + ~15 € posti, kysy lähettääkö Suomeen
 - **10 €** [Näytön pöytäteline / monitorivarsi](https://www.tori.fi/recommerce/forsale/item/47823822) · Tori · −92 % uushinnasta 130 €; 78 % alle käytettyjen mediaanin 45 €
 - **10 €** [Minifocus ”arm” ulkoiselle monitorille](https://www.tori.fi/recommerce/forsale/item/43714709) · Tori · −92 % uushinnasta 130 €; 78 % alle käytettyjen mediaanin 45 €
 - **15 €** [Näyttövarsi](https://www.tori.fi/recommerce/forsale/item/45743538) · Tori · −88 % uushinnasta 130 €; 67 % alle käytettyjen mediaanin 45 €
 - **15 €** [Näyttövarsipari](https://www.tori.fi/recommerce/forsale/item/50196558) · Tori · −88 % uushinnasta 130 €; 67 % alle käytettyjen mediaanin 45 €
 - **15 €** [Newstar FPMA-D550BLACK -monitorivarsi](https://www.tori.fi/recommerce/forsale/item/44206340) · Tori · −88 % uushinnasta 130 €; 67 % alle käytettyjen mediaanin 45 €
 - **20 €** [Gembird MA-DA1-01 näyttövarsi kaasujousella](https://www.tori.fi/recommerce/forsale/item/50257992) · Tori · −85 % uushinnasta 130 €; 56 % alle käytettyjen mediaanin 45 €
-- **25 €** [Deltaco monitorivarsi](https://www.tori.fi/recommerce/forsale/item/49702688) · Tori · −81 % uushinnasta 130 €; 44 % alle käytettyjen mediaanin 45 €
-- **25 €** [Yksivartinen näyttövarsi, pöytäkiinnitys](https://www.tori.fi/recommerce/forsale/item/47044251) · Tori · −81 % uushinnasta 130 €; 44 % alle käytettyjen mediaanin 45 €
-- **25 €** [Multibrackets M Deskmount Basic Single näytönjalka / monitorivarsi](https://www.tori.fi/recommerce/forsale/item/47579506) · Tori · −81 % uushinnasta 130 €; 44 % alle käytettyjen mediaanin 45 €
-- **25 €** [Suptek monitorivarsi 13–27” – VESA 100x100](https://www.tori.fi/recommerce/forsale/item/46056108) · Tori · −81 % uushinnasta 130 €; 44 % alle käytettyjen mediaanin 45 €
-- **25 €** [Näytön varsi VESA-kiinnityksellä](https://www.tori.fi/recommerce/forsale/item/44594381) · Tori · −81 % uushinnasta 130 €; 44 % alle käytettyjen mediaanin 45 €
+- **25 €** [Deltaco monitorivarsi](https://www.tori.fi/recommerce/forsale/item/49702688) · Tori · −81 % uushinnasta 130 €; 45 % alle käytettyjen mediaanin 45 €
+- **25 €** [Yksivartinen näyttövarsi, pöytäkiinnitys](https://www.tori.fi/recommerce/forsale/item/47044251) · Tori · −81 % uushinnasta 130 €; 45 % alle käytettyjen mediaanin 45 €
+- **25 €** [Multibrackets M Deskmount Basic Single näytönjalka / monitorivarsi](https://www.tori.fi/recommerce/forsale/item/47579506) · Tori · −81 % uushinnasta 130 €; 45 % alle käytettyjen mediaanin 45 €
+- **25 €** [Suptek monitorivarsi 13–27” – VESA 100x100](https://www.tori.fi/recommerce/forsale/item/46056108) · Tori · −81 % uushinnasta 130 €; 45 % alle käytettyjen mediaanin 45 €
+- **25 €** [Näytön varsi VESA-kiinnityksellä](https://www.tori.fi/recommerce/forsale/item/44594381) · Tori · −81 % uushinnasta 130 €; 45 % alle käytettyjen mediaanin 45 €
 - **28 €** [Monitor stativ för dubbla skärmar](https://www.blocket.se/recommerce/forsale/item/28104620) · Blocket 🇸🇪 · −78 % uushinnasta 130 €; 38 % alle käytettyjen mediaanin 45 €; 13 € + ~15 € posti, kysy lähettääkö Suomeen
-- **30 €** [Säädettävä harmaa näyttövarsi / monitorivarsi](https://www.tori.fi/recommerce/forsale/item/48563002) · Tori · −77 % uushinnasta 130 €; 33 % alle käytettyjen mediaanin 45 €
-- **30 €** [Hama Full Motion monitorivarsi 35](https://www.tori.fi/recommerce/forsale/item/49444157) · Tori · −77 % uushinnasta 130 €; 33 % alle käytettyjen mediaanin 45 €
-- **30 €** [Monitorivarsi läppäritelineellä](https://www.tori.fi/recommerce/forsale/item/48336932) · Tori · −77 % uushinnasta 130 €; 33 % alle käytettyjen mediaanin 45 €
-- **30 €** [Monitorinvarsi - NewStar FPMA-D500KEYB Desk mount / Näytön pidike](https://www.tori.fi/recommerce/forsale/item/20150301) · Tori · −77 % uushinnasta 130 €; 33 % alle käytettyjen mediaanin 45 €
-- **35 €** [Monitorivarsi - Multibrackets](https://www.tori.fi/recommerce/forsale/item/45046764) · Tori · −73 % uushinnasta 130 €; 22 % alle käytettyjen mediaanin 45 €
+- **30 €** [Säädettävä harmaa näyttövarsi / monitorivarsi](https://www.tori.fi/recommerce/forsale/item/48563002) · Tori · −77 % uushinnasta 130 €; 34 % alle käytettyjen mediaanin 45 €
+- **30 €** [Hama Full Motion monitorivarsi 35](https://www.tori.fi/recommerce/forsale/item/49444157) · Tori · −77 % uushinnasta 130 €; 34 % alle käytettyjen mediaanin 45 €
+- **30 €** [Monitorivarsi läppäritelineellä](https://www.tori.fi/recommerce/forsale/item/48336932) · Tori · −77 % uushinnasta 130 €; 34 % alle käytettyjen mediaanin 45 €
+- **30 €** [Monitorinvarsi - NewStar FPMA-D500KEYB Desk mount / Näytön pidike](https://www.tori.fi/recommerce/forsale/item/20150301) · Tori · −77 % uushinnasta 130 €; 34 % alle käytettyjen mediaanin 45 €
+- **35 €** [Monitorivarsi - Multibrackets](https://www.tori.fi/recommerce/forsale/item/45046764) · Tori · −73 % uushinnasta 130 €; 23 % alle käytettyjen mediaanin 45 €
 - **37 €** [Skärmfäste / monitorarm för datorskärm](https://www.blocket.se/recommerce/forsale/item/25629840) · Blocket 🇸🇪 · −72 % uushinnasta 130 €; 19 % alle käytettyjen mediaanin 45 €; 22 € + ~15 € posti, kysy lähettääkö Suomeen
-- **37 €** [Monitor arm](https://www.blocket.se/recommerce/forsale/item/28095295) · Blocket 🇸🇪 · −72 % uushinnasta 130 €; 18 % alle käytettyjen mediaanin 45 €; 22 € + ~15 € posti, kysy lähettääkö Suomeen
-- **45 €** [Martela näytön pöytään kiinnitettevä varsi, kaasujousella](https://www.tori.fi/recommerce/forsale/item/50305273) · Tori · −65 % uushinnasta 130 €; 0 % alle käytettyjen mediaanin 45 €
-- **45 €** [Säädettävä näytön varsi 24"- 27" näytölle](https://www.tori.fi/recommerce/forsale/item/47948520) · Tori · −65 % uushinnasta 130 €; 0 % alle käytettyjen mediaanin 45 €
-- **49 €** [Uusi monitorivarsi näytölle ja lisävarusteille](https://www.tori.fi/recommerce/forsale/item/19060948) · Tori · −62 % uushinnasta 130 €; 9 % yli käytettyjen mediaanin 45 €
-- **50 €** [2 oöppnade Skärmfäste / monitorarm för skärm upp till 27 tum](https://www.blocket.se/recommerce/forsale/item/26324794) · Blocket 🇸🇪 · −62 % uushinnasta 130 €; 11 % yli käytettyjen mediaanin 45 €; 35 € + ~15 € posti, kysy lähettääkö Suomeen
-- **50 €** [Deltaco näyttövarsi](https://www.tori.fi/recommerce/forsale/item/19449340) · Tori · −62 % uushinnasta 130 €; 11 % yli käytettyjen mediaanin 45 €
-- **50 €** [Näyttöteline/näyttövarsi](https://www.tori.fi/recommerce/forsale/item/47000029) · Tori · −62 % uushinnasta 130 €; 11 % yli käytettyjen mediaanin 45 €
-- **50 €** [Näytön varsi Dell MSA 14](https://www.tori.fi/recommerce/forsale/item/3507267) · Tori · −62 % uushinnasta 130 €; 11 % yli käytettyjen mediaanin 45 €
-- **50 €** [Arctic Desk Monitor Arm](https://www.tori.fi/recommerce/forsale/item/45557942) · Tori · −62 % uushinnasta 130 €; 11 % yli käytettyjen mediaanin 45 €
-- **55 €** [LCD ViewMaster näytönvarsi pöytäkiinnityksellä](https://www.tori.fi/recommerce/forsale/item/46087782) · Tori · −58 % uushinnasta 130 €; 22 % yli käytettyjen mediaanin 45 €
-- **58 €** [Skärmfäste / monitorarm för skrivbord](https://www.blocket.se/recommerce/forsale/item/24642329) · Blocket 🇸🇪 · −55 % uushinnasta 130 €; 30 % yli käytettyjen mediaanin 45 €; 44 € + ~15 € posti, kysy lähettääkö Suomeen
-- **58 €** [ICY BOX IB-MS504-T monitorarm för 2 skärmar](https://www.blocket.se/recommerce/forsale/item/27997349) · Blocket 🇸🇪 · −55 % uushinnasta 130 €; 30 % yli käytettyjen mediaanin 45 €; 44 € + ~15 € posti, kysy lähettääkö Suomeen
-- **76 €** [Svart skärmfäste / monitorarm för skrivbord](https://www.blocket.se/recommerce/forsale/item/27099092) · Blocket 🇸🇪 · −42 % uushinnasta 130 €; 68 % yli käytettyjen mediaanin 45 €; 61 € + ~15 € posti, kysy lähettääkö Suomeen
-- **90 €** [Dell MSA20 -näyttövarsi, uusi ja avaamaton](https://www.tori.fi/recommerce/forsale/item/50058751) · Tori · −31 % uushinnasta 130 €; 100 % yli käytettyjen mediaanin 45 €
-- **100 €** [Monitorivarsi Deltaco Gaming valkoinen RGB](https://www.tori.fi/recommerce/forsale/item/38001781) · Tori · −23 % uushinnasta 130 €; 122 % yli käytettyjen mediaanin 45 €
-- **119 €** [Näyttövarsi OmniARM PRO kaasujousella, näytöille 2–12 kg, max 40"](https://www.tori.fi/recommerce/forsale/item/49817135) · Tori · −8 % uushinnasta 130 €; 164 % yli käytettyjen mediaanin 45 €
-- **179 €** [XIAOMI 2K GAMING MONITOR G27QI with DELTACO ARM-534 MONITOR ARM](https://www.tori.fi/recommerce/forsale/item/45013061) · Tori · −-38 % uushinnasta 130 €; 298 % yli käytettyjen mediaanin 45 €
+- **37 €** [Monitor arm](https://www.blocket.se/recommerce/forsale/item/28095295) · Blocket 🇸🇪 · −72 % uushinnasta 130 €; 19 % alle käytettyjen mediaanin 45 €; 22 € + ~15 € posti, kysy lähettääkö Suomeen
+- **45 €** [Martela näytön pöytään kiinnitettevä varsi, kaasujousella](https://www.tori.fi/recommerce/forsale/item/50305273) · Tori · −65 % uushinnasta 130 €; 1 % alle käytettyjen mediaanin 45 €
+- **45 €** [Säädettävä näytön varsi 24"- 27" näytölle](https://www.tori.fi/recommerce/forsale/item/47948520) · Tori · −65 % uushinnasta 130 €; 1 % alle käytettyjen mediaanin 45 €
+- **49 €** [Uusi monitorivarsi näytölle ja lisävarusteille](https://www.tori.fi/recommerce/forsale/item/19060948) · Tori · −62 % uushinnasta 130 €; 8 % yli käytettyjen mediaanin 45 €
+- **50 €** [2 oöppnade Skärmfäste / monitorarm för skärm upp till 27 tum](https://www.blocket.se/recommerce/forsale/item/26324794) · Blocket 🇸🇪 · −62 % uushinnasta 130 €; 10 % yli käytettyjen mediaanin 45 €; 35 € + ~15 € posti, kysy lähettääkö Suomeen
+- **50 €** [Deltaco näyttövarsi](https://www.tori.fi/recommerce/forsale/item/19449340) · Tori · −62 % uushinnasta 130 €; 10 % yli käytettyjen mediaanin 45 €
+- **50 €** [Näyttöteline/näyttövarsi](https://www.tori.fi/recommerce/forsale/item/47000029) · Tori · −62 % uushinnasta 130 €; 10 % yli käytettyjen mediaanin 45 €
+- **50 €** [Näytön varsi Dell MSA 14](https://www.tori.fi/recommerce/forsale/item/3507267) · Tori · −62 % uushinnasta 130 €; 10 % yli käytettyjen mediaanin 45 €
+- **50 €** [Arctic Desk Monitor Arm](https://www.tori.fi/recommerce/forsale/item/45557942) · Tori · −62 % uushinnasta 130 €; 10 % yli käytettyjen mediaanin 45 €
+- **55 €** [LCD ViewMaster näytönvarsi pöytäkiinnityksellä](https://www.tori.fi/recommerce/forsale/item/46087782) · Tori · −58 % uushinnasta 130 €; 21 % yli käytettyjen mediaanin 45 €
+- **58 €** [Skärmfäste / monitorarm för skrivbord](https://www.blocket.se/recommerce/forsale/item/24642329) · Blocket 🇸🇪 · −55 % uushinnasta 130 €; 29 % yli käytettyjen mediaanin 45 €; 44 € + ~15 € posti, kysy lähettääkö Suomeen
+- **58 €** [ICY BOX IB-MS504-T monitorarm för 2 skärmar](https://www.blocket.se/recommerce/forsale/item/27997349) · Blocket 🇸🇪 · −55 % uushinnasta 130 €; 29 % yli käytettyjen mediaanin 45 €; 44 € + ~15 € posti, kysy lähettääkö Suomeen
+- **58 €** [NY i kartong: Onkron G50 Black – Full motion skärmfäste / monitorarm (13–32")](https://www.blocket.se/recommerce/forsale/item/27461185) · Blocket 🇸🇪 · −55 % uushinnasta 130 €; 29 % yli käytettyjen mediaanin 45 €; 44 € + ~15 € posti, kysy lähettääkö Suomeen
+- **76 €** [Svart skärmfäste / monitorarm för skrivbord](https://www.blocket.se/recommerce/forsale/item/27099092) · Blocket 🇸🇪 · −42 % uushinnasta 130 €; 67 % yli käytettyjen mediaanin 45 €; 61 € + ~15 € posti, kysy lähettääkö Suomeen
+- **90 €** [Dell MSA20 -näyttövarsi, uusi ja avaamaton](https://www.tori.fi/recommerce/forsale/item/50058751) · Tori · −31 % uushinnasta 130 €; 98 % yli käytettyjen mediaanin 45 €
+- **100 €** [Monitorivarsi Deltaco Gaming valkoinen RGB](https://www.tori.fi/recommerce/forsale/item/38001781) · Tori · −23 % uushinnasta 130 €; 120 % yli käytettyjen mediaanin 45 €
+- **119 €** [Näyttövarsi OmniARM PRO kaasujousella, näytöille 2–12 kg, max 40"](https://www.tori.fi/recommerce/forsale/item/49817135) · Tori · −8 % uushinnasta 130 €; 162 % yli käytettyjen mediaanin 45 €
+- **179 €** [XIAOMI 2K GAMING MONITOR G27QI with DELTACO ARM-534 MONITOR ARM](https://www.tori.fi/recommerce/forsale/item/45013061) · Tori · −-38 % uushinnasta 130 €; 294 % yli käytettyjen mediaanin 45 €
+- **1146 €** [LG UltraWide datorskärm 40” med skärmarm](https://www.blocket.se/recommerce/forsale/item/28504014) · Blocket 🇸🇪 · −-782 % uushinnasta 130 €; 2421 % yli käytettyjen mediaanin 45 €; 1131 € + ~15 € posti, kysy lähettääkö Suomeen

@@ -1,5 +1,5 @@
 {
- "generated": 1795466310,
+ "generated": 1795496863,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -845,6 +845,14 @@
     "image": "https://images.blocketcdn.se/dynamic/default/item/27997349/74598991-8e39-4ccb-80b6-616266166e25"
    },
    {
+    "id": "blocket-27461185",
+    "source": "blocket",
+    "title": "NY i kartong: Onkron G50 Black – Full motion skärmfäste / monitorarm (13–32\")",
+    "price": 58.5,
+    "url": "https://www.blocket.se/recommerce/forsale/item/27461185",
+    "image": "https://images.blocketcdn.se/dynamic/default/item/27461185/3ebe1490-3f2a-475c-bdac-0aee227695f8"
+   },
+   {
     "id": "tori-38969723",
     "source": "tori",
     "title": "Hyvä Dellin näyttö 32\", kaasujousivarsi ja näytön jalka",
@@ -947,6 +955,14 @@
     "price": 276.0,
     "url": "https://www.blocket.se/recommerce/forsale/item/23049442",
     "image": "https://images.blocketcdn.se/dynamic/default/item/23049442/47b77dbc-0bdb-4c92-b873-5548b4e18354"
+   },
+   {
+    "id": "blocket-28504014",
+    "source": "blocket",
+    "title": "LG UltraWide datorskärm 40” med skärmarm",
+    "price": 1146.0,
+    "url": "https://www.blocket.se/recommerce/forsale/item/28504014",
+    "image": "https://images.blocketcdn.se/dynamic/default/item/28504014/6a931521-b625-48ea-9e09-a2b64fe000e3"
    }
   ]
  }
