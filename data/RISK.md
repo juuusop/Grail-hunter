@@ -1,18 +1,18 @@
 # Feikki- ja kuntoriski löydöissä
 
-1458 löytöä (data/finds.json). Heuristiikka: risk.py.
+1455 löytöä (data/finds.json). Heuristiikka: risk.py.
 
-- korkea feikkiriski: **11%**, keskitaso: 22%
+- korkea feikkiriski: **11%**, keskitaso: 21%
 - kulunut/huono kunto: **20%**, kunto ei tiedossa: 30%
 
 ## Alustoittain
 
 | alusta | n | feikki korkea | keski | kulunut/huono | kunto ? |
 |---|---|---|---|---|---|
-| sellpy.fi | 819 | 0% | 12% | 34% | 0% |
+| sellpy.fi | 815 | 0% | 12% | 33% | 0% |
 | tradera.com | 227 | 5% | 34% | 0% | 100% |
 | tori.fi | 141 | 35% | 35% | 0% | 100% |
-| marktplaats.nl | 139 | 44% | 35% | 6% | 5% |
+| marktplaats.nl | 140 | 44% | 34% | 6% | 5% |
 | 2dehands.be | 76 | 22% | 30% | 8% | 16% |
 | blocket.se | 21 | 62% | 38% | 0% | 100% |
 | dba.dk | 17 | 47% | 29% | 0% | 100% |
@@ -23,13 +23,13 @@
 
 | kategoria | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
-| muu | 402 | 28% | 18% |
-| takki | 279 | 34% | 21% |
-| kengät | 276 | 62% | 21% |
+| muu | 406 | 28% | 18% |
+| takki | 284 | 33% | 20% |
+| kengät | 268 | 61% | 21% |
 | neule | 132 | 12% | 15% |
-| housut | 125 | 9% | 21% |
+| housut | 121 | 9% | 20% |
 | laukku | 68 | 57% | 6% |
-| t-paita | 55 | 20% | 36% |
+| t-paita | 55 | 20% | 35% |
 | huppari | 46 | 28% | 30% |
 | kauluspaita | 46 | 0% | 28% |
 | asuste | 24 | 38% | 17% |
@@ -40,31 +40,31 @@
 
 | brändi | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
+| Loro Piana | 48 | 100% | 2% |
 | Chanel | 6 | 100% | 17% |
 | Hermès | 7 | 100% | 14% |
-| Balenciaga | 25 | 100% | 12% |
+| Balenciaga | 24 | 100% | 12% |
 | Supreme | 5 | 100% | 40% |
 | Goyard | 13 | 100% | 0% |
 | Givenchy | 10 | 100% | 30% |
 | Miu Miu | 11 | 100% | 9% |
-| Saint Laurent | 9 | 100% | 22% |
+| Saint Laurent | 8 | 100% | 12% |
 | Loewe | 8 | 100% | 0% |
-| Loro Piana | 47 | 100% | 2% |
-| Brunello Cucinelli | 9 | 100% | 11% |
 | Bottega Veneta | 7 | 100% | 0% |
 | Valentino | 36 | 97% | 11% |
-| Dior | 29 | 97% | 7% |
+| Dior | 31 | 97% | 10% |
 | Canada Goose | 55 | 96% | 0% |
 | Arc'teryx | 21 | 95% | 0% |
 | Alexander McQueen | 14 | 93% | 0% |
 | Rick Owens | 13 | 92% | 8% |
+| Brunello Cucinelli | 10 | 90% | 20% |
 | Celine | 12 | 83% | 8% |
 | Moncler | 33 | 82% | 12% |
 | Issey Miyake | 5 | 80% | 0% |
 | Maison Margiela | 23 | 78% | 13% |
-| Louis Vuitton | 17 | 76% | 18% |
 | Dolce & Gabbana | 4 | 75% | 50% |
 | Enfants Riches Déprimés | 4 | 75% | 25% |
+| Gucci | 15 | 73% | 40% |
 
 ## Riskisimmät löydöt
 
