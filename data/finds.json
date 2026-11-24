@@ -1,5 +1,83 @@
 [
  {
+  "id": "oqVe1xHlx7",
+  "brand": "Ermenegildo Zegna",
+  "title": "Zegna Sport Pikeepaita",
+  "price": 14.0,
+  "value": 50,
+  "score": 3.6,
+  "label": "🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "Hyväksyttävä",
+  "size": "MEN-INT-L",
+  "link": "https://www.sellpy.fi/item/oqVe1xHlx7",
+  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-21/oqVe1xHlx7-f173-0.jpg",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 68 €",
+   "kate ~6 € (ROI 29%, myy grailed ~38 €; brändiarvio ~38 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795492573,
+  "resale": 38,
+  "profit": 6,
+  "roi": 0.29,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~38 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~38 € → käteen ~26 € kulujen ja tinkimisen jälkeen",
+   "osto 14 € + toimitus = 20 €"
+  ],
+  "risk": {
+   "fake": 1,
+   "fake_level": "matala",
+   "cond": "kulunut",
+   "why": [
+    "selviä käytön jälkiä/vikoja"
+   ]
+  }
+ },
+ {
+  "id": "Ama3CA2Krv",
+  "brand": "Celine",
+  "title": "Celine Hiuslenkki",
+  "price": 100.0,
+  "value": 253,
+  "score": 2.53,
+  "label": "🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "Erittäin hyvä",
+  "size": "-",
+  "link": "https://www.sellpy.fi/item/Ama3CA2Krv",
+  "image": "https://prod.images.sellpy.net/photoRobot-manual-7-k-21/Ama3CA2Krv-a011-single.jpg",
+  "reasons": [
+   "taso A",
+   "céline ×1.2",
+   "triomphe ×1.2",
+   "Sellpyn mediaani tälle brändille 158 €",
+   "Japanissa myyty (muu) mediaani 54 € (n=17)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)"
+  ],
+  "source": "brändi",
+  "old_price": null,
+  "ts": 1795492573,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 18,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "Sellpy lajittelee itse + myy vain aitoja (linjaus), palautus 30 pv"
+   ]
+  }
+ },
+ {
   "id": "tori-50330157",
   "brand": "Arc'teryx · Tori",
   "title": "Arcteryx takki L",
@@ -46128,46 +46206,6 @@
   "image": "https://prod.images.sellpy.net/photoRobot-standard-1-k-14/Gqks2VFPBG-db15-0.jpg",
   "reasons": [
    "Sellpyn mediaani tälle brändille 46 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347666
- },
- {
-  "id": "9FqxgE5S8q",
-  "brand": "The North Face",
-  "title": "The North Face Huppari",
-  "price": 11.0,
-  "value": 36,
-  "score": 3.24,
-  "label": "🔥 KOVA DIILI",
-  "category": "huppari",
-  "condition": "Hyväksyttävä",
-  "size": "WMN-INT-L",
-  "link": "https://www.sellpy.fi/item/9FqxgE5S8q",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-12/3nU34yvqHT-82db-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 46 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347666
- },
- {
-  "id": "tVWMygixS1",
-  "brand": "Moncler",
-  "title": "Moncler Kevyttoppatakki Lis",
-  "price": 52.0,
-  "value": 317,
-  "score": 6.09,
-  "label": "🚨 INSANE",
-  "category": "takki",
-  "condition": "Hyvä",
-  "size": "WMN-INT-XS",
-  "link": "https://www.sellpy.fi/item/tVWMygixS1",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-k-22/EcrCpDgxmT-434f-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 137 €"
   ],
   "source": "brändi",
   "old_price": null,

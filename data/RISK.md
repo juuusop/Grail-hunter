@@ -9,11 +9,11 @@
 
 | alusta | n | feikki korkea | keski | kulunut/huono | kunto ? |
 |---|---|---|---|---|---|
-| sellpy.fi | 828 | 0% | 14% | 35% | 0% |
+| sellpy.fi | 825 | 0% | 14% | 35% | 0% |
 | tradera.com | 227 | 5% | 34% | 0% | 100% |
-| tori.fi | 137 | 34% | 35% | 0% | 100% |
-| marktplaats.nl | 136 | 43% | 35% | 7% | 5% |
-| 2dehands.be | 75 | 23% | 29% | 8% | 16% |
+| tori.fi | 138 | 34% | 36% | 0% | 100% |
+| marktplaats.nl | 137 | 44% | 34% | 7% | 5% |
+| 2dehands.be | 76 | 22% | 30% | 8% | 16% |
 | blocket.se | 21 | 62% | 38% | 0% | 100% |
 | finn.no | 17 | 12% | 24% | 0% | 100% |
 | dba.dk | 16 | 50% | 25% | 0% | 100% |
@@ -23,14 +23,14 @@
 
 | kategoria | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
-| muu | 397 | 28% | 19% |
+| muu | 400 | 28% | 19% |
 | kengät | 281 | 62% | 22% |
-| takki | 281 | 34% | 22% |
+| takki | 280 | 34% | 22% |
 | neule | 131 | 12% | 15% |
-| housut | 126 | 9% | 21% |
-| laukku | 64 | 55% | 6% |
+| housut | 125 | 9% | 21% |
+| laukku | 65 | 55% | 6% |
 | t-paita | 53 | 23% | 40% |
-| huppari | 50 | 28% | 32% |
+| huppari | 48 | 29% | 31% |
 | kauluspaita | 46 | 0% | 28% |
 | asuste | 24 | 38% | 17% |
 | nahkatakki | 3 | 67% | 0% |
@@ -53,13 +53,13 @@
 | Brunello Cucinelli | 9 | 100% | 11% |
 | Bottega Veneta | 8 | 100% | 0% |
 | Valentino | 33 | 97% | 12% |
+| Dior | 29 | 97% | 7% |
 | Canada Goose | 55 | 96% | 0% |
-| Dior | 27 | 96% | 7% |
-| Arc'teryx | 19 | 95% | 0% |
+| Arc'teryx | 20 | 95% | 0% |
 | Alexander McQueen | 15 | 93% | 7% |
 | Rick Owens | 13 | 92% | 8% |
-| Celine | 12 | 92% | 8% |
-| Moncler | 35 | 83% | 14% |
+| Moncler | 33 | 85% | 12% |
+| Celine | 13 | 85% | 8% |
 | Issey Miyake | 5 | 80% | 0% |
 | Maison Margiela | 23 | 78% | 13% |
 | Louis Vuitton | 17 | 76% | 18% |
@@ -68,6 +68,7 @@
 
 ## Riskisimmät löydöt
 
+- 100 · [Dior saddle bag](https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/tassen-schoudertassen/m2469294128-dior-saddle-bag) 100 € (arvio 1575 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; hinta vain 6% arvosta; yksityismyyjä, ei tarkastusta
 - 100 · [Valentino tekonahkainen käsilaukku / olkalaukku musta naisten](https://www.tori.fi/recommerce/forsale/item/48860220) 85 € (arvio 171 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; tekonahkaa ('tekonahka'): aidot ovat nahkaa/pinnoitettua canvasia; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 100 · [Goyard tekonahkainen laukku vihreä unisex](https://www.tori.fi/recommerce/forsale/item/46805357) 59 € (arvio 342 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; tekonahkaa ('tekonahka'): aidot ovat nahkaa/pinnoitettua canvasia; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 80 · [Valentino olkalaukku, vaaleanpunainen](https://www.tori.fi/recommerce/forsale/item/49431846) 50 € (arvio 171 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
@@ -87,4 +88,3 @@
 - 65 · [Oncloud X Loewe Zwart](https://www.marktplaats.nl/v/kleding-heren/schoenen/m2466743087-oncloud-x-loewe-zwart) 90 € (arvio 308 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta
 - 65 · [Loro Piana schoenen verschillende kleuren](https://www.marktplaats.nl/v/kleding-heren/schoenen/m2466686945-loro-piana-schoenen-verschillende-kleuren) 170 € (arvio 735 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta
 - 65 · [Loro Piana Summer Walk Loafers](https://www.marktplaats.nl/v/kleding-heren/schoenen/m2466993262-loro-piana-summer-walk-loafers) 170 € (arvio 735 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta
-- 65 · [Hermés grijs/groen wit](https://www.marktplaats.nl/v/kleding-heren/schoenen/m2466265176-hermes-grijs-groen-wit) 140 € (arvio 560 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta
