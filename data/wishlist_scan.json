@@ -1,5 +1,5 @@
 {
- "generated": 1795536962,
+ "generated": 1795569026,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -475,6 +475,14 @@
     "image": "https://images.blocketcdn.se/dynamic/default/item/20645160/8428496e-59fc-4021-bfe8-02c59bc97362"
    },
    {
+    "id": "blocket-28519927",
+    "source": "blocket",
+    "title": "Justerbart laptopstativ, Twelve South Curve Flex Laptop Stand Black",
+    "price": 58.5,
+    "url": "https://www.blocket.se/recommerce/forsale/item/28519927",
+    "image": "https://images.blocketcdn.se/dynamic/default/item/28519927/b6f1a2a2-b734-481a-96e0-1a40fdbec052"
+   },
+   {
     "id": "blocket-27378728",
     "source": "blocket",
     "title": "Griffin laptopställ aluminium",
@@ -563,6 +571,14 @@
     "price": 15.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/50196558",
     "image": "https://img.tori.net/dynamic/default/item/50196558/227a87ce-3024-49de-a7b5-3a20f3ea64e2"
+   },
+   {
+    "id": "tori-50390129",
+    "source": "tori",
+    "title": "Z3 Basic kahden monitorin monitorivarsi",
+    "price": 15.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/50390129",
+    "image": "https://img.tori.net/dynamic/default/item/50390129/34c05e62-501c-482c-8c61-8ac8f37c8125"
    },
    {
     "id": "tori-50362118",
@@ -819,14 +835,6 @@
     "price": 50.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/45557942",
     "image": "https://img.tori.net/dynamic/default/item/45557942/f4d44b06-5b9b-4cf7-8ade-0f0e1e4f9fe0"
-   },
-   {
-    "id": "tori-46087782",
-    "source": "tori",
-    "title": "LCD ViewMaster näytönvarsi pöytäkiinnityksellä",
-    "price": 55.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/46087782",
-    "image": "https://img.tori.net/dynamic/default/item/46087782/fd2badaa-8763-46c3-8cbf-c2715b0e6870"
    },
    {
     "id": "blocket-24642329",
