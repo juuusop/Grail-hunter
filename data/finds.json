@@ -1,5 +1,346 @@
 [
  {
+  "id": "tori-50393842",
+  "brand": "Canada Goose · Tori",
+  "title": "Canada Goose Crew Trench -takki (sininen, L)",
+  "price": 100.0,
+  "value": 380,
+  "score": 3.8,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50393842",
+  "image": "https://img.tori.net/dynamic/default/item/50393842/a44d7b57-7636-4b01-a74d-fb1492d59b4d",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 174 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=50)",
+   "kate ~28 € (ROI 26%, myy grailed ~194 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795581811,
+  "resale": 194,
+  "profit": 28,
+  "roi": 0.26,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~194 € → käteen ~135 € kulujen ja tinkimisen jälkeen",
+   "osto 100 € + toimitus = 107 €"
+  ],
+  "risk": {
+   "fake": 50,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50376354",
+  "brand": "Canada Goose · Tori",
+  "title": "Canada goose untuvatakki",
+  "price": 100.0,
+  "value": 380,
+  "score": 3.8,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50376354",
+  "image": "https://img.tori.net/dynamic/default/item/50376354/2d8c9641-d1bb-41af-8b49-377c6c78d616",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 174 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=50)",
+   "kate ~28 € (ROI 26%, myy grailed ~194 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795581811,
+  "resale": 194,
+  "profit": 28,
+  "roi": 0.26,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~194 € → käteen ~135 € kulujen ja tinkimisen jälkeen",
+   "osto 100 € + toimitus = 107 €"
+  ],
+  "risk": {
+   "fake": 50,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50373188",
+  "brand": "Canada Goose · Tori",
+  "title": "Canada Goose untuvatakki M musta",
+  "price": 120.0,
+  "value": 380,
+  "score": 3.17,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50373188",
+  "image": "https://img.tori.net/dynamic/default/item/50373188/1dae599e-9d41-435f-9672-d64a49ebc94a",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 174 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=50)",
+   "kate ~8 € (ROI 6%, myy grailed ~194 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795581811,
+  "resale": 194,
+  "profit": 8,
+  "roi": 0.06,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~194 € → käteen ~135 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 127 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50274402",
+  "brand": "Canada Goose · Tori",
+  "title": "Käytetty naisten Canada Goose -takki",
+  "price": 90.0,
+  "value": 380,
+  "score": 4.22,
+  "label": "🚨 INSANE",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50274402",
+  "image": "https://img.tori.net/dynamic/default/item/50274402/54a2df37-2e22-41e8-9c16-9c5fd41ada3e",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 174 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=50)",
+   "kate ~38 € (ROI 39%, myy grailed ~194 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795581811,
+  "resale": 194,
+  "profit": 38,
+  "roi": 0.39,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~194 € → käteen ~135 € kulujen ja tinkimisen jälkeen",
+   "osto 90 € + toimitus = 97 €"
+  ],
+  "risk": {
+   "fake": 50,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50242956",
+  "brand": "Canada Goose · Tori",
+  "title": "Canada Goose musta liivi",
+  "price": 80.0,
+  "value": 190,
+  "score": 2.38,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50242956",
+  "image": "https://img.tori.net/dynamic/default/item/50242956/219b4891-03ee-4ce6-9f66-d46900db362a",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 174 €",
+   "Japanissa myyty (muu) mediaani 210 € (n=32)",
+   "kate ~7 € (ROI 8%, myy grailed ~135 €; Yahoo JP toteutuneet (muu): mediaani 210 €, p25 143 € (n=32) → geneerinen ~176 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795581811,
+  "resale": 135,
+  "profit": 7,
+  "roi": 0.08,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 210 €, p25 143 € (n=32) → geneerinen ~176 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~135 € → käteen ~94 € kulujen ja tinkimisen jälkeen",
+   "osto 80 € + toimitus = 87 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2469174447",
+  "brand": "Goyard · Marktplaats 🇳🇱",
+  "title": "Goyard duffle bag, black",
+  "price": 155.0,
+  "value": 378,
+  "score": 2.44,
+  "label": "✅ DIILI",
+  "category": "laukku",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/tassen-reistassen-en-weekendtassen/m2469174447-goyard-duffle-bag-black",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/0e3de7c4-9fd8-48e1-8fd9-a06803179ca2?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Japanissa myyty (laukku) mediaani 393 € (n=27)",
+   "kate ~16 € (ROI 10%, myy vestiaire ~251 €; Yahoo JP toteutuneet (laukku): mediaani 393 €, p25 201 € (n=27) → geneerinen ~297 € × 1.15 EU-taso)",
+   "135 EUR + ~20 € posti = 155 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795581811,
+  "resale": 251,
+  "profit": 16,
+  "roi": 0.1,
+  "exit": "vestiaire",
+  "resale_why": [
+   "Yahoo JP toteutuneet (laukku): mediaani 393 €, p25 201 € (n=27) → geneerinen ~297 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti vestiaire ~251 € → käteen ~171 € kulujen ja tinkimisen jälkeen",
+   "osto 155 € + toimitus = 155 €"
+  ],
+  "risk": {
+   "fake": 64,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "laukku: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2469628844",
+  "brand": "Louis Vuitton · 2dehands 🇧🇪",
+  "title": "Louis Vuitton handtas",
+  "price": 120.0,
+  "value": 240,
+  "score": 2.0,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/handtassen-en-accessoires/tassen-damestassen/m2469628844-louis-vuitton-handtas",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/9f402b85-23e0-4048-a9b4-6c4f2f877c32?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 190 €",
+   "Japanissa myyty (muu) mediaani 34 € (n=6)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "100 EUR + ~20 € posti = 120 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1795581811,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2469334226",
+  "brand": "Goyard · 2dehands 🇧🇪",
+  "title": "Goyard tas",
+  "price": 120.0,
+  "value": 240,
+  "score": 2.0,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/handtassen-en-accessoires/tassen-schoudertassen/m2469334226-goyard-tas",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/1cdef969-2f35-4fdf-a2b5-2913e8d9d1b8?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Japanissa myyty (muu) mediaani 425 € (n=41)",
+   "kate ~46 € (ROI 38%, myy grailed ~238 €; Yahoo JP toteutuneet (muu): mediaani 425 €, p25 166 € (n=41) → geneerinen ~296 € × 1.15 EU-taso)",
+   "100 EUR + ~20 € posti = 120 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1795581811,
+  "resale": 238,
+  "profit": 46,
+  "roi": 0.38,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 425 €, p25 166 € (n=41) → geneerinen ~296 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~238 € → käteen ~166 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 120 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "x7QjfmiOIi",
   "brand": "Number (N)ine",
   "title": "Number Nine Pikeepaita",
@@ -46982,174 +47323,6 @@
   "reasons": [
    "nahka ×1.1",
    "Sellpyn mediaani tälle brändille 169 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347665
- },
- {
-  "id": "nlHa5b3Wqu",
-  "brand": "Gucci",
-  "title": "Gucci Pumps",
-  "price": 96.0,
-  "value": 222,
-  "score": 2.31,
-  "label": "✅ DIILI",
-  "category": "kengät",
-  "condition": "Hyvä",
-  "size": "SHOES-EU-37.5",
-  "link": "https://www.sellpy.fi/item/nlHa5b3Wqu",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-6-k-21/nlHa5b3Wqu-6a28-0.jpg",
-  "reasons": [
-   "nahka ×1.1",
-   "Sellpyn mediaani tälle brändille 169 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347665
- },
- {
-  "id": "xdWTkggdqj",
-  "brand": "Prada",
-  "title": "Prada Linea Rossa Kiilat Sport",
-  "price": 125.0,
-  "value": 314,
-  "score": 2.52,
-  "label": "🔥 KOVA DIILI",
-  "category": "kengät",
-  "condition": "Hyvä",
-  "size": "SHOES-EU-40",
-  "link": "https://www.sellpy.fi/item/xdWTkggdqj",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-6-k-21/xdWTkggdqj-75fd-0.jpg",
-  "reasons": [
-   "linea rossa ×1.3",
-   "sport ×1.2",
-   "Sellpyn mediaani tälle brändille 165 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347665
- },
- {
-  "id": "QwMbMHpL01",
-  "brand": "Yves Saint Laurent",
-  "title": "Yves Saint Laurent Aurinkolasit YSL6134/S Vintage",
-  "price": 75.0,
-  "value": 173,
-  "score": 2.3,
-  "label": "✅ DIILI",
-  "category": "takki",
-  "condition": "Hyvä",
-  "size": "-",
-  "link": "https://www.sellpy.fi/item/QwMbMHpL01",
-  "image": "https://prod.images.sellpy.net/photoRobot-manual-23-l-4/lafjGnIqlN-7402-single.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 101 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347665
- },
- {
-  "id": "2fwTCUZlDl",
-  "brand": "Saint Laurent",
-  "title": "Saint Laurent Pumps",
-  "price": 110.0,
-  "value": 322,
-  "score": 2.93,
-  "label": "🔥 KOVA DIILI",
-  "category": "kengät",
-  "condition": "Hyväksyttävä",
-  "size": "SHOES-EU-37.5",
-  "link": "https://www.sellpy.fi/item/2fwTCUZlDl",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-6-k-21/2fwTCUZlDl-a6b8-0.jpg",
-  "reasons": [
-   "nahka ×1.1",
-   "Sellpyn mediaani tälle brändille 160 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347665
- },
- {
-  "id": "xFEgEti5IK",
-  "brand": "Balenciaga",
-  "title": "Balenciaga Lenkkarit Triple S",
-  "price": 84.0,
-  "value": 410,
-  "score": 4.88,
-  "label": "🚨 INSANE",
-  "category": "kengät",
-  "condition": "Hyväksyttävä",
-  "size": "SHOES-EU-35",
-  "link": "https://www.sellpy.fi/item/xFEgEti5IK",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-14-j-1/S3JQJ635Eh-8cf6-0.jpg",
-  "reasons": [
-   "runway ×1.4",
-   "harvinainen: runway",
-   "Sellpyn mediaani tälle brändille 163 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347665
- },
- {
-  "id": "UTBrXX5SKm",
-  "brand": "Marni",
-  "title": "Marni Kiilat",
-  "price": 64.0,
-  "value": 146,
-  "score": 2.29,
-  "label": "✅ DIILI",
-  "category": "kengät",
-  "condition": "Hyväksyttävä",
-  "size": "SHOES-EU-37",
-  "link": "https://www.sellpy.fi/item/UTBrXX5SKm",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-21-l-3/UTBrXX5SKm-826a-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 72 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347665
- },
- {
-  "id": "8SO7i4BgAj",
-  "brand": "Dries Van Noten",
-  "title": "Dries van Noten Derby-kengät",
-  "price": 173.0,
-  "value": 231,
-  "score": 1.34,
-  "label": "💎 HARVINAINEN",
-  "category": "kengät",
-  "condition": "Erittäin hyvä",
-  "size": "SHOES-EU-38",
-  "link": "https://www.sellpy.fi/item/8SO7i4BgAj",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-21-l-3/8SO7i4BgAj-b8a1-0.jpg",
-  "reasons": [
-   "nahka ×1.1",
-   "harvinainen: artisanal",
-   "Sellpyn mediaani tälle brändille 120 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347665
- },
- {
-  "id": "dhyYHF5Dae",
-  "brand": "Aspesi",
-  "title": "Aspesi Henley-paita",
-  "price": 23.0,
-  "value": 68,
-  "score": 2.97,
-  "label": "🔥 KOVA DIILI",
-  "category": "muu",
-  "condition": "Hyväksyttävä",
-  "size": "MEN-INT-M",
-  "link": "https://www.sellpy.fi/item/dhyYHF5Dae",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-5-k-5/dhyYHF5Dae-0c35-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 61 €"
   ],
   "source": "brändi",
   "old_price": null,
