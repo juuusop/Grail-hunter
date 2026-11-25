@@ -38,7 +38,7 @@
    "price": 1.4,
    "title": "Hajuvesinäyte  Gucci Flora Gorgeous Gardenia",
    "closed": "2026-10-08T20:14:50+0300",
-   "ts": 1795012122
+   "ts": 1795622265
   },
   "650885709": {
    "brand": "Gucci",
@@ -62,7 +62,7 @@
    "price": 1.5,
    "title": "Colombo - Rakastunut pari - vanha kortti",
    "closed": "2026-10-04T10:09:00+0300",
-   "ts": 1795012166
+   "ts": 1795622307
   },
   "653190363": {
    "brand": "Givenchy",
@@ -150,7 +150,7 @@
    "price": 1.5,
    "title": "COLOMBO - Poika ja koirat - vanha kortti",
    "closed": "2026-11-17T15:02:14+0200",
-   "ts": 1795012166
+   "ts": 1795622307
   },
   "654154585": {
    "brand": "Valentino",
@@ -177,7 +177,7 @@
    "ts": 1795450999
   }
  },
- "i": 98,
+ "i": 138,
  "groups": {
   "Carpe Diem|muu": {
    "n": 1,
@@ -276,5 +276,5 @@
    "p75": 55.0
   }
  },
- "generated": 1795536881
+ "generated": 1795622337
 }
