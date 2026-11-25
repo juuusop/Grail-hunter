@@ -1,5 +1,5 @@
 {
- "generated": 1795569026,
+ "generated": 1795601538,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -259,14 +259,6 @@
     "image": "https://img.tori.net/dynamic/default/item/46640714/98300f74-d96d-45bd-bd9f-2fa37f9f8a9a"
    },
    {
-    "id": "tori-49388760",
-    "source": "tori",
-    "title": "A Vittsjö kannettavan tietokoneen teline / sivupöytä, valkoinen",
-    "price": 15.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49388760",
-    "image": "https://img.tori.net/dynamic/default/item/49388760/9c9d0c85-3312-4fd2-bec6-f8bd74ed2052"
-   },
-   {
     "id": "tori-47929282",
     "source": "tori",
     "title": "Mozi AR-2 kannettavan teline kääntyvällä alustalla",
@@ -345,6 +337,14 @@
     "price": 28.05,
     "url": "https://www.blocket.se/recommerce/forsale/item/27431471",
     "image": "https://images.blocketcdn.se/dynamic/default/item/27431471/1c465955-1045-45f8-97e3-b6a699244c2b"
+   },
+   {
+    "id": "tori-50403113",
+    "source": "tori",
+    "title": "Twelve South Curve läppäriteline",
+    "price": 30.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/50403113",
+    "image": "https://img.tori.net/dynamic/default/item/50403113/1ca708bc-cd0c-4574-afda-b90fdb2461fb"
    },
    {
     "id": "tori-49794288",
@@ -869,6 +869,14 @@
     "image": "https://img.tori.net/dynamic/default/item/38969723/8a20a381-56d6-4260-a1ac-1de3111be3e1"
    },
    {
+    "id": "tori-50058751",
+    "source": "tori",
+    "title": "Dell MSA20 -näyttövarsi, uusi ja avaamaton",
+    "price": 70.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/50058751",
+    "image": "https://img.tori.net/dynamic/default/item/50058751/c4de5fec-959f-48b8-ac1d-154bdbbda49a"
+   },
+   {
     "id": "tori-50086787",
     "source": "tori",
     "title": "Vogel’s premium-monitorivarsi, hopeinen – 1 jäljellä, läpivientikiinnitys",
@@ -891,14 +899,6 @@
     "price": 75.81,
     "url": "https://www.blocket.se/recommerce/forsale/item/27099092",
     "image": "https://images.blocketcdn.se/dynamic/default/item/27099092/10207106-4560-432b-8c5c-4ec49f983cd9"
-   },
-   {
-    "id": "tori-50058751",
-    "source": "tori",
-    "title": "Dell MSA20 -näyttövarsi, uusi ja avaamaton",
-    "price": 90.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/50058751",
-    "image": "https://img.tori.net/dynamic/default/item/50058751/c4de5fec-959f-48b8-ac1d-154bdbbda49a"
    },
    {
     "id": "tori-38001781",
