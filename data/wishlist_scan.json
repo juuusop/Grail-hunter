@@ -1,7 +1,15 @@
 {
- "generated": 1795601538,
+ "generated": 1795637721,
  "items": {
   "Läppäriteline MacBookille": [
+   {
+    "id": "tori-50406011",
+    "source": "tori",
+    "title": "Säädettävä kannettavan tietokoneen teline",
+    "price": 0.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/50406011",
+    "image": "https://img.tori.net/dynamic/default/item/50406011/dddf6de4-dec1-49b8-805b-198c87d449e2"
+   },
    {
     "id": "tori-32382607",
     "source": "tori",
@@ -899,6 +907,14 @@
     "price": 75.81,
     "url": "https://www.blocket.se/recommerce/forsale/item/27099092",
     "image": "https://images.blocketcdn.se/dynamic/default/item/27099092/10207106-4560-432b-8c5c-4ec49f983cd9"
+   },
+   {
+    "id": "blocket-28542145",
+    "source": "blocket",
+    "title": "Arctic Z3 Pro – Skärmarm för 3 skärmar med USB-hubb",
+    "price": 97.65,
+    "url": "https://www.blocket.se/recommerce/forsale/item/28542145",
+    "image": "https://images.blocketcdn.se/dynamic/default/item/28542145/e715510f-7348-49f5-a536-d9bd11af0577"
    },
    {
     "id": "tori-38001781",
