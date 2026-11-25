@@ -1,5 +1,651 @@
 [
  {
+  "id": "tori-50350292",
+  "brand": "Saint Laurent · Tori",
+  "title": "YSL neule",
+  "price": 90.0,
+  "value": 209,
+  "score": 2.32,
+  "label": "✅ DIILI",
+  "category": "neule",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50350292",
+  "image": "https://img.tori.net/dynamic/default/item/50350292/5a7d6aa0-9c67-47ee-944e-2366008566db",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 153 €",
+   "Japanissa myyty mediaani 17 € (n=72)",
+   "⚠️ kate ~-21 € (ROI -21%, myy grailed ~110 €; brändiarvio ~157 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795619019,
+  "resale": 110,
+  "profit": -21,
+  "roi": -0.21,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~157 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~110 € → käteen ~76 € kulujen ja tinkimisen jälkeen",
+   "osto 90 € + toimitus = 97 €"
+  ],
+  "risk": {
+   "fake": 28,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50372950",
+  "brand": "Moncler · Tori",
+  "title": "Moncler untuvatakki M musta",
+  "price": 150.0,
+  "value": 334,
+  "score": 2.23,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50372950",
+  "image": "https://img.tori.net/dynamic/default/item/50372950/5084fd2f-338f-46a5-b392-f07c915c1b40",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 133 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=57)",
+   "⚠️ kate ~-34 € (ROI -21%, myy grailed ~177 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795619019,
+  "resale": 177,
+  "profit": -34,
+  "roi": -0.21,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~177 € → käteen ~123 € kulujen ja tinkimisen jälkeen",
+   "osto 150 € + toimitus = 157 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50362549",
+  "brand": "Moncler · Tori",
+  "title": "Moncler musta takki, koko 1",
+  "price": 150.0,
+  "value": 334,
+  "score": 2.23,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50362549",
+  "image": "https://img.tori.net/dynamic/default/item/50362549/7ab6ca9e-a3c0-455f-b290-dd0b650e79ba",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 133 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=57)",
+   "⚠️ kate ~-34 € (ROI -21%, myy grailed ~177 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795619019,
+  "resale": 177,
+  "profit": -34,
+  "roi": -0.21,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~177 € → käteen ~123 € kulujen ja tinkimisen jälkeen",
+   "osto 150 € + toimitus = 157 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50332567",
+  "brand": "Moncler · Tori",
+  "title": "Moncler takki M musta",
+  "price": 145.0,
+  "value": 334,
+  "score": 2.31,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50332567",
+  "image": "https://img.tori.net/dynamic/default/item/50332567/a3d8aaf2-bc98-4fd0-86ce-52dd56351101",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 133 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=57)",
+   "⚠️ kate ~-29 € (ROI -19%, myy grailed ~177 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795619019,
+  "resale": 177,
+  "profit": -29,
+  "roi": -0.19,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~177 € → käteen ~123 € kulujen ja tinkimisen jälkeen",
+   "osto 145 € + toimitus = 152 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "dba-25765713",
+  "brand": "Maison Margiela · DBA 🇩🇰",
+  "title": "maison margiela gats sneakers str 43",
+  "price": 137.07,
+  "value": 332,
+  "score": 2.43,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "SHOES-EU-43",
+  "link": "https://www.dba.dk/recommerce/forsale/item/25765713",
+  "image": "https://images.dbastatic.dk/dynamic/default/item/25765713/1d5f1a0f-a313-42e4-b4d5-d4a8310bb64e",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 125 €",
+   "Japanissa myyty (kengät) mediaani 171 € (n=7)",
+   "⚠️ kate ~-72 € (ROI -53%, myy grailed ~93 €; Yahoo JP toteutuneet (kengät): mediaani 171 €, p25 73 € (n=7) → geneerinen ~122 € × 1.15 EU-taso)",
+   "890 DKK + ~18 € posti = 137 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "dba",
+  "old_price": null,
+  "ts": 1795619019,
+  "resale": 93,
+  "profit": -72,
+  "roi": -0.53,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 171 €, p25 73 € (n=7) → geneerinen ~122 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~93 € → käteen ~65 € kulujen ja tinkimisen jälkeen",
+   "osto 137 € + toimitus = 137 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2469901672",
+  "brand": "Maison Margiela · Marktplaats 🇳🇱",
+  "title": "Maison Margiela Future High-Top Sneakers Wit",
+  "price": 99.99,
+  "value": 350,
+  "score": 3.5,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2469901672-maison-margiela-future-high-top-sneakers-wit",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/50f0b555-22a3-4a8b-8c5f-aa5dd9cb1de7?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 125 €",
+   "Japanissa myyty (kengät) mediaani 171 € (n=7)",
+   "⚠️ kate ~-32 € (ROI -32%, myy grailed ~98 €; Yahoo JP toteutuneet (kengät): mediaani 171 €, p25 73 € (n=7) → geneerinen ~122 € × 1.15 EU-taso)",
+   "80 EUR + ~20 € posti = 100 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795619019,
+  "resale": 98,
+  "profit": -32,
+  "roi": -0.32,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 171 €, p25 73 € (n=7) → geneerinen ~122 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~98 € → käteen ~68 € kulujen ja tinkimisen jälkeen",
+   "osto 100 € + toimitus = 100 €"
+  ],
+  "risk": {
+   "fake": 65,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2467765946",
+  "brand": "Maison Margiela · Marktplaats 🇳🇱",
+  "title": "Maison Margiela Schoenen Maat 45",
+  "price": 129.99,
+  "value": 350,
+  "score": 2.69,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Zo goed als nieuw",
+  "size": "SHOES-EU-45",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2467765946-maison-margiela-schoenen-maat-45",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/b9bfc430-43e2-4a35-b4e8-cfdff983d844?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 125 €",
+   "Japanissa myyty (kengät) mediaani 171 € (n=7)",
+   "⚠️ kate ~-62 € (ROI -47%, myy grailed ~98 €; Yahoo JP toteutuneet (kengät): mediaani 171 €, p25 73 € (n=7) → geneerinen ~122 € × 1.15 EU-taso)",
+   "110 EUR + ~20 € posti = 130 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795619019,
+  "resale": 98,
+  "profit": -62,
+  "roi": -0.47,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 171 €, p25 73 € (n=7) → geneerinen ~122 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~98 € → käteen ~68 € kulujen ja tinkimisen jälkeen",
+   "osto 130 € + toimitus = 130 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2469839677",
+  "brand": "Tom Ford · Marktplaats 🇳🇱",
+  "title": "Tom Ford palette",
+  "price": 70.0,
+  "value": 200,
+  "score": 2.86,
+  "label": "🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/uiterlijk-cosmetica-en-make-up/m2469839677-tom-ford-palette",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/44a51838-89ad-4c9d-bae8-bbe1fd8d30fd?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 122 €",
+   "Japanissa myyty (muu) mediaani 75 € (n=56)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "50 EUR + ~20 € posti = 70 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795619019,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 18,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2469640099",
+  "brand": "Tom Ford · Marktplaats 🇳🇱",
+  "title": "GLOEDNIEUWE Tom Ford brillenkoker",
+  "price": 40.95,
+  "value": 210,
+  "score": 5.13,
+  "label": "🚨 INSANE",
+  "category": "muu",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/zonnebrillen-en-brillen-dames/m2469640099-gloednieuwe-tom-ford-brillenkoker",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/7a34445f-8cb9-4217-ab93-07a3e6f53c7b?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 122 €",
+   "Japanissa myyty (muu) mediaani 75 € (n=56)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "21 EUR + ~20 € posti = 41 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795619019,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 34,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "jonkin verran väärennöksiä",
+    "aurinkolasit: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2469088794",
+  "brand": "Kiton · Marktplaats 🇳🇱",
+  "title": "Kiton Luxe Witte Knit Sneakers - UK 9½ / EU 44",
+  "price": 270.0,
+  "value": 350,
+  "score": 1.3,
+  "label": "💎 HARVINAINEN",
+  "category": "kengät",
+  "condition": "Zo goed als nieuw",
+  "size": "SHOES-EU-44",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2469088794-kiton-luxe-witte-knit-sneakers-uk-9-eu-44",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/0162279c-7d4a-4268-b1b0-22eba21bca71?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "harvinainen: mesh",
+   "Sellpyn mediaani tälle brändille 121 €",
+   "Japanissa myyty mediaani 104 € (n=100)",
+   "⚠️ kate ~-87 € (ROI -32%, myy grailed ~262 €; brändiarvio ~262 € (ei mallivertailua eikä Yahoo-dataa))",
+   "250 EUR + ~20 € posti = 270 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795619019,
+  "resale": 262,
+  "profit": -87,
+  "roi": -0.32,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~262 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~262 € → käteen ~183 € kulujen ja tinkimisen jälkeen",
+   "osto 270 € + toimitus = 270 €"
+  ],
+  "risk": {
+   "fake": 4,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
+  "id": "marktplaats-m2469557050",
+  "brand": "Arc'teryx · Marktplaats 🇳🇱",
+  "title": "Arcteryx Beta GORE-TEX Waterproof Hardshell Jacket Black - M",
+  "price": 125.0,
+  "value": 292,
+  "score": 2.33,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/jassen-winter/m2469557050-arcteryx-beta-gore-tex-waterproof-hardshell-jacket-black-m",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/8dc73b13-3900-4eb7-addc-be33977e832f?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "gore-tex ×1.2",
+   "Sellpyn mediaani tälle brändille 100 €",
+   "Japanissa myyty (takki) mediaani 321 € (n=28)",
+   "kate ~17 € (ROI 14%, myy grailed ~204 €; Yahoo JP toteutuneet (takki): mediaani 321 €, p25 212 € (n=28) → geneerinen ~266 € × 1.15 EU-taso)",
+   "105 EUR + ~20 € posti = 125 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795619019,
+  "resale": 204,
+  "profit": 17,
+  "roi": 0.14,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 321 €, p25 212 € (n=28) → geneerinen ~266 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~204 € → käteen ~142 € kulujen ja tinkimisen jälkeen",
+   "osto 125 € + toimitus = 125 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2469709112",
+  "brand": "Canada Goose · Marktplaats 🇳🇱",
+  "title": "Canada Goose MacMillan Zwart met zwarte logo-Nieuw (S, M, L)",
+  "price": 170.0,
+  "value": 420,
+  "score": 2.47,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/jassen-winter/m2469709112-canada-goose-macmillan-zwart-met-zwarte-logo-nieuw-s-m-l",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/5fa823a9-ac2e-4355-b3d7-c0317efd2b48?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 174 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=50)",
+   "⚠️ kate ~-21 € (ROI -12%, myy grailed ~214 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso)",
+   "150 EUR + ~20 € posti = 170 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795619019,
+  "resale": 214,
+  "profit": -21,
+  "roi": -0.12,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~214 € → käteen ~149 € kulujen ja tinkimisen jälkeen",
+   "osto 170 € + toimitus = 170 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2469703460",
+  "brand": "Canada Goose · Marktplaats 🇳🇱",
+  "title": "Canada Goose Wyndham Grijs met Rood Logo - Nieuw",
+  "price": 170.0,
+  "value": 420,
+  "score": 2.47,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/jassen-winter/m2469703460-canada-goose-wyndham-grijs-met-rood-logo-nieuw",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/7310ed6f-5745-44f0-8fbb-6d8bc16c1407?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 174 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=50)",
+   "⚠️ kate ~-21 € (ROI -12%, myy grailed ~214 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso)",
+   "150 EUR + ~20 € posti = 170 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795619019,
+  "resale": 214,
+  "profit": -21,
+  "roi": -0.12,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~214 € → käteen ~149 € kulujen ja tinkimisen jälkeen",
+   "osto 170 € + toimitus = 170 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2469702384",
+  "brand": "Canada Goose · Marktplaats 🇳🇱",
+  "title": "Canada Goose MacMillan Zwart met Rood Logo - Nieuw",
+  "price": 170.0,
+  "value": 420,
+  "score": 2.47,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/jassen-winter/m2469702384-canada-goose-macmillan-zwart-met-rood-logo-nieuw",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/17c8147c-73b2-4887-a9ec-5f87f7e22eed?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 174 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=50)",
+   "⚠️ kate ~-21 € (ROI -12%, myy grailed ~214 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso)",
+   "150 EUR + ~20 € posti = 170 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795619019,
+  "resale": 214,
+  "profit": -21,
+  "roi": -0.12,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~214 € → käteen ~149 € kulujen ja tinkimisen jälkeen",
+   "osto 170 € + toimitus = 170 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2469981887",
+  "brand": "Canada Goose · Marktplaats 🇳🇱",
+  "title": "Canada Goose Donzen Jas Zwart - Zo goed als nieuw",
+  "price": 100.0,
+  "value": 200,
+  "score": 2.0,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/jassen-winter/m2469981887-canada-goose-donzen-jas-zwart-zo-goed-als-nieuw",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/69db65cf-5a44-4f0c-b788-41ac214ece2b?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 174 €",
+   "Japanissa myyty (muu) mediaani 210 € (n=32)",
+   "⚠️ kate ~-1 € (ROI -1%, myy grailed ~142 €; Yahoo JP toteutuneet (muu): mediaani 210 €, p25 143 € (n=32) → geneerinen ~176 € × 1.15 EU-taso)",
+   "80 EUR + ~20 € posti = 100 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795619019,
+  "resale": 142,
+  "profit": -1,
+  "roi": -0.01,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 210 €, p25 143 € (n=32) → geneerinen ~176 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~142 € → käteen ~99 € kulujen ja tinkimisen jälkeen",
+   "osto 100 € + toimitus = 100 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "nEntyHxfXF",
   "brand": "Celine",
   "title": "Céline Kaulaliina",
@@ -47072,318 +47718,6 @@
   "image": "https://prod.images.sellpy.net/photoRobot-case-6-k-21/EVhEVSZGBq-83dc-0.jpg",
   "reasons": [
    "Sellpyn mediaani tälle brändille 146 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347665
- },
- {
-  "id": "HxudjhrfL4",
-  "brand": "Totême",
-  "title": "Totême Farkut",
-  "price": 21.0,
-  "value": 99,
-  "score": 4.71,
-  "label": "🚨 INSANE",
-  "category": "housut",
-  "condition": "Erittäin hyvä",
-  "size": "PANTS-INCH-25",
-  "link": "https://www.sellpy.fi/item/HxudjhrfL4",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-8-k-2/oW1vQBq8mo-459e-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 144 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347665
- },
- {
-  "id": "lF6KiLnTJE",
-  "brand": "Totême",
-  "title": "Totême Leggingsit",
-  "price": 33.0,
-  "value": 99,
-  "score": 3.0,
-  "label": "🔥 KOVA DIILI",
-  "category": "housut",
-  "condition": "Erittäin hyvä",
-  "size": "WMN-INT-S",
-  "link": "https://www.sellpy.fi/item/lF6KiLnTJE",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-3-k-6/t4ALHUvXva-853a-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 144 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347665
- },
- {
-  "id": "CSLMhZEnAN",
-  "brand": "Gucci",
-  "title": "Gucci Sandaalit",
-  "price": 62.0,
-  "value": 234,
-  "score": 3.78,
-  "label": "🔥 KOVA DIILI",
-  "category": "kengät",
-  "condition": "Hyväksyttävä",
-  "size": "SHOES-EU-41.5",
-  "link": "https://www.sellpy.fi/item/CSLMhZEnAN",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-14-l-1/5tg4M9Oa5U-de26-0.jpg",
-  "reasons": [
-   "leather ×1.1",
-   "Sellpyn mediaani tälle brändille 169 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347665
- },
- {
-  "id": "osBGrEjDtI",
-  "brand": "Balenciaga",
-  "title": "Balenciaga Lenkkarit Arena",
-  "price": 141.0,
-  "value": 305,
-  "score": 2.16,
-  "label": "✅ DIILI",
-  "category": "kengät",
-  "condition": "Hyvä",
-  "size": "SHOES-EU-42",
-  "link": "https://www.sellpy.fi/item/osBGrEjDtI",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-6-k-21/osBGrEjDtI-c098-0.jpg",
-  "reasons": [
-   "nahka ×1.1",
-   "Sellpyn mediaani tälle brändille 163 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347665
- },
- {
-  "id": "mGTH7WoX4Q",
-  "brand": "Gucci",
-  "title": "Gucci Lenkkarit",
-  "price": 82.0,
-  "value": 234,
-  "score": 2.85,
-  "label": "🔥 KOVA DIILI",
-  "category": "kengät",
-  "condition": "Hyväksyttävä",
-  "size": "SHOES-EU-38.5",
-  "link": "https://www.sellpy.fi/item/mGTH7WoX4Q",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-6-k-21/mGTH7WoX4Q-026a-0.jpg",
-  "reasons": [
-   "nahka ×1.1",
-   "Sellpyn mediaani tälle brändille 169 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347665
- },
- {
-  "id": "YAV1tgmTrQ",
-  "brand": "Prada",
-  "title": "Prada Linea Rossa Sandaalit",
-  "price": 40.0,
-  "value": 288,
-  "score": 7.21,
-  "label": "🚨 INSANE",
-  "category": "kengät",
-  "condition": "Hyvä",
-  "size": "SHOES-EU-37",
-  "link": "https://www.sellpy.fi/item/YAV1tgmTrQ",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-6-k-21/p7Rryvd6AM-2383-0.jpg",
-  "reasons": [
-   "nahka ×1.1",
-   "linea rossa ×1.3",
-   "Sellpyn mediaani tälle brändille 165 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347665
- },
- {
-  "id": "Ry7yyFxOZw",
-  "brand": "Prada",
-  "title": "Prada Linea Rossa Poolopaita",
-  "price": 71.0,
-  "value": 187,
-  "score": 2.64,
-  "label": "🔥 KOVA DIILI",
-  "category": "neule",
-  "condition": "Hyvä",
-  "size": "WMN-INT-S",
-  "link": "https://www.sellpy.fi/item/Ry7yyFxOZw",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-k-21/80sYvZktp4-4ef9-0.jpg",
-  "reasons": [
-   "linea rossa ×1.3",
-   "Sellpyn mediaani tälle brändille 165 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347665
- },
- {
-  "id": "DYIKBIaUHm",
-  "brand": "Dries Van Noten",
-  "title": "Dries van Noten Sandaalit",
-  "price": 51.0,
-  "value": 210,
-  "score": 4.12,
-  "label": "🚨 INSANE",
-  "category": "kengät",
-  "condition": "Erittäin hyvä",
-  "size": "SHOES-EU-41",
-  "link": "https://www.sellpy.fi/item/DYIKBIaUHm",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-6-k-21/QVCrbzvkyW-899f-0.jpg",
-  "reasons": [
-   "harvinainen: artisanal",
-   "Sellpyn mediaani tälle brändille 120 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347665
- },
- {
-  "id": "zEi16c6kFL",
-  "brand": "Totême",
-  "title": "Totême Farkut",
-  "price": 16.0,
-  "value": 89,
-  "score": 5.57,
-  "label": "🚨 INSANE",
-  "category": "housut",
-  "condition": "Hyvä",
-  "size": "PANTS-INCH-27",
-  "link": "https://www.sellpy.fi/item/zEi16c6kFL",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-17-k-1/wBiy6I11kJ-4782-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 144 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347665
- },
- {
-  "id": "hSvW94QSZT",
-  "brand": "Totême",
-  "title": "Totême Puvunhousut",
-  "price": 23.0,
-  "value": 89,
-  "score": 3.87,
-  "label": "🔥 KOVA DIILI",
-  "category": "housut",
-  "condition": "Hyvä",
-  "size": "WMN-INT-S",
-  "link": "https://www.sellpy.fi/item/hSvW94QSZT",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-8-k-13/wJjGggLhjA-d518-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 144 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347665
- },
- {
-  "id": "jB47Q5TQYp",
-  "brand": "Chloé",
-  "title": "Chloé Slip-ins",
-  "price": 24.0,
-  "value": 177,
-  "score": 7.38,
-  "label": "🚨 INSANE",
-  "category": "kengät",
-  "condition": "Hyväksyttävä",
-  "size": "SHOES-EU-36",
-  "link": "https://www.sellpy.fi/item/jB47Q5TQYp",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-6-k-21/azux15mKgG-f014-0.jpg",
-  "reasons": [
-   "nahka ×1.1",
-   "leather ×1.1",
-   "Sellpyn mediaani tälle brändille 130 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347665
- },
- {
-  "id": "e2IYQJiTGr",
-  "brand": "Prada",
-  "title": "Prada Linea Rossa Parka-takki",
-  "price": 100.0,
-  "value": 316,
-  "score": 3.16,
-  "label": "🔥 KOVA DIILI",
-  "category": "takki",
-  "condition": "Hyväksyttävä",
-  "size": "WMN-EU-40",
-  "link": "https://www.sellpy.fi/item/e2IYQJiTGr",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-k-21/XUkr8BZ9jg-43ea-0.jpg",
-  "reasons": [
-   "linea rossa ×1.3",
-   "Sellpyn mediaani tälle brändille 165 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347665
- },
- {
-  "id": "E1PFXGMtYg",
-  "brand": "Aspesi",
-  "title": "Aspesi Puvunhousut",
-  "price": 11.0,
-  "value": 73,
-  "score": 6.63,
-  "label": "🚨 INSANE",
-  "category": "housut",
-  "condition": "Hyvä",
-  "size": "WMN-INT-M",
-  "link": "https://www.sellpy.fi/item/E1PFXGMtYg",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-9-k-8/tGts932bKe-9e89-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 61 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347665
- },
- {
-  "id": "sX5ICq4dGv",
-  "brand": "Dries Van Noten",
-  "title": "Dries van Noten Mules",
-  "price": 116.0,
-  "value": 208,
-  "score": 1.79,
-  "label": "💎 HARVINAINEN",
-  "category": "kengät",
-  "condition": "Hyvä",
-  "size": "SHOES-EU-40.5",
-  "link": "https://www.sellpy.fi/item/sX5ICq4dGv",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-6-k-21/sX5ICq4dGv-1625-0.jpg",
-  "reasons": [
-   "nahka ×1.1",
-   "harvinainen: artisanal",
-   "Sellpyn mediaani tälle brändille 120 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347665
- },
- {
-  "id": "ILpWCLC9DB",
-  "brand": "Vivienne Westwood",
-  "title": "Vivienne Westwood Ballerina-kengät",
-  "price": 59.0,
-  "value": 160,
-  "score": 2.71,
-  "label": "🔥 KOVA DIILI",
-  "category": "kengät",
-  "condition": "Hyväksyttävä",
-  "size": "SHOES-EU-40",
-  "link": "https://www.sellpy.fi/item/ILpWCLC9DB",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-6-k-21/Z08GcO7QnO-352f-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 116 €"
   ],
   "source": "brändi",
   "old_price": null,
