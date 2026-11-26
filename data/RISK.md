@@ -1,6 +1,6 @@
 # Feikki- ja kuntoriski löydöissä
 
-1449 löytöä (data/finds.json). Heuristiikka: risk.py.
+1452 löytöä (data/finds.json). Heuristiikka: risk.py.
 
 - korkea feikkiriski: **12%**, keskitaso: 23%
 - kulunut/huono kunto: **18%**, kunto ei tiedossa: 32%
@@ -9,7 +9,7 @@
 
 | alusta | n | feikki korkea | keski | kulunut/huono | kunto ? |
 |---|---|---|---|---|---|
-| sellpy.fi | 773 | 0% | 11% | 32% | 0% |
+| sellpy.fi | 776 | 0% | 12% | 32% | 0% |
 | tradera.com | 227 | 5% | 34% | 0% | 100% |
 | marktplaats.nl | 154 | 43% | 36% | 6% | 5% |
 | tori.fi | 151 | 35% | 37% | 0% | 100% |
@@ -23,17 +23,17 @@
 
 | kategoria | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
-| muu | 410 | 30% | 17% |
-| takki | 307 | 37% | 19% |
-| kengät | 248 | 62% | 17% |
-| neule | 139 | 14% | 14% |
-| housut | 103 | 11% | 19% |
-| laukku | 72 | 58% | 6% |
-| t-paita | 48 | 23% | 29% |
-| huppari | 47 | 28% | 30% |
+| muu | 413 | 31% | 17% |
+| takki | 312 | 37% | 19% |
+| kengät | 245 | 63% | 18% |
+| neule | 141 | 14% | 13% |
+| housut | 100 | 11% | 20% |
+| laukku | 73 | 58% | 7% |
+| t-paita | 46 | 24% | 26% |
 | kauluspaita | 46 | 0% | 28% |
-| asuste | 25 | 40% | 16% |
-| korut | 2 | 50% | 0% |
+| huppari | 45 | 29% | 29% |
+| asuste | 26 | 42% | 15% |
+| korut | 3 | 67% | 0% |
 | nahkatakki | 2 | 100% | 0% |
 
 ## Brändit, joissa eniten feikkiriskiä (n ≥ 3)
@@ -51,20 +51,20 @@
 | Miu Miu | 10 | 100% | 10% |
 | Loewe | 8 | 100% | 0% |
 | Bottega Veneta | 7 | 100% | 0% |
+| Enfants Riches Déprimés | 3 | 100% | 0% |
 | Valentino | 37 | 97% | 11% |
 | Dior | 31 | 97% | 10% |
+| Maison Margiela | 23 | 96% | 4% |
 | Canada Goose | 65 | 95% | 0% |
-| Alexander McQueen | 14 | 93% | 0% |
 | Arc'teryx | 25 | 92% | 0% |
 | Saint Laurent | 9 | 89% | 0% |
-| Maison Margiela | 24 | 88% | 4% |
-| Moncler | 48 | 83% | 10% |
-| Brunello Cucinelli | 11 | 82% | 18% |
+| Alexander McQueen | 15 | 87% | 0% |
+| Moncler | 49 | 84% | 12% |
 | Issey Miyake | 5 | 80% | 0% |
-| Celine | 13 | 77% | 15% |
-| Dolce & Gabbana | 4 | 75% | 50% |
-| Enfants Riches Déprimés | 4 | 75% | 25% |
+| Celine | 14 | 79% | 14% |
+| Brunello Cucinelli | 13 | 77% | 15% |
 | Louis Vuitton | 19 | 74% | 16% |
+| Prada | 16 | 69% | 44% |
 
 ## Riskisimmät löydöt
 
