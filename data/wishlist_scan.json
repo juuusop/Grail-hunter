@@ -1,15 +1,7 @@
 {
- "generated": 1795662648,
+ "generated": 1795698597,
  "items": {
   "Läppäriteline MacBookille": [
-   {
-    "id": "tori-50406011",
-    "source": "tori",
-    "title": "Säädettävä kannettavan tietokoneen teline",
-    "price": 0.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/50406011",
-    "image": "https://img.tori.net/dynamic/default/item/50406011/dddf6de4-dec1-49b8-805b-198c87d449e2"
-   },
    {
     "id": "tori-32382607",
     "source": "tori",
@@ -289,6 +281,14 @@
     "price": 19.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/46611958",
     "image": "https://img.tori.net/dynamic/default/item/46611958/74d4f57b-fc8c-4723-a0d1-c5c736ee1a39"
+   },
+   {
+    "id": "tori-50444790",
+    "source": "tori",
+    "title": "Twelve South pöytäteline MacBookille",
+    "price": 20.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/50444790",
+    "image": "https://img.tori.net/dynamic/default/item/50444790/f5f0a590-ee46-4aee-9e7c-153050addb00"
    },
    {
     "id": "tori-47052657",
