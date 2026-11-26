@@ -70,7 +70,7 @@
    "price": 1.4,
    "title": "Hajuvesinäyte  Givenchy Irresistible",
    "closed": "2026-11-08T14:38:56+0200",
-   "ts": 1795099156
+   "ts": 1795707571
   },
   "653190274": {
    "brand": "Givenchy",
@@ -78,7 +78,7 @@
    "price": 1.4,
    "title": "Hajuvesinäyte Givenchy L'Interdit",
    "closed": "2026-10-15T01:06:54+0300",
-   "ts": 1795099156
+   "ts": 1795707571
   },
   "654327343": {
    "brand": "Valentino",
@@ -86,7 +86,7 @@
    "price": 2.5,
    "title": "Purkkakuva Pnda CATERINA VALENTE/Oh Valentino",
    "closed": "2026-11-06T17:43:00+0200",
-   "ts": 1795099158
+   "ts": 1795707572
   },
   "653080452": {
    "brand": "Valentino",
@@ -94,7 +94,7 @@
    "price": 1.4,
    "title": "Hajuvesinäyte Valentino Donna Born in Roma Intense",
    "closed": "2026-10-08T20:12:10+0300",
-   "ts": 1795099158
+   "ts": 1795707572
   },
   "653079951": {
    "brand": "Valentino",
@@ -102,7 +102,7 @@
    "price": 1.2,
    "title": "Hajuvesinäyte Valentino Born in Roma miehille",
    "closed": "2026-10-18T05:15:59+0300",
-   "ts": 1795099158
+   "ts": 1795707573
   },
   "654491922": {
    "brand": "Chloé",
@@ -158,7 +158,7 @@
    "price": 1.2,
    "title": "Hajuvesinäyte Valentino Born in Roma miehille",
    "closed": "2026-11-13T18:28:55+0200",
-   "ts": 1795099158
+   "ts": 1795707573
   },
   "654549615": {
    "brand": "Premiata",
@@ -175,9 +175,17 @@
    "title": "LOUIS VUITTON PIPO ONE SIZE",
    "closed": "2026-11-17T23:58:55+0200",
    "ts": 1795450999
+  },
+  "654737059": {
+   "brand": "Casablanca",
+   "cat": "muu",
+   "price": 16.0,
+   "title": "Wildcats over Casablanca",
+   "closed": "2026-11-22T18:24:00+0200",
+   "ts": 1795707594
   }
  },
- "i": 138,
+ "i": 178,
  "groups": {
   "Carpe Diem|muu": {
    "n": 1,
@@ -274,7 +282,13 @@
    "median": 55.0,
    "p25": 55.0,
    "p75": 55.0
+  },
+  "Casablanca|muu": {
+   "n": 1,
+   "median": 16.0,
+   "p25": 16.0,
+   "p75": 16.0
   }
  },
- "generated": 1795622337
+ "generated": 1795707636
 }
