@@ -1,5 +1,575 @@
 [
  {
+  "id": "tori-50410869",
+  "brand": "Arc'teryx · Tori",
+  "title": "Arc'teryx Squamish takki",
+  "price": 120.0,
+  "value": 243,
+  "score": 2.03,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50410869",
+  "image": "https://img.tori.net/dynamic/default/item/50410869/d4d233b0-d0ae-425d-be8e-fff8da9f1fef",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 100 €",
+   "Japanissa myyty (takki) mediaani 321 € (n=28)",
+   "kate ~15 € (ROI 12%, myy grailed ~204 €; Yahoo JP toteutuneet (takki): mediaani 321 €, p25 212 € (n=28) → geneerinen ~266 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795671321,
+  "resale": 204,
+  "profit": 15,
+  "roi": 0.12,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 321 €, p25 212 € (n=28) → geneerinen ~266 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~204 € → käteen ~142 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 127 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "blocket-28542685",
+  "brand": "Moncler · Blocket 🇸🇪",
+  "title": "Vit Moncler dunjacka",
+  "price": 121.78,
+  "value": 334,
+  "score": 2.75,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.blocket.se/recommerce/forsale/item/28542685",
+  "image": "https://images.blocketcdn.se/dynamic/default/item/28542685/0d4a9ecc-2e67-499e-b876-800aacae4394",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 133 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=57)",
+   "kate ~2 € (ROI 1%, myy grailed ~177 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso)",
+   "1200 SEK + ~15 € posti = 122 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "blocket",
+  "old_price": null,
+  "ts": 1795671321,
+  "resale": 177,
+  "profit": 2,
+  "roi": 0.01,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~177 € → käteen ~123 € kulujen ja tinkimisen jälkeen",
+   "osto 122 € + toimitus = 122 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "blocket-28537734",
+  "brand": "Moncler · Blocket 🇸🇪",
+  "title": "Moncler jacka",
+  "price": 121.78,
+  "value": 334,
+  "score": 2.75,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.blocket.se/recommerce/forsale/item/28537734",
+  "image": "https://images.blocketcdn.se/dynamic/default/item/28537734/3c88a321-66e8-4e33-8d48-2c5d9a7c4457",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 133 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=57)",
+   "kate ~2 € (ROI 1%, myy grailed ~177 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso)",
+   "1200 SEK + ~15 € posti = 122 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "blocket",
+  "old_price": null,
+  "ts": 1795671321,
+  "resale": 177,
+  "profit": 2,
+  "roi": 0.01,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~177 € → käteen ~123 € kulujen ja tinkimisen jälkeen",
+   "osto 122 € + toimitus = 122 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "blocket-18183305",
+  "brand": "Moncler · Blocket 🇸🇪",
+  "title": "Moncler Hendaye Jacka",
+  "price": 157.37,
+  "value": 334,
+  "score": 2.12,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.blocket.se/recommerce/forsale/item/18183305",
+  "image": "https://images.blocketcdn.se/dynamic/default/item/18183305/55efe91d-4f01-4207-99f1-22946a4901b2",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 133 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=57)",
+   "⚠️ kate ~-34 € (ROI -22%, myy grailed ~177 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso)",
+   "1600 SEK + ~15 € posti = 157 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "blocket",
+  "old_price": null,
+  "ts": 1795671321,
+  "resale": 177,
+  "profit": -34,
+  "roi": -0.22,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~177 € → käteen ~123 € kulujen ja tinkimisen jälkeen",
+   "osto 157 € + toimitus = 157 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "blocket-28460337",
+  "brand": "Moncler · Blocket 🇸🇪",
+  "title": "Moncler jacka S svart",
+  "price": 121.78,
+  "value": 334,
+  "score": 2.75,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.blocket.se/recommerce/forsale/item/28460337",
+  "image": "https://images.blocketcdn.se/dynamic/default/item/28460337/55ceb5ce-cafc-437d-874f-e27591b1a891",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 133 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=57)",
+   "kate ~2 € (ROI 1%, myy grailed ~177 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso)",
+   "1200 SEK + ~15 € posti = 122 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "blocket",
+  "old_price": null,
+  "ts": 1795671321,
+  "resale": 177,
+  "profit": 2,
+  "roi": 0.01,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~177 € → käteen ~123 € kulujen ja tinkimisen jälkeen",
+   "osto 122 € + toimitus = 122 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "dba-27114293",
+  "brand": "Moncler · DBA 🇩🇰",
+  "title": "Moncler maya jakke",
+  "price": 84.89,
+  "value": 217,
+  "score": 2.56,
+  "label": "🔥 KOVA DIILI",
+  "category": "muu",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.dba.dk/recommerce/forsale/item/27114293",
+  "image": "https://images.dbastatic.dk/dynamic/default/item/27114293/c382e381-e89a-4976-86a1-8c2c7b36d0ae",
+  "reasons": [
+   "taso A",
+   "maya ×1.3",
+   "Sellpyn mediaani tälle brändille 133 €",
+   "Japanissa myyty (muu) mediaani 183 € (n=14)",
+   "⚠️ kate ~-9 € (ROI -10%, myy grailed ~109 €; Yahoo JP toteutuneet (muu): mediaani 183 €, p25 103 € (n=14) → geneerinen ~143 € × 1.15 EU-taso)",
+   "500 DKK + ~18 € posti = 85 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "dba",
+  "old_price": null,
+  "ts": 1795671321,
+  "resale": 109,
+  "profit": -9,
+  "roi": -0.1,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 183 €, p25 103 € (n=14) → geneerinen ~143 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~109 € → käteen ~76 € kulujen ja tinkimisen jälkeen",
+   "osto 85 € + toimitus = 85 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "dba-27079748",
+  "brand": "Moncler · DBA 🇩🇰",
+  "title": "Moncler cardigan",
+  "price": 98.27,
+  "value": 209,
+  "score": 2.13,
+  "label": "✅ DIILI",
+  "category": "neule",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.dba.dk/recommerce/forsale/item/27079748",
+  "image": "https://images.dbastatic.dk/dynamic/default/item/27079748/1e444ad9-0bda-4e04-9c18-c23a8783c2fb",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 133 €",
+   "Japanissa myyty mediaani 227 € (n=80)",
+   "⚠️ kate ~-22 € (ROI -22%, myy grailed ~110 €; brändiarvio ~157 € (ei mallivertailua eikä Yahoo-dataa))",
+   "600 DKK + ~18 € posti = 98 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "dba",
+  "old_price": null,
+  "ts": 1795671321,
+  "resale": 110,
+  "profit": -22,
+  "roi": -0.22,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~157 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~110 € → käteen ~76 € kulujen ja tinkimisen jälkeen",
+   "osto 98 € + toimitus = 98 €"
+  ],
+  "risk": {
+   "fake": 28,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "dba-27079725",
+  "brand": "Moncler · DBA 🇩🇰",
+  "title": "Moncler cardigan",
+  "price": 98.27,
+  "value": 209,
+  "score": 2.13,
+  "label": "✅ DIILI",
+  "category": "neule",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.dba.dk/recommerce/forsale/item/27079725",
+  "image": "https://images.dbastatic.dk/dynamic/default/item/27079725/37564edd-37d3-4ebc-94f9-f87b772b7d02",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 133 €",
+   "Japanissa myyty mediaani 227 € (n=80)",
+   "⚠️ kate ~-22 € (ROI -22%, myy grailed ~110 €; brändiarvio ~157 € (ei mallivertailua eikä Yahoo-dataa))",
+   "600 DKK + ~18 € posti = 98 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "dba",
+  "old_price": null,
+  "ts": 1795671321,
+  "resale": 110,
+  "profit": -22,
+  "roi": -0.22,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~157 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~110 € → käteen ~76 € kulujen ja tinkimisen jälkeen",
+   "osto 98 € + toimitus = 98 €"
+  ],
+  "risk": {
+   "fake": 28,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2469835301",
+  "brand": "Balenciaga · Marktplaats 🇳🇱",
+  "title": "Balenciaga Runner Sneakers dames schoenen 39",
+  "price": 135.0,
+  "value": 323,
+  "score": 2.4,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-dames/schoenen/m2469835301-balenciaga-runner-sneakers-dames-schoenen-39",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/e948bed8-05e6-4556-b042-b3a0af88acea?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 159 €",
+   "Japanissa myyty mediaani 86 € (n=80)",
+   "⚠️ kate ~-17 € (ROI -12%, myy grailed ~170 €; brändiarvio ~242 € (ei mallivertailua eikä Yahoo-dataa))",
+   "115 EUR + ~20 € posti = 135 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795671321,
+  "resale": 170,
+  "profit": -17,
+  "roi": -0.12,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~242 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~170 € → käteen ~118 € kulujen ja tinkimisen jälkeen",
+   "osto 135 € + toimitus = 135 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2470144189",
+  "brand": "Moncler · Marktplaats 🇳🇱",
+  "title": "Moncler Luserna Short Down Jacket Midnight Blue",
+  "price": 160.0,
+  "value": 352,
+  "score": 2.2,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/jassen-winter/m2470144189-moncler-luserna-short-down-jacket-midnight-blue",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/0f5e1a83-2d73-4ec5-bc41-bc9c37754663?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 133 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=57)",
+   "⚠️ kate ~-30 € (ROI -19%, myy grailed ~186 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso)",
+   "140 EUR + ~20 € posti = 160 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795671321,
+  "resale": 186,
+  "profit": -30,
+  "roi": -0.19,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~186 € → käteen ~130 € kulujen ja tinkimisen jälkeen",
+   "osto 160 € + toimitus = 160 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2470143811",
+  "brand": "Moncler · Marktplaats 🇳🇱",
+  "title": "Moncler Luserna Short Down Jacket Beige",
+  "price": 160.0,
+  "value": 370,
+  "score": 2.31,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/jassen-winter/m2470143811-moncler-luserna-short-down-jacket-beige",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/dc20be9e-ad22-4bc0-ac65-b92df51e2131?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 133 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=57)",
+   "⚠️ kate ~-24 € (ROI -15%, myy grailed ~196 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso)",
+   "140 EUR + ~20 € posti = 160 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795671321,
+  "resale": 196,
+  "profit": -24,
+  "roi": -0.15,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~196 € → käteen ~136 € kulujen ja tinkimisen jälkeen",
+   "osto 160 € + toimitus = 160 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2469332260",
+  "brand": "Balenciaga · 2dehands 🇧🇪",
+  "title": "Balenciaga speed knit 1/1",
+  "price": 109.99,
+  "value": 220,
+  "score": 2.0,
+  "label": "✅ DIILI",
+  "category": "neule",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/kleding-heren/schoenen/m2469332260-balenciaga-speed-knit-1-1",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/d4691fbb-497d-429e-9103-8aa76edd8bd5?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 159 €",
+   "Japanissa myyty mediaani 86 € (n=80)",
+   "⚠️ kate ~-30 € (ROI -27%, myy grailed ~115 €; brändiarvio ~165 € (ei mallivertailua eikä Yahoo-dataa))",
+   "90 EUR + ~20 € posti = 110 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1795671321,
+  "resale": 115,
+  "profit": -30,
+  "roi": -0.27,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~165 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~115 € → käteen ~80 € kulujen ja tinkimisen jälkeen",
+   "osto 110 € + toimitus = 110 €"
+  ],
+  "risk": {
+   "fake": 28,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2469421052",
+  "brand": "Moncler · 2dehands 🇧🇪",
+  "title": "Moncler Jacket Xl",
+  "price": 90.0,
+  "value": 334,
+  "score": 3.72,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/kleding-heren/jassen-zomer/m2469421052-moncler-jacket-xl",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/79ae98b9-c523-427c-a668-9e4e0b9e0258?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 133 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=57)",
+   "kate ~33 € (ROI 37%, myy grailed ~177 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso)",
+   "70 EUR + ~20 € posti = 90 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1795671321,
+  "resale": 177,
+  "profit": 33,
+  "roi": 0.37,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~177 € → käteen ~123 € kulujen ja tinkimisen jälkeen",
+   "osto 90 € + toimitus = 90 €"
+  ],
+  "risk": {
+   "fake": 50,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
   "id": "zfv6Phpo3w",
   "brand": "Number (N)ine",
   "title": "Number Nine Paitamekko",
@@ -48342,265 +48912,6 @@
   "link": "https://www.sellpy.fi/item/NASUhPVwMH",
   "image": "https://prod.images.sellpy.net/photoRobot-standard-5-j-1/NASUhPVwMH-cd2c-0.jpg",
   "reasons": [
-   "Sellpyn mediaani tälle brändille 68 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347664
- },
- {
-  "id": "ABCV2taDa8",
-  "brand": "Carol Christian Poell",
-  "title": "CCP Solmio",
-  "price": 21.0,
-  "value": 252,
-  "score": 12.0,
-  "label": "🚨 INSANE",
-  "category": "asuste",
-  "condition": "Uusi",
-  "size": "-",
-  "link": "https://www.sellpy.fi/item/ABCV2taDa8",
-  "image": "https://prod.images.sellpy.net/photoRobot-manual-15-l-1/TvDGmmPqUh-8c73-single.jpg",
-  "reasons": [
-   "harvinainen brändi"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347664
- },
- {
-  "id": "kJqlDKmL1G",
-  "brand": "Haider Ackermann",
-  "title": "Haider Ackermann Bleiseri",
-  "price": 147.0,
-  "value": 304,
-  "score": 2.07,
-  "label": "✅ DIILI",
-  "category": "takki",
-  "condition": "Hyväksyttävä",
-  "size": "WMN-EU-40",
-  "link": "https://www.sellpy.fi/item/kJqlDKmL1G",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-21/kJqlDKmL1G-f75e-0.jpg",
-  "reasons": [],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347664
- },
- {
-  "id": "64csrCbbpx",
-  "brand": "Helmut Lang",
-  "title": "Helmut Lang Neuletakki",
-  "price": 39.0,
-  "value": 142,
-  "score": 3.65,
-  "label": "🔥 KOVA DIILI",
-  "category": "neule",
-  "condition": "Hyväksyttävä",
-  "size": "WMN-INT-S",
-  "link": "https://www.sellpy.fi/item/64csrCbbpx",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-21/64csrCbbpx-2aa1-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 68 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347664
- },
- {
-  "id": "lVRNr03vvt",
-  "brand": "Helmut Lang",
-  "title": "Helmut Lang T-paita",
-  "price": 24.0,
-  "value": 71,
-  "score": 2.97,
-  "label": "🔥 KOVA DIILI",
-  "category": "t-paita",
-  "condition": "Hyväksyttävä",
-  "size": "WMN-INT-M",
-  "link": "https://www.sellpy.fi/item/lVRNr03vvt",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-1-k-21/lVRNr03vvt-804c-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 68 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347664
- },
- {
-  "id": "berv0eVgXF",
-  "brand": "Deepti",
-  "title": "Deepti S.C. Kaftaani",
-  "price": 56.0,
-  "value": 126,
-  "score": 2.25,
-  "label": "✅ DIILI",
-  "category": "muu",
-  "condition": "Erittäin hyvä",
-  "size": "WMN-INT-S/M",
-  "link": "https://www.sellpy.fi/item/berv0eVgXF",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-3-k-3/berv0eVgXF-7a12-0.jpg",
-  "reasons": [
-   "harvinainen brändi",
-   "silkki ×1.05",
-   "Sellpyn mediaani tälle brändille 19 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347664
- },
- {
-  "id": "r6ftTlElzf",
-  "brand": "Jean Paul Gaultier",
-  "title": "Jean Paul Gaultier Yläosa",
-  "price": 148.0,
-  "value": 192,
-  "score": 1.3,
-  "label": "💎 HARVINAINEN",
-  "category": "muu",
-  "condition": "Erittäin hyvä",
-  "size": "WMN-INT-S",
-  "link": "https://www.sellpy.fi/item/r6ftTlElzf",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-9-l-3/r6ftTlElzf-2f7d-0.jpg",
-  "reasons": [
-   "verkko ×1.6",
-   "harvinainen: verkko",
-   "Sellpyn mediaani tälle brändille 104 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347664
- },
- {
-  "id": "DiS2oDGuWz",
-  "brand": "Y-3",
-  "title": "Y-3 Urheilukassi",
-  "price": 27.0,
-  "value": 56,
-  "score": 2.07,
-  "label": "✅ DIILI",
-  "category": "muu",
-  "condition": "Erittäin hyvä",
-  "size": "-",
-  "link": "https://www.sellpy.fi/item/DiS2oDGuWz",
-  "image": "https://prod.images.sellpy.net/photoRobot-fixed-22-l-5/DiS2oDGuWz-b9e4-single.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 54 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347664
- },
- {
-  "id": "xKoJYfpqjZ",
-  "brand": "Comme des Garçons",
-  "title": "Comme des Garçons x Good Design Shop Coach-takki Coach Jacket",
-  "price": 97.0,
-  "value": 230,
-  "score": 2.38,
-  "label": "✅ DIILI",
-  "category": "takki",
-  "condition": "Hyvä",
-  "size": "MEN-INT-L",
-  "link": "https://www.sellpy.fi/item/xKoJYfpqjZ",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-4-k-15/rcreWDGIem-8b6e-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 83 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347664
- },
- {
-  "id": "iuyp84P5Vv",
-  "brand": "Dirk Bikkembergs",
-  "title": "Bikkembergs Urheilukengät",
-  "price": 16.5,
-  "value": 76,
-  "score": 4.58,
-  "label": "🚨 INSANE",
-  "category": "kengät",
-  "condition": "Hyvä",
-  "size": "SHOES-EU-39",
-  "link": "https://www.sellpy.fi/item/iuyp84P5Vv",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-14-k-12/xhW3ARaVDI-c549-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 16 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347664
- },
- {
-  "id": "ulLzLEeCck",
-  "brand": "Damir Doma",
-  "title": "Damir Doma Housut",
-  "price": 39.0,
-  "value": 108,
-  "score": 2.77,
-  "label": "🔥 KOVA DIILI",
-  "category": "housut",
-  "condition": "Erittäin hyvä",
-  "size": "WMN-EU-38",
-  "link": "https://www.sellpy.fi/item/ulLzLEeCck",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-9-k-12/DBhgBXHUqr-bac6-0.jpg",
-  "reasons": [],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347664
- },
- {
-  "id": "dcBir9JbkS",
-  "brand": "Damir Doma",
-  "title": "Damir Doma Housut",
-  "price": 42.0,
-  "value": 97,
-  "score": 2.31,
-  "label": "✅ DIILI",
-  "category": "housut",
-  "condition": "Hyvä",
-  "size": "WMN-EU-36",
-  "link": "https://www.sellpy.fi/item/dcBir9JbkS",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-8-k-11/2GAKsQEF83-ff53-0.jpg",
-  "reasons": [],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347664
- },
- {
-  "id": "WHedwm2PPR",
-  "brand": "Y-3",
-  "title": "Y-3 Olohousut",
-  "price": 29.0,
-  "value": 60,
-  "score": 2.06,
-  "label": "✅ DIILI",
-  "category": "housut",
-  "condition": "Hyväksyttävä",
-  "size": "WMN-INT-S",
-  "link": "https://www.sellpy.fi/item/WHedwm2PPR",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-17-l-2/WHedwm2PPR-57cb-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 54 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347664
- },
- {
-  "id": "G5grMhXHJN",
-  "brand": "Helmut Lang",
-  "title": "Helmut Lang Housut",
-  "price": 40.5,
-  "value": 142,
-  "score": 3.5,
-  "label": "🔥 KOVA DIILI",
-  "category": "housut",
-  "condition": "Erittäin hyvä",
-  "size": "WMN-EU-36",
-  "link": "https://www.sellpy.fi/item/G5grMhXHJN",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-3-k-21/G5grMhXHJN-fa6a-0.jpg",
-  "reasons": [
-   "silkki ×1.05",
    "Sellpyn mediaani tälle brändille 68 €"
   ],
   "source": "brändi",
