@@ -1,5 +1,5 @@
 {
- "generated": 1795637721,
+ "generated": 1795662648,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -541,6 +541,14 @@
   ],
   "Näyttövarsi yhdelle näytölle": [
    {
+    "id": "tori-50433802",
+    "source": "tori",
+    "title": "Dell MSA14 monitorivarsi 4kpl",
+    "price": 10.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/50433802",
+    "image": "https://img.tori.net/dynamic/default/item/50433802/a86ce514-e022-41c0-9c76-0c565db2e7b1"
+   },
+   {
     "id": "tori-47823822",
     "source": "tori",
     "title": "Näytön pöytäteline / monitorivarsi",
@@ -717,20 +725,20 @@
     "image": "https://images.blocketcdn.se/dynamic/default/item/25629840/b00fa5c1-e6b9-4d55-97fd-d7503da46e43"
    },
    {
+    "id": "blocket-28461783",
+    "source": "blocket",
+    "title": "Deltaco skärmfäste (monitor arm) med gasfjäder 17” - 32”",
+    "price": 36.75,
+    "url": "https://www.blocket.se/recommerce/forsale/item/28461783",
+    "image": "https://images.blocketcdn.se/dynamic/default/item/28461783/5e0d6629-e42f-49e3-9554-f464d055ecc9"
+   },
+   {
     "id": "blocket-28095295",
     "source": "blocket",
     "title": "Monitor arm",
     "price": 36.75,
     "url": "https://www.blocket.se/recommerce/forsale/item/28095295",
     "image": "https://images.blocketcdn.se/dynamic/default/item/28095295/a36f8702-1ffe-47d0-ac5e-c29dd4b24935"
-   },
-   {
-    "id": "blocket-28461783",
-    "source": "blocket",
-    "title": "Deltaco skärmfäste (monitor arm) med gasfjäder 17” - 32”",
-    "price": 41.1,
-    "url": "https://www.blocket.se/recommerce/forsale/item/28461783",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/28461783/5e0d6629-e42f-49e3-9554-f464d055ecc9"
    },
    {
     "id": "blocket-28457299",
