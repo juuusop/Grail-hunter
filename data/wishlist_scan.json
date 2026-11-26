@@ -1,5 +1,5 @@
 {
- "generated": 1795698597,
+ "generated": 1795733010,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -541,6 +541,14 @@
   ],
   "Näyttövarsi yhdelle näytölle": [
    {
+    "id": "tori-50257992",
+    "source": "tori",
+    "title": "Gembird MA-DA1-01 näyttövarsi kaasujousella",
+    "price": 10.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/50257992",
+    "image": "https://img.tori.net/dynamic/default/item/50257992/afe3f053-7a72-48c1-be04-edd694c96dbd"
+   },
+   {
     "id": "tori-50433802",
     "source": "tori",
     "title": "Dell MSA14 monitorivarsi 4kpl",
@@ -581,14 +589,6 @@
     "image": "https://img.tori.net/dynamic/default/item/45743538/42e76f25-1e5e-4a67-9ce2-6626b67f48f4"
    },
    {
-    "id": "tori-50196558",
-    "source": "tori",
-    "title": "Näyttövarsipari",
-    "price": 15.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/50196558",
-    "image": "https://img.tori.net/dynamic/default/item/50196558/227a87ce-3024-49de-a7b5-3a20f3ea64e2"
-   },
-   {
     "id": "tori-50390129",
     "source": "tori",
     "title": "Z3 Basic kahden monitorin monitorivarsi",
@@ -619,14 +619,6 @@
     "price": 20.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/34378118",
     "image": "https://img.tori.net/dynamic/default/item/34378118/a4d1846c-d62a-4e9a-b1ac-a63f1e56e9d7"
-   },
-   {
-    "id": "tori-50257992",
-    "source": "tori",
-    "title": "Gembird MA-DA1-01 näyttövarsi kaasujousella",
-    "price": 20.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/50257992",
-    "image": "https://img.tori.net/dynamic/default/item/50257992/afe3f053-7a72-48c1-be04-edd694c96dbd"
    },
    {
     "id": "tori-49702688",
