@@ -1,5 +1,5 @@
 {
- "generated": 1795757159,
+ "generated": 1795793813,
  "items": {
   "Läppäriteline MacBookille": [
    {
@@ -49,6 +49,14 @@
     "price": 4.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/43521366",
     "image": "https://img.tori.net/dynamic/default/item/43521366/2407153e-b94f-4df1-af69-9e0f5d77865e"
+   },
+   {
+    "id": "tori-50303222",
+    "source": "tori",
+    "title": "Adjustable folding laptop stand / kannettavan tietokoneen teline",
+    "price": 5.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/50303222",
+    "image": "https://img.tori.net/dynamic/default/item/50303222/e54359a2-a0d7-434a-9f8c-2020f996cdc6"
    },
    {
     "id": "tori-23631612",
@@ -147,12 +155,12 @@
     "image": "https://img.tori.net/dynamic/default/item/48151642/8a479cd1-3e61-4bac-b0b7-6a1b4130c5b1"
    },
    {
-    "id": "tori-50303222",
+    "id": "tori-38429025",
     "source": "tori",
-    "title": "Adjustable folding laptop stand / kannettavan tietokoneen teline",
-    "price": 10.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/50303222",
-    "image": "https://img.tori.net/dynamic/default/item/50303222/e54359a2-a0d7-434a-9f8c-2020f996cdc6"
+    "title": "Deltaco kannettavan/tabletin teline",
+    "price": 8.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/38429025",
+    "image": "https://img.tori.net/dynamic/default/item/38429025/18963fd0-d204-43cd-beed-73505a38f850"
    },
    {
     "id": "tori-50082218",
@@ -217,14 +225,6 @@
     "price": 13.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/47693491",
     "image": "https://img.tori.net/dynamic/default/item/47693491/dd4298ff-7324-4cf7-8a1a-64b4a63ff236"
-   },
-   {
-    "id": "tori-49670753",
-    "source": "tori",
-    "title": "Moft-kannettavan tietokoneen teline, vaaleanpunainen",
-    "price": 14.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/49670753",
-    "image": "https://img.tori.net/dynamic/default/item/49670753/fdf1956e-a6be-4809-8bf8-e84679ed1b07"
    },
    {
     "id": "tori-50019255",
@@ -515,20 +515,20 @@
     "image": "https://images.blocketcdn.se/dynamic/default/item/22528144/3098d9e6-414a-45a1-bdfe-4ed7bb74e5df"
    },
    {
+    "id": "blocket-28158041",
+    "source": "blocket",
+    "title": "DJ- & studiopaket: Akai Professional MPD226 + Magma Vektor Laptop-Stand",
+    "price": 84.6,
+    "url": "https://www.blocket.se/recommerce/forsale/item/28158041",
+    "image": "https://images.blocketcdn.se/dynamic/default/item/28158041/4419a13a-9f8f-454f-8f9c-c241051422ac"
+   },
+   {
     "id": "tori-42283684",
     "source": "tori",
     "title": "Zirkona läppäriteline",
     "price": 100.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/42283684",
     "image": "https://img.tori.net/dynamic/default/item/42283684/92366669-5ae6-4378-bf3b-cd8d7873733e"
-   },
-   {
-    "id": "blocket-28158041",
-    "source": "blocket",
-    "title": "DJ- & studiopaket: Akai Professional MPD226 + Magma Vektor Laptop-Stand",
-    "price": 102.0,
-    "url": "https://www.blocket.se/recommerce/forsale/item/28158041",
-    "image": "https://images.blocketcdn.se/dynamic/default/item/28158041/4419a13a-9f8f-454f-8f9c-c241051422ac"
    },
    {
     "id": "tori-23048733",
@@ -541,20 +541,20 @@
   ],
   "Näyttövarsi yhdelle näytölle": [
    {
-    "id": "tori-50257992",
-    "source": "tori",
-    "title": "Gembird MA-DA1-01 näyttövarsi kaasujousella",
-    "price": 10.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/50257992",
-    "image": "https://img.tori.net/dynamic/default/item/50257992/afe3f053-7a72-48c1-be04-edd694c96dbd"
-   },
-   {
     "id": "tori-50433802",
     "source": "tori",
     "title": "Dell MSA14 monitorivarsi 4kpl",
     "price": 10.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/50433802",
     "image": "https://img.tori.net/dynamic/default/item/50433802/a86ce514-e022-41c0-9c76-0c565db2e7b1"
+   },
+   {
+    "id": "tori-50362118",
+    "source": "tori",
+    "title": "Arctic Z2 Pro Monitorivarsi 13-27\"",
+    "price": 10.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/50362118",
+    "image": "https://img.tori.net/dynamic/default/item/50362118/93f20fc8-a6bd-4dcd-9588-9c450f0bbad1"
    },
    {
     "id": "tori-47823822",
@@ -597,20 +597,20 @@
     "image": "https://img.tori.net/dynamic/default/item/50390129/34c05e62-501c-482c-8c61-8ac8f37c8125"
    },
    {
-    "id": "tori-50362118",
-    "source": "tori",
-    "title": "Arctic Z2 Pro Monitorivarsi 13-27\"",
-    "price": 15.0,
-    "url": "https://www.tori.fi/recommerce/forsale/item/50362118",
-    "image": "https://img.tori.net/dynamic/default/item/50362118/93f20fc8-a6bd-4dcd-9588-9c450f0bbad1"
-   },
-   {
     "id": "tori-44206340",
     "source": "tori",
     "title": "Newstar FPMA-D550BLACK -monitorivarsi",
     "price": 15.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/44206340",
     "image": "https://img.tori.net/dynamic/default/item/44206340/1b11673e-3feb-4b52-9283-6672892d2d69"
+   },
+   {
+    "id": "tori-50481916",
+    "source": "tori",
+    "title": "Omron X7 smart AFib upper-arm blood pressure monitor",
+    "price": 15.0,
+    "url": "https://www.tori.fi/recommerce/forsale/item/50481916",
+    "image": "https://img.tori.net/dynamic/default/item/50481916/9b2ad94e-b643-401f-ae66-f03bb638f619"
    },
    {
     "id": "tori-34378118",
@@ -699,6 +699,14 @@
     "price": 30.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/45932080",
     "image": "https://img.tori.net/dynamic/default/item/45932080/68773e1e-51ff-4c77-8bbe-4e7653d58474"
+   },
+   {
+    "id": "blocket-28586811",
+    "source": "blocket",
+    "title": "Monitorstativ för acer skärm",
+    "price": 31.44,
+    "url": "https://www.blocket.se/recommerce/forsale/item/28586811",
+    "image": "https://images.blocketcdn.se/dynamic/default/item/28586811/d23e69b8-d5c1-4a98-9cb4-95e5ebd4329b"
    },
    {
     "id": "tori-45046764",
@@ -931,6 +939,14 @@
     "price": 100.0,
     "url": "https://www.tori.fi/recommerce/forsale/item/45714878",
     "image": "https://img.tori.net/dynamic/default/item/45714878/f9b18c7f-8af8-4627-abe5-2654c1fda195"
+   },
+   {
+    "id": "blocket-28267182",
+    "source": "blocket",
+    "title": "Ergotron monitorarm med klämfäste för 49\" skärm",
+    "price": 102.0,
+    "url": "https://www.blocket.se/recommerce/forsale/item/28267182",
+    "image": "https://images.blocketcdn.se/dynamic/default/item/28267182/830763a2-d9f8-4713-b6ac-067dafc3e3c8"
    },
    {
     "id": "blocket-27532923",
