@@ -1,5 +1,42 @@
 [
  {
+  "id": "emmy-8315510194298",
+  "brand": "Marimekko · Emmy",
+  "title": "Marimekko Olkalaukku, koko Mini",
+  "price": 24.9,
+  "value": 57,
+  "score": 2.29,
+  "label": "✅ DIILI",
+  "category": "laukku",
+  "condition": "Käyttökuntoinen",
+  "size": "-",
+  "link": "https://emmy.fi/products/id3148340",
+  "image": "https://cdn.shopify.com/s/files/1/0749/8199/files/3148340-10S3HI.jpg?v=1795742196",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 67 €",
+   "⚠️ kate ~-4 € (ROI -13%, myy vinted ~30 €; brändiarvio ~43 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "emmy",
+  "old_price": null,
+  "ts": 1795770718,
+  "resale": 30,
+  "profit": -4,
+  "roi": -0.13,
+  "exit": "vinted",
+  "resale_why": [
+   "brändiarvio ~43 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti vinted ~30 € → käteen ~27 € kulujen ja tinkimisen jälkeen",
+   "osto 25 € + toimitus = 31 €"
+  ],
+  "risk": {
+   "fake": 2,
+   "fake_level": "matala",
+   "cond": "ok",
+   "why": []
+  }
+ },
+ {
   "id": "jg8m49q1kO",
   "brand": "The North Face",
   "title": "The North Face Fleece-takki",
@@ -49887,26 +49924,6 @@
   "size": "WMN-INT-XS",
   "link": "https://www.sellpy.fi/item/oGbw6U89BB",
   "image": "https://prod.images.sellpy.net/photoRobot-standard-4-k-6/34QSd6Otky-7a97-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 84 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347663
- },
- {
-  "id": "NJAkkvyZeQ",
-  "brand": "Acne Studios",
-  "title": "Acne Studios Neulepaita KORT",
-  "price": 24.0,
-  "value": 72,
-  "score": 3.0,
-  "label": "🔥 KOVA DIILI",
-  "category": "neule",
-  "condition": "Hyvä",
-  "size": "MEN-INT-M",
-  "link": "https://www.sellpy.fi/item/NJAkkvyZeQ",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-6-k-7/IkJs6fIGys-b993-0.jpg",
   "reasons": [
    "Sellpyn mediaani tälle brändille 84 €"
   ],
