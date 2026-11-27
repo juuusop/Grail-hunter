@@ -1,18 +1,18 @@
 # Feikki- ja kuntoriski löydöissä
 
-1452 löytöä (data/finds.json). Heuristiikka: risk.py.
+1454 löytöä (data/finds.json). Heuristiikka: risk.py.
 
-- korkea feikkiriski: **12%**, keskitaso: 23%
-- kulunut/huono kunto: **18%**, kunto ei tiedossa: 32%
+- korkea feikkiriski: **12%**, keskitaso: 24%
+- kulunut/huono kunto: **17%**, kunto ei tiedossa: 32%
 
 ## Alustoittain
 
 | alusta | n | feikki korkea | keski | kulunut/huono | kunto ? |
 |---|---|---|---|---|---|
-| sellpy.fi | 776 | 0% | 12% | 32% | 0% |
+| sellpy.fi | 777 | 0% | 13% | 31% | 0% |
 | tradera.com | 227 | 5% | 34% | 0% | 100% |
 | marktplaats.nl | 154 | 43% | 36% | 6% | 5% |
-| tori.fi | 151 | 35% | 37% | 0% | 100% |
+| tori.fi | 152 | 36% | 37% | 0% | 100% |
 | 2dehands.be | 80 | 22% | 32% | 8% | 16% |
 | blocket.se | 25 | 52% | 48% | 0% | 100% |
 | dba.dk | 21 | 43% | 38% | 0% | 100% |
@@ -23,16 +23,16 @@
 
 | kategoria | n | feikki korkea+keski | kulunut/huono |
 |---|---|---|---|
-| muu | 413 | 31% | 17% |
+| muu | 409 | 31% | 17% |
 | takki | 312 | 37% | 19% |
-| kengät | 245 | 63% | 18% |
-| neule | 141 | 14% | 13% |
-| housut | 100 | 11% | 20% |
-| laukku | 73 | 58% | 7% |
+| kengät | 244 | 63% | 17% |
+| neule | 140 | 14% | 14% |
+| housut | 96 | 11% | 18% |
+| laukku | 74 | 58% | 7% |
 | t-paita | 46 | 24% | 26% |
-| kauluspaita | 46 | 0% | 28% |
 | huppari | 45 | 29% | 29% |
-| asuste | 26 | 42% | 15% |
+| kauluspaita | 45 | 0% | 27% |
+| asuste | 38 | 61% | 11% |
 | korut | 3 | 67% | 0% |
 | nahkatakki | 2 | 100% | 0% |
 
@@ -52,11 +52,11 @@
 | Loewe | 8 | 100% | 0% |
 | Bottega Veneta | 7 | 100% | 0% |
 | Enfants Riches Déprimés | 3 | 100% | 0% |
-| Valentino | 37 | 97% | 11% |
+| Valentino | 38 | 97% | 11% |
 | Dior | 31 | 97% | 10% |
 | Maison Margiela | 23 | 96% | 4% |
 | Canada Goose | 65 | 95% | 0% |
-| Arc'teryx | 25 | 92% | 0% |
+| Arc'teryx | 37 | 95% | 0% |
 | Saint Laurent | 9 | 89% | 0% |
 | Alexander McQueen | 15 | 87% | 0% |
 | Moncler | 49 | 84% | 12% |
@@ -71,6 +71,7 @@
 - 100 · [Dior saddle bag](https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/tassen-schoudertassen/m2469294128-dior-saddle-bag) 100 € (arvio 1575 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; hinta vain 6% arvosta; yksityismyyjä, ei tarkastusta
 - 100 · [Valentino tekonahkainen käsilaukku / olkalaukku musta naisten](https://www.tori.fi/recommerce/forsale/item/48860220) 85 € (arvio 171 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; tekonahkaa ('tekonahka'): aidot ovat nahkaa/pinnoitettua canvasia; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 100 · [Goyard tekonahkainen laukku vihreä unisex](https://www.tori.fi/recommerce/forsale/item/46805357) 59 € (arvio 342 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; tekonahkaa ('tekonahka'): aidot ovat nahkaa/pinnoitettua canvasia; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
+- 80 · [Valentino olkalaukku](https://www.tori.fi/recommerce/forsale/item/50390553) 47 € (arvio 171 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 80 · [Käyttämätön Valentino tum.sininen medium laukku käsilaukku](https://www.tori.fi/recommerce/forsale/item/50134394) 50 € (arvio 171 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 80 · [Valentino olkalaukku, vaaleanpunainen](https://www.tori.fi/recommerce/forsale/item/49431846) 50 € (arvio 171 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 80 · [Valentino olkalaukku, vaaleanpunainen](https://www.tori.fi/recommerce/forsale/item/49429923) 49 € (arvio 171 €) — paljon väärennetty brändi; laukku: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
@@ -87,4 +88,3 @@
 - 65 · [Hermes Schoenen](https://www.2dehands.be/v/kleding-heren/schoenen/m2467464773-hermes-schoenen) 155 € (arvio 560 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta
 - 65 · [Moncler saappaat](https://www.tori.fi/recommerce/forsale/item/49992558) 70 € (arvio 293 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta; kunto ei tiedossa, pyydä lisäkuvat
 - 65 · [Balenciaga Track Sneakers Zwart - Maat 44](https://www.marktplaats.nl/v/kleding-heren/schoenen/m2467384332-balenciaga-track-sneakers-zwart-maat-44) 90 € (arvio 308 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta
-- 65 · [Oncloud X Loewe](https://www.marktplaats.nl/v/kleding-heren/schoenen/m2466743230-oncloud-x-loewe) 90 € (arvio 323 €) — paljon väärennetty brändi; kengät: väärennetyimpiä tuotetyyppejä; yksityismyyjä, ei tarkastusta
