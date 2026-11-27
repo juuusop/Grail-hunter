@@ -1,5 +1,49 @@
 [
  {
+  "id": "tori-50390553",
+  "brand": "Valentino · Tori",
+  "title": "Valentino olkalaukku",
+  "price": 47.0,
+  "value": 171,
+  "score": 3.64,
+  "label": "🔥 KOVA DIILI",
+  "category": "laukku",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50390553",
+  "image": "https://img.tori.net/dynamic/default/item/50390553/fadd7c01-bb89-47d1-b442-cd7e6505f91b",
+  "reasons": [
+   "taso C",
+   "Sellpyn mediaani tälle brändille 136 €",
+   "Japanissa myyty mediaani 17 € (n=43)",
+   "kate ~7 € (ROI 13%, myy vestiaire ~90 €; brändiarvio ~128 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795740127,
+  "resale": 90,
+  "profit": 7,
+  "roi": 0.13,
+  "exit": "vestiaire",
+  "resale_why": [
+   "brändiarvio ~128 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti vestiaire ~90 € → käteen ~61 € kulujen ja tinkimisen jälkeen",
+   "osto 47 € + toimitus = 54 €"
+  ],
+  "risk": {
+   "fake": 80,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "laukku: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
   "id": "Pi5a1eicIk",
   "brand": "Celine",
   "title": "Celine Solmio",
@@ -49470,24 +49514,6 @@
   "reasons": [
    "Sellpyn mediaani tälle brändille 83 €"
   ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347663
- },
- {
-  "id": "od5NwAhw2D",
-  "brand": "Hussein Chalayan",
-  "title": "Chalayan Mekko",
-  "price": 61.0,
-  "value": 134,
-  "score": 2.2,
-  "label": "✅ DIILI",
-  "category": "muu",
-  "condition": "Uusi",
-  "size": "WMN-INT-S",
-  "link": "https://www.sellpy.fi/item/od5NwAhw2D",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-3-k-7/od5NwAhw2D-058d-0.jpg",
-  "reasons": [],
   "source": "brändi",
   "old_price": null,
   "ts": 1794347663

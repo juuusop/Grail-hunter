@@ -1,6 +1,6 @@
 # 🦅 Grail Hunter: löydöt
 
-Päivitetty 26.11.2026 18:40 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi olla jo myyty.
+Päivitetty 27.11.2026 00:42 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi olla jo myyty.
 
 ## 🔥 Viikon parhaat
 
@@ -51,6 +51,7 @@ Päivitetty 26.11.2026 18:40 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi oll
 
 | | Löytö | Hinta | Pisteet | Tyyppi / koko | Löydetty (UTC) |
 |---|---|---|---|---|---|
+| <a href="https://www.tori.fi/recommerce/forsale/item/50390553"><img src="https://img.tori.net/dynamic/default/item/50390553/fadd7c01-bb89-47d1-b442-cd7e6505f91b" width="90"></a> | 🔥 KOVA DIILI<br>**[Valentino · Tori](https://www.tori.fi/recommerce/forsale/item/50390553)**<br>Valentino olkalaukku | **47 €**<br>arvio ~171 €<br>kate ~7 €<br>⚠️ feikkiriski 80 | 3.64 | laukku<br>- | 27.11. 00:42 |
 | <a href="https://www.sellpy.fi/item/lusjnlpUA0"><img src="https://prod.images.sellpy.net/photoRobot-standard-4-k-10/lusjnlpUA0-57a6-0.jpg" width="90"></a> | 📉 🔥 KOVA DIILI<br>**[Filippa K](https://www.sellpy.fi/item/lusjnlpUA0)**<br>Filippa K Pullover | **15 €** (oli 17)<br>arvio ~45 €<br>kate ~0 € | 3.0 | neule<br>MEN-INT-L | 26.11. 18:40 |
 | <a href="https://www.sellpy.fi/item/KVprBp9ZTw"><img src="https://prod.images.sellpy.net/photoRobot-case-15-k-14/KVprBp9ZTw-cb59-0.jpg" width="90"></a> | 📉 ✅ DIILI<br>**[New Balance (haku: made in usa new balance)](https://www.sellpy.fi/item/KVprBp9ZTw)**<br>New Balance Lenkkitossut 990v3 | **58 €** (oli 60)<br>arvio ~129 € | 2.2 | kengät<br>SHOES-EU-44 | 26.11. 18:40 |
 | <a href="https://www.sellpy.fi/item/17bT72wAk7"><img src="https://prod.images.sellpy.net/photoRobot-standard-4-k-6/17bT72wAk7-27e6-0.jpg" width="90"></a> | ✅ DIILI<br>**[J.Lindeberg (haku: kashmir)](https://www.sellpy.fi/item/17bT72wAk7)**<br>J.Lindeberg Neulepaita | **24 €**<br>arvio ~53 € | 2.2 | neule<br>MEN-INT-XL | 26.11. 18:40 |
@@ -110,4 +111,3 @@ Päivitetty 26.11.2026 18:40 UTC. Pisteet = arvioitu arvo / hinta. Tuote voi oll
 | <a href="https://www.sellpy.fi/item/x6T0djRemH"><img src="https://prod.images.sellpy.net/photoRobot-standard-7-k-2/Ni6FzVUXCd-083d-0.jpg" width="90"></a> | 🚨 INSANE<br>**[Private White V.C.](https://www.sellpy.fi/item/x6T0djRemH)**<br>Private White Lyhythihainen pusero | **39 €**<br>arvio ~200 €<br>kate ~60 € | 5.13 | neule<br>MEN-INT-L | 26.11. 00:21 |
 | <a href="https://www.sellpy.fi/item/DKTenXXdlq"><img src="https://prod.images.sellpy.net/photoRobot-standard-3-k-3/WHTvMGaV1V-9ebc-0.jpg" width="90"></a> | 🔥 KOVA DIILI<br>**[Norse Projects](https://www.sellpy.fi/item/DKTenXXdlq)**<br>Norse Projects Paita | **15 €**<br>arvio ~48 €<br>kate ~2 € | 3.2 | muu<br>MEN-INT-L | 26.11. 00:21 |
 | <a href="https://www.sellpy.fi/item/qPiNfzCbDg"><img src="https://prod.images.sellpy.net/photoRobot-standard-2-k-21/fwp83DI2kg-8fa2-0.jpg" width="90"></a> | 💎 HARVINAINEN<br>**[Saint Laurent](https://www.sellpy.fi/item/qPiNfzCbDg)**<br>Saint Laurent Varsity-takki Teddy Bomber | **566 €**<br>arvio ~705 €<br>kate ~-557 € | 1.25 | takki<br>MEN-EU-52 | 26.11. 00:21 |
-| <a href="https://www.sellpy.fi/item/ct3EVAscCf"><img src="https://prod.images.sellpy.net/photoRobot-standard-2-k-21/ct3EVAscCf-b9a3-0.jpg" width="90"></a> | ✅ DIILI<br>**[Moncler](https://www.sellpy.fi/item/ct3EVAscCf)**<br>Moncler Bomber-takki Thym | **129 €**<br>arvio ~317 €<br>kate ~32 € | 2.46 | takki<br>MEN-INT-3XL | 26.11. 00:21 |
