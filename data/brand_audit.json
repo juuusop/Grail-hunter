@@ -1,12 +1,117 @@
 {
- "generated": 1795612670,
+ "generated": 1795783986,
  "brands": {
-  "Number (N)ine": {
-   "n": 6,
+  "Damir Doma": {
+   "n": 7,
+   "ok": 0,
+   "drop": {
+    "ei sun koko": 6,
+    "liian kallis arvoon nähden": 1
+   }
+  },
+  "Auralee": {
+   "n": 2,
+   "ok": 0,
+   "drop": {
+    "ei sun koko": 1,
+    "liian kallis arvoon nähden": 1
+   }
+  },
+  "Uma Wang": {
+   "n": 3,
+   "ok": 0,
+   "drop": {
+    "ei sun koko": 3
+   }
+  },
+  "Walter Van Beirendonck": {
+   "n": 4,
    "ok": 1,
+   "drop": {
+    "ei sun koko": 3
+   }
+  },
+  "Marsèll": {
+   "n": 10,
+   "ok": 1,
+   "drop": {
+    "ei sun koko": 6,
+    "poissulkusana": 1,
+    "liian kallis arvoon nähden": 1,
+    "alle minimihinnan": 1
+   }
+  },
+  "Nemen": {
+   "n": 3,
+   "ok": 0,
+   "drop": {
+    "poissulkusana": 2,
+    "ei sun koko": 1
+   }
+  },
+  "Grenfell": {
+   "n": 4,
+   "ok": 0,
+   "drop": {
+    "ei sun koko": 3,
+    "poissulkusana": 1
+   }
+  },
+  "Acronym": {
+   "n": 2,
+   "ok": 0,
+   "drop": {
+    "ei sun koko": 2
+   }
+  },
+  "45R": {
+   "n": 5,
+   "ok": 0,
+   "drop": {
+    "ei sun koko": 3,
+    "alle minimihinnan": 2
+   }
+  },
+  "Private White V.C.": {
+   "n": 10,
+   "ok": 2,
+   "drop": {
+    "ei sun koko": 6,
+    "liian kallis arvoon nähden": 1,
+    "poissulkusana": 1
+   }
+  },
+  "Berluti": {
+   "n": 5,
+   "ok": 2,
+   "drop": {
+    "ei sun koko": 3
+   }
+  },
+  "Number (N)ine": {
+   "n": 7,
+   "ok": 2,
    "drop": {
     "ei sun koko": 4,
     "alle minimihinnan": 1
+   }
+  },
+  "Enfants Riches Déprimés": {
+   "n": 9,
+   "ok": 0,
+   "drop": {
+    "liian kallis arvoon nähden": 5,
+    "poissulkusana": 1,
+    "ei sun koko": 3
+   }
+  },
+  "District Vision": {
+   "n": 7,
+   "ok": 1,
+   "drop": {
+    "ei sun koko": 2,
+    "poissulkusana": 2,
+    "liian kallis arvoon nähden": 2
    }
   },
   "John Lobb": {
@@ -33,8 +138,8 @@
    }
   },
   "Album di Famiglia": {
-   "n": 5,
-   "ok": 1,
+   "n": 4,
+   "ok": 0,
    "drop": {
     "ei sun koko": 4
    }
@@ -79,26 +184,6 @@
     "alle minimihinnan": 2
    }
   },
-  "Marsèll": {
-   "n": 9,
-   "ok": 1,
-   "drop": {
-    "ei sun koko": 5,
-    "poissulkusana": 1,
-    "liian kallis arvoon nähden": 1,
-    "alle minimihinnan": 1
-   }
-  },
-  "Enfants Riches Déprimés": {
-   "n": 10,
-   "ok": 0,
-   "drop": {
-    "liian kallis arvoon nähden": 4,
-    "poissulkusana": 1,
-    "ei sun koko": 4,
-    "varattu": 1
-   }
-  },
   "Visvim": {
    "n": 4,
    "ok": 0,
@@ -115,43 +200,18 @@
    }
   },
   "Satisfy": {
-   "n": 12,
+   "n": 11,
    "ok": 1,
    "drop": {
     "liian kallis arvoon nähden": 7,
-    "ei sun koko": 4
-   }
-  },
-  "Barbara I Gongini": {
-   "n": 3,
-   "ok": 0,
-   "drop": {
-    "ei sun koko": 2,
-    "poissulkusana": 1
+    "ei sun koko": 3
    }
   },
   "J.M. Weston": {
-   "n": 6,
+   "n": 5,
    "ok": 1,
    "drop": {
-    "ei sun koko": 5
-   }
-  },
-  "Grenfell": {
-   "n": 3,
-   "ok": 0,
-   "drop": {
-    "ei sun koko": 2,
-    "poissulkusana": 1
-   }
-  },
-  "Veronique Branquinho": {
-   "n": 9,
-   "ok": 1,
-   "drop": {
-    "poissulkusana": 1,
-    "ei sun koko": 6,
-    "alle minimihinnan": 1
+    "ei sun koko": 4
    }
   },
   "Homme Plissé Issey Miyake": {
@@ -178,13 +238,12 @@
     "alle minimihinnan": 2
    }
   },
-  "Private White V.C.": {
-   "n": 9,
+  "Veronique Branquinho": {
+   "n": 8,
    "ok": 1,
    "drop": {
     "ei sun koko": 6,
-    "liian kallis arvoon nähden": 1,
-    "poissulkusana": 1
+    "alle minimihinnan": 1
    }
   },
   "Matsuda": {
@@ -196,10 +255,10 @@
    }
   },
   "Kris Van Assche": {
-   "n": 5,
+   "n": 4,
    "ok": 1,
    "drop": {
-    "ei sun koko": 2,
+    "ei sun koko": 1,
     "poissulkusana": 2
    }
   },
@@ -210,14 +269,6 @@
     "ei sun koko": 5,
     "alle minimihinnan": 1,
     "liian kallis arvoon nähden": 2
-   }
-  },
-  "Damir Doma": {
-   "n": 6,
-   "ok": 0,
-   "drop": {
-    "liian kallis arvoon nähden": 1,
-    "ei sun koko": 5
    }
   },
   "Samurai Jeans": {
@@ -246,33 +297,11 @@
     "poissulkusana": 1
    }
   },
-  "Berluti": {
-   "n": 4,
-   "ok": 2,
-   "drop": {
-    "ei sun koko": 2
-   }
-  },
-  "45R": {
-   "n": 4,
-   "ok": 0,
-   "drop": {
-    "alle minimihinnan": 2,
-    "ei sun koko": 2
-   }
-  },
   "Post Archive Faction": {
    "n": 2,
    "ok": 0,
    "drop": {
     "alle minimihinnan": 2
-   }
-  },
-  "Auralee": {
-   "n": 1,
-   "ok": 0,
-   "drop": {
-    "liian kallis arvoon nähden": 1
    }
   },
   "Inverallan": {
@@ -306,15 +335,6 @@
     "ei sun koko": 2
    }
   },
-  "District Vision": {
-   "n": 6,
-   "ok": 1,
-   "drop": {
-    "poissulkusana": 2,
-    "ei sun koko": 1,
-    "liian kallis arvoon nähden": 2
-   }
-  },
   "Hussein Chalayan": {
    "n": 4,
    "ok": 1,
@@ -338,13 +358,6 @@
     "alle minimihinnan": 1
    }
   },
-  "Uma Wang": {
-   "n": 2,
-   "ok": 0,
-   "drop": {
-    "ei sun koko": 2
-   }
-  },
   "Sunsea": {
    "n": 5,
    "ok": 0,
@@ -360,11 +373,12 @@
     "alle minimihinnan": 5
    }
   },
-  "Walter Van Beirendonck": {
-   "n": 3,
+  "Barbara I Gongini": {
+   "n": 2,
    "ok": 0,
    "drop": {
-    "ei sun koko": 3
+    "poissulkusana": 1,
+    "ei sun koko": 1
    }
   },
   "Human Made": {
@@ -441,7 +455,8 @@
    "ok": 1,
    "drop": {
     "liian kallis arvoon nähden": 2,
-    "ei sun koko": 2
+    "ei sun koko": 1,
+    "varattu": 1
    }
   },
   "Hender Scheme": {
@@ -494,21 +509,7 @@
     "alle minimihinnan": 2
    }
   },
-  "Nemen": {
-   "n": 1,
-   "ok": 0,
-   "drop": {
-    "alle minimihinnan": 1
-   }
-  },
   "Nostra Santissima": {
-   "n": 1,
-   "ok": 0,
-   "drop": {
-    "ei sun koko": 1
-   }
-  },
-  "Acronym": {
    "n": 1,
    "ok": 0,
    "drop": {
@@ -536,12 +537,121 @@
     "varattu": 3
    }
   },
+  "Montbell": {
+   "n": 17,
+   "ok": 4,
+   "drop": {
+    "liian kallis arvoon nähden": 6,
+    "ei sun koko": 7
+   }
+  },
+  "Cole Buxton": {
+   "n": 33,
+   "ok": 1,
+   "drop": {
+    "ei sun koko": 20,
+    "liian kallis arvoon nähden": 2,
+    "yli Sellpy-mediaanin": 7,
+    "poissulkusana": 2,
+    "alle minimihinnan": 1
+   }
+  },
+  "Mackintosh": {
+   "n": 18,
+   "ok": 1,
+   "drop": {
+    "poissulkusana": 4,
+    "ei sun koko": 9,
+    "liian kallis arvoon nähden": 4
+   }
+  },
+  "Studio Nicholson": {
+   "n": 14,
+   "ok": 0,
+   "drop": {
+    "ei sun koko": 11,
+    "poissulkusana": 2,
+    "alle minimihinnan": 1
+   }
+  },
+  "Lost & Found Ria Dunn": {
+   "n": 27,
+   "ok": 0,
+   "drop": {
+    "ei sun koko": 3,
+    "alle minimihinnan": 23,
+    "liian kallis arvoon nähden": 1
+   }
+  },
+  "Grenson": {
+   "n": 34,
+   "ok": 2,
+   "drop": {
+    "ei sun koko": 25,
+    "yli Sellpy-mediaanin": 1,
+    "liian kallis arvoon nähden": 1,
+    "alle minimihinnan": 4,
+    "varattu": 1
+   }
+  },
+  "Hysteric Glamour": {
+   "n": 16,
+   "ok": 1,
+   "drop": {
+    "ei sun koko": 13,
+    "liian kallis arvoon nähden": 1,
+    "alle minimihinnan": 1
+   }
+  },
+  "Brain Dead": {
+   "n": 15,
+   "ok": 2,
+   "drop": {
+    "ei sun koko": 7,
+    "liian kallis arvoon nähden": 4,
+    "poissulkusana": 2
+   }
+  },
+  "A.F. Vandevorst": {
+   "n": 20,
+   "ok": 3,
+   "drop": {
+    "ei sun koko": 16,
+    "poissulkusana": 1
+   }
+  },
+  "OAMC": {
+   "n": 15,
+   "ok": 3,
+   "drop": {
+    "alle minimihinnan": 6,
+    "ei sun koko": 6
+   }
+  },
+  "William Lockie": {
+   "n": 30,
+   "ok": 2,
+   "drop": {
+    "ei sun koko": 16,
+    "liian kallis arvoon nähden": 6,
+    "poissulkusana": 6
+   }
+  },
+  "Fear of God": {
+   "n": 24,
+   "ok": 2,
+   "drop": {
+    "ei sun koko": 11,
+    "yli Sellpy-mediaanin": 7,
+    "poissulkusana": 4
+   }
+  },
   "Engineered Garments": {
-   "n": 26,
+   "n": 25,
    "ok": 4,
    "drop": {
     "ei sun koko": 19,
-    "liian kallis arvoon nähden": 2,
+    "liian kallis arvoon nähden": 1,
     "poissulkusana": 1
    }
   },
@@ -553,23 +663,12 @@
     "liian kallis arvoon nähden": 1
    }
   },
-  "Cole Buxton": {
-   "n": 32,
-   "ok": 1,
-   "drop": {
-    "liian kallis arvoon nähden": 2,
-    "ei sun koko": 19,
-    "yli Sellpy-mediaanin": 7,
-    "poissulkusana": 2,
-    "alle minimihinnan": 1
-   }
-  },
   "Chrome Hearts": {
-   "n": 9,
+   "n": 8,
    "ok": 0,
    "drop": {
     "ei sun koko": 3,
-    "liian kallis arvoon nähden": 6
+    "liian kallis arvoon nähden": 5
    }
   },
   "Alden": {
@@ -581,13 +680,12 @@
    }
   },
   "Paraboot": {
-   "n": 26,
+   "n": 22,
    "ok": 0,
    "drop": {
-    "poissulkusana": 4,
+    "poissulkusana": 3,
     "ei sun koko": 17,
-    "liian kallis arvoon nähden": 2,
-    "varattu": 3
+    "liian kallis arvoon nähden": 2
    }
   },
   "Olivier Theyskens": {
@@ -598,6 +696,15 @@
     "alle minimihinnan": 3,
     "poissulkusana": 3,
     "varattu": 1
+   }
+  },
+  "Pleats Please": {
+   "n": 13,
+   "ok": 0,
+   "drop": {
+    "ei sun koko": 9,
+    "liian kallis arvoon nähden": 1,
+    "varattu": 3
    }
   },
   "Rhude": {
@@ -611,38 +718,11 @@
    }
   },
   "Carpe Diem": {
-   "n": 18,
+   "n": 17,
    "ok": 0,
    "drop": {
     "alle minimihinnan": 15,
-    "poissulkusana": 3
-   }
-  },
-  "William Lockie": {
-   "n": 28,
-   "ok": 2,
-   "drop": {
-    "ei sun koko": 14,
-    "liian kallis arvoon nähden": 6,
-    "poissulkusana": 6
-   }
-  },
-  "Mackintosh": {
-   "n": 17,
-   "ok": 1,
-   "drop": {
-    "ei sun koko": 9,
-    "liian kallis arvoon nähden": 4,
-    "poissulkusana": 3
-   }
-  },
-  "Lost & Found Ria Dunn": {
-   "n": 28,
-   "ok": 0,
-   "drop": {
-    "ei sun koko": 2,
-    "alle minimihinnan": 25,
-    "liian kallis arvoon nähden": 1
+    "poissulkusana": 2
    }
   },
   "Mfpen": {
@@ -669,9 +749,9 @@
    "n": 19,
    "ok": 0,
    "drop": {
-    "ei sun koko": 14,
+    "ei sun koko": 13,
     "alle minimihinnan": 1,
-    "varattu": 4
+    "varattu": 5
    }
   },
   "Claude Montana": {
@@ -686,11 +766,11 @@
   },
   "Porter": {
    "n": 17,
-   "ok": 2,
+   "ok": 3,
    "drop": {
     "poissulkusana": 4,
     "ei sun koko": 2,
-    "liian kallis arvoon nähden": 5,
+    "liian kallis arvoon nähden": 4,
     "alle minimihinnan": 4
    }
   },
@@ -703,25 +783,6 @@
     "alle minimihinnan": 2
    }
   },
-  "Grenson": {
-   "n": 32,
-   "ok": 2,
-   "drop": {
-    "ei sun koko": 23,
-    "yli Sellpy-mediaanin": 1,
-    "liian kallis arvoon nähden": 1,
-    "alle minimihinnan": 4,
-    "poissulkusana": 1
-   }
-  },
-  "Montbell": {
-   "n": 15,
-   "ok": 3,
-   "drop": {
-    "liian kallis arvoon nähden": 5,
-    "ei sun koko": 7
-   }
-  },
   "Sacai": {
    "n": 14,
    "ok": 1,
@@ -732,40 +793,32 @@
    }
   },
   "Colombo": {
-   "n": 24,
-   "ok": 5,
+   "n": 21,
+   "ok": 3,
    "drop": {
-    "alle minimihinnan": 11,
+    "alle minimihinnan": 10,
     "poissulkusana": 3,
     "ei sun koko": 3,
     "liian kallis arvoon nähden": 2
    }
   },
-  "Pleats Please": {
-   "n": 13,
-   "ok": 0,
-   "drop": {
-    "ei sun koko": 8,
-    "liian kallis arvoon nähden": 1,
-    "varattu": 4
-   }
-  },
   "Haider Ackermann": {
-   "n": 15,
+   "n": 14,
    "ok": 0,
    "drop": {
-    "ei sun koko": 14,
+    "ei sun koko": 13,
     "poissulkusana": 1
    }
   },
   "Orslow": {
    "n": 33,
-   "ok": 1,
+   "ok": 0,
    "drop": {
     "ei sun koko": 22,
     "yli Sellpy-mediaanin": 2,
     "poissulkusana": 6,
-    "liian kallis arvoon nähden": 2
+    "liian kallis arvoon nähden": 2,
+    "alle minimihinnan": 1
    }
   },
   "Samuji": {
@@ -776,45 +829,9 @@
     "alle minimihinnan": 4
    }
   },
-  "Brain Dead": {
-   "n": 14,
-   "ok": 2,
-   "drop": {
-    "liian kallis arvoon nähden": 4,
-    "ei sun koko": 6,
-    "poissulkusana": 2
-   }
-  },
-  "A.F. Vandevorst": {
-   "n": 20,
-   "ok": 2,
-   "drop": {
-    "ei sun koko": 16,
-    "poissulkusana": 2
-   }
-  },
-  "Hysteric Glamour": {
-   "n": 15,
-   "ok": 1,
-   "drop": {
-    "ei sun koko": 11,
-    "liian kallis arvoon nähden": 1,
-    "alle minimihinnan": 1,
-    "varattu": 1
-   }
-  },
-  "ROA": {
-   "n": 16,
-   "ok": 3,
-   "drop": {
-    "liian kallis arvoon nähden": 2,
-    "ei sun koko": 9,
-    "alle minimihinnan": 2
-   }
-  },
   "Nanamica": {
-   "n": 19,
-   "ok": 1,
+   "n": 18,
+   "ok": 0,
    "drop": {
     "poissulkusana": 2,
     "liian kallis arvoon nähden": 5,
@@ -822,42 +839,23 @@
     "alle minimihinnan": 1
    }
   },
-  "Studio Nicholson": {
-   "n": 14,
-   "ok": 0,
-   "drop": {
-    "poissulkusana": 2,
-    "ei sun koko": 10,
-    "alle minimihinnan": 1,
-    "varattu": 1
-   }
-  },
-  "Fear of God": {
-   "n": 24,
-   "ok": 2,
-   "drop": {
-    "yli Sellpy-mediaanin": 7,
-    "ei sun koko": 11,
-    "poissulkusana": 4
-   }
-  },
   "Drumohr": {
-   "n": 28,
+   "n": 27,
    "ok": 4,
    "drop": {
     "yli Sellpy-mediaanin": 8,
     "ei sun koko": 8,
     "poissulkusana": 5,
     "alle minimihinnan": 1,
-    "varattu": 2
+    "varattu": 1
    }
   },
   "Dior Homme": {
-   "n": 28,
+   "n": 27,
    "ok": 3,
    "drop": {
     "poissulkusana": 12,
-    "yli Sellpy-mediaanin": 7,
+    "yli Sellpy-mediaanin": 6,
     "ei sun koko": 1,
     "varattu": 5
    }
@@ -871,6 +869,15 @@
     "liian kallis arvoon nähden": 2
    }
   },
+  "ROA": {
+   "n": 14,
+   "ok": 2,
+   "drop": {
+    "liian kallis arvoon nähden": 1,
+    "ei sun koko": 9,
+    "alle minimihinnan": 2
+   }
+  },
   "Raf Simons": {
    "n": 22,
    "ok": 2,
@@ -880,53 +887,143 @@
     "varattu": 15
    }
   },
-  "OAMC": {
-   "n": 14,
-   "ok": 3,
+  "Entire Studios": {
+   "n": 38,
+   "ok": 1,
    "drop": {
-    "ei sun koko": 6,
-    "alle minimihinnan": 5
+    "ei sun koko": 31,
+    "poissulkusana": 5,
+    "yli Sellpy-mediaanin": 1
    }
   },
-  "Geoffrey Beene": {
-   "n": 33,
-   "ok": 0,
+  "Goldwin": {
+   "n": 32,
+   "ok": 2,
    "drop": {
-    "alle minimihinnan": 26,
-    "poissulkusana": 2,
-    "yli Sellpy-mediaanin": 4,
-    "varattu": 1
-   }
-  },
-  "Bless": {
-   "n": 40,
-   "ok": 0,
-   "drop": {
-    "yli Sellpy-mediaanin": 3,
-    "poissulkusana": 4,
-    "alle minimihinnan": 29,
-    "ei sun koko": 4
-   }
-  },
-  "Massimo Alba": {
-   "n": 42,
-   "ok": 3,
-   "drop": {
-    "yli Sellpy-mediaanin": 8,
-    "ei sun koko": 23,
-    "poissulkusana": 3,
-    "alle minimihinnan": 5
+    "yli Sellpy-mediaanin": 7,
+    "ei sun koko": 16,
+    "poissulkusana": 5,
+    "alle minimihinnan": 2
    }
   },
   "Allen Edmonds": {
-   "n": 47,
-   "ok": 2,
+   "n": 48,
+   "ok": 3,
    "drop": {
     "ei sun koko": 28,
     "yli Sellpy-mediaanin": 3,
     "liian kallis arvoon nähden": 8,
     "poissulkusana": 1,
     "varattu": 5
+   }
+  },
+  "A-Cold-Wall*": {
+   "n": 42,
+   "ok": 0,
+   "drop": {
+    "poissulkusana": 5,
+    "ei sun koko": 21,
+    "yli Sellpy-mediaanin": 12,
+    "alle minimihinnan": 3,
+    "varattu": 1
+   }
+  },
+  "Geoffrey Beene": {
+   "n": 33,
+   "ok": 0,
+   "drop": {
+    "alle minimihinnan": 27,
+    "poissulkusana": 2,
+    "yli Sellpy-mediaanin": 4
+   }
+  },
+  "Romeo Gigli": {
+   "n": 43,
+   "ok": 2,
+   "drop": {
+    "yli Sellpy-mediaanin": 12,
+    "ei sun koko": 19,
+    "poissulkusana": 4,
+    "alle minimihinnan": 6
+   }
+  },
+  "Buttero": {
+   "n": 46,
+   "ok": 5,
+   "drop": {
+    "ei sun koko": 34,
+    "yli Sellpy-mediaanin": 1,
+    "poissulkusana": 2,
+    "alle minimihinnan": 4
+   }
+  },
+  "Massimo Alba": {
+   "n": 44,
+   "ok": 3,
+   "drop": {
+    "ei sun koko": 25,
+    "yli Sellpy-mediaanin": 8,
+    "poissulkusana": 3,
+    "alle minimihinnan": 5
+   }
+  },
+  "Bless": {
+   "n": 40,
+   "ok": 0,
+   "drop": {
+    "ei sun koko": 4,
+    "alle minimihinnan": 29,
+    "yli Sellpy-mediaanin": 3,
+    "poissulkusana": 4
+   }
+  },
+  "Vetements": {
+   "n": 40,
+   "ok": 1,
+   "drop": {
+    "poissulkusana": 10,
+    "ei sun koko": 17,
+    "yli Sellpy-mediaanin": 11,
+    "varattu": 1
+   }
+  },
+  "1017 Alyx 9SM": {
+   "n": 38,
+   "ok": 1,
+   "drop": {
+    "ei sun koko": 20,
+    "yli Sellpy-mediaanin": 8,
+    "alle minimihinnan": 9
+   }
+  },
+  "Red Wing": {
+   "n": 41,
+   "ok": 2,
+   "drop": {
+    "ei sun koko": 25,
+    "poissulkusana": 5,
+    "liian kallis arvoon nähden": 9
+   }
+  },
+  "Undercover": {
+   "n": 28,
+   "ok": 1,
+   "drop": {
+    "ei sun koko": 16,
+    "poissulkusana": 4,
+    "yli Sellpy-mediaanin": 4,
+    "alle minimihinnan": 3
+   }
+  },
+  "Caruso": {
+   "n": 46,
+   "ok": 6,
+   "drop": {
+    "ei sun koko": 18,
+    "yli Sellpy-mediaanin": 7,
+    "poissulkusana": 7,
+    "liian kallis arvoon nähden": 7,
+    "alle minimihinnan": 1
    }
   },
   "Yohji Yamamoto": {
@@ -939,241 +1036,194 @@
     "alle minimihinnan": 6
    }
   },
-  "Red Wing": {
-   "n": 40,
-   "ok": 2,
-   "drop": {
-    "ei sun koko": 24,
-    "poissulkusana": 5,
-    "liian kallis arvoon nähden": 9
-   }
-  },
-  "Caruso": {
-   "n": 45,
-   "ok": 5,
-   "drop": {
-    "ei sun koko": 17,
-    "yli Sellpy-mediaanin": 7,
-    "poissulkusana": 7,
-    "liian kallis arvoon nähden": 8,
-    "alle minimihinnan": 1
-   }
-  },
-  "Needles": {
-   "n": 39,
-   "ok": 6,
-   "drop": {
-    "ei sun koko": 23,
-    "poissulkusana": 4,
-    "yli Sellpy-mediaanin": 5,
-    "varattu": 1
-   }
-  },
-  "Snow Peak": {
-   "n": 42,
-   "ok": 2,
-   "drop": {
-    "ei sun koko": 25,
-    "yli Sellpy-mediaanin": 9,
-    "poissulkusana": 4,
-    "varattu": 2
-   }
-  },
-  "Buttero": {
-   "n": 46,
-   "ok": 6,
-   "drop": {
-    "ei sun koko": 34,
-    "yli Sellpy-mediaanin": 1,
-    "poissulkusana": 2,
-    "alle minimihinnan": 3
-   }
-  },
-  "A-Cold-Wall*": {
-   "n": 41,
-   "ok": 0,
-   "drop": {
-    "ei sun koko": 20,
-    "poissulkusana": 5,
-    "yli Sellpy-mediaanin": 12,
-    "alle minimihinnan": 3,
-    "varattu": 1
-   }
-  },
-  "Toga": {
-   "n": 39,
+  "Ann Demeulemeester": {
+   "n": 37,
    "ok": 1,
    "drop": {
     "ei sun koko": 26,
-    "alle minimihinnan": 5,
-    "poissulkusana": 6,
-    "varattu": 1
+    "poissulkusana": 7,
+    "yli Sellpy-mediaanin": 1,
+    "varattu": 2
    }
   },
-  "Romeo Gigli": {
+  "Needles": {
+   "n": 37,
+   "ok": 5,
+   "drop": {
+    "ei sun koko": 20,
+    "poissulkusana": 4,
+    "yli Sellpy-mediaanin": 5,
+    "varattu": 3
+   }
+  },
+  "Snow Peak": {
    "n": 41,
    "ok": 2,
    "drop": {
-    "ei sun koko": 18,
-    "yli Sellpy-mediaanin": 11,
-    "poissulkusana": 4,
-    "alle minimihinnan": 6
+    "ei sun koko": 26,
+    "yli Sellpy-mediaanin": 9,
+    "poissulkusana": 4
    }
   },
-  "Vetements": {
-   "n": 39,
-   "ok": 1,
+  "Toga": {
+   "n": 37,
+   "ok": 0,
    "drop": {
-    "ei sun koko": 18,
-    "yli Sellpy-mediaanin": 11,
-    "poissulkusana": 9
-   }
-  },
-  "1017 Alyx 9SM": {
-   "n": 36,
-   "ok": 1,
-   "drop": {
-    "ei sun koko": 18,
-    "yli Sellpy-mediaanin": 7,
-    "alle minimihinnan": 10
+    "ei sun koko": 26,
+    "alle minimihinnan": 5,
+    "poissulkusana": 6
    }
   },
   "Avant Toi": {
    "n": 35,
    "ok": 2,
    "drop": {
+    "yli Sellpy-mediaanin": 3,
     "ei sun koko": 24,
     "liian kallis arvoon nähden": 1,
-    "yli Sellpy-mediaanin": 2,
-    "varattu": 6
+    "varattu": 5
    }
   },
-  "Goldwin": {
-   "n": 28,
-   "ok": 1,
+  "A Kind of Guise": {
+   "n": 61,
+   "ok": 6,
    "drop": {
-    "ei sun koko": 16,
-    "yli Sellpy-mediaanin": 3,
-    "poissulkusana": 5,
-    "alle minimihinnan": 2,
-    "varattu": 1
-   }
-  },
-  "Undercover": {
-   "n": 26,
-   "ok": 1,
-   "drop": {
-    "poissulkusana": 4,
-    "ei sun koko": 15,
-    "yli Sellpy-mediaanin": 4,
-    "alle minimihinnan": 2
-   }
-  },
-  "Entire Studios": {
-   "n": 37,
-   "ok": 1,
-   "drop": {
-    "ei sun koko": 30,
-    "poissulkusana": 5,
-    "yli Sellpy-mediaanin": 1
-   }
-  },
-  "Ann Demeulemeester": {
-   "n": 36,
-   "ok": 1,
-   "drop": {
-    "ei sun koko": 25,
+    "ei sun koko": 39,
+    "liian kallis arvoon nähden": 2,
     "poissulkusana": 7,
-    "yli Sellpy-mediaanin": 1,
-    "varattu": 2
+    "yli Sellpy-mediaanin": 6,
+    "alle minimihinnan": 1
    }
   },
   "Crockett & Jones": {
-   "n": 63,
+   "n": 62,
    "ok": 4,
    "drop": {
-    "liian kallis arvoon nähden": 10,
     "ei sun koko": 37,
-    "yli Sellpy-mediaanin": 6,
-    "poissulkusana": 3,
+    "liian kallis arvoon nähden": 11,
+    "yli Sellpy-mediaanin": 5,
+    "poissulkusana": 2,
     "varattu": 3
    }
   },
-  "Moose Knuckles": {
-   "n": 54,
-   "ok": 10,
+  "YMC": {
+   "n": 50,
+   "ok": 0,
    "drop": {
-    "liian kallis arvoon nähden": 3,
-    "ei sun koko": 29,
-    "poissulkusana": 3,
-    "alle minimihinnan": 1,
+    "ei sun koko": 23,
+    "poissulkusana": 4,
+    "yli Sellpy-mediaanin": 6,
+    "alle minimihinnan": 17
+   }
+  },
+  "Agnona": {
+   "n": 57,
+   "ok": 7,
+   "drop": {
+    "ei sun koko": 37,
+    "poissulkusana": 4,
+    "yli Sellpy-mediaanin": 8,
+    "alle minimihinnan": 1
+   }
+  },
+  "Diemme": {
+   "n": 62,
+   "ok": 4,
+   "drop": {
+    "ei sun koko": 48,
+    "liian kallis arvoon nähden": 1,
+    "yli Sellpy-mediaanin": 5,
+    "poissulkusana": 1,
+    "alle minimihinnan": 3
+   }
+  },
+  "Mackage": {
+   "n": 47,
+   "ok": 3,
+   "drop": {
+    "liian kallis arvoon nähden": 1,
+    "ei sun koko": 30,
+    "poissulkusana": 4,
     "yli Sellpy-mediaanin": 4,
-    "varattu": 4
+    "varattu": 5
+   }
+  },
+  "Noah": {
+   "n": 53,
+   "ok": 2,
+   "drop": {
+    "ei sun koko": 25,
+    "yli Sellpy-mediaanin": 15,
+    "alle minimihinnan": 9,
+    "liian kallis arvoon nähden": 1,
+    "poissulkusana": 1
+   }
+  },
+  "Lemaire": {
+   "n": 58,
+   "ok": 2,
+   "drop": {
+    "yli Sellpy-mediaanin": 8,
+    "ei sun koko": 41,
+    "poissulkusana": 6,
+    "varattu": 1
+   }
+  },
+  "Premiata": {
+   "n": 55,
+   "ok": 5,
+   "drop": {
+    "ei sun koko": 37,
+    "poissulkusana": 3,
+    "alle minimihinnan": 7,
+    "yli Sellpy-mediaanin": 3
+   }
+  },
+  "Gosha Rubchinskiy": {
+   "n": 46,
+   "ok": 3,
+   "drop": {
+    "ei sun koko": 22,
+    "yli Sellpy-mediaanin": 17,
+    "poissulkusana": 4
    }
   },
   "Ralph Lauren Purple Label": {
-   "n": 45,
+   "n": 46,
    "ok": 1,
    "drop": {
+    "liian kallis arvoon nähden": 1,
     "ei sun koko": 21,
     "poissulkusana": 4,
     "yli Sellpy-mediaanin": 1,
     "varattu": 18
    }
   },
-  "YMC": {
-   "n": 51,
-   "ok": 0,
-   "drop": {
-    "ei sun koko": 22,
-    "yli Sellpy-mediaanin": 7,
-    "alle minimihinnan": 19,
-    "poissulkusana": 3
-   }
-  },
-  "Gosha Rubchinskiy": {
-   "n": 46,
-   "ok": 4,
-   "drop": {
-    "yli Sellpy-mediaanin": 17,
-    "ei sun koko": 21,
-    "poissulkusana": 4
-   }
-  },
-  "Noah": {
-   "n": 52,
-   "ok": 1,
-   "drop": {
-    "yli Sellpy-mediaanin": 16,
-    "ei sun koko": 24,
-    "alle minimihinnan": 9,
-    "liian kallis arvoon nähden": 1,
-    "poissulkusana": 1
-   }
-  },
-  "Diemme": {
-   "n": 61,
-   "ok": 4,
-   "drop": {
-    "ei sun koko": 49,
-    "yli Sellpy-mediaanin": 5,
-    "poissulkusana": 1,
-    "alle minimihinnan": 2
-   }
-  },
   "Margaret Howell": {
-   "n": 44,
+   "n": 42,
    "ok": 2,
    "drop": {
-    "ei sun koko": 33,
+    "ei sun koko": 31,
     "yli Sellpy-mediaanin": 3,
     "poissulkusana": 3,
     "alle minimihinnan": 3
    }
   },
+  "Moose Knuckles": {
+   "n": 54,
+   "ok": 11,
+   "drop": {
+    "liian kallis arvoon nähden": 3,
+    "ei sun koko": 30,
+    "poissulkusana": 3,
+    "alle minimihinnan": 1,
+    "yli Sellpy-mediaanin": 4,
+    "varattu": 2
+   }
+  },
   "Ivana Helsinki": {
-   "n": 56,
-   "ok": 3,
+   "n": 55,
+   "ok": 2,
    "drop": {
     "ei sun koko": 29,
     "yli Sellpy-mediaanin": 8,
@@ -1181,54 +1231,97 @@
     "poissulkusana": 6
    }
   },
-  "Premiata": {
-   "n": 54,
-   "ok": 5,
-   "drop": {
-    "ei sun koko": 36,
-    "poissulkusana": 3,
-    "alle minimihinnan": 7,
-    "yli Sellpy-mediaanin": 3
-   }
-  },
-  "Mackage": {
-   "n": 45,
-   "ok": 3,
-   "drop": {
-    "poissulkusana": 4,
-    "ei sun koko": 29,
-    "yli Sellpy-mediaanin": 4,
-    "varattu": 5
-   }
-  },
-  "Agnona": {
-   "n": 57,
-   "ok": 7,
-   "drop": {
-    "poissulkusana": 4,
-    "ei sun koko": 36,
-    "yli Sellpy-mediaanin": 9,
-    "alle minimihinnan": 1
-   }
-  },
-  "A Kind of Guise": {
-   "n": 56,
-   "ok": 6,
-   "drop": {
-    "ei sun koko": 36,
-    "poissulkusana": 6,
-    "yli Sellpy-mediaanin": 6,
-    "liian kallis arvoon nähden": 1,
-    "alle minimihinnan": 1
-   }
-  },
-  "Lemaire": {
-   "n": 59,
+  "Cecilie Bahnsen": {
+   "n": 73,
    "ok": 2,
    "drop": {
-    "ei sun koko": 42,
+    "ei sun koko": 41,
+    "poissulkusana": 20,
+    "yli Sellpy-mediaanin": 2,
+    "varattu": 8
+   }
+  },
+  "Descente": {
+   "n": 64,
+   "ok": 6,
+   "drop": {
+    "ei sun koko": 35,
     "yli Sellpy-mediaanin": 7,
-    "poissulkusana": 6,
+    "poissulkusana": 2,
+    "alle minimihinnan": 14
+   }
+  },
+  "Bode": {
+   "n": 79,
+   "ok": 4,
+   "drop": {
+    "poissulkusana": 12,
+    "ei sun koko": 19,
+    "yli Sellpy-mediaanin": 17,
+    "alle minimihinnan": 26,
+    "varattu": 1
+   }
+  },
+  "Kiton": {
+   "n": 77,
+   "ok": 4,
+   "drop": {
+    "poissulkusana": 7,
+    "ei sun koko": 29,
+    "yli Sellpy-mediaanin": 32,
+    "liian kallis arvoon nähden": 3,
+    "varattu": 2
+   }
+  },
+  "Beams": {
+   "n": 47,
+   "ok": 0,
+   "drop": {
+    "yli Sellpy-mediaanin": 16,
+    "alle minimihinnan": 4,
+    "poissulkusana": 3,
+    "ei sun koko": 23,
+    "liian kallis arvoon nähden": 1
+   }
+  },
+  "Tao Comme des Garçons": {
+   "n": 61,
+   "ok": 0,
+   "drop": {
+    "alle minimihinnan": 54,
+    "yli Sellpy-mediaanin": 3,
+    "ei sun koko": 2,
+    "poissulkusana": 2
+   }
+  },
+  "Azzedine Alaïa": {
+   "n": 56,
+   "ok": 1,
+   "drop": {
+    "ei sun koko": 39,
+    "poissulkusana": 3,
+    "yli Sellpy-mediaanin": 3,
+    "liian kallis arvoon nähden": 2,
+    "varattu": 8
+   }
+  },
+  "Khaite": {
+   "n": 77,
+   "ok": 0,
+   "drop": {
+    "ei sun koko": 51,
+    "poissulkusana": 5,
+    "yli Sellpy-mediaanin": 4,
+    "varattu": 17
+   }
+  },
+  "The Row": {
+   "n": 66,
+   "ok": 0,
+   "drop": {
+    "ei sun koko": 54,
+    "yli Sellpy-mediaanin": 2,
+    "poissulkusana": 8,
     "varattu": 2
    }
   },
@@ -1236,123 +1329,103 @@
    "n": 71,
    "ok": 3,
    "drop": {
-    "alle minimihinnan": 60,
-    "ei sun koko": 7,
-    "varattu": 1
-   }
-  },
-  "The Row": {
-   "n": 65,
-   "ok": 0,
-   "drop": {
-    "ei sun koko": 53,
-    "yli Sellpy-mediaanin": 2,
-    "poissulkusana": 8,
-    "varattu": 2
-   }
-  },
-  "Descente": {
-   "n": 67,
-   "ok": 5,
-   "drop": {
-    "alle minimihinnan": 16,
-    "ei sun koko": 35,
-    "yli Sellpy-mediaanin": 8,
-    "poissulkusana": 3
+    "alle minimihinnan": 61,
+    "ei sun koko": 7
    }
   },
   "Officine Creative": {
-   "n": 79,
+   "n": 75,
    "ok": 1,
    "drop": {
-    "ei sun koko": 63,
-    "liian kallis arvoon nähden": 8,
+    "ei sun koko": 60,
+    "liian kallis arvoon nähden": 7,
     "poissulkusana": 3,
     "yli Sellpy-mediaanin": 3,
     "alle minimihinnan": 1
    }
   },
-  "Khaite": {
-   "n": 75,
-   "ok": 0,
+  "Lardini": {
+   "n": 93,
+   "ok": 5,
    "drop": {
-    "ei sun koko": 49,
-    "poissulkusana": 5,
-    "yli Sellpy-mediaanin": 5,
-    "varattu": 16
+    "ei sun koko": 60,
+    "yli Sellpy-mediaanin": 20,
+    "liian kallis arvoon nähden": 1,
+    "poissulkusana": 4,
+    "alle minimihinnan": 3
    }
   },
-  "Bode": {
-   "n": 79,
-   "ok": 4,
+  "Levi's": {
+   "n": 60,
+   "ok": 0,
    "drop": {
-    "ei sun koko": 19,
-    "yli Sellpy-mediaanin": 17,
-    "alle minimihinnan": 27,
-    "poissulkusana": 11,
+    "poissulkusana": 5,
+    "ei sun koko": 27,
+    "alle minimihinnan": 23,
+    "yli Sellpy-mediaanin": 4,
     "varattu": 1
    }
   },
-  "Azzedine Alaïa": {
-   "n": 54,
-   "ok": 0,
+  "Corteiz": {
+   "n": 93,
+   "ok": 7,
    "drop": {
-    "ei sun koko": 38,
-    "poissulkusana": 3,
-    "yli Sellpy-mediaanin": 3,
-    "liian kallis arvoon nähden": 2,
-    "varattu": 8
-   }
-  },
-  "Kiton": {
-   "n": 75,
-   "ok": 4,
-   "drop": {
-    "yli Sellpy-mediaanin": 31,
-    "poissulkusana": 6,
-    "ei sun koko": 28,
-    "liian kallis arvoon nähden": 4,
-    "varattu": 2
-   }
-  },
-  "Tao Comme des Garçons": {
-   "n": 61,
-   "ok": 0,
-   "drop": {
-    "yli Sellpy-mediaanin": 3,
-    "ei sun koko": 2,
-    "alle minimihinnan": 54,
-    "poissulkusana": 2
-   }
-  },
-  "Beams": {
-   "n": 44,
-   "ok": 0,
-   "drop": {
-    "ei sun koko": 23,
-    "yli Sellpy-mediaanin": 16,
-    "poissulkusana": 2,
+    "ei sun koko": 63,
+    "yli Sellpy-mediaanin": 17,
     "alle minimihinnan": 2,
-    "liian kallis arvoon nähden": 1
+    "poissulkusana": 3,
+    "varattu": 1
    }
   },
-  "Cecilie Bahnsen": {
-   "n": 75,
-   "ok": 2,
+  "Neighborhood": {
+   "n": 92,
+   "ok": 0,
    "drop": {
-    "ei sun koko": 40,
-    "poissulkusana": 21,
-    "yli Sellpy-mediaanin": 2,
-    "varattu": 10
+    "alle minimihinnan": 48,
+    "ei sun koko": 26,
+    "yli Sellpy-mediaanin": 12,
+    "poissulkusana": 6
    }
   },
   "Pertti Palmroth": {
-   "n": 78,
+   "n": 81,
    "ok": 1,
    "drop": {
-    "ei sun koko": 35,
-    "alle minimihinnan": 35,
+    "ei sun koko": 39,
+    "alle minimihinnan": 34,
     "poissulkusana": 4,
+    "yli Sellpy-mediaanin": 2,
+    "varattu": 1
+   }
+  },
+  "Eleventy": {
+   "n": 83,
+   "ok": 11,
+   "drop": {
+    "ei sun koko": 45,
+    "poissulkusana": 9,
+    "yli Sellpy-mediaanin": 11,
+    "alle minimihinnan": 6,
+    "varattu": 1
+   }
+  },
+  "Thom Krom": {
+   "n": 87,
+   "ok": 0,
+   "drop": {
+    "ei sun koko": 54,
+    "poissulkusana": 8,
+    "yli Sellpy-mediaanin": 21,
+    "alle minimihinnan": 1,
+    "liian kallis arvoon nähden": 3
+   }
+  },
+  "Simone Rocha": {
+   "n": 75,
+   "ok": 1,
+   "drop": {
+    "poissulkusana": 63,
+    "ei sun koko": 8,
     "yli Sellpy-mediaanin": 3
    }
   },
@@ -1365,1820 +1438,1741 @@
     "poissulkusana": 4
    }
   },
-  "Lardini": {
-   "n": 87,
-   "ok": 5,
-   "drop": {
-    "ei sun koko": 58,
-    "yli Sellpy-mediaanin": 16,
-    "liian kallis arvoon nähden": 1,
-    "poissulkusana": 4,
-    "alle minimihinnan": 3
-   }
-  },
-  "Eleventy": {
-   "n": 90,
-   "ok": 13,
-   "drop": {
-    "ei sun koko": 48,
-    "poissulkusana": 8,
-    "yli Sellpy-mediaanin": 14,
-    "alle minimihinnan": 5,
-    "varattu": 2
-   }
-  },
-  "Simone Rocha": {
-   "n": 76,
-   "ok": 1,
-   "drop": {
-    "poissulkusana": 64,
-    "ei sun koko": 8,
-    "yli Sellpy-mediaanin": 3
-   }
-  },
-  "Thom Krom": {
-   "n": 87,
-   "ok": 0,
-   "drop": {
-    "ei sun koko": 54,
-    "yli Sellpy-mediaanin": 22,
-    "poissulkusana": 7,
-    "alle minimihinnan": 1,
-    "liian kallis arvoon nähden": 3
-   }
-  },
-  "Levi's": {
-   "n": 60,
-   "ok": 0,
-   "drop": {
-    "ei sun koko": 27,
-    "alle minimihinnan": 21,
-    "poissulkusana": 5,
-    "yli Sellpy-mediaanin": 5,
-    "varattu": 2
-   }
-  },
-  "Corteiz": {
-   "n": 95,
-   "ok": 6,
-   "drop": {
-    "ei sun koko": 65,
-    "yli Sellpy-mediaanin": 17,
-    "alle minimihinnan": 2,
-    "poissulkusana": 3,
-    "varattu": 2
-   }
-  },
-  "Neighborhood": {
-   "n": 92,
-   "ok": 0,
-   "drop": {
-    "ei sun koko": 27,
-    "yli Sellpy-mediaanin": 12,
-    "alle minimihinnan": 46,
-    "poissulkusana": 7
-   }
-  },
-  "Common Projects": {
-   "n": 102,
-   "ok": 11,
-   "drop": {
-    "ei sun koko": 56,
-    "yli Sellpy-mediaanin": 8,
-    "poissulkusana": 9,
-    "liian kallis arvoon nähden": 13,
-    "alle minimihinnan": 4,
-    "varattu": 1
-   }
-  },
-  "Moma": {
-   "n": 96,
+  "Johnstons of Elgin": {
+   "n": 83,
    "ok": 4,
    "drop": {
-    "ei sun koko": 78,
-    "alle minimihinnan": 10,
-    "poissulkusana": 3,
-    "yli Sellpy-mediaanin": 1
+    "poissulkusana": 10,
+    "ei sun koko": 19,
+    "yli Sellpy-mediaanin": 38,
+    "liian kallis arvoon nähden": 5,
+    "varattu": 7
    }
   },
-  "Courrèges": {
-   "n": 89,
-   "ok": 10,
+  "Rundholz": {
+   "n": 98,
+   "ok": 0,
    "drop": {
-    "ei sun koko": 50,
-    "yli Sellpy-mediaanin": 13,
-    "poissulkusana": 5,
-    "liian kallis arvoon nähden": 1,
-    "alle minimihinnan": 4,
-    "varattu": 6
+    "poissulkusana": 7,
+    "ei sun koko": 70,
+    "liian kallis arvoon nähden": 10,
+    "yli Sellpy-mediaanin": 9,
+    "alle minimihinnan": 2
    }
   },
   "Malo": {
    "n": 96,
    "ok": 13,
    "drop": {
-    "poissulkusana": 9,
+    "poissulkusana": 10,
     "ei sun koko": 54,
-    "yli Sellpy-mediaanin": 15,
+    "yli Sellpy-mediaanin": 14,
     "alle minimihinnan": 4,
     "varattu": 1
    }
   },
-  "Rundholz": {
-   "n": 98,
-   "ok": 1,
+  "Common Projects": {
+   "n": 104,
+   "ok": 11,
    "drop": {
-    "ei sun koko": 70,
-    "yli Sellpy-mediaanin": 9,
-    "poissulkusana": 6,
-    "liian kallis arvoon nähden": 10,
-    "alle minimihinnan": 2
+    "ei sun koko": 59,
+    "yli Sellpy-mediaanin": 8,
+    "poissulkusana": 9,
+    "liian kallis arvoon nähden": 12,
+    "alle minimihinnan": 5
    }
   },
   "Brioni": {
-   "n": 100,
-   "ok": 13,
+   "n": 99,
+   "ok": 14,
    "drop": {
-    "ei sun koko": 25,
+    "yli Sellpy-mediaanin": 46,
+    "ei sun koko": 24,
     "poissulkusana": 13,
-    "yli Sellpy-mediaanin": 47,
     "liian kallis arvoon nähden": 1,
     "varattu": 1
    }
   },
+  "Moma": {
+   "n": 97,
+   "ok": 4,
+   "drop": {
+    "poissulkusana": 4,
+    "ei sun koko": 78,
+    "alle minimihinnan": 10,
+    "yli Sellpy-mediaanin": 1
+   }
+  },
   "Kith": {
-   "n": 91,
+   "n": 94,
    "ok": 3,
    "drop": {
-    "yli Sellpy-mediaanin": 36,
+    "ei sun koko": 30,
+    "yli Sellpy-mediaanin": 38,
     "alle minimihinnan": 9,
-    "ei sun koko": 29,
     "poissulkusana": 7,
     "liian kallis arvoon nähden": 7
    }
   },
-  "Johnstons of Elgin": {
-   "n": 88,
-   "ok": 6,
+  "Courrèges": {
+   "n": 87,
+   "ok": 9,
    "drop": {
-    "yli Sellpy-mediaanin": 41,
-    "ei sun koko": 20,
-    "liian kallis arvoon nähden": 5,
-    "poissulkusana": 10,
+    "ei sun koko": 50,
+    "yli Sellpy-mediaanin": 12,
+    "poissulkusana": 5,
+    "liian kallis arvoon nähden": 1,
+    "alle minimihinnan": 4,
     "varattu": 6
    }
   },
-  "Aquascutum": {
-   "n": 108,
-   "ok": 12,
-   "drop": {
-    "yli Sellpy-mediaanin": 27,
-    "liian kallis arvoon nähden": 2,
-    "ei sun koko": 51,
-    "poissulkusana": 8,
-    "alle minimihinnan": 8
-   }
-  },
-  "Loake": {
-   "n": 104,
-   "ok": 3,
-   "drop": {
-    "yli Sellpy-mediaanin": 9,
-    "ei sun koko": 69,
-    "liian kallis arvoon nähden": 15,
-    "poissulkusana": 5,
-    "varattu": 3
-   }
-  },
-  "A Bathing Ape": {
-   "n": 96,
-   "ok": 2,
-   "drop": {
-    "ei sun koko": 47,
-    "yli Sellpy-mediaanin": 28,
-    "poissulkusana": 16,
-    "liian kallis arvoon nähden": 1,
-    "varattu": 2
-   }
-  },
   "Heron Preston": {
-   "n": 112,
+   "n": 114,
    "ok": 0,
    "drop": {
+    "yli Sellpy-mediaanin": 28,
+    "ei sun koko": 72,
     "poissulkusana": 12,
-    "ei sun koko": 71,
-    "yli Sellpy-mediaanin": 26,
-    "liian kallis arvoon nähden": 2,
-    "varattu": 1
+    "liian kallis arvoon nähden": 2
    }
   },
   "Boglioli": {
    "n": 120,
-   "ok": 22,
+   "ok": 20,
    "drop": {
-    "liian kallis arvoon nähden": 14,
-    "ei sun koko": 56,
-    "yli Sellpy-mediaanin": 12,
+    "ei sun koko": 59,
+    "liian kallis arvoon nähden": 15,
+    "yli Sellpy-mediaanin": 11,
     "poissulkusana": 12,
     "alle minimihinnan": 2,
-    "varattu": 2
-   }
-  },
-  "Universal Works": {
-   "n": 109,
-   "ok": 0,
-   "drop": {
-    "liian kallis arvoon nähden": 18,
-    "ei sun koko": 65,
-    "yli Sellpy-mediaanin": 17,
-    "poissulkusana": 8,
-    "alle minimihinnan": 1
+    "varattu": 1
    }
   },
   "Rick Owens": {
-   "n": 107,
-   "ok": 3,
+   "n": 105,
+   "ok": 2,
    "drop": {
-    "ei sun koko": 70,
+    "ei sun koko": 68,
+    "poissulkusana": 10,
     "yli Sellpy-mediaanin": 11,
-    "poissulkusana": 9,
     "liian kallis arvoon nähden": 1,
     "varattu": 13
    }
   },
-  "Woolpower": {
-   "n": 68,
-   "ok": 0,
+  "Loake": {
+   "n": 106,
+   "ok": 3,
    "drop": {
-    "ei sun koko": 29,
-    "poissulkusana": 11,
-    "yli Sellpy-mediaanin": 21,
-    "liian kallis arvoon nähden": 7
+    "liian kallis arvoon nähden": 16,
+    "ei sun koko": 70,
+    "yli Sellpy-mediaanin": 9,
+    "poissulkusana": 5,
+    "varattu": 3
    }
   },
-  "Evisu": {
-   "n": 123,
-   "ok": 4,
+  "Aquascutum": {
+   "n": 109,
+   "ok": 13,
    "drop": {
-    "ei sun koko": 79,
+    "yli Sellpy-mediaanin": 27,
+    "poissulkusana": 9,
+    "liian kallis arvoon nähden": 2,
+    "ei sun koko": 49,
+    "alle minimihinnan": 9
+   }
+  },
+  "Universal Works": {
+   "n": 110,
+   "ok": 0,
+   "drop": {
+    "ei sun koko": 65,
+    "liian kallis arvoon nähden": 19,
+    "poissulkusana": 8,
     "yli Sellpy-mediaanin": 16,
-    "poissulkusana": 11,
-    "liian kallis arvoon nähden": 6,
-    "alle minimihinnan": 5,
+    "alle minimihinnan": 2
+   }
+  },
+  "A Bathing Ape": {
+   "n": 99,
+   "ok": 2,
+   "drop": {
+    "yli Sellpy-mediaanin": 29,
+    "poissulkusana": 18,
+    "ei sun koko": 46,
+    "liian kallis arvoon nähden": 2,
     "varattu": 2
    }
   },
-  "Church's": {
-   "n": 116,
-   "ok": 11,
-   "drop": {
-    "ei sun koko": 76,
-    "poissulkusana": 8,
-    "liian kallis arvoon nähden": 4,
-    "alle minimihinnan": 1,
-    "yli Sellpy-mediaanin": 7,
-    "varattu": 9
-   }
-  },
   "Aimé Leon Dore": {
-   "n": 118,
+   "n": 121,
    "ok": 5,
    "drop": {
-    "yli Sellpy-mediaanin": 45,
+    "yli Sellpy-mediaanin": 48,
     "ei sun koko": 49,
     "liian kallis arvoon nähden": 10,
     "poissulkusana": 8,
     "alle minimihinnan": 1
    }
   },
+  "Church's": {
+   "n": 117,
+   "ok": 11,
+   "drop": {
+    "yli Sellpy-mediaanin": 8,
+    "liian kallis arvoon nähden": 6,
+    "ei sun koko": 74,
+    "poissulkusana": 8,
+    "alle minimihinnan": 1,
+    "varattu": 9
+   }
+  },
   "Gramicci": {
-   "n": 137,
+   "n": 138,
    "ok": 0,
    "drop": {
-    "ei sun koko": 70,
-    "poissulkusana": 17,
     "yli Sellpy-mediaanin": 28,
-    "liian kallis arvoon nähden": 22
+    "ei sun koko": 69,
+    "poissulkusana": 17,
+    "liian kallis arvoon nähden": 23,
+    "alle minimihinnan": 1
+   }
+  },
+  "Evisu": {
+   "n": 125,
+   "ok": 4,
+   "drop": {
+    "ei sun koko": 79,
+    "liian kallis arvoon nähden": 8,
+    "yli Sellpy-mediaanin": 17,
+    "poissulkusana": 11,
+    "alle minimihinnan": 5,
+    "varattu": 1
+   }
+  },
+  "Woolpower": {
+   "n": 69,
+   "ok": 0,
+   "drop": {
+    "yli Sellpy-mediaanin": 20,
+    "ei sun koko": 31,
+    "poissulkusana": 11,
+    "liian kallis arvoon nähden": 7
    }
   },
   "Tagliatore": {
-   "n": 127,
-   "ok": 14,
+   "n": 126,
+   "ok": 12,
    "drop": {
-    "ei sun koko": 80,
+    "ei sun koko": 81,
+    "liian kallis arvoon nähden": 18,
     "yli Sellpy-mediaanin": 5,
-    "liian kallis arvoon nähden": 17,
-    "poissulkusana": 10,
+    "poissulkusana": 9,
     "alle minimihinnan": 1
    }
   },
   "Herno": {
-   "n": 172,
-   "ok": 13,
+   "n": 173,
+   "ok": 15,
    "drop": {
+    "poissulkusana": 12,
+    "ei sun koko": 94,
+    "liian kallis arvoon nähden": 20,
     "yli Sellpy-mediaanin": 15,
-    "ei sun koko": 96,
-    "liian kallis arvoon nähden": 21,
-    "poissulkusana": 10,
     "varattu": 17
+   }
+  },
+  "Transit Par-Such": {
+   "n": 165,
+   "ok": 0,
+   "drop": {
+    "ei sun koko": 117,
+    "poissulkusana": 14,
+    "alle minimihinnan": 25,
+    "yli Sellpy-mediaanin": 9
+   }
+  },
+  "Klättermusen": {
+   "n": 176,
+   "ok": 12,
+   "drop": {
+    "ei sun koko": 92,
+    "yli Sellpy-mediaanin": 44,
+    "poissulkusana": 18,
+    "liian kallis arvoon nähden": 10
    }
   },
   "Casablanca": {
    "n": 137,
-   "ok": 5,
-   "drop": {
-    "poissulkusana": 9,
-    "ei sun koko": 36,
-    "yli Sellpy-mediaanin": 40,
-    "alle minimihinnan": 45,
-    "varattu": 2
-   }
-  },
-  "Transit Par-Such": {
-   "n": 164,
-   "ok": 0,
-   "drop": {
-    "ei sun koko": 116,
-    "alle minimihinnan": 25,
-    "yli Sellpy-mediaanin": 9,
-    "poissulkusana": 14
-   }
-  },
-  "Klättermusen": {
-   "n": 173,
-   "ok": 12,
-   "drop": {
-    "ei sun koko": 90,
-    "poissulkusana": 17,
-    "yli Sellpy-mediaanin": 45,
-    "liian kallis arvoon nähden": 9
-   }
-  },
-  "Comme des Garçons": {
-   "n": 162,
    "ok": 4,
    "drop": {
-    "poissulkusana": 26,
-    "yli Sellpy-mediaanin": 29,
-    "ei sun koko": 73,
+    "ei sun koko": 37,
+    "yli Sellpy-mediaanin": 37,
+    "poissulkusana": 9,
+    "alle minimihinnan": 45,
+    "varattu": 5
+   }
+  },
+  "John Smedley": {
+   "n": 170,
+   "ok": 9,
+   "drop": {
+    "ei sun koko": 101,
+    "poissulkusana": 24,
+    "yli Sellpy-mediaanin": 33,
     "liian kallis arvoon nähden": 2,
-    "varattu": 28
+    "varattu": 1
+   }
+  },
+  "Loewe": {
+   "n": 151,
+   "ok": 7,
+   "drop": {
+    "ei sun koko": 69,
+    "yli Sellpy-mediaanin": 28,
+    "poissulkusana": 27,
+    "liian kallis arvoon nähden": 3,
+    "alle minimihinnan": 3,
+    "varattu": 14
    }
   },
   "Palace": {
    "n": 170,
-   "ok": 16,
+   "ok": 15,
    "drop": {
-    "ei sun koko": 56,
-    "yli Sellpy-mediaanin": 67,
+    "ei sun koko": 58,
+    "yli Sellpy-mediaanin": 66,
     "poissulkusana": 26,
     "liian kallis arvoon nähden": 1,
     "alle minimihinnan": 2,
     "varattu": 2
    }
   },
-  "John Smedley": {
-   "n": 166,
-   "ok": 9,
+  "Comme des Garçons": {
+   "n": 159,
+   "ok": 3,
    "drop": {
-    "yli Sellpy-mediaanin": 32,
-    "ei sun koko": 97,
-    "poissulkusana": 23,
-    "liian kallis arvoon nähden": 3,
-    "alle minimihinnan": 1,
-    "varattu": 1
-   }
-  },
-  "Loewe": {
-   "n": 147,
-   "ok": 7,
-   "drop": {
-    "ei sun koko": 62,
-    "yli Sellpy-mediaanin": 27,
     "poissulkusana": 26,
-    "liian kallis arvoon nähden": 3,
-    "alle minimihinnan": 3,
-    "varattu": 19
-   }
-  },
-  "Séfr": {
-   "n": 200,
-   "ok": 14,
-   "drop": {
-    "ei sun koko": 106,
-    "yli Sellpy-mediaanin": 39,
-    "liian kallis arvoon nähden": 8,
-    "poissulkusana": 20,
-    "alle minimihinnan": 12,
-    "varattu": 1
-   }
-  },
-  "Emilio Pucci": {
-   "n": 157,
-   "ok": 7,
-   "drop": {
-    "ei sun koko": 96,
-    "poissulkusana": 22,
-    "yli Sellpy-mediaanin": 25,
-    "liian kallis arvoon nähden": 1,
-    "varattu": 6
-   }
-  },
-  "Hannes Roether": {
-   "n": 204,
-   "ok": 15,
-   "drop": {
-    "ei sun koko": 130,
-    "yli Sellpy-mediaanin": 37,
-    "poissulkusana": 12,
-    "alle minimihinnan": 9,
-    "varattu": 1
+    "yli Sellpy-mediaanin": 29,
+    "ei sun koko": 71,
+    "liian kallis arvoon nähden": 2,
+    "varattu": 28
    }
   },
   "Ulvang": {
-   "n": 65,
+   "n": 69,
    "ok": 0,
    "drop": {
-    "ei sun koko": 32,
-    "yli Sellpy-mediaanin": 20,
+    "ei sun koko": 35,
+    "yli Sellpy-mediaanin": 21,
     "poissulkusana": 9,
     "liian kallis arvoon nähden": 1,
     "alle minimihinnan": 3
    }
   },
-  "Barena Venezia": {
-   "n": 214,
-   "ok": 17,
+  "Séfr": {
+   "n": 197,
+   "ok": 14,
    "drop": {
-    "ei sun koko": 154,
+    "ei sun koko": 103,
+    "yli Sellpy-mediaanin": 40,
+    "liian kallis arvoon nähden": 8,
+    "poissulkusana": 20,
+    "alle minimihinnan": 11,
+    "varattu": 1
+   }
+  },
+  "Hannes Roether": {
+   "n": 202,
+   "ok": 14,
+   "drop": {
+    "ei sun koko": 130,
+    "yli Sellpy-mediaanin": 37,
+    "poissulkusana": 11,
+    "alle minimihinnan": 9,
+    "varattu": 1
+   }
+  },
+  "Emilio Pucci": {
+   "n": 156,
+   "ok": 7,
+   "drop": {
+    "ei sun koko": 96,
+    "poissulkusana": 23,
+    "yli Sellpy-mediaanin": 24,
+    "liian kallis arvoon nähden": 1,
+    "varattu": 5
+   }
+  },
+  "Barena Venezia": {
+   "n": 217,
+   "ok": 18,
+   "drop": {
+    "ei sun koko": 155,
+    "poissulkusana": 15,
     "yli Sellpy-mediaanin": 21,
-    "poissulkusana": 14,
     "alle minimihinnan": 7,
     "varattu": 1
    }
   },
+  "Loro Piana": {
+   "n": 184,
+   "ok": 12,
+   "drop": {
+    "ei sun koko": 91,
+    "yli Sellpy-mediaanin": 26,
+    "liian kallis arvoon nähden": 1,
+    "poissulkusana": 28,
+    "varattu": 26
+   }
+  },
   "Canali": {
-   "n": 200,
+   "n": 196,
    "ok": 2,
    "drop": {
-    "liian kallis arvoon nähden": 32,
-    "yli Sellpy-mediaanin": 44,
-    "ei sun koko": 85,
+    "yli Sellpy-mediaanin": 43,
+    "liian kallis arvoon nähden": 30,
+    "ei sun koko": 84,
     "poissulkusana": 23,
     "alle minimihinnan": 1,
     "varattu": 13
    }
   },
-  "Loro Piana": {
-   "n": 184,
-   "ok": 13,
+  "Sunspel": {
+   "n": 230,
+   "ok": 0,
    "drop": {
-    "yli Sellpy-mediaanin": 26,
-    "liian kallis arvoon nähden": 1,
-    "poissulkusana": 33,
-    "ei sun koko": 90,
-    "varattu": 21
+    "ei sun koko": 124,
+    "poissulkusana": 20,
+    "yli Sellpy-mediaanin": 67,
+    "liian kallis arvoon nähden": 11,
+    "alle minimihinnan": 7,
+    "varattu": 1
    }
   },
   "Dirk Bikkembergs": {
-   "n": 188,
-   "ok": 5,
+   "n": 194,
+   "ok": 6,
    "drop": {
-    "ei sun koko": 91,
-    "yli Sellpy-mediaanin": 38,
-    "alle minimihinnan": 40,
-    "poissulkusana": 14
-   }
-  },
-  "Sunspel": {
-   "n": 217,
-   "ok": 0,
-   "drop": {
-    "yli Sellpy-mediaanin": 61,
-    "ei sun koko": 118,
-    "poissulkusana": 20,
-    "liian kallis arvoon nähden": 9,
-    "alle minimihinnan": 7,
-    "varattu": 2
+    "ei sun koko": 95,
+    "yli Sellpy-mediaanin": 39,
+    "alle minimihinnan": 39,
+    "poissulkusana": 14,
+    "liian kallis arvoon nähden": 1
    }
   },
   "R.M. Williams": {
-   "n": 207,
-   "ok": 27,
+   "n": 210,
+   "ok": 25,
    "drop": {
-    "ei sun koko": 145,
+    "ei sun koko": 146,
+    "liian kallis arvoon nähden": 8,
+    "poissulkusana": 12,
     "yli Sellpy-mediaanin": 13,
-    "liian kallis arvoon nähden": 7,
-    "alle minimihinnan": 4,
-    "poissulkusana": 10,
+    "alle minimihinnan": 5,
     "varattu": 1
    }
   },
   "Santoni": {
-   "n": 241,
+   "n": 242,
    "ok": 35,
    "drop": {
-    "yli Sellpy-mediaanin": 40,
+    "ei sun koko": 132,
+    "yli Sellpy-mediaanin": 39,
     "liian kallis arvoon nähden": 21,
-    "ei sun koko": 129,
-    "poissulkusana": 11,
+    "poissulkusana": 10,
     "alle minimihinnan": 4,
     "varattu": 1
    }
   },
-  "Vivienne Westwood": {
-   "n": 210,
-   "ok": 4,
-   "drop": {
-    "ei sun koko": 108,
-    "yli Sellpy-mediaanin": 49,
-    "poissulkusana": 30,
-    "liian kallis arvoon nähden": 8,
-    "varattu": 11
-   }
-  },
   "Devold": {
-   "n": 141,
+   "n": 138,
    "ok": 0,
    "drop": {
-    "ei sun koko": 77,
-    "yli Sellpy-mediaanin": 44,
-    "poissulkusana": 15,
-    "liian kallis arvoon nähden": 2,
-    "varattu": 3
+    "ei sun koko": 79,
+    "yli Sellpy-mediaanin": 40,
+    "poissulkusana": 14,
+    "liian kallis arvoon nähden": 3,
+    "varattu": 2
    }
   },
-  "Gianfranco Ferré": {
-   "n": 227,
-   "ok": 22,
+  "Vivienne Westwood": {
+   "n": 216,
+   "ok": 4,
    "drop": {
-    "yli Sellpy-mediaanin": 61,
-    "ei sun koko": 101,
-    "alle minimihinnan": 20,
-    "poissulkusana": 23
-   }
-  },
-  "Canada Goose": {
-   "n": 155,
-   "ok": 12,
-   "drop": {
-    "ei sun koko": 97,
-    "yli Sellpy-mediaanin": 8,
-    "poissulkusana": 31,
-    "liian kallis arvoon nähden": 2,
-    "varattu": 5
+    "ei sun koko": 111,
+    "yli Sellpy-mediaanin": 48,
+    "poissulkusana": 30,
+    "liian kallis arvoon nähden": 9,
+    "varattu": 14
    }
   },
   "Iceberg": {
-   "n": 209,
-   "ok": 6,
+   "n": 217,
+   "ok": 7,
    "drop": {
+    "yli Sellpy-mediaanin": 48,
     "poissulkusana": 25,
-    "yli Sellpy-mediaanin": 44,
-    "ei sun koko": 80,
-    "alle minimihinnan": 47,
+    "ei sun koko": 85,
+    "alle minimihinnan": 49,
     "lasten koko": 1,
-    "varattu": 6
+    "varattu": 2
    }
   },
-  "Alan Paine": {
-   "n": 257,
-   "ok": 1,
+  "Gianfranco Ferré": {
+   "n": 243,
+   "ok": 21,
    "drop": {
-    "poissulkusana": 31,
-    "liian kallis arvoon nähden": 40,
-    "yli Sellpy-mediaanin": 63,
-    "ei sun koko": 101,
-    "alle minimihinnan": 9,
-    "varattu": 12
+    "ei sun koko": 105,
+    "yli Sellpy-mediaanin": 70,
+    "poissulkusana": 25,
+    "alle minimihinnan": 22
    }
   },
-  "Maison Margiela": {
-   "n": 199,
-   "ok": 6,
+  "Canada Goose": {
+   "n": 154,
+   "ok": 13,
    "drop": {
     "ei sun koko": 100,
-    "poissulkusana": 37,
-    "yli Sellpy-mediaanin": 14,
-    "alle minimihinnan": 1,
-    "varattu": 41
-   }
-  },
-  "Paco Rabanne": {
-   "n": 179,
-   "ok": 8,
-   "drop": {
-    "poissulkusana": 104,
-    "yli Sellpy-mediaanin": 15,
-    "ei sun koko": 40,
     "liian kallis arvoon nähden": 3,
-    "alle minimihinnan": 5,
+    "poissulkusana": 28,
+    "yli Sellpy-mediaanin": 6,
     "varattu": 4
    }
   },
-  "Y-3": {
-   "n": 286,
-   "ok": 17,
+  "Alan Paine": {
+   "n": 266,
+   "ok": 2,
    "drop": {
-    "yli Sellpy-mediaanin": 49,
-    "poissulkusana": 24,
-    "ei sun koko": 179,
-    "liian kallis arvoon nähden": 11,
-    "alle minimihinnan": 5,
-    "varattu": 1
+    "poissulkusana": 34,
+    "yli Sellpy-mediaanin": 64,
+    "ei sun koko": 107,
+    "liian kallis arvoon nähden": 39,
+    "alle minimihinnan": 8,
+    "varattu": 12
+   }
+  },
+  "Paco Rabanne": {
+   "n": 177,
+   "ok": 8,
+   "drop": {
+    "poissulkusana": 103,
+    "yli Sellpy-mediaanin": 15,
+    "ei sun koko": 42,
+    "liian kallis arvoon nähden": 3,
+    "alle minimihinnan": 4,
+    "varattu": 2
+   }
+  },
+  "Maison Margiela": {
+   "n": 200,
+   "ok": 7,
+   "drop": {
+    "poissulkusana": 37,
+    "ei sun koko": 102,
+    "yli Sellpy-mediaanin": 15,
+    "alle minimihinnan": 1,
+    "varattu": 38
    }
   },
   "66 North": {
    "n": 242,
-   "ok": 19,
+   "ok": 21,
    "drop": {
-    "ei sun koko": 126,
-    "yli Sellpy-mediaanin": 67,
-    "poissulkusana": 24,
+    "yli Sellpy-mediaanin": 65,
+    "ei sun koko": 127,
+    "poissulkusana": 23,
     "alle minimihinnan": 6
    }
   },
-  "Thierry Mugler": {
-   "n": 219,
-   "ok": 7,
+  "Y-3": {
+   "n": 297,
+   "ok": 18,
    "drop": {
-    "poissulkusana": 115,
-    "ei sun koko": 70,
-    "yli Sellpy-mediaanin": 16,
-    "alle minimihinnan": 1,
-    "varattu": 10
+    "ei sun koko": 185,
+    "liian kallis arvoon nähden": 10,
+    "yli Sellpy-mediaanin": 51,
+    "poissulkusana": 24,
+    "alle minimihinnan": 5,
+    "varattu": 4
    }
   },
   "Bottega Veneta": {
-   "n": 258,
-   "ok": 21,
+   "n": 264,
+   "ok": 20,
    "drop": {
-    "ei sun koko": 116,
-    "yli Sellpy-mediaanin": 61,
+    "yli Sellpy-mediaanin": 63,
     "poissulkusana": 36,
-    "varattu": 24
+    "ei sun koko": 115,
+    "varattu": 30
    }
   },
-  "Annette Görtz": {
-   "n": 343,
-   "ok": 18,
+  "Thierry Mugler": {
+   "n": 216,
+   "ok": 6,
    "drop": {
-    "ei sun koko": 259,
-    "yli Sellpy-mediaanin": 40,
-    "alle minimihinnan": 15,
-    "poissulkusana": 7,
-    "varattu": 4
+    "ei sun koko": 71,
+    "poissulkusana": 117,
+    "yli Sellpy-mediaanin": 16,
+    "alle minimihinnan": 1,
+    "varattu": 5
    }
   },
   "Palm Angels": {
    "n": 263,
    "ok": 0,
    "drop": {
-    "ei sun koko": 141,
-    "yli Sellpy-mediaanin": 75,
-    "poissulkusana": 28,
+    "poissulkusana": 25,
+    "ei sun koko": 143,
+    "yli Sellpy-mediaanin": 77,
     "liian kallis arvoon nähden": 16,
-    "alle minimihinnan": 1,
     "varattu": 2
    }
   },
-  "Jean Paul Gaultier": {
-   "n": 230,
-   "ok": 21,
+  "Annette Görtz": {
+   "n": 342,
+   "ok": 15,
    "drop": {
-    "poissulkusana": 61,
-    "ei sun koko": 111,
+    "ei sun koko": 265,
+    "yli Sellpy-mediaanin": 38,
+    "alle minimihinnan": 15,
+    "poissulkusana": 6,
+    "varattu": 3
+   }
+  },
+  "Jean Paul Gaultier": {
+   "n": 234,
+   "ok": 19,
+   "drop": {
+    "poissulkusana": 64,
+    "ei sun koko": 117,
     "yli Sellpy-mediaanin": 24,
     "lasten koko": 1,
-    "alle minimihinnan": 1,
-    "varattu": 11
+    "alle minimihinnan": 2,
+    "varattu": 7
    }
   },
   "Stutterheim": {
-   "n": 318,
-   "ok": 22,
+   "n": 329,
+   "ok": 23,
    "drop": {
-    "ei sun koko": 221,
+    "ei sun koko": 230,
+    "poissulkusana": 40,
     "yli Sellpy-mediaanin": 11,
-    "poissulkusana": 39,
     "liian kallis arvoon nähden": 13,
     "alle minimihinnan": 11,
     "varattu": 1
    }
   },
-  "Gran Sasso": {
-   "n": 355,
-   "ok": 1,
-   "drop": {
-    "yli Sellpy-mediaanin": 72,
-    "ei sun koko": 152,
-    "liian kallis arvoon nähden": 51,
-    "alle minimihinnan": 13,
-    "poissulkusana": 30,
-    "varattu": 36
-   }
-  },
   "Corneliani": {
-   "n": 343,
+   "n": 349,
    "ok": 4,
    "drop": {
-    "yli Sellpy-mediaanin": 71,
-    "liian kallis arvoon nähden": 71,
-    "ei sun koko": 142,
+    "ei sun koko": 147,
+    "yli Sellpy-mediaanin": 72,
     "poissulkusana": 40,
+    "liian kallis arvoon nähden": 72,
     "alle minimihinnan": 10,
-    "varattu": 5
+    "varattu": 4
    }
   },
-  "Dries Van Noten": {
-   "n": 404,
-   "ok": 5,
+  "Gran Sasso": {
+   "n": 348,
+   "ok": 0,
    "drop": {
-    "ei sun koko": 270,
-    "yli Sellpy-mediaanin": 16,
-    "poissulkusana": 56,
-    "liian kallis arvoon nähden": 11,
-    "varattu": 46
+    "ei sun koko": 142,
+    "yli Sellpy-mediaanin": 74,
+    "liian kallis arvoon nähden": 49,
+    "alle minimihinnan": 13,
+    "poissulkusana": 30,
+    "varattu": 40
    }
   },
   "Lyle & Scott Vintage": {
-   "n": 366,
+   "n": 344,
    "ok": 0,
    "drop": {
-    "yli Sellpy-mediaanin": 60,
-    "alle minimihinnan": 212,
-    "ei sun koko": 38,
-    "poissulkusana": 54,
-    "varattu": 2
+    "poissulkusana": 51,
+    "yli Sellpy-mediaanin": 52,
+    "ei sun koko": 39,
+    "alle minimihinnan": 199,
+    "varattu": 3
    }
   },
-  "Edwin": {
-   "n": 390,
-   "ok": 0,
+  "Dries Van Noten": {
+   "n": 402,
+   "ok": 5,
    "drop": {
-    "ei sun koko": 186,
-    "alle minimihinnan": 78,
-    "poissulkusana": 40,
-    "yli Sellpy-mediaanin": 71,
-    "liian kallis arvoon nähden": 14,
-    "varattu": 1
+    "liian kallis arvoon nähden": 12,
+    "poissulkusana": 56,
+    "ei sun koko": 268,
+    "yli Sellpy-mediaanin": 18,
+    "varattu": 43
    }
   },
   "Ann-Sofie Back": {
-   "n": 326,
+   "n": 339,
    "ok": 0,
    "drop": {
-    "ei sun koko": 67,
-    "alle minimihinnan": 211,
-    "poissulkusana": 24,
-    "yli Sellpy-mediaanin": 21,
-    "liian kallis arvoon nähden": 1,
+    "ei sun koko": 78,
+    "alle minimihinnan": 213,
+    "yli Sellpy-mediaanin": 24,
+    "poissulkusana": 23,
+    "liian kallis arvoon nähden": 1
+   }
+  },
+  "Edwin": {
+   "n": 399,
+   "ok": 0,
+   "drop": {
+    "alle minimihinnan": 77,
+    "ei sun koko": 190,
+    "poissulkusana": 41,
+    "yli Sellpy-mediaanin": 73,
+    "liian kallis arvoon nähden": 16,
     "varattu": 2
    }
   },
   "Hermès": {
-   "n": 271,
-   "ok": 7,
+   "n": 270,
+   "ok": 6,
    "drop": {
-    "ei sun koko": 53,
-    "yli Sellpy-mediaanin": 114,
-    "poissulkusana": 32,
+    "yli Sellpy-mediaanin": 113,
+    "ei sun koko": 54,
+    "poissulkusana": 34,
     "liian kallis arvoon nähden": 2,
-    "varattu": 63
+    "varattu": 61
    }
   },
   "Moschino": {
-   "n": 294,
-   "ok": 21,
+   "n": 299,
+   "ok": 20,
    "drop": {
-    "ei sun koko": 61,
-    "liian kallis arvoon nähden": 18,
-    "yli Sellpy-mediaanin": 138,
-    "poissulkusana": 46,
-    "alle minimihinnan": 6,
-    "varattu": 4
-   }
-  },
-  "Norse Projects": {
-   "n": 417,
-   "ok": 8,
-   "drop": {
+    "yli Sellpy-mediaanin": 141,
     "poissulkusana": 47,
-    "ei sun koko": 176,
-    "alle minimihinnan": 57,
-    "yli Sellpy-mediaanin": 93,
-    "liian kallis arvoon nähden": 34,
-    "varattu": 2
+    "liian kallis arvoon nähden": 19,
+    "ei sun koko": 60,
+    "alle minimihinnan": 7,
+    "varattu": 5
    }
   },
   "Pringle of Scotland": {
-   "n": 379,
-   "ok": 3,
+   "n": 394,
+   "ok": 4,
    "drop": {
-    "poissulkusana": 243,
-    "ei sun koko": 54,
-    "yli Sellpy-mediaanin": 41,
-    "alle minimihinnan": 36,
+    "poissulkusana": 251,
+    "ei sun koko": 59,
+    "yli Sellpy-mediaanin": 44,
+    "alle minimihinnan": 35,
+    "varattu": 1
+   }
+  },
+  "Norse Projects": {
+   "n": 431,
+   "ok": 9,
+   "drop": {
+    "poissulkusana": 50,
+    "ei sun koko": 181,
+    "liian kallis arvoon nähden": 35,
+    "yli Sellpy-mediaanin": 94,
+    "alle minimihinnan": 60,
     "varattu": 2
    }
   },
   "C.P. Company": {
-   "n": 413,
-   "ok": 32,
+   "n": 400,
+   "ok": 31,
    "drop": {
-    "yli Sellpy-mediaanin": 132,
-    "ei sun koko": 189,
-    "poissulkusana": 38,
-    "liian kallis arvoon nähden": 16,
-    "alle minimihinnan": 5,
+    "poissulkusana": 39,
+    "yli Sellpy-mediaanin": 129,
+    "ei sun koko": 185,
+    "liian kallis arvoon nähden": 11,
+    "alle minimihinnan": 4,
     "varattu": 1
    }
   },
   "Sportmax": {
-   "n": 449,
-   "ok": 6,
+   "n": 455,
+   "ok": 5,
    "drop": {
-    "ei sun koko": 335,
-    "alle minimihinnan": 41,
+    "ei sun koko": 339,
+    "yli Sellpy-mediaanin": 15,
     "poissulkusana": 33,
-    "yli Sellpy-mediaanin": 13,
-    "varattu": 21
+    "alle minimihinnan": 40,
+    "varattu": 23
    }
   },
   "Fendi": {
-   "n": 396,
-   "ok": 38,
+   "n": 407,
+   "ok": 35,
    "drop": {
-    "ei sun koko": 140,
-    "poissulkusana": 60,
-    "yli Sellpy-mediaanin": 105,
-    "liian kallis arvoon nähden": 15,
+    "poissulkusana": 62,
+    "ei sun koko": 144,
+    "yli Sellpy-mediaanin": 106,
+    "liian kallis arvoon nähden": 16,
     "alle minimihinnan": 3,
-    "varattu": 35
+    "varattu": 41
    }
   },
   "Supreme": {
-   "n": 429,
+   "n": 439,
    "ok": 39,
    "drop": {
-    "yli Sellpy-mediaanin": 145,
-    "liian kallis arvoon nähden": 28,
-    "poissulkusana": 64,
-    "ei sun koko": 143,
+    "yli Sellpy-mediaanin": 151,
+    "ei sun koko": 145,
+    "poissulkusana": 66,
+    "liian kallis arvoon nähden": 27,
     "alle minimihinnan": 9,
-    "varattu": 1
+    "varattu": 2
    }
   },
   "Alexander McQueen": {
-   "n": 462,
-   "ok": 17,
+   "n": 463,
+   "ok": 18,
    "drop": {
-    "poissulkusana": 60,
+    "ei sun koko": 320,
     "yli Sellpy-mediaanin": 36,
-    "ei sun koko": 318,
+    "poissulkusana": 59,
     "liian kallis arvoon nähden": 9,
     "alle minimihinnan": 1,
-    "varattu": 21
+    "varattu": 20
    }
   },
   "Brunello Cucinelli": {
-   "n": 481,
-   "ok": 29,
+   "n": 494,
+   "ok": 32,
    "drop": {
-    "ei sun koko": 293,
-    "yli Sellpy-mediaanin": 52,
+    "ei sun koko": 296,
+    "yli Sellpy-mediaanin": 56,
     "poissulkusana": 50,
     "liian kallis arvoon nähden": 1,
-    "varattu": 56
+    "varattu": 59
    }
   },
   "Hestra": {
-   "n": 225,
+   "n": 228,
    "ok": 1,
    "drop": {
     "yli Sellpy-mediaanin": 195,
-    "poissulkusana": 16,
+    "poissulkusana": 18,
+    "lasten koko": 1,
+    "ei sun koko": 3,
     "liian kallis arvoon nähden": 5,
-    "ei sun koko": 2,
-    "alle minimihinnan": 5,
+    "alle minimihinnan": 4,
     "varattu": 1
    }
   },
   "Helmut Lang": {
-   "n": 472,
+   "n": 480,
    "ok": 10,
    "drop": {
-    "ei sun koko": 354,
-    "poissulkusana": 58,
-    "yli Sellpy-mediaanin": 34,
-    "alle minimihinnan": 8,
-    "varattu": 8
+    "ei sun koko": 359,
+    "poissulkusana": 60,
+    "yli Sellpy-mediaanin": 35,
+    "alle minimihinnan": 7,
+    "varattu": 9
    }
   },
   "Off-White": {
-   "n": 481,
-   "ok": 5,
+   "n": 480,
+   "ok": 6,
    "drop": {
-    "ei sun koko": 259,
+    "ei sun koko": 257,
+    "yli Sellpy-mediaanin": 107,
     "poissulkusana": 75,
-    "yli Sellpy-mediaanin": 109,
-    "liian kallis arvoon nähden": 28,
-    "alle minimihinnan": 1,
-    "varattu": 4
+    "liian kallis arvoon nähden": 30,
+    "varattu": 5
    }
   },
   "Mulberry": {
-   "n": 400,
-   "ok": 22,
+   "n": 404,
+   "ok": 20,
    "drop": {
-    "poissulkusana": 69,
-    "yli Sellpy-mediaanin": 157,
+    "yli Sellpy-mediaanin": 153,
     "ei sun koko": 106,
+    "poissulkusana": 64,
     "liian kallis arvoon nähden": 28,
     "alle minimihinnan": 3,
-    "varattu": 15
+    "varattu": 30
    }
   },
   "Norrøna": {
-   "n": 475,
-   "ok": 27,
+   "n": 483,
+   "ok": 26,
    "drop": {
-    "yli Sellpy-mediaanin": 54,
-    "ei sun koko": 321,
+    "ei sun koko": 326,
+    "yli Sellpy-mediaanin": 57,
+    "poissulkusana": 51,
     "liian kallis arvoon nähden": 7,
-    "poissulkusana": 48,
-    "alle minimihinnan": 16,
-    "varattu": 2
+    "alle minimihinnan": 16
    }
   },
   "Tom Ford": {
    "n": 357,
-   "ok": 27,
+   "ok": 26,
    "drop": {
-    "yli Sellpy-mediaanin": 162,
-    "poissulkusana": 86,
-    "ei sun koko": 38,
-    "liian kallis arvoon nähden": 21,
-    "varattu": 23
+    "liian kallis arvoon nähden": 22,
+    "poissulkusana": 84,
+    "ei sun koko": 39,
+    "yli Sellpy-mediaanin": 160,
+    "varattu": 26
    }
   },
   "Balmain": {
-   "n": 476,
-   "ok": 23,
+   "n": 473,
+   "ok": 22,
    "drop": {
-    "poissulkusana": 196,
-    "yli Sellpy-mediaanin": 44,
-    "ei sun koko": 164,
-    "liian kallis arvoon nähden": 11,
-    "alle minimihinnan": 2,
-    "varattu": 36
+    "poissulkusana": 195,
+    "ei sun koko": 162,
+    "yli Sellpy-mediaanin": 42,
+    "liian kallis arvoon nähden": 12,
+    "alle minimihinnan": 1,
+    "varattu": 39
    }
   },
   "Ermenegildo Zegna": {
-   "n": 562,
+   "n": 567,
    "ok": 79,
    "drop": {
-    "liian kallis arvoon nähden": 35,
+    "ei sun koko": 154,
+    "poissulkusana": 84,
     "yli Sellpy-mediaanin": 206,
-    "ei sun koko": 151,
-    "poissulkusana": 82,
+    "liian kallis arvoon nähden": 35,
     "alle minimihinnan": 7,
     "varattu": 2
    }
   },
   "Lanvin": {
-   "n": 516,
-   "ok": 36,
+   "n": 520,
+   "ok": 37,
    "drop": {
-    "liian kallis arvoon nähden": 15,
-    "ei sun koko": 272,
-    "poissulkusana": 106,
-    "yli Sellpy-mediaanin": 76,
+    "ei sun koko": 279,
+    "yli Sellpy-mediaanin": 74,
+    "poissulkusana": 102,
+    "liian kallis arvoon nähden": 14,
     "alle minimihinnan": 5,
-    "varattu": 6
+    "varattu": 9
    }
   },
   "Roberto Cavalli": {
-   "n": 526,
+   "n": 524,
    "ok": 38,
    "drop": {
-    "poissulkusana": 58,
+    "ei sun koko": 318,
     "yli Sellpy-mediaanin": 79,
-    "ei sun koko": 316,
-    "alle minimihinnan": 16,
-    "liian kallis arvoon nähden": 4,
+    "poissulkusana": 57,
+    "alle minimihinnan": 14,
+    "liian kallis arvoon nähden": 3,
     "varattu": 15
    }
   },
   "Aspesi": {
-   "n": 599,
-   "ok": 49,
+   "n": 612,
+   "ok": 48,
    "drop": {
-    "ei sun koko": 397,
-    "poissulkusana": 60,
+    "ei sun koko": 411,
+    "poissulkusana": 59,
     "yli Sellpy-mediaanin": 48,
     "alle minimihinnan": 40,
     "liian kallis arvoon nähden": 2,
-    "varattu": 3
+    "varattu": 4
    }
   },
   "Saint Laurent": {
-   "n": 542,
+   "n": 545,
    "ok": 27,
    "drop": {
-    "poissulkusana": 80,
-    "yli Sellpy-mediaanin": 97,
-    "ei sun koko": 239,
-    "liian kallis arvoon nähden": 13,
-    "varattu": 86
+    "ei sun koko": 245,
+    "poissulkusana": 75,
+    "yli Sellpy-mediaanin": 83,
+    "liian kallis arvoon nähden": 10,
+    "varattu": 105
    }
   },
   "Celine": {
-   "n": 576,
-   "ok": 66,
+   "n": 586,
+   "ok": 70,
    "drop": {
-    "poissulkusana": 112,
-    "yli Sellpy-mediaanin": 155,
-    "ei sun koko": 194,
+    "ei sun koko": 197,
+    "yli Sellpy-mediaanin": 156,
     "liian kallis arvoon nähden": 13,
-    "varattu": 36
+    "poissulkusana": 116,
+    "varattu": 34
    }
   },
   "Arc'teryx": {
-   "n": 628,
-   "ok": 64,
+   "n": 642,
+   "ok": 75,
    "drop": {
-    "ei sun koko": 396,
-    "yli Sellpy-mediaanin": 103,
-    "poissulkusana": 50,
-    "liian kallis arvoon nähden": 4,
-    "alle minimihinnan": 2,
-    "varattu": 9
+    "poissulkusana": 52,
+    "ei sun koko": 400,
+    "yli Sellpy-mediaanin": 105,
+    "liian kallis arvoon nähden": 3,
+    "alle minimihinnan": 1,
+    "varattu": 6
    }
   },
   "Comme des Garçons Play": {
-   "n": 639,
+   "n": 630,
    "ok": 0,
    "drop": {
-    "ei sun koko": 392,
-    "poissulkusana": 105,
-    "yli Sellpy-mediaanin": 112,
-    "liian kallis arvoon nähden": 24,
+    "ei sun koko": 388,
+    "yli Sellpy-mediaanin": 110,
+    "poissulkusana": 103,
+    "liian kallis arvoon nähden": 20,
     "alle minimihinnan": 4,
-    "varattu": 2
+    "varattu": 5
    }
   },
   "Givenchy": {
-   "n": 435,
-   "ok": 38,
+   "n": 443,
+   "ok": 41,
    "drop": {
-    "yli Sellpy-mediaanin": 107,
-    "ei sun koko": 203,
-    "poissulkusana": 52,
-    "liian kallis arvoon nähden": 2,
+    "ei sun koko": 209,
+    "yli Sellpy-mediaanin": 106,
+    "poissulkusana": 53,
+    "liian kallis arvoon nähden": 1,
     "varattu": 33
    }
   },
   "Oakley": {
-   "n": 623,
-   "ok": 46,
+   "n": 632,
+   "ok": 45,
    "drop": {
-    "yli Sellpy-mediaanin": 159,
-    "poissulkusana": 100,
-    "ei sun koko": 174,
-    "alle minimihinnan": 134,
+    "yli Sellpy-mediaanin": 157,
+    "ei sun koko": 179,
+    "alle minimihinnan": 141,
+    "poissulkusana": 99,
     "liian kallis arvoon nähden": 4,
-    "varattu": 6
+    "varattu": 7
    }
   },
   "Versace": {
-   "n": 525,
-   "ok": 38,
+   "n": 534,
+   "ok": 36,
    "drop": {
-    "ei sun koko": 227,
-    "yli Sellpy-mediaanin": 145,
-    "liian kallis arvoon nähden": 17,
-    "poissulkusana": 77,
+    "ei sun koko": 232,
+    "liian kallis arvoon nähden": 19,
+    "poissulkusana": 78,
+    "yli Sellpy-mediaanin": 146,
     "alle minimihinnan": 2,
-    "varattu": 19
+    "varattu": 21
    }
   },
   "Parajumpers": {
-   "n": 583,
-   "ok": 30,
+   "n": 589,
+   "ok": 29,
    "drop": {
-    "ei sun koko": 339,
-    "liian kallis arvoon nähden": 88,
-    "poissulkusana": 99,
-    "yli Sellpy-mediaanin": 12,
-    "alle minimihinnan": 6,
-    "varattu": 9
+    "yli Sellpy-mediaanin": 14,
+    "ei sun koko": 342,
+    "liian kallis arvoon nähden": 95,
+    "poissulkusana": 93,
+    "alle minimihinnan": 4,
+    "varattu": 12
    }
   },
   "Louis Vuitton": {
-   "n": 514,
-   "ok": 28,
+   "n": 532,
+   "ok": 30,
    "drop": {
-    "yli Sellpy-mediaanin": 156,
-    "ei sun koko": 139,
-    "poissulkusana": 66,
-    "liian kallis arvoon nähden": 5,
-    "varattu": 120
+    "ei sun koko": 143,
+    "yli Sellpy-mediaanin": 165,
+    "poissulkusana": 63,
+    "liian kallis arvoon nähden": 4,
+    "varattu": 127
    }
   },
   "Miu Miu": {
-   "n": 680,
+   "n": 695,
    "ok": 12,
    "drop": {
-    "ei sun koko": 445,
-    "yli Sellpy-mediaanin": 68,
+    "ei sun koko": 458,
+    "poissulkusana": 102,
+    "yli Sellpy-mediaanin": 73,
     "liian kallis arvoon nähden": 32,
-    "poissulkusana": 95,
-    "varattu": 28
+    "varattu": 18
    }
   },
   "Balenciaga": {
-   "n": 654,
-   "ok": 30,
+   "n": 658,
+   "ok": 31,
    "drop": {
-    "alle minimihinnan": 2,
-    "poissulkusana": 85,
-    "ei sun koko": 401,
-    "varattu": 40,
-    "liian kallis arvoon nähden": 12,
-    "yli Sellpy-mediaanin": 84
+    "alle minimihinnan": 1,
+    "poissulkusana": 87,
+    "ei sun koko": 403,
+    "varattu": 39,
+    "liian kallis arvoon nähden": 11,
+    "yli Sellpy-mediaanin": 86
    }
   },
   "Han Kjøbenhavn": {
-   "n": 862,
-   "ok": 26,
+   "n": 874,
+   "ok": 25,
    "drop": {
-    "alle minimihinnan": 289,
+    "alle minimihinnan": 284,
     "poissulkusana": 103,
     "varattu": 5,
-    "ei sun koko": 297,
-    "yli Sellpy-mediaanin": 128,
-    "liian kallis arvoon nähden": 14
+    "ei sun koko": 308,
+    "yli Sellpy-mediaanin": 136,
+    "liian kallis arvoon nähden": 13
    }
   },
   "Marni": {
-   "n": 789,
-   "ok": 12,
+   "n": 783,
+   "ok": 10,
    "drop": {
-    "alle minimihinnan": 8,
-    "poissulkusana": 232,
-    "varattu": 5,
-    "ei sun koko": 485,
-    "yli Sellpy-mediaanin": 42,
-    "liian kallis arvoon nähden": 5
+    "alle minimihinnan": 9,
+    "poissulkusana": 229,
+    "ei sun koko": 477,
+    "varattu": 16,
+    "yli Sellpy-mediaanin": 38,
+    "liian kallis arvoon nähden": 4
    }
   },
   "Chanel": {
-   "n": 436,
-   "ok": 31,
+   "n": 441,
+   "ok": 35,
    "drop": {
-    "poissulkusana": 105,
-    "varattu": 63,
-    "ei sun koko": 86,
-    "yli Sellpy-mediaanin": 151
+    "varattu": 54,
+    "poissulkusana": 108,
+    "ei sun koko": 91,
+    "yli Sellpy-mediaanin": 153
    }
   },
   "Valentino": {
-   "n": 801,
+   "n": 806,
    "ok": 74,
    "drop": {
     "alle minimihinnan": 3,
-    "poissulkusana": 104,
-    "varattu": 41,
-    "ei sun koko": 427,
-    "liian kallis arvoon nähden": 31,
+    "poissulkusana": 102,
+    "varattu": 39,
+    "ei sun koko": 433,
+    "liian kallis arvoon nähden": 34,
     "yli Sellpy-mediaanin": 121
    }
   },
   "Bally": {
-   "n": 902,
+   "n": 896,
    "ok": 79,
    "drop": {
     "poissulkusana": 56,
-    "alle minimihinnan": 23,
-    "ei sun koko": 572,
+    "alle minimihinnan": 24,
+    "ei sun koko": 566,
+    "varattu": 15,
     "yli Sellpy-mediaanin": 132,
-    "liian kallis arvoon nähden": 27,
-    "varattu": 13
+    "liian kallis arvoon nähden": 24
    }
   },
   "Asket": {
-   "n": 1009,
+   "n": 1011,
    "ok": 0,
    "drop": {
-    "alle minimihinnan": 57,
-    "poissulkusana": 109,
-    "liian kallis arvoon nähden": 46,
-    "ei sun koko": 691,
-    "varattu": 3,
-    "yli Sellpy-mediaanin": 103
+    "alle minimihinnan": 54,
+    "poissulkusana": 110,
+    "ei sun koko": 697,
+    "liian kallis arvoon nähden": 52,
+    "yli Sellpy-mediaanin": 97,
+    "varattu": 1
    }
   },
   "A.P.C.": {
-   "n": 986,
-   "ok": 31,
+   "n": 1009,
+   "ok": 30,
    "drop": {
-    "alle minimihinnan": 123,
-    "poissulkusana": 68,
-    "ei sun koko": 613,
-    "liian kallis arvoon nähden": 34,
-    "yli Sellpy-mediaanin": 117
+    "alle minimihinnan": 119,
+    "poissulkusana": 75,
+    "ei sun koko": 622,
+    "yli Sellpy-mediaanin": 117,
+    "varattu": 5,
+    "liian kallis arvoon nähden": 41
    }
   },
   "Etro": {
-   "n": 1023,
-   "ok": 91,
+   "n": 1033,
+   "ok": 94,
    "drop": {
-    "alle minimihinnan": 29,
-    "poissulkusana": 72,
-    "varattu": 31,
-    "ei sun koko": 495,
-    "liian kallis arvoon nähden": 70,
-    "yli Sellpy-mediaanin": 235
+    "poissulkusana": 75,
+    "alle minimihinnan": 32,
+    "varattu": 17,
+    "ei sun koko": 505,
+    "liian kallis arvoon nähden": 71,
+    "yli Sellpy-mediaanin": 239
    }
   },
   "Jacob Cohen": {
-   "n": 1059,
+   "n": 1074,
    "ok": 11,
    "drop": {
-    "alle minimihinnan": 25,
+    "alle minimihinnan": 28,
     "varattu": 16,
-    "ei sun koko": 656,
-    "liian kallis arvoon nähden": 186,
-    "poissulkusana": 85,
-    "yli Sellpy-mediaanin": 80
+    "ei sun koko": 659,
+    "liian kallis arvoon nähden": 188,
+    "poissulkusana": 88,
+    "yli Sellpy-mediaanin": 84
    }
   },
   "Dior": {
-   "n": 669,
-   "ok": 77,
+   "n": 682,
+   "ok": 78,
    "drop": {
-    "poissulkusana": 131,
     "alle minimihinnan": 2,
-    "ei sun koko": 204,
-    "varattu": 46,
-    "liian kallis arvoon nähden": 18,
-    "yli Sellpy-mediaanin": 191
+    "poissulkusana": 135,
+    "varattu": 53,
+    "ei sun koko": 207,
+    "liian kallis arvoon nähden": 20,
+    "yli Sellpy-mediaanin": 187
    }
   },
   "Our Legacy": {
-   "n": 1021,
+   "n": 1028,
    "ok": 59,
    "drop": {
-    "poissulkusana": 115,
-    "alle minimihinnan": 11,
-    "ei sun koko": 617,
-    "varattu": 130,
+    "poissulkusana": 121,
+    "alle minimihinnan": 10,
+    "ei sun koko": 622,
+    "varattu": 129,
     "yli Sellpy-mediaanin": 80,
-    "liian kallis arvoon nähden": 9
+    "liian kallis arvoon nähden": 7
    }
   },
   "Giorgio Armani": {
-   "n": 910,
-   "ok": 135,
+   "n": 917,
+   "ok": 130,
    "drop": {
-    "alle minimihinnan": 59,
-    "poissulkusana": 131,
-    "ei sun koko": 380,
-    "varattu": 5,
-    "yli Sellpy-mediaanin": 199,
-    "liian kallis arvoon nähden": 1
-   }
-  },
-  "Jil Sander": {
-   "n": 1058,
-   "ok": 46,
-   "drop": {
-    "alle minimihinnan": 6,
-    "poissulkusana": 185,
-    "ei sun koko": 687,
-    "varattu": 29,
-    "yli Sellpy-mediaanin": 99,
-    "liian kallis arvoon nähden": 6
-   }
-  },
-  "Mammut": {
-   "n": 1177,
-   "ok": 9,
-   "drop": {
-    "alle minimihinnan": 79,
-    "poissulkusana": 121,
-    "ei sun koko": 668,
-    "liian kallis arvoon nähden": 193,
-    "yli Sellpy-mediaanin": 103,
+    "alle minimihinnan": 56,
+    "poissulkusana": 132,
+    "ei sun koko": 391,
+    "yli Sellpy-mediaanin": 202,
+    "liian kallis arvoon nähden": 2,
     "varattu": 4
    }
   },
+  "Jil Sander": {
+   "n": 1074,
+   "ok": 45,
+   "drop": {
+    "alle minimihinnan": 5,
+    "poissulkusana": 189,
+    "ei sun koko": 698,
+    "varattu": 30,
+    "yli Sellpy-mediaanin": 102,
+    "liian kallis arvoon nähden": 5
+   }
+  },
+  "Mammut": {
+   "n": 1185,
+   "ok": 10,
+   "drop": {
+    "alle minimihinnan": 83,
+    "poissulkusana": 121,
+    "ei sun koko": 673,
+    "liian kallis arvoon nähden": 189,
+    "yli Sellpy-mediaanin": 106,
+    "varattu": 3
+   }
+  },
   "Chloé": {
-   "n": 772,
+   "n": 789,
    "ok": 6,
    "drop": {
-    "varattu": 20,
-    "poissulkusana": 100,
-    "alle minimihinnan": 1,
-    "ei sun koko": 516,
-    "liian kallis arvoon nähden": 19,
+    "alle minimihinnan": 2,
+    "poissulkusana": 101,
+    "ei sun koko": 525,
+    "varattu": 23,
+    "liian kallis arvoon nähden": 22,
     "yli Sellpy-mediaanin": 110
    }
   },
   "Stüssy": {
-   "n": 1485,
-   "ok": 18,
+   "n": 1493,
+   "ok": 20,
    "drop": {
-    "alle minimihinnan": 38,
-    "poissulkusana": 171,
-    "ei sun koko": 779,
-    "liian kallis arvoon nähden": 103,
-    "varattu": 9,
-    "yli Sellpy-mediaanin": 367
+    "alle minimihinnan": 36,
+    "poissulkusana": 173,
+    "ei sun koko": 787,
+    "liian kallis arvoon nähden": 102,
+    "varattu": 6,
+    "yli Sellpy-mediaanin": 369
    }
   },
   "Lundhags": {
-   "n": 1308,
+   "n": 1321,
    "ok": 7,
    "drop": {
     "alle minimihinnan": 29,
-    "poissulkusana": 134,
-    "ei sun koko": 867,
-    "liian kallis arvoon nähden": 138,
-    "varattu": 11,
-    "yli Sellpy-mediaanin": 122
+    "poissulkusana": 136,
+    "ei sun koko": 884,
+    "liian kallis arvoon nähden": 142,
+    "yli Sellpy-mediaanin": 123
    }
   },
   "Stone Island": {
-   "n": 1478,
-   "ok": 90,
+   "n": 1473,
+   "ok": 91,
    "drop": {
-    "alle minimihinnan": 1,
-    "ei sun koko": 506,
-    "poissulkusana": 260,
-    "liian kallis arvoon nähden": 120,
-    "varattu": 137,
-    "yli Sellpy-mediaanin": 364
+    "ei sun koko": 505,
+    "poissulkusana": 255,
+    "varattu": 140,
+    "liian kallis arvoon nähden": 119,
+    "yli Sellpy-mediaanin": 363
    }
   },
   "Isabel Marant": {
-   "n": 1438,
-   "ok": 14,
+   "n": 1452,
+   "ok": 13,
    "drop": {
-    "alle minimihinnan": 11,
-    "poissulkusana": 341,
-    "varattu": 31,
-    "ei sun koko": 964,
-    "liian kallis arvoon nähden": 26,
-    "yli Sellpy-mediaanin": 51
+    "alle minimihinnan": 12,
+    "poissulkusana": 348,
+    "ei sun koko": 974,
+    "varattu": 24,
+    "liian kallis arvoon nähden": 27,
+    "yli Sellpy-mediaanin": 54
    }
   },
   "Moncler": {
-   "n": 928,
-   "ok": 115,
+   "n": 954,
+   "ok": 114,
    "drop": {
-    "ei sun koko": 419,
-    "poissulkusana": 123,
-    "varattu": 104,
-    "yli Sellpy-mediaanin": 150,
-    "liian kallis arvoon nähden": 17
+    "ei sun koko": 445,
+    "poissulkusana": 130,
+    "varattu": 102,
+    "liian kallis arvoon nähden": 17,
+    "yli Sellpy-mediaanin": 146
    }
   },
   "Tod's": {
-   "n": 1572,
-   "ok": 81,
+   "n": 1583,
+   "ok": 79,
    "drop": {
-    "alle minimihinnan": 20,
-    "poissulkusana": 77,
-    "ei sun koko": 1235,
-    "varattu": 35,
-    "liian kallis arvoon nähden": 37,
-    "yli Sellpy-mediaanin": 87
+    "alle minimihinnan": 19,
+    "poissulkusana": 79,
+    "ei sun koko": 1244,
+    "varattu": 41,
+    "liian kallis arvoon nähden": 38,
+    "yli Sellpy-mediaanin": 83
    }
   },
   "Missoni": {
-   "n": 1516,
-   "ok": 42,
+   "n": 1528,
+   "ok": 45,
    "drop": {
-    "alle minimihinnan": 9,
-    "poissulkusana": 119,
-    "ei sun koko": 976,
-    "varattu": 27,
-    "liian kallis arvoon nähden": 156,
-    "yli Sellpy-mediaanin": 187
+    "alle minimihinnan": 8,
+    "poissulkusana": 123,
+    "ei sun koko": 993,
+    "liian kallis arvoon nähden": 154,
+    "varattu": 15,
+    "yli Sellpy-mediaanin": 190
    }
   },
   "Paul Smith": {
-   "n": 1603,
-   "ok": 80,
+   "n": 1620,
+   "ok": 79,
    "drop": {
-    "poissulkusana": 131,
     "alle minimihinnan": 303,
-    "varattu": 7,
-    "ei sun koko": 656,
-    "liian kallis arvoon nähden": 93,
-    "yli Sellpy-mediaanin": 333
+    "poissulkusana": 132,
+    "varattu": 10,
+    "ei sun koko": 664,
+    "liian kallis arvoon nähden": 96,
+    "yli Sellpy-mediaanin": 336
    }
   },
   "Eytys": {
-   "n": 1958,
-   "ok": 84,
+   "n": 1983,
+   "ok": 86,
    "drop": {
-    "alle minimihinnan": 346,
-    "poissulkusana": 186,
-    "varattu": 12,
-    "ei sun koko": 1196,
-    "liian kallis arvoon nähden": 45,
+    "poissulkusana": 188,
+    "alle minimihinnan": 344,
+    "ei sun koko": 1220,
+    "varattu": 13,
+    "liian kallis arvoon nähden": 43,
     "yli Sellpy-mediaanin": 89
    }
   },
   "Houdini": {
-   "n": 1792,
-   "ok": 5,
+   "n": 1821,
+   "ok": 4,
    "drop": {
-    "alle minimihinnan": 77,
-    "poissulkusana": 205,
-    "ei sun koko": 1158,
-    "liian kallis arvoon nähden": 156,
-    "yli Sellpy-mediaanin": 188,
+    "alle minimihinnan": 78,
+    "poissulkusana": 209,
+    "ei sun koko": 1177,
+    "liian kallis arvoon nähden": 158,
+    "yli Sellpy-mediaanin": 192,
     "varattu": 3
    }
   },
   "Wood Wood": {
-   "n": 2142,
-   "ok": 32,
+   "n": 2174,
+   "ok": 33,
    "drop": {
-    "poissulkusana": 230,
-    "alle minimihinnan": 827,
-    "varattu": 11,
-    "ei sun koko": 766,
-    "liian kallis arvoon nähden": 45,
-    "yli Sellpy-mediaanin": 231
+    "poissulkusana": 232,
+    "alle minimihinnan": 842,
+    "varattu": 10,
+    "ei sun koko": 773,
+    "yli Sellpy-mediaanin": 240,
+    "liian kallis arvoon nähden": 44
    }
   },
   "Carhartt": {
-   "n": 2150,
-   "ok": 39,
+   "n": 2175,
+   "ok": 40,
    "drop": {
-    "alle minimihinnan": 121,
-    "poissulkusana": 319,
-    "ei sun koko": 1052,
+    "alle minimihinnan": 112,
+    "poissulkusana": 328,
     "liian kallis arvoon nähden": 234,
-    "varattu": 4,
-    "yli Sellpy-mediaanin": 380,
-    "lasten koko": 1
+    "ei sun koko": 1071,
+    "varattu": 5,
+    "yli Sellpy-mediaanin": 382,
+    "lasten koko": 3
    }
   },
   "Fred Perry": {
-   "n": 2341,
-   "ok": 37,
+   "n": 2398,
+   "ok": 38,
    "drop": {
-    "alle minimihinnan": 128,
-    "poissulkusana": 161,
-    "ei sun koko": 1279,
-    "liian kallis arvoon nähden": 189,
-    "yli Sellpy-mediaanin": 540,
-    "varattu": 7
+    "alle minimihinnan": 129,
+    "poissulkusana": 167,
+    "ei sun koko": 1311,
+    "liian kallis arvoon nähden": 194,
+    "varattu": 7,
+    "yli Sellpy-mediaanin": 552
    }
   },
   "Stine Goya": {
-   "n": 2558,
+   "n": 2575,
    "ok": 2,
    "drop": {
-    "alle minimihinnan": 85,
-    "poissulkusana": 140,
-    "ei sun koko": 2128,
-    "liian kallis arvoon nähden": 95,
-    "varattu": 9,
-    "yli Sellpy-mediaanin": 99
+    "poissulkusana": 143,
+    "alle minimihinnan": 88,
+    "ei sun koko": 2123,
+    "varattu": 19,
+    "liian kallis arvoon nähden": 96,
+    "yli Sellpy-mediaanin": 104
    }
   },
   "Max Mara": {
-   "n": 2529,
+   "n": 2550,
    "ok": 141,
    "drop": {
-    "alle minimihinnan": 47,
-    "poissulkusana": 186,
-    "ei sun koko": 1900,
-    "varattu": 46,
-    "liian kallis arvoon nähden": 32,
-    "yli Sellpy-mediaanin": 177
+    "alle minimihinnan": 49,
+    "poissulkusana": 191,
+    "ei sun koko": 1927,
+    "varattu": 15,
+    "liian kallis arvoon nähden": 34,
+    "yli Sellpy-mediaanin": 193
    }
   },
   "Kenzo": {
-   "n": 2498,
-   "ok": 51,
+   "n": 2499,
+   "ok": 48,
    "drop": {
-    "poissulkusana": 594,
-    "alle minimihinnan": 179,
-    "varattu": 15,
-    "ei sun koko": 1240,
-    "liian kallis arvoon nähden": 116,
-    "yli Sellpy-mediaanin": 303
+    "poissulkusana": 586,
+    "alle minimihinnan": 181,
+    "varattu": 22,
+    "ei sun koko": 1236,
+    "liian kallis arvoon nähden": 118,
+    "yli Sellpy-mediaanin": 308
    }
   },
   "Totême": {
-   "n": 2646,
+   "n": 2676,
    "ok": 24,
    "drop": {
     "alle minimihinnan": 9,
-    "poissulkusana": 210,
-    "varattu": 110,
-    "ei sun koko": 2167,
-    "liian kallis arvoon nähden": 31,
-    "yli Sellpy-mediaanin": 95
+    "poissulkusana": 224,
+    "varattu": 30,
+    "ei sun koko": 2252,
+    "liian kallis arvoon nähden": 33,
+    "yli Sellpy-mediaanin": 104
    }
   },
   "Gucci": {
-   "n": 2143,
-   "ok": 93,
+   "n": 2156,
+   "ok": 92,
    "drop": {
-    "poissulkusana": 368,
+    "poissulkusana": 366,
     "alle minimihinnan": 1,
-    "ei sun koko": 731,
-    "varattu": 255,
-    "liian kallis arvoon nähden": 163,
-    "yli Sellpy-mediaanin": 532
+    "ei sun koko": 744,
+    "varattu": 259,
+    "liian kallis arvoon nähden": 157,
+    "yli Sellpy-mediaanin": 537
    }
   },
   "Dsquared2": {
-   "n": 2308,
-   "ok": 6,
+   "n": 2302,
+   "ok": 7,
    "drop": {
-    "alle minimihinnan": 31,
-    "poissulkusana": 286,
-    "varattu": 25,
-    "ei sun koko": 1305,
-    "liian kallis arvoon nähden": 302,
-    "yli Sellpy-mediaanin": 353
+    "alle minimihinnan": 34,
+    "poissulkusana": 278,
+    "varattu": 28,
+    "ei sun koko": 1311,
+    "liian kallis arvoon nähden": 297,
+    "yli Sellpy-mediaanin": 347
    }
   },
   "Prada": {
-   "n": 2710,
-   "ok": 153,
+   "n": 2736,
+   "ok": 155,
    "drop": {
     "alle minimihinnan": 2,
-    "poissulkusana": 403,
-    "ei sun koko": 1501,
-    "varattu": 175,
-    "liian kallis arvoon nähden": 206,
-    "yli Sellpy-mediaanin": 270
+    "poissulkusana": 401,
+    "ei sun koko": 1502,
+    "varattu": 185,
+    "liian kallis arvoon nähden": 203,
+    "yli Sellpy-mediaanin": 288
    }
   },
   "Dolce & Gabbana": {
-   "n": 2731,
-   "ok": 96,
+   "n": 2762,
+   "ok": 100,
    "drop": {
-    "poissulkusana": 374,
-    "alle minimihinnan": 15,
-    "ei sun koko": 1480,
-    "varattu": 175,
-    "liian kallis arvoon nähden": 207,
-    "yli Sellpy-mediaanin": 384
+    "alle minimihinnan": 10,
+    "poissulkusana": 377,
+    "varattu": 169,
+    "ei sun koko": 1511,
+    "liian kallis arvoon nähden": 209,
+    "yli Sellpy-mediaanin": 386
    }
   },
   "Burberry": {
-   "n": 2352,
-   "ok": 79,
+   "n": 2379,
+   "ok": 83,
    "drop": {
-    "poissulkusana": 447,
-    "alle minimihinnan": 5,
-    "ei sun koko": 1064,
-    "varattu": 78,
-    "liian kallis arvoon nähden": 331,
-    "yli Sellpy-mediaanin": 345,
+    "poissulkusana": 459,
+    "alle minimihinnan": 2,
+    "varattu": 96,
+    "ei sun koko": 1059,
+    "liian kallis arvoon nähden": 333,
+    "yli Sellpy-mediaanin": 344,
     "lasten koko": 3
    }
   },
   "Barbour": {
-   "n": 3372,
-   "ok": 228,
+   "n": 3422,
+   "ok": 231,
    "drop": {
-    "alle minimihinnan": 98,
-    "poissulkusana": 275,
-    "varattu": 41,
-    "ei sun koko": 1983,
-    "liian kallis arvoon nähden": 563,
-    "yli Sellpy-mediaanin": 184
+    "alle minimihinnan": 97,
+    "poissulkusana": 277,
+    "varattu": 28,
+    "ei sun koko": 2019,
+    "liian kallis arvoon nähden": 573,
+    "yli Sellpy-mediaanin": 197
    }
   },
   "Salomon": {
-   "n": 3260,
-   "ok": 230,
+   "n": 3333,
+   "ok": 229,
    "drop": {
-    "alle minimihinnan": 358,
-    "poissulkusana": 233,
-    "varattu": 19,
-    "ei sun koko": 2049,
-    "liian kallis arvoon nähden": 198,
-    "yli Sellpy-mediaanin": 173
+    "alle minimihinnan": 369,
+    "poissulkusana": 242,
+    "varattu": 14,
+    "ei sun koko": 2090,
+    "liian kallis arvoon nähden": 207,
+    "yli Sellpy-mediaanin": 182
    }
   },
   "Marimekko": {
-   "n": 3709,
-   "ok": 125,
+   "n": 3715,
+   "ok": 120,
    "drop": {
-    "alle minimihinnan": 76,
-    "poissulkusana": 803,
-    "ei sun koko": 1787,
-    "varattu": 45,
-    "liian kallis arvoon nähden": 324,
-    "yli Sellpy-mediaanin": 549
+    "alle minimihinnan": 71,
+    "poissulkusana": 807,
+    "ei sun koko": 1814,
+    "varattu": 22,
+    "liian kallis arvoon nähden": 327,
+    "yli Sellpy-mediaanin": 554
    }
   },
   "Haglöfs": {
-   "n": 3877,
+   "n": 3951,
    "ok": 34,
    "drop": {
-    "alle minimihinnan": 198,
-    "poissulkusana": 366,
-    "ei sun koko": 2246,
-    "liian kallis arvoon nähden": 713,
-    "varattu": 14,
-    "yli Sellpy-mediaanin": 306
+    "alle minimihinnan": 203,
+    "poissulkusana": 372,
+    "ei sun koko": 2286,
+    "liian kallis arvoon nähden": 727,
+    "varattu": 19,
+    "yli Sellpy-mediaanin": 310
    }
   },
   "Stenströms": {
-   "n": 4216,
-   "ok": 31,
+   "n": 4270,
+   "ok": 35,
    "drop": {
-    "alle minimihinnan": 1065,
-    "poissulkusana": 231,
-    "varattu": 22,
-    "liian kallis arvoon nähden": 289,
-    "ei sun koko": 1871,
-    "yli Sellpy-mediaanin": 707
+    "alle minimihinnan": 1082,
+    "poissulkusana": 233,
+    "varattu": 23,
+    "ei sun koko": 1886,
+    "liian kallis arvoon nähden": 301,
+    "yli Sellpy-mediaanin": 710
    }
   },
   "Eton": {
-   "n": 4234,
-   "ok": 4,
+   "n": 4270,
+   "ok": 5,
    "drop": {
-    "alle minimihinnan": 1088,
-    "poissulkusana": 202,
-    "varattu": 9,
-    "ei sun koko": 1355,
-    "liian kallis arvoon nähden": 642,
-    "yli Sellpy-mediaanin": 934
+    "alle minimihinnan": 1092,
+    "poissulkusana": 197,
+    "varattu": 11,
+    "ei sun koko": 1390,
+    "liian kallis arvoon nähden": 644,
+    "yli Sellpy-mediaanin": 931
    }
   },
   "House of Dagmar": {
-   "n": 4029,
+   "n": 4085,
    "ok": 5,
    "drop": {
-    "alle minimihinnan": 1013,
-    "ei sun koko": 2551,
-    "poissulkusana": 315,
-    "varattu": 14,
-    "liian kallis arvoon nähden": 33,
-    "yli Sellpy-mediaanin": 98
+    "alle minimihinnan": 1021,
+    "poissulkusana": 316,
+    "ei sun koko": 2594,
+    "varattu": 15,
+    "liian kallis arvoon nähden": 35,
+    "yli Sellpy-mediaanin": 99
    }
   },
   "Whyred": {
-   "n": 3952,
-   "ok": 36,
+   "n": 3957,
+   "ok": 39,
    "drop": {
-    "alle minimihinnan": 2125,
-    "poissulkusana": 387,
-    "ei sun koko": 1198,
-    "yli Sellpy-mediaanin": 180,
-    "varattu": 14,
-    "liian kallis arvoon nähden": 12
+    "alle minimihinnan": 2109,
+    "poissulkusana": 386,
+    "ei sun koko": 1209,
+    "yli Sellpy-mediaanin": 186,
+    "varattu": 17,
+    "liian kallis arvoon nähden": 11
    }
   },
   "Patagonia": {
-   "n": 4282,
-   "ok": 127,
+   "n": 4309,
+   "ok": 124,
    "drop": {
-    "alle minimihinnan": 60,
-    "poissulkusana": 332,
-    "varattu": 19,
-    "ei sun koko": 2706,
-    "liian kallis arvoon nähden": 370,
-    "yli Sellpy-mediaanin": 668
+    "alle minimihinnan": 66,
+    "poissulkusana": 335,
+    "varattu": 11,
+    "ei sun koko": 2722,
+    "liian kallis arvoon nähden": 374,
+    "yli Sellpy-mediaanin": 677
    }
   },
   "Oscar Jacobson": {
-   "n": 4660,
-   "ok": 213,
+   "n": 4696,
+   "ok": 205,
    "drop": {
     "alle minimihinnan": 906,
-    "poissulkusana": 551,
+    "poissulkusana": 556,
     "varattu": 15,
-    "ei sun koko": 1896,
-    "liian kallis arvoon nähden": 552,
+    "ei sun koko": 1925,
+    "liian kallis arvoon nähden": 562,
     "yli Sellpy-mediaanin": 527
    }
   },
   "Carhartt WIP": {
-   "n": 6710,
+   "n": 6828,
    "ok": 1,
    "drop": {
-    "alle minimihinnan": 520,
-    "poissulkusana": 915,
-    "varattu": 16,
-    "ei sun koko": 4034,
-    "liian kallis arvoon nähden": 444,
-    "yli Sellpy-mediaanin": 780
+    "alle minimihinnan": 514,
+    "poissulkusana": 932,
+    "varattu": 28,
+    "liian kallis arvoon nähden": 436,
+    "ei sun koko": 4111,
+    "yli Sellpy-mediaanin": 806
    }
   },
   "Hope": {
-   "n": 7450,
-   "ok": 15,
+   "n": 7512,
+   "ok": 14,
    "drop": {
-    "alle minimihinnan": 2991,
-    "poissulkusana": 591,
-    "varattu": 18,
-    "ei sun koko": 3580,
-    "liian kallis arvoon nähden": 97,
+    "alle minimihinnan": 2967,
+    "poissulkusana": 598,
+    "varattu": 20,
+    "ei sun koko": 3651,
+    "liian kallis arvoon nähden": 104,
     "yli Sellpy-mediaanin": 158
    }
   },
   "Acne Studios": {
-   "n": 9448,
+   "n": 9599,
    "ok": 152,
    "drop": {
-    "alle minimihinnan": 884,
-    "poissulkusana": 1077,
-    "varattu": 566,
-    "ei sun koko": 6130,
-    "liian kallis arvoon nähden": 94,
-    "yli Sellpy-mediaanin": 545
+    "alle minimihinnan": 889,
+    "poissulkusana": 1090,
+    "varattu": 611,
+    "ei sun koko": 6204,
+    "liian kallis arvoon nähden": 93,
+    "yli Sellpy-mediaanin": 560
    }
   },
   "Diesel": {
-   "n": 9728,
-   "ok": 6,
+   "n": 9789,
+   "ok": 4,
    "drop": {
-    "alle minimihinnan": 2111,
-    "ei sun koko": 5406,
-    "poissulkusana": 793,
-    "liian kallis arvoon nähden": 378,
-    "varattu": 52,
-    "yli Sellpy-mediaanin": 981,
+    "alle minimihinnan": 2051,
+    "poissulkusana": 786,
+    "liian kallis arvoon nähden": 381,
+    "ei sun koko": 5449,
+    "varattu": 127,
+    "yli Sellpy-mediaanin": 990,
     "lasten koko": 1
    }
   },
   "Ganni": {
-   "n": 11161,
+   "n": 11314,
    "ok": 10,
    "drop": {
-    "alle minimihinnan": 712,
-    "poissulkusana": 677,
-    "varattu": 82,
-    "ei sun koko": 9090,
-    "liian kallis arvoon nähden": 266,
-    "yli Sellpy-mediaanin": 324
+    "alle minimihinnan": 743,
+    "poissulkusana": 688,
+    "varattu": 100,
+    "ei sun koko": 9175,
+    "liian kallis arvoon nähden": 271,
+    "yli Sellpy-mediaanin": 327
    }
   },
   "The North Face": {
-   "n": 10378,
-   "ok": 919,
+   "n": 10511,
+   "ok": 930,
    "drop": {
-    "alle minimihinnan": 988,
-    "poissulkusana": 920,
-    "varattu": 31,
-    "ei sun koko": 5957,
-    "liian kallis arvoon nähden": 415,
-    "lasten koko": 9,
-    "yli Sellpy-mediaanin": 1139
+    "alle minimihinnan": 965,
+    "poissulkusana": 941,
+    "varattu": 38,
+    "ei sun koko": 6051,
+    "liian kallis arvoon nähden": 419,
+    "lasten koko": 11,
+    "yli Sellpy-mediaanin": 1156
    }
   },
   "Tiger of Sweden": {
-   "n": 14277,
-   "ok": 162,
+   "n": 14400,
+   "ok": 155,
    "drop": {
-    "ei sun koko": 6656,
+    "ei sun koko": 6733,
+    "liian kallis arvoon nähden": 389,
     "poissulkusana": 1385,
-    "yli Sellpy-mediaanin": 1326,
-    "liian kallis arvoon nähden": 385,
-    "varattu": 56,
-    "alle minimihinnan": 4307
+    "yli Sellpy-mediaanin": 1348,
+    "varattu": 54,
+    "alle minimihinnan": 4336
    }
   },
   "Filippa K": {
-   "n": 24306,
-   "ok": 148,
+   "n": 24550,
+   "ok": 158,
    "drop": {
-    "ei sun koko": 13485,
-    "yli Sellpy-mediaanin": 1176,
-    "poissulkusana": 2091,
-    "varattu": 104,
-    "liian kallis arvoon nähden": 498,
+    "ei sun koko": 13716,
+    "yli Sellpy-mediaanin": 1200,
+    "poissulkusana": 2098,
+    "varattu": 78,
+    "liian kallis arvoon nähden": 494,
     "lasten koko": 1,
-    "alle minimihinnan": 6803
+    "alle minimihinnan": 6805
    }
   },
   "Yves Saint Laurent": {
-   "n": 529,
-   "ok": 35,
+   "n": 530,
+   "ok": 32,
    "drop": {
-    "ei sun koko": 223,
-    "yli Sellpy-mediaanin": 119,
-    "poissulkusana": 109,
-    "liian kallis arvoon nähden": 30,
-    "varattu": 13
+    "ei sun koko": 226,
+    "yli Sellpy-mediaanin": 115,
+    "poissulkusana": 106,
+    "liian kallis arvoon nähden": 29,
+    "varattu": 22
    }
   }
  }
