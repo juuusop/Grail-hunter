@@ -1,5 +1,49 @@
 [
  {
+  "id": "tori-50177205",
+  "brand": "Goyard · Tori",
+  "title": "Goyard Belvédère PM Messenger Bag",
+  "price": 600.0,
+  "value": 1330,
+  "score": 2.22,
+  "label": "✅ DIILI",
+  "category": "laukku",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50177205",
+  "image": "https://img.tori.net/dynamic/default/item/50177205/270def0b-0913-43fa-9b94-0ad77a8f8423",
+  "reasons": [
+   "taso A",
+   "malli 'belvedere' ~1400 €",
+   "Japanissa myyty (laukku) mediaani 393 € (n=27)",
+   "kate ~26 € (ROI 4%, myy vestiaire ~931 €; malli 'belvedere' ~1400 € (taulukko))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795806356,
+  "resale": 931,
+  "profit": 26,
+  "roi": 0.04,
+  "exit": "vestiaire",
+  "resale_why": [
+   "malli 'belvedere' ~1400 € (taulukko)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti vestiaire ~931 € → käteen ~633 € kulujen ja tinkimisen jälkeen",
+   "osto 600 € + toimitus = 607 €"
+  ],
+  "risk": {
+   "fake": 64,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "laukku: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
   "id": "QvdJQjlEbM",
   "brand": "Dior",
   "title": "Christian Dior Silmälasit CD3191",
@@ -50225,26 +50269,6 @@
   "image": "https://prod.images.sellpy.net/photoRobot-hanging-3-k-21/AJEOMNtYRe-5165-single.jpg",
   "reasons": [
    "Sellpyn mediaani tälle brändille 165 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794347663
- },
- {
-  "id": "IblyGejRWE",
-  "brand": "Bottega Veneta",
-  "title": "Bottega Veneta Silmälasit BV148807140",
-  "price": 28.0,
-  "value": 200,
-  "score": 7.14,
-  "label": "🚨 INSANE",
-  "category": "muu",
-  "condition": "Erittäin hyvä",
-  "size": "-",
-  "link": "https://www.sellpy.fi/item/IblyGejRWE",
-  "image": "https://prod.images.sellpy.net/photoRobot-manual-7-k-22/83sBb1UbKB-9e12-single.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 159 €"
   ],
   "source": "brändi",
   "old_price": null,
