@@ -1,5 +1,567 @@
 [
  {
+  "id": "tori-50424525",
+  "brand": "Saint Laurent · Tori",
+  "title": "Saint laurent kengät",
+  "price": 85.0,
+  "value": 293,
+  "score": 3.44,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50424525",
+  "image": "https://img.tori.net/dynamic/default/item/50424525/4d95addd-c029-470c-a6ff-edc9f1c22e79",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 153 €",
+   "Japanissa myyty mediaani 17 € (n=72)",
+   "kate ~15 € (ROI 16%, myy grailed ~154 €; brändiarvio ~220 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795861544,
+  "resale": 154,
+  "profit": 15,
+  "roi": 0.16,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~220 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~154 € → käteen ~107 € kulujen ja tinkimisen jälkeen",
+   "osto 85 € + toimitus = 92 €"
+  ],
+  "risk": {
+   "fake": 65,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50270484",
+  "brand": "Loewe · Tori",
+  "title": "Loewe neule M kirjava",
+  "price": 85.0,
+  "value": 209,
+  "score": 2.46,
+  "label": "✅ DIILI",
+  "category": "neule",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50270484",
+  "image": "https://img.tori.net/dynamic/default/item/50270484/98514a08-3c84-48ca-ba57-b5c865a36ce6",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 160 €",
+   "Japanissa myyty mediaani 97 € (n=94)",
+   "⚠️ kate ~-16 € (ROI -17%, myy grailed ~110 €; brändiarvio ~157 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795861544,
+  "resale": 110,
+  "profit": -16,
+  "roi": -0.17,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~157 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~110 € → käteen ~76 € kulujen ja tinkimisen jälkeen",
+   "osto 85 € + toimitus = 92 €"
+  ],
+  "risk": {
+   "fake": 28,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50510593",
+  "brand": "Moncler · Tori",
+  "title": "Valkoinen moncler liivi hupulla",
+  "price": 70.0,
+  "value": 167,
+  "score": 2.39,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50510593",
+  "image": "https://img.tori.net/dynamic/default/item/50510593/ae442a85-b7e1-4cc3-8137-eeefbd7b8182",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 133 €",
+   "Japanissa myyty (muu) mediaani 183 € (n=14)",
+   "⚠️ kate ~-1 € (ROI -1%, myy grailed ~109 €; Yahoo JP toteutuneet (muu): mediaani 183 €, p25 103 € (n=14) → geneerinen ~143 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795861544,
+  "resale": 109,
+  "profit": -1,
+  "roi": -0.01,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 183 €, p25 103 € (n=14) → geneerinen ~143 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~109 € → käteen ~76 € kulujen ja tinkimisen jälkeen",
+   "osto 70 € + toimitus = 77 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50495292",
+  "brand": "Moncler · Tori",
+  "title": "Moncler untuvatakki M musta",
+  "price": 140.0,
+  "value": 334,
+  "score": 2.39,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50495292",
+  "image": "https://img.tori.net/dynamic/default/item/50495292/aea78fc1-ffe3-4a91-b975-518f820ff197",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 133 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=57)",
+   "⚠️ kate ~-24 € (ROI -16%, myy grailed ~177 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795861544,
+  "resale": 177,
+  "profit": -24,
+  "roi": -0.16,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~177 € → käteen ~123 € kulujen ja tinkimisen jälkeen",
+   "osto 140 € + toimitus = 147 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50484284",
+  "brand": "Moncler · Tori",
+  "title": "Moncler untuvatakki S harmaa",
+  "price": 150.0,
+  "value": 334,
+  "score": 2.23,
+  "label": "✅ DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50484284",
+  "image": "https://img.tori.net/dynamic/default/item/50484284/df22882d-4367-4258-b103-e97978a1d3c3",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 133 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=57)",
+   "⚠️ kate ~-34 € (ROI -21%, myy grailed ~177 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795861544,
+  "resale": 177,
+  "profit": -34,
+  "roi": -0.21,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 157 € (n=57) → geneerinen ~232 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~177 € → käteen ~123 € kulujen ja tinkimisen jälkeen",
+   "osto 150 € + toimitus = 157 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50301883",
+  "brand": "Moncler · Tori",
+  "title": "Moncler liivi",
+  "price": 80.0,
+  "value": 167,
+  "score": 2.09,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50301883",
+  "image": "https://img.tori.net/dynamic/default/item/50301883/4635e9f7-ef32-43c5-a077-4c3f533d2983",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 133 €",
+   "Japanissa myyty (muu) mediaani 183 € (n=14)",
+   "⚠️ kate ~-11 € (ROI -13%, myy grailed ~109 €; Yahoo JP toteutuneet (muu): mediaani 183 €, p25 103 € (n=14) → geneerinen ~143 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795861544,
+  "resale": 109,
+  "profit": -11,
+  "roi": -0.13,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 183 €, p25 103 € (n=14) → geneerinen ~143 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~109 € → käteen ~76 € kulujen ja tinkimisen jälkeen",
+   "osto 80 € + toimitus = 87 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2470739483",
+  "brand": "Goyard · Marktplaats 🇳🇱",
+  "title": "Goyard duffelbag",
+  "price": 119.99,
+  "value": 240,
+  "score": 2.0,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Zo goed als nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/tassen-schoudertassen/m2470739483-goyard-duffelbag",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/6876361f-cf9c-4bb8-8b1f-b9b1da0d1d3c?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Japanissa myyty (muu) mediaani 425 € (n=41)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "100 EUR + ~20 € posti = 120 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795861544,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2470734551",
+  "brand": "Goyard · Marktplaats 🇳🇱",
+  "title": "Goyard duffelbag newTask Grijs",
+  "price": 119.99,
+  "value": 252,
+  "score": 2.1,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/sieraden-tassen-en-uiterlijk/tassen-reistassen-en-weekendtassen/m2470734551-goyard-duffelbag-newtask-grijs",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/ba16292b-d550-4e24-94e2-9b279b10896d?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Japanissa myyty (muu) mediaani 425 € (n=41)",
+   "kate ~54 € (ROI 45%, myy grailed ~250 €; Yahoo JP toteutuneet (muu): mediaani 425 €, p25 166 € (n=41) → geneerinen ~296 € × 1.15 EU-taso)",
+   "100 EUR + ~20 € posti = 120 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795861544,
+  "resale": 250,
+  "profit": 54,
+  "roi": 0.45,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (muu): mediaani 425 €, p25 166 € (n=41) → geneerinen ~296 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~250 € → käteen ~174 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 120 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2470813092",
+  "brand": "Maison Margiela · Marktplaats 🇳🇱",
+  "title": "Maison Margiela Sneakers Beige/Wit Maat 45",
+  "price": 99.99,
+  "value": 368,
+  "score": 3.68,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Nieuw",
+  "size": "SHOES-EU-45",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2470813092-maison-margiela-sneakers-beige-wit-maat-45",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/7d99188f-46e1-440a-8b22-e9f3ff51db09?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 125 €",
+   "Japanissa myyty (kengät) mediaani 171 € (n=7)",
+   "⚠️ kate ~-28 € (ROI -28%, myy grailed ~103 €; Yahoo JP toteutuneet (kengät): mediaani 171 €, p25 73 € (n=7) → geneerinen ~122 € × 1.15 EU-taso)",
+   "80 EUR + ~20 € posti = 100 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795861544,
+  "resale": 103,
+  "profit": -28,
+  "roi": -0.28,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 171 €, p25 73 € (n=7) → geneerinen ~122 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~103 € → käteen ~72 € kulujen ja tinkimisen jälkeen",
+   "osto 100 € + toimitus = 100 €"
+  ],
+  "risk": {
+   "fake": 65,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2470896091",
+  "brand": "Bottega Veneta · Marktplaats 🇳🇱",
+  "title": "Bottega Veneta Puddle Lace-Up Boots - Beige",
+  "price": 140.0,
+  "value": 353,
+  "score": 2.52,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Gedragen",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-dames/schoenen/m2470896091-bottega-veneta-puddle-lace-up-boots-beige",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/7199e971-7e24-465e-83fa-b070e7ef6dc8?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "veneta ×1.2",
+   "puddle ×1.2",
+   "Sellpyn mediaani tälle brändille 150 €",
+   "Japanissa myyty (kengät) mediaani 70 € (n=8)",
+   "⚠️ kate ~-123 € (ROI -88%, myy grailed ~26 €; Yahoo JP toteutuneet (kengät): mediaani 70 €, p25 21 € (n=8) → geneerinen ~46 € × 1.15 EU-taso)",
+   "120 EUR + ~20 € posti = 140 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795861544,
+  "resale": 26,
+  "profit": -123,
+  "roi": -0.88,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 70 €, p25 21 € (n=8) → geneerinen ~46 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~26 € → käteen ~17 € kulujen ja tinkimisen jälkeen",
+   "osto 140 € + toimitus = 140 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "kulunut",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "selviä käytön jälkiä/vikoja (kengissä/laukuissa kuluma syö resale-hintaa)"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2470402837",
+  "brand": "Bottega Veneta · Marktplaats 🇳🇱",
+  "title": "Bottega Veneta Orbit Sneakers – Maat 43",
+  "price": 149.99,
+  "value": 441,
+  "score": 2.94,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Nieuw",
+  "size": "SHOES-EU-43",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2470402837-bottega-veneta-orbit-sneakers-maat-43",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/75a81171-2654-44d0-987a-7f5268e2debc?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "veneta ×1.2",
+   "Sellpyn mediaani tälle brändille 150 €",
+   "Japanissa myyty (kengät) mediaani 70 € (n=8)",
+   "⚠️ kate ~-124 € (ROI -82%, myy grailed ~38 €; Yahoo JP toteutuneet (kengät): mediaani 70 €, p25 21 € (n=8) → geneerinen ~46 € × 1.15 EU-taso)",
+   "130 EUR + ~20 € posti = 150 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795861544,
+  "resale": 38,
+  "profit": -124,
+  "roi": -0.82,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 70 €, p25 21 € (n=8) → geneerinen ~46 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~38 € → käteen ~26 € kulujen ja tinkimisen jälkeen",
+   "osto 150 € + toimitus = 150 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2470046246",
+  "brand": "Bottega Veneta · Marktplaats 🇳🇱",
+  "title": "Bottega veneta orbit",
+  "price": 159.99,
+  "value": 441,
+  "score": 2.76,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2470046246-bottega-veneta-orbit",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/41676e4c-4fd4-4454-98b8-6b9a4749d5d7?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "veneta ×1.2",
+   "Sellpyn mediaani tälle brändille 150 €",
+   "Japanissa myyty (kengät) mediaani 70 € (n=8)",
+   "⚠️ kate ~-134 € (ROI -83%, myy grailed ~38 €; Yahoo JP toteutuneet (kengät): mediaani 70 €, p25 21 € (n=8) → geneerinen ~46 € × 1.15 EU-taso)",
+   "140 EUR + ~20 € posti = 160 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795861544,
+  "resale": 38,
+  "profit": -134,
+  "roi": -0.83,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (kengät): mediaani 70 €, p25 21 € (n=8) → geneerinen ~46 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~38 € → käteen ~26 € kulujen ja tinkimisen jälkeen",
+   "osto 160 € + toimitus = 160 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2470904361",
+  "brand": "Goyard · 2dehands 🇧🇪",
+  "title": "Goyard boekentas",
+  "price": 120.0,
+  "value": 252,
+  "score": 2.1,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/handtassen-en-accessoires/tassen-schoudertassen/m2470904361-goyard-boekentas",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/1216c500-d1c2-4697-acdf-1233552e42c3?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Japanissa myyty (muu) mediaani 425 € (n=41)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "100 EUR + ~20 € posti = 120 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1795861544,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "Z9mtIXRPyE",
   "brand": "Dior",
   "title": "Dior Aurinkolasit Dior B23 S11",
@@ -51177,267 +51739,6 @@
   "reasons": [
    "international ×1.2",
    "Sellpyn mediaani tälle brändille 101 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794348607
- },
- {
-  "id": "pmwMG3CdOU",
-  "brand": "Burberry",
-  "title": "Burberry Puvunhousut",
-  "price": 11.0,
-  "value": 73,
-  "score": 6.63,
-  "label": "🚨 INSANE",
-  "category": "housut",
-  "condition": "Hyvä",
-  "size": "MEN-EU-46",
-  "link": "https://www.sellpy.fi/item/pmwMG3CdOU",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-3-k-21/xjrHC6uVkY-b831-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 137 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794348607
- },
- {
-  "id": "Ag2LbqsHBR",
-  "brand": "Tiger of Sweden",
-  "title": "Tiger of Sweden Bleiseri",
-  "price": 10.0,
-  "value": 72,
-  "score": 7.2,
-  "label": "🚨 INSANE",
-  "category": "takki",
-  "condition": "Erittäin hyvä",
-  "size": "MEN-EU-50",
-  "link": "https://www.sellpy.fi/item/Ag2LbqsHBR",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-3-k-16/9IgO9jJxDf-8024-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 23 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794348607
- },
- {
-  "id": "7JDyU2fBBD",
-  "brand": "Filippa K",
-  "title": "Filippa K Chinos-housut",
-  "price": 20.0,
-  "value": 45,
-  "score": 2.25,
-  "label": "✅ DIILI",
-  "category": "housut",
-  "condition": "Erittäin hyvä",
-  "size": "WMN-INT-M",
-  "link": "https://www.sellpy.fi/item/7JDyU2fBBD",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-17-k-2/Rzd0p1jA9B-93df-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 28 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794348607
- },
- {
-  "id": "PON0dYJX4Y",
-  "brand": "Filippa K",
-  "title": "Filippa K Bleiseri",
-  "price": 34.0,
-  "value": 72,
-  "score": 2.12,
-  "label": "✅ DIILI",
-  "category": "takki",
-  "condition": "Hyvä",
-  "size": "WMN-INT-M",
-  "link": "https://www.sellpy.fi/item/PON0dYJX4Y",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-4-k-8/PON0dYJX4Y-4dda-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 28 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794348607
- },
- {
-  "id": "HWdbSMlBg0",
-  "brand": "Whyred",
-  "title": "WHYRED Tunika",
-  "price": 10.0,
-  "value": 40,
-  "score": 4.0,
-  "label": "🚨 INSANE",
-  "category": "muu",
-  "condition": "Erittäin hyvä",
-  "size": "WMN-INT-S",
-  "link": "https://www.sellpy.fi/item/HWdbSMlBg0",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-7-k-12/HWdbSMlBg0-0482-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 18 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794348607
- },
- {
-  "id": "10Y9fIhGr1",
-  "brand": "Hope",
-  "title": "Hope Puvunhousut",
-  "price": 16.0,
-  "value": 51,
-  "score": 3.21,
-  "label": "🔥 KOVA DIILI",
-  "category": "housut",
-  "condition": "Hyväksyttävä",
-  "size": "MEN-EU-48",
-  "link": "https://www.sellpy.fi/item/10Y9fIhGr1",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-13-k-15/DGmFY7Kmwm-e7e1-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 36 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794348607
- },
- {
-  "id": "ZH8AAingy3",
-  "brand": "Filippa K",
-  "title": "Filippa K Neulepaita",
-  "price": 17.0,
-  "value": 45,
-  "score": 2.65,
-  "label": "🔥 KOVA DIILI",
-  "category": "neule",
-  "condition": "Hyvä",
-  "size": "MEN-INT-S",
-  "link": "https://www.sellpy.fi/item/ZH8AAingy3",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-4-k-11/QGq2px4NDO-49fc-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 28 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794348607
- },
- {
-  "id": "evIKmAvd0f",
-  "brand": "Filippa K",
-  "title": "Filippa K Naisten takki",
-  "price": 20.0,
-  "value": 76,
-  "score": 3.8,
-  "label": "🔥 KOVA DIILI",
-  "category": "takki",
-  "condition": "Hyväksyttävä",
-  "size": "WMN-INT-S",
-  "link": "https://www.sellpy.fi/item/evIKmAvd0f",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-7-k-12/KIsLtFSLBT-ac60-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 28 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794348607
- },
- {
-  "id": "z57aHrIvm8",
-  "brand": "Filippa K",
-  "title": "Filippa K Bolero",
-  "price": 16.0,
-  "value": 48,
-  "score": 2.97,
-  "label": "🔥 KOVA DIILI",
-  "category": "neule",
-  "condition": "Hyväksyttävä",
-  "size": "WMN-INT-M",
-  "link": "https://www.sellpy.fi/item/z57aHrIvm8",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-5-k-4/z57aHrIvm8-9d85-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 28 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794348607
- },
- {
-  "id": "7k95xEtndy",
-  "brand": "Marimekko",
-  "title": "Marimekko Pitkähihainen T-paita",
-  "price": 24.0,
-  "value": 24,
-  "score": 0.99,
-  "label": "💎 HARVINAINEN",
-  "category": "t-paita",
-  "condition": "Hyväksyttävä",
-  "size": "WMN-INT-XS",
-  "link": "https://www.sellpy.fi/item/7k95xEtndy",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-7-k-14/7k95xEtndy-2d12-0.jpg",
-  "reasons": [
-   "harvinainen: artisanal",
-   "Sellpyn mediaani tälle brändille 66 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794348607
- },
- {
-  "id": "2U8H9gzTvc",
-  "brand": "Tiger of Sweden",
-  "title": "Tiger of Sweden Puvunhousut",
-  "price": 11.0,
-  "value": 38,
-  "score": 3.5,
-  "label": "🔥 KOVA DIILI",
-  "category": "housut",
-  "condition": "Hyväksyttävä",
-  "size": "MEN-EU-54",
-  "link": "https://www.sellpy.fi/item/2U8H9gzTvc",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-10-k-14/2U8H9gzTvc-97a6-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 23 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794348607
- },
- {
-  "id": "GzUSz8PgkQ",
-  "brand": "Eton",
-  "title": "Eton Paita",
-  "price": 10.0,
-  "value": 30,
-  "score": 3.04,
-  "label": "🔥 KOVA DIILI",
-  "category": "muu",
-  "condition": "Hyväksyttävä",
-  "size": "MEN-EU_COLLAR-38",
-  "link": "https://www.sellpy.fi/item/GzUSz8PgkQ",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-7-k-4/GzUSz8PgkQ-8f3a-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 24 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794348607
- },
- {
-  "id": "Z3CiFV85tm",
-  "brand": "Eton",
-  "title": "Eton Paita",
-  "price": 12.0,
-  "value": 29,
-  "score": 2.4,
-  "label": "✅ DIILI",
-  "category": "muu",
-  "condition": "Hyvä",
-  "size": "MEN-EU_COLLAR-45",
-  "link": "https://www.sellpy.fi/item/Z3CiFV85tm",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-3-k-7/g7LeKMQ1Zt-00b2-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 24 €"
   ],
   "source": "brändi",
   "old_price": null,
