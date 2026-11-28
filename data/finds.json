@@ -1,5 +1,345 @@
 [
  {
+  "id": "tori-50462816",
+  "brand": "MM6 Maison Margiela · Tori",
+  "title": "MM6 Maison Margiela saappaat / nilkkurit, 35-36",
+  "price": 55.0,
+  "value": 120,
+  "score": 2.18,
+  "label": "✅ DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50462816",
+  "image": "https://img.tori.net/dynamic/default/item/50462816/e50f7910-22c5-41ab-9679-cbe7e62c67f8",
+  "reasons": [
+   "taso C",
+   "kate ~0 € (ROI 1%, myy grailed ~90 €; brändiarvio ~90 € (ei mallivertailua eikä Yahoo-dataa))"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795831521,
+  "resale": 90,
+  "profit": 0,
+  "roi": 0.01,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~90 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~90 € → käteen ~62 € kulujen ja tinkimisen jälkeen",
+   "osto 55 € + toimitus = 62 €"
+  ],
+  "risk": {
+   "fake": 4,
+   "fake_level": "matala",
+   "cond": "?",
+   "why": [
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50474852",
+  "brand": "Canada Goose · Tori",
+  "title": "Aito Canada Goose expedition parka women",
+  "price": 125.0,
+  "value": 380,
+  "score": 3.04,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50474852",
+  "image": "https://img.tori.net/dynamic/default/item/50474852/d8369246-2afd-4d39-a9ce-f9d2bc04587d",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 174 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=50)",
+   "kate ~3 € (ROI 2%, myy grailed ~194 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795831521,
+  "resale": 194,
+  "profit": 3,
+  "roi": 0.02,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~194 € → käteen ~135 € kulujen ja tinkimisen jälkeen",
+   "osto 125 € + toimitus = 132 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "tori-50475925",
+  "brand": "Canada Goose · Tori",
+  "title": "Canada Goose Takki",
+  "price": 140.0,
+  "value": 380,
+  "score": 2.71,
+  "label": "🔥 KOVA DIILI",
+  "category": "takki",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.tori.fi/recommerce/forsale/item/50475925",
+  "image": "https://img.tori.net/dynamic/default/item/50475925/a693da33-5c00-4e78-8a1d-5279ce0a572f",
+  "reasons": [
+   "taso B",
+   "Sellpyn mediaani tälle brändille 174 €",
+   "Japanissa myyty (takki) mediaani 306 € (n=50)",
+   "⚠️ kate ~-12 € (ROI -8%, myy grailed ~194 €; Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso)"
+  ],
+  "source": "tori",
+  "old_price": null,
+  "ts": 1795831521,
+  "resale": 194,
+  "profit": -12,
+  "roi": -0.08,
+  "exit": "grailed",
+  "resale_why": [
+   "Yahoo JP toteutuneet (takki): mediaani 306 €, p25 201 € (n=50) → geneerinen ~254 € × 1.15 EU-taso",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~194 € → käteen ~135 € kulujen ja tinkimisen jälkeen",
+   "osto 140 € + toimitus = 147 €"
+  ],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "blocket-25054825",
+  "brand": "Loro Piana · Blocket 🇸🇪",
+  "title": "loro piana skor",
+  "price": 148.83,
+  "value": 465,
+  "score": 3.13,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.blocket.se/recommerce/forsale/item/25054825",
+  "image": "https://images.blocketcdn.se/dynamic/default/item/25054825/0c38c122-e114-47e5-81e0-29eb98b90e9c",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 148 €",
+   "Japanissa myyty mediaani 114 € (n=100)",
+   "💰 kate ~95 € (ROI 64%, myy grailed ~349 €; brändiarvio ~349 € (ei mallivertailua eikä Yahoo-dataa))",
+   "1500 SEK + ~15 € posti = 149 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "blocket",
+  "old_price": null,
+  "ts": 1795831522,
+  "resale": 349,
+  "profit": 95,
+  "roi": 0.64,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~349 € (ei mallivertailua eikä Yahoo-dataa)",
+   "myynti grailed ~349 € → käteen ~244 € kulujen ja tinkimisen jälkeen",
+   "osto 149 € + toimitus = 149 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2470883283",
+  "brand": "Louis Vuitton · Marktplaats 🇳🇱",
+  "title": "Louis Vuitton Tactic Sneakers Grijs",
+  "price": 120.0,
+  "value": 399,
+  "score": 3.33,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "-",
+  "size": "-",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2470883283-louis-vuitton-tactic-sneakers-grijs",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/db42735c-7bc8-4ae0-9171-facb3becce20?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 190 €",
+   "Japanissa myyty mediaani 103 € (n=76)",
+   "kate ~26 € (ROI 22%, myy grailed ~209 €; brändiarvio ~299 € (ei mallivertailua eikä Yahoo-dataa))",
+   "100 EUR + ~20 € posti = 120 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795831522,
+  "resale": 209,
+  "profit": 26,
+  "roi": 0.22,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~299 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~209 € → käteen ~146 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 120 €"
+  ],
+  "risk": {
+   "fake": 52,
+   "fake_level": "korkea",
+   "cond": "?",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta",
+    "kunto ei tiedossa, pyydä lisäkuvat"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2470881615",
+  "brand": "Louis Vuitton · Marktplaats 🇳🇱",
+  "title": "Louis Vuitton Sneakers Wit/Grijs – Maat 43 – Nieuw",
+  "price": 120.0,
+  "value": 441,
+  "score": 3.67,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Nieuw",
+  "size": "SHOES-EU-43",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2470881615-louis-vuitton-sneakers-wit-grijs-maat-43-nieuw",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/7f1bbcc0-bc01-442d-b330-16188977a724?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 190 €",
+   "Japanissa myyty mediaani 103 € (n=76)",
+   "kate ~42 € (ROI 35%, myy grailed ~232 €; brändiarvio ~331 € (ei mallivertailua eikä Yahoo-dataa))",
+   "100 EUR + ~20 € posti = 120 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795831522,
+  "resale": 232,
+  "profit": 42,
+  "roi": 0.35,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~331 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~232 € → käteen ~162 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 120 €"
+  ],
+  "risk": {
+   "fake": 65,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "marktplaats-m2470881222",
+  "brand": "Louis Vuitton · Marktplaats 🇳🇱",
+  "title": "Louis Vuitton Sneakers Wit – Maat 44 – Nieuw",
+  "price": 120.0,
+  "value": 441,
+  "score": 3.67,
+  "label": "🔥 KOVA DIILI",
+  "category": "kengät",
+  "condition": "Nieuw",
+  "size": "SHOES-EU-44",
+  "link": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2470881222-louis-vuitton-sneakers-wit-maat-44-nieuw",
+  "image": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/bf8aad4d-90f3-4fae-89d9-8ea7626e47eb?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 190 €",
+   "Japanissa myyty mediaani 103 € (n=76)",
+   "kate ~42 € (ROI 35%, myy grailed ~232 €; brändiarvio ~331 € (ei mallivertailua eikä Yahoo-dataa))",
+   "100 EUR + ~20 € posti = 120 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen"
+  ],
+  "source": "marktplaats",
+  "old_price": null,
+  "ts": 1795831522,
+  "resale": 232,
+  "profit": 42,
+  "roi": 0.35,
+  "exit": "grailed",
+  "resale_why": [
+   "brändiarvio ~331 € (ei mallivertailua eikä Yahoo-dataa)",
+   "⚠️ feikkiriski yksityismyyjältä (×0.7): pyydä kuvat lapuista/koodeista ennen ostoa",
+   "myynti grailed ~232 € → käteen ~162 € kulujen ja tinkimisen jälkeen",
+   "osto 120 € + toimitus = 120 €"
+  ],
+  "risk": {
+   "fake": 65,
+   "fake_level": "korkea",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "kengät: väärennetyimpiä tuotetyyppejä",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
+  "id": "2dehands-m2470678735",
+  "brand": "Louis Vuitton · 2dehands 🇧🇪",
+  "title": "Prachtige weekendtassen / imitiatie Louis Vuitton",
+  "price": 115.0,
+  "value": 252,
+  "score": 2.19,
+  "label": "✅ DIILI",
+  "category": "muu",
+  "condition": "Nieuw",
+  "size": "-",
+  "link": "https://www.2dehands.be/v/handtassen-en-accessoires/tassen-reistassen-en-weekendtassen/m2470678735-prachtige-weekendtassen-imitiatie-louis-vuitton",
+  "image": "https://images.2dehands.com/api/v1/hz-twh-pro-listing/images/ff7d9a36-3c6f-43d7-b106-686717612b76?rule=ecg_mp_eps$_83.jpg",
+  "reasons": [
+   "taso A",
+   "Sellpyn mediaani tälle brändille 190 €",
+   "Japanissa myyty (muu) mediaani 34 € (n=6)",
+   "kate: ei arvioitavissa (ei vaate/kenkä/laukku tai vain materiaali)",
+   "95 EUR + ~20 € posti = 115 € perillä (arvio, mukana pisteissä); kysy myyjältä lähettääkö Suomeen",
+   "'bieden vanaf': myyjän alin tarjous, lopullinen hinta voi olla korkeampi"
+  ],
+  "source": "2dehands",
+  "old_price": null,
+  "ts": 1795831522,
+  "resale": null,
+  "profit": null,
+  "roi": null,
+  "exit": "",
+  "resale_why": [],
+  "risk": {
+   "fake": 40,
+   "fake_level": "keski",
+   "cond": "ok",
+   "why": [
+    "paljon väärennetty brändi",
+    "yksityismyyjä, ei tarkastusta"
+   ]
+  }
+ },
+ {
   "id": "onrgCtr7CP",
   "brand": "Arc'teryx",
   "title": "Arc'teryx Pipo",
@@ -50843,166 +51183,6 @@
   "image": "https://prod.images.sellpy.net/photoRobot-standard-5-k-7/jQDHhDF8Nn-ded5-0.jpg",
   "reasons": [
    "Sellpyn mediaani tälle brändille 28 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794348607
- },
- {
-  "id": "ikPLLnRIU5",
-  "brand": "Hope",
-  "title": "Hope Maxi-hame Lap Skirt",
-  "price": 21.0,
-  "value": 48,
-  "score": 2.29,
-  "label": "✅ DIILI",
-  "category": "muu",
-  "condition": "Erittäin hyvä",
-  "size": "WMN-EU-38",
-  "link": "https://www.sellpy.fi/item/ikPLLnRIU5",
-  "image": "https://prod.images.sellpy.net/photoRobot-hanging-16-k-11/a1ZmKYmly7-c0d6-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 36 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794348607
- },
- {
-  "id": "lwmoiuua9g",
-  "brand": "Mammut",
-  "title": "Mammut Huppari Chamuera Jkt",
-  "price": 16.0,
-  "value": 36,
-  "score": 2.23,
-  "label": "✅ DIILI",
-  "category": "huppari",
-  "condition": "Hyväksyttävä",
-  "size": "WMN-INT-S",
-  "link": "https://www.sellpy.fi/item/lwmoiuua9g",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-9-l-2/YBO8Q1k1fn-ec51-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 49 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794348607
- },
- {
-  "id": "nqVjCHuFsH",
-  "brand": "Filippa K",
-  "title": "Filippa K Neulepaita",
-  "price": 21.0,
-  "value": 45,
-  "score": 2.14,
-  "label": "✅ DIILI",
-  "category": "neule",
-  "condition": "Hyvä",
-  "size": "WMN-INT-L",
-  "link": "https://www.sellpy.fi/item/nqVjCHuFsH",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-3-k-7/nqVjCHuFsH-2e11-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 28 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794348607
- },
- {
-  "id": "3DZ3qfEyM7",
-  "brand": "Hope",
-  "title": "Hope Neulepaita",
-  "price": 24.0,
-  "value": 54,
-  "score": 2.25,
-  "label": "✅ DIILI",
-  "category": "neule",
-  "condition": "Hyvä",
-  "size": "WMN-EU-40",
-  "link": "https://www.sellpy.fi/item/3DZ3qfEyM7",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-8/3DZ3qfEyM7-76f3-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 36 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794348607
- },
- {
-  "id": "GoB781r7ui",
-  "brand": "Tiger of Sweden",
-  "title": "Tiger of Sweden Paita",
-  "price": 10.0,
-  "value": 32,
-  "score": 3.24,
-  "label": "🔥 KOVA DIILI",
-  "category": "muu",
-  "condition": "Hyvä",
-  "size": "MEN-EU_COLLAR-39",
-  "link": "https://www.sellpy.fi/item/GoB781r7ui",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-7-k-4/GoB781r7ui-a150-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 23 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794348607
- },
- {
-  "id": "ltLimOVEiz",
-  "brand": "Hope",
-  "title": "Hope Pusero Dive Shirt",
-  "price": 20.0,
-  "value": 60,
-  "score": 3.0,
-  "label": "🔥 KOVA DIILI",
-  "category": "neule",
-  "condition": "Erittäin hyvä",
-  "size": "WMN-EU-34",
-  "link": "https://www.sellpy.fi/item/ltLimOVEiz",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-7/ltLimOVEiz-cdf1-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 36 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794348607
- },
- {
-  "id": "BDoM4csAvD",
-  "brand": "Tiger of Sweden",
-  "title": "Tiger of Sweden Bleiseri",
-  "price": 10.0,
-  "value": 68,
-  "score": 6.84,
-  "label": "🚨 INSANE",
-  "category": "takki",
-  "condition": "Hyväksyttävä",
-  "size": "WMN-EU-38",
-  "link": "https://www.sellpy.fi/item/BDoM4csAvD",
-  "image": "https://prod.images.sellpy.net/photoRobot-standard-2-k-7/BDoM4csAvD-e856-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 23 €"
-  ],
-  "source": "brändi",
-  "old_price": null,
-  "ts": 1794348607
- },
- {
-  "id": "67axOYrDXr",
-  "brand": "Mammut",
-  "title": "Mammut Näyttö",
-  "price": 17.0,
-  "value": 36,
-  "score": 2.12,
-  "label": "✅ DIILI",
-  "category": "muu",
-  "condition": "Hyvä",
-  "size": "ONE SIZE",
-  "link": "https://www.sellpy.fi/item/67axOYrDXr",
-  "image": "https://prod.images.sellpy.net/photoRobot-case-14-l-1/67axOYrDXr-8a23-0.jpg",
-  "reasons": [
-   "Sellpyn mediaani tälle brändille 49 €"
   ],
   "source": "brändi",
   "old_price": null,
